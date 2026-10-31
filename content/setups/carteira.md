@@ -6,7 +6,7 @@ tags: [setup, carteira]
 
 **O que acontece quando os setups aprovados são operados juntos? A carteira divide o capital igualmente entre eles e testa todas as combinações, sempre comparando com o CDI e com o Ibovespa comprado.**
 
-*Página gerada em 31/10/2026 16:51 BRT · dados de 01/11/2021 a 30/10/2026 · [voltar para todos os setups](./)*
+*Página gerada em 31/10/2026 17:16 BRT · dados de 01/11/2021 a 30/10/2026 · [voltar para todos os setups](./)*
 
 > [!success] Em resumo: com R\$ 10.000, operando os 16 setups juntos (capital dividido igualmente, capital no CDI)
 > - **R\$ 38.282** (+31% ao ano · pior queda −12% · Sharpe 1,18)
@@ -556,7 +556,18 @@ Quanto colocar em cada operação da combinação recomendada (**IFR de Tendênc
 | Larry Williams 5% | 3,32% | +911% | −53% | −60% | −77% |
 | Larry Williams 10% | 6,64% | +2312% | −81% | −88% | −97% |
 
-*Capital no CDI, 15 pts de custo, sem imposto, contratos fracionários (com mais capital eles viram inteiros). **Sorteio:** a ordem das operações foi embaralhada 2.000 vezes — a queda de verdade depende da sorte na sequência, e a ordem real foi das mais favoráveis. Planeje pela queda do sorteio, não pela real.*
+*Capital no CDI, 15 pts de custo, sem imposto, contratos fracionários (com mais capital eles viram inteiros).*
+
+> [!tip] As três colunas de queda, e qual delas usar
+> A ordem em que as suas operações aconteceram na vida real foi **um sorteio só**. As mesmas operações, em outra ordem, teriam produzido outra queda. Por isso o sistema monta **2.000 histórias alternativas** com as mesmas operações, sorteando-as ao acaso e com reposição (numa história a mesma operação pode sair duas vezes e outra pode não aparecer), e mede a pior queda de cada uma.
+>
+> - **Pior queda (ordem real)** — o que de fato aconteceu. Um sorteio só, e você não escolhe qual tira.
+> - **Queda típica (sorteio)** — a mediana das histórias simuladas: o que esperar numa vida normal.
+> - **1 vez em 20, pior que** — o percentil 5. De cada 20 histórias, **uma foi pior que esse número**.
+>
+> **Dimensione pela última coluna, não pela primeira.** Olhar a queda real e concluir "aguento isso" é planejar com a sorte que você teve. Se a carteira um dia cair o que está na última coluna, isso **não** significa que os setups pararam de funcionar — é o azar de 1 em 20 chegando, e ele chega.
+>
+> *Ressalva do método: o sorteio trata cada operação como independente das outras. Se as perdas vierem em cacho — vários setups errando na mesma semana ruim, que é o que acontece em crise — a queda real pode ser pior que a simulada. O número é piso de planejamento, não teto.*
 
 ![Curva da combinação recomendada em cada tamanho de posição](setups/img/carteira_risco.png)
 
