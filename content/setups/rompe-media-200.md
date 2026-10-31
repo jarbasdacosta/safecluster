@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · das 9h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "95% de acerto, vários testes (500 trades)"](https://youtu.be/GGi3PKhC0Jo) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 31/10/2026 14:49 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "95% de acerto, vários testes (500 trades)"](https://youtu.be/GGi3PKhC0Jo) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 31/10/2026 16:51 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 21.661** na versão ATR 0,21 / 1,03 com o capital no CDI (+17% ao ano · pior queda −11%)
