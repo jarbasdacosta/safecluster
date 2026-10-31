@@ -24,6 +24,8 @@ Arriscando **1% do capital por operação**, dividido entre os três: **+52% ao 
 
 ## Os primeiros do ranking
 
+A ordem não é por retorno: é pela nota combinada em Sharpe, retorno ÷ pior queda, dias no vermelho e estabilidade entre treino e teste. Por isso o terceiro pode render mais ao ano que o primeiro — e cair bem mais também.
+
 | # | Setup | Ao ano (risco 1%) | Pior queda |
 |---|---|---|---|
 | 1º | [**IFR**](setups/ifr-de-tendencia) ·TEN | **+68%** | −11% |
