@@ -1,17 +1,19 @@
-# Quartz v4
+# safecluster
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+**Setups de day trade no índice futuro, testados um por um contra o acaso.**
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Cada estratégia é reproduzida a partir do vídeo de origem, convertida para ATR, treinada até
+2023 e testada de 2024 até hoje. Só entra no site se o resultado no teste não puder ser
+explicado por sorte. Publicado em
+[jarbasdacosta.github.io/safecluster](https://jarbasdacosta.github.io/safecluster).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## O critério
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Treino e teste separados no tempo, escolha feita apenas no treino, custo de 15 pontos por
+operação descontado, e comparação contra o acaso embaralhando o histórico. A carteira
+recomendada é escolhida por sobrevivência (retorno dividido pela pior queda, dias no vermelho
+e pior janela de 60 dias), não por retorno.
 
-## Sponsors
+Conteúdo educacional baseado em backtest. Não é recomendação de investimento.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Mantido por Jarbas Daniel da Costa. O site é construído com Quartz (licença MIT, ver LICENSE.txt).
