@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img"
+     aria-label="safecluster">
+  <title>safecluster</title>
+  <circle cx="24" cy="24" r="17" fill="none" stroke="#8d8af0" stroke-width="1.2"
+          stroke-dasharray="2 4" opacity=".75"/>
+  <circle cx="9" cy="13" r="2.2" fill="none" stroke="#9aa0b4" stroke-width="1.4"/>
+  <circle cx="41" cy="37" r="2.2" fill="none" stroke="#9aa0b4" stroke-width="1.4"/>
+  <path d="M18 17 L31 21 L21 31 Z" fill="none" stroke="#4b48c8" stroke-width="1.5" stroke-linejoin="round"/>
+  <circle cx="18" cy="17" r="4" fill="#4b48c8"/>
+  <circle cx="31" cy="21" r="4" fill="#4b48c8"/>
+  <circle cx="21" cy="31" r="4" fill="#4b48c8"/>
+</svg>
