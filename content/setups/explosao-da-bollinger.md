@@ -1,6 +1,6 @@
 ---
 title: Explosão da Bollinger
-date: 2026-10-31
+date: 2026-11-01
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · entradas das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "só 10% de acerto? testei 3.000 trades"](https://youtu.be/V9EbJHI9wDw) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 31/10/2026 17:16 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "só 10% de acerto? testei 3.000 trades"](https://youtu.be/V9EbJHI9wDw) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 01/11/2026 10:02 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 31.296** na versão ATR 0,10 / 1,54 com o capital no CDI (+26% ao ano · pior queda −14%)

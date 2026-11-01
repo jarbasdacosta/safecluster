@@ -1,6 +1,6 @@
 ---
 title: Donchian com Médias
-date: 2026-10-31
+date: 2026-11-01
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "perde quase sempre, mas quando acerta paga tudo"](https://youtu.be/11F3W1gsnGM) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 31/10/2026 17:16 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "perde quase sempre, mas quando acerta paga tudo"](https://youtu.be/11F3W1gsnGM) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 01/11/2026 10:02 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 55.893** na versão ATR 0,10 / 1,29 com o capital no CDI (+42% ao ano · pior queda −10%)
