@@ -1,6 +1,6 @@
 ---
 title: IFR de Tendência
-date: 2026-11-05
+date: 2026-11-06
 tags: [setup, win]
 ---
 
@@ -8,17 +8,17 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · velas das 10h00 às 11h00 e das 14h00 às 16h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "só precisei de 1 indicador no mini índice"](https://youtu.be/sswleA6JTvY) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 05/11/2026 19:40 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "só precisei de 1 indicador no mini índice"](https://youtu.be/sswleA6JTvY) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 06/11/2026 19:40 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
-> - **R\$ 58.373** na versão manhã + tarde com o capital no CDI (+43% ao ano · pior queda −7%)
-> - **R\$ 38.916** na versão só a tarde com o capital no CDI (+31% ao ano · pior queda −4%)
-> - **R\$ 43.566** na versão como no vídeo com o capital no CDI (+35% ao ano · pior queda −8%)
-> - **R\$ 49.958** na versão ATR 0,12 / 0,58 com o capital no CDI (+38% ao ano · pior queda −7%)
-> - **R\$ 18.184** só no CDI (+13% ao ano)
-> - **R\$ 15.745** comprado no Ibovespa (+10% ao ano · pior queda −21%)
+> - **R\$ 58.402** na versão manhã + tarde com o capital no CDI (+43% ao ano · pior queda −7%)
+> - **R\$ 38.936** na versão só a tarde com o capital no CDI (+31% ao ano · pior queda −4%)
+> - **R\$ 43.588** na versão como no vídeo com o capital no CDI (+34% ao ano · pior queda −8%)
+> - **R\$ 49.983** na versão ATR 0,12 / 0,58 com o capital no CDI (+38% ao ano · pior queda −7%)
+> - **R\$ 18.193** só no CDI (+13% ao ano)
+> - **R\$ 15.964** comprado no Ibovespa (+10% ao ano · pior queda −21%)
 >
-> - **R\$ 128.318** na versão manhã + tarde **arriscando 1% do capital por operação** (+67% ao ano · pior queda −11%) — o tamanho sugerido, veja [tamanho de posição](carteira#tamanho-de-posição)
+> - **R\$ 128.383** na versão manhã + tarde **arriscando 1% do capital por operação** (+67% ao ano · pior queda −11%) — o tamanho sugerido, veja [tamanho de posição](carteira#tamanho-de-posição)
 >
 > Com 1 contrato de WIN para cada R\$ 10.000 (ou pelo risco de 1%), sem imposto.
 
@@ -40,11 +40,11 @@ tags: [setup, win]
 | **2. Vela a favor** | a vela é **positiva** (fecha acima da abertura) | a vela é **negativa** (fecha abaixo da abertura) |
 | **3. IFR(14)** | o IFR está **acima de 70** | o IFR está **abaixo de 30** |
 | **Entrada** | compra **a mercado** na abertura da vela seguinte | vende a mercado na abertura da vela seguinte |
-| **Stop** | **0,20%** abaixo da entrada (≈ 335 pts hoje) | 0,20% acima da entrada |
-| **Alvo** | **1%** acima da entrada (≈ 1.676 pts hoje) | 1% abaixo da entrada |
+| **Stop** | **0,20%** abaixo da entrada (≈ 341 pts hoje) | 0,20% acima da entrada |
+| **Alvo** | **1%** acima da entrada (≈ 1.706 pts hoje) | 1% abaixo da entrada |
 | **Fim do dia** | se não bateu stop nem alvo, zera às 18h20 | igual |
 
-- **Versão principal (escolhida só pelo treino): manhã + tarde** — stop 0,20% · alvo 1,00% do preço; hoje ≈ 335 pts de stop e 1.676 pts de alvo.
+- **Versão principal (escolhida só pelo treino): manhã + tarde** — stop 0,20% · alvo 1,00% do preço; hoje ≈ 341 pts de stop e 1.706 pts de alvo.
 - **IFR (Índice de Força Relativa)** mede se as últimas 14 velas subiram muito mais do que caíram (acima de 70) ou caíram muito mais do que subiram (abaixo de 30). Aqui ele é usado a favor da força, não para vender "caro" ou comprar "barato".
 - **Sem nenhuma outra condição:** o tamanho da vela e as sombras não importam.
 - **Uma operação de cada vez.**
@@ -56,10 +56,10 @@ tags: [setup, win]
 
 | Versão | Regra | Acerto · payoff | Treino → teste (pts/op) | Ao ano (+ CDI) | Pior queda (+ CDI) |
 |---|---|---|---|---|---|
-| **manhã + tarde** (principal) | stop 0,20% · alvo 1,00% do preço | 32% · 2,96 | +55,7 → +98,4 | +42,7% | −7,5% |
+| **manhã + tarde** (principal) | stop 0,20% · alvo 1,00% do preço | 32% · 2,96 | +55,7 → +98,4 | +42,6% | −7,5% |
 | **só a tarde** | stop 0,20% · alvo 1,00% do preço | 47% · 2,24 | +136,3 → +142,1 | +31,5% | −4,3% |
 | **como no vídeo** | stop 0,20% · alvo 1,00% do preço | 33% · 2,73 | +32,4 → +82,3 | +34,5% | −8,0% |
-| **ATR 0,12 / 0,58** | stop 0,115 ATR · alvo 0,576 ATR (5,0× o stop) | 30% · 3,14 | +57,6 → +72,6 | +38,3% | −7,5% |
+| **ATR 0,12 / 0,58** | stop 0,115 ATR · alvo 0,576 ATR (5,0× o stop) | 30% · 3,14 | +57,6 → +72,6 | +38,2% | −7,5% |
 
 ## Estatísticas da operação (1 contrato, em pontos)
 
@@ -160,14 +160,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | R\$ 10.000 viraram · ao ano | Pior queda | Oscilação · Sharpe | Meses acima: CDI · Ibov | Pior · melhor mês |
 |---|---|---|---|---|---|
-| **manhã + tarde** | **R\$ 58.373** · +42,7% | −7,5% | 15,5% · 1,59 | 70% · 61% | −3,5% · +14,6% |
-| **só a tarde** | **R\$ 38.916** · +31,5% | −4,3% | 8,2% · 1,90 | 67% · 56% | −2,6% · +8,0% |
-| **como no vídeo** | **R\$ 43.566** · +34,5% | −8,0% | 14,7% · 1,27 | 62% · 61% | −3,5% · +14,4% |
-| **ATR 0,12 / 0,58** | **R\$ 49.958** · +38,3% | −7,5% | 14,6% · 1,47 | 62% · 61% | −2,6% · +15,1% |
-| **risco 1%** | **R\$ 128.318** · +67,2% | −11,2% | 27,0% · 1,59 | 67% · 66% | −6,4% · +24,8% |
-| **pura** | **R\$ 32.120** · +26,5% | −8,5% | 15,5% · 0,82 | 51% · 54% | −4,7% · +13,3% |
-| **CDI** | **R\$ 18.184** · +12,8% | +0,0% | 0,1% · — | — · 46% | +0,1% · +1,3% |
-| **Ibovespa** | **R\$ 15.745** · +9,6% | −20,9% | 18,6% · −0,06 | 54% · — | −11,5% · +12,6% |
+| **manhã + tarde** | **R\$ 58.402** · +42,6% | −7,5% | 15,5% · 1,59 | 70% · 59% | −3,5% · +14,6% |
+| **só a tarde** | **R\$ 38.936** · +31,5% | −4,3% | 8,2% · 1,90 | 67% · 54% | −2,6% · +8,0% |
+| **como no vídeo** | **R\$ 43.588** · +34,5% | −8,0% | 14,7% · 1,27 | 62% · 59% | −3,5% · +14,4% |
+| **ATR 0,12 / 0,58** | **R\$ 49.983** · +38,2% | −7,5% | 14,6% · 1,47 | 62% · 59% | −2,6% · +15,1% |
+| **risco 1%** | **R\$ 128.383** · +67,2% | −11,2% | 27,0% · 1,59 | 67% · 64% | −6,4% · +24,8% |
+| **pura** | **R\$ 32.120** · +26,5% | −8,5% | 15,5% · 0,81 | 51% · 52% | −4,7% · +13,3% |
+| **CDI** | **R\$ 18.193** · +12,8% | +0,0% | 0,1% · — | — · 44% | +0,2% · +1,3% |
+| **Ibovespa** | **R\$ 15.964** · +9,9% | −20,9% | 18,6% · −0,05 | 56% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/ifr-de-tendencia_queda.png)
 
@@ -175,16 +175,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **manhã + tarde** | −3,6% | +51,5% | +28,3% | +30,7% | +55,3% | +53,4% | **+483,7%** (+42,7% · R\$ 58.373) |
-| **só a tarde** | −1,4% | +41,0% | +29,9% | +25,4% | +25,3% | +37,1% | **+289,2%** (+31,5% · R\$ 38.916) |
-| **como no vídeo** | −3,6% | +37,9% | +20,0% | +21,3% | +54,0% | +46,2% | **+335,7%** (+34,5% · R\$ 43.566) |
-| **ATR 0,12 / 0,58** | −0,3% | +51,8% | +22,1% | +27,1% | +39,9% | +52,1% | **+399,6%** (+38,3% · R\$ 49.958) |
-| **risco 1%** | −9,3% | +108,3% | +45,0% | +48,1% | +88,9% | +67,5% | **+1183,2%** (+67,2% · R\$ 128.318) |
-| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +11,8% | **+81,8%** (+12,8% · R\$ 18.184) |
-| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +3,1% | **+57,5%** (+9,6% · R\$ 15.745) |
+| **manhã + tarde** | −3,6% | +51,5% | +28,3% | +30,7% | +55,3% | +53,5% | **+484,0%** (+42,6% · R\$ 58.402) |
+| **só a tarde** | −1,4% | +41,0% | +29,9% | +25,4% | +25,3% | +37,2% | **+289,4%** (+31,5% · R\$ 38.936) |
+| **como no vídeo** | −3,6% | +37,9% | +20,0% | +21,3% | +54,0% | +46,3% | **+335,9%** (+34,5% · R\$ 43.588) |
+| **ATR 0,12 / 0,58** | −0,3% | +51,8% | +22,1% | +27,1% | +39,9% | +52,1% | **+399,8%** (+38,2% · R\$ 49.983) |
+| **risco 1%** | −9,3% | +108,3% | +45,0% | +48,1% | +88,9% | +67,6% | **+1183,8%** (+67,2% · R\$ 128.383) |
+| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +11,9% | **+81,9%** (+12,8% · R\$ 18.193) |
+| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +4,6% | **+59,6%** (+9,9% · R\$ 15.964) |
 | *Quem ganhou* | *CDI* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* |
 
-\* ano parcial: os dados vão de 01/11/2021 a 05/11/2026.
+\* ano parcial: os dados vão de 01/11/2021 a 06/11/2026.
 
 ![Retorno por ano](setups/img/ifr-de-tendencia_anos.png)
 
@@ -251,8 +251,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | +5,8% | +7,6% | +1,1% | −0,3% |
 > | set/2026 | −0,6% | −1,1% | +1,1% | +5,0% |
 > | out/2026 | +14,1% | +17,6% | +1,1% | −9,9% |
-> | nov/2026 | −0,6% | −0,9% | +0,1% | −1,0% |
-> | **Acumulado** | **+483,7%** | **+1183,2%** | **+81,8%** | **+57,5%** |
+> | nov/2026 | −0,6% | −0,8% | +0,2% | +0,3% |
+> | **Acumulado** | **+484,0%** | **+1183,8%** | **+81,9%** | **+59,6%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 
@@ -262,7 +262,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 |---|---|---|---|---|
 | **manhã + tarde** | +76% ao ano · queda −15% | +43% ao ano · queda −7% | +27% ao ano · queda −3% | +20% ao ano · queda −1% |
 | **só a tarde** | +52% ao ano · queda −10% | +31% ao ano · queda −4% | +22% ao ano · queda −1% | +17% ao ano · queda −0% |
-| **como no vídeo** | +57% ao ano · queda −17% | +35% ao ano · queda −8% | +24% ao ano · queda −3% | +18% ao ano · queda −1% |
+| **como no vídeo** | +57% ao ano · queda −17% | +34% ao ano · queda −8% | +23% ao ano · queda −3% | +18% ao ano · queda −1% |
 | **ATR 0,12 / 0,58** | +66% ao ano · queda −15% | +38% ao ano · queda −7% | +25% ao ano · queda −3% | +19% ao ano · queda −1% |
 
 *Referência: CDI +13% ao ano · Ibovespa +10% ao ano, pior queda −21%.*
@@ -293,7 +293,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## Como o teste foi feito
 
-- **Dados:** WIN\$N em velas de 1 minuto do MetaTrader 5, de 25/10/2021 a 05/11/2026, com os saltos das rolagens ajustados para os indicadores; resultados em **pontos reais** do contrato de cada época.
+- **Dados:** WIN\$N em velas de 1 minuto do MetaTrader 5, de 25/10/2021 a 06/11/2026, com os saltos das rolagens ajustados para os indicadores; resultados em **pontos reais** do contrato de cada época.
 - **Execução realista:** cada operação acompanhada minuto a minuto; stop e alvo no mesmo minuto contam como **stop**; se o preço abriu além do stop, a saída foi no preço da abertura.
 - **Custo:** 15 pontos por operação. **CDI:** série diária do Banco Central. **Ibovespa:** fechamento diário, comprado o período todo.
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
