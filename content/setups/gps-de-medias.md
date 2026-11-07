@@ -1,6 +1,6 @@
 ---
 title: GPS de Médias
-date: 2026-11-06
+date: 2026-11-07
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · 10h–11h e 14h–16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "criei um GPS BRUTAL de médias"](https://youtu.be/g0FJNSNubW8) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 06/11/2026 19:40 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "criei um GPS BRUTAL de médias"](https://youtu.be/g0FJNSNubW8) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 07/11/2026 08:06 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 45.069** na versão ATR 0,10 / 1,29 com o capital no CDI (+35% ao ano · pior queda −15%)
@@ -313,24 +313,24 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 31/10/2026.*
+*Testes de robustez rodados em 07/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1162 operações, 29% de acerto e fator de lucro 1,20. O vídeo mostra: 2.374 operações · 27% de acerto · payoff 3,48 (desde 2015, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,25R por operação no treino (p 0,005) e +0,18R no teste (p 0,007). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1165 operações, 29% de acerto e fator de lucro 1,20. O vídeo mostra: 2.374 operações · 27% de acerto · payoff 3,48 (desde 2015, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,25R por operação no treino (p 0,005) e +0,17R no teste (p 0,017). |
 | **É sorte de parâmetro?** | 9 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,02 a +0,25R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,25 → +0,18R · sem exigir o alinhamento das médias: +0,25 → +0,17R · sem exigir estar acima da nuvem: +0,25 → +0,18R · sem a Bollinger (só a nuvem): −0,03 → +0,01R · o dia todo (9h–17h): +0,11 → +0,05R (treino → teste). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,25 → +0,17R · sem exigir o alinhamento das médias: +0,25 → +0,17R · sem exigir estar acima da nuvem: +0,25 → +0,17R · sem a Bollinger (só a nuvem): −0,03 → +0,01R · o dia todo (9h–17h): +0,11 → +0,05R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,25 → +0,18R · 25 pts: +0,20 → +0,12R · 30 pts: +0,17 → +0,10R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,25 → +0,17R · 25 pts: +0,20 → +0,12R · 30 pts: +0,17 → +0,09R (treino → teste). |
 
 ## Riscos e cuidados
 
 - **Fases ruins:** a pior queda da versão ATR 0,10 / 1,29 foi de −R\$ 1.795 por contrato (começou em set/2026, ainda não recuperada); 19 perdas seguidas aconteceram no período.
 - **Mês a mês é quase cara ou coroa:** a versão ATR 0,10 / 1,29 + CDI ficou abaixo do CDI em 36% dos meses. O resultado aparece no ano.
-- **Stop curto** (~194 pts): o custo e o escorregão pesam mais — veja "E se o custo for maior?".
+- **Stop curto** (~195 pts): o custo e o escorregão pesam mais — veja "E se o custo for maior?".
 - **Anos negativos:** 2021.
-- **As compras carregam o setup:** compras +0,29R × vendas +0,13R por operação.
+- **As compras carregam o setup:** compras +0,28R × vendas +0,13R por operação.
 - **Acerto de ~23%:** a maioria das operações dá stop; sequências de stops são normais.
 - **Poucos anos de dados** (desde out/2021) e **sem imposto** (day trade paga 20% sobre o lucro).
 

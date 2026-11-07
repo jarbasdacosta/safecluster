@@ -1,6 +1,6 @@
 ---
 title: Tendência Forte do Dia
-date: 2026-11-06
+date: 2026-11-07
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · sinais da 1ª vela do dia até 17h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "encontrei uma coisa absurda nos testes"](https://youtu.be/N4CJ9Yv8To8) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 06/11/2026 19:40 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "encontrei uma coisa absurda nos testes"](https://youtu.be/N4CJ9Yv8To8) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 07/11/2026 08:06 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 67.793** na versão ATR 0,36 / 0,15 / 3,75× com o capital no CDI (+47% ao ano · pior queda −16%)
@@ -245,16 +245,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 31/10/2026.*
+*Testes de robustez rodados em 07/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1754 operações, 35% de acerto e fator de lucro 1,29. O vídeo mostra: fator de lucro 1,19 (pontos fixos 700/400/400). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,16R por operação no treino (p 0,001) e +0,13R no teste (p 0,001). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1757 operações, 35% de acerto e fator de lucro 1,28. O vídeo mostra: fator de lucro 1,19 (pontos fixos 700/400/400). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,16R por operação no treino (p 0,001) e +0,13R no teste (p 0,000). |
 | **É sorte de parâmetro?** | 8 de 9 combinações de stop × alvo deram lucro no treino **e** no teste (−0,00 a +0,18R por operação). |
 | **Cada condição importa?** | COMPLETO (versão principal): +0,16 → +0,13R · sem as médias: +0,06 → +0,08R · sem a distância da abertura: +0,06 → +0,00R · sem fechar além da vela anterior: +0,14 → +0,09R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,16 → +0,13R · 25 pts: +0,12 → +0,10R · 30 pts: +0,11 → +0,08R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,16 → +0,13R · 25 pts: +0,12 → +0,09R · 30 pts: +0,11 → +0,08R (treino → teste). |
 
 ## Riscos e cuidados
 

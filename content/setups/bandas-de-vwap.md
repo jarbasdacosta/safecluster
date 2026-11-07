@@ -1,6 +1,6 @@
 ---
 title: Bandas de VWAP
-date: 2026-11-06
+date: 2026-11-07
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "criei uma VWAP secreta"](https://youtu.be/50zdea2qbsM) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 06/11/2026 19:40 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "criei uma VWAP secreta"](https://youtu.be/50zdea2qbsM) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 07/11/2026 08:06 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 25.314** na versão ATR 0,21 / 0,62 com o capital no CDI (+21% ao ano · pior queda −30%)
@@ -314,12 +314,12 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 31/10/2026.*
+*Testes de robustez rodados em 07/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1493 operações, 23% de acerto e fator de lucro 1,18. O vídeo mostra: 3.940 operações · ~50% de acerto · payoff 1,41 (desde 2015, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,02R por operação no treino (p 0,167) e +0,05R no teste (p 0,018). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1495 operações, 23% de acerto e fator de lucro 1,17. O vídeo mostra: 3.940 operações · ~50% de acerto · payoff 1,41 (desde 2015, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,02R por operação no treino (p 0,352) e +0,05R no teste (p 0,004). |
 | **É sorte de parâmetro?** | 12 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (+0,00 a +0,09R por operação). |
 | **Cada condição importa?** | COMPLETO (versão principal): +0,02 → +0,05R · sem o filtro da média de 200: −0,01 → +0,04R · sem exigir a cor da vela: +0,00 → +0,06R · bandas de 1.000 pts: −0,03 → +0,07R · sem break even: +0,01 → +0,05R · o dia todo (9h–17h): +0,02 → +0,03R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |

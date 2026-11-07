@@ -1,6 +1,6 @@
 ---
 title: Pôr do Sol (17h45)
-date: 2026-11-06
+date: 2026-11-07
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 5 minutos · só a vela das 17h45
 
-🎬 **Vídeo de origem:** [Arthur 777 – "padrão repetitivo, 90% de acerto no candle de 17:45"](https://youtu.be/HswLyQd9rm8) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 06/11/2026 19:40 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "padrão repetitivo, 90% de acerto no candle de 17:45"](https://youtu.be/HswLyQd9rm8) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 07/11/2026 08:06 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 21.554** na versão ATR 0,15 / 0,15 com o capital no CDI (+17% ao ano · pior queda −3%)
@@ -311,12 +311,12 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 31/10/2026.*
+*Testes de robustez rodados em 07/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 498 operações, 80% de acerto e fator de lucro 1,71. O vídeo mostra: 258 operações · 86% de acerto · fator de lucro 3,17 (desde jan/2024, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,04R por operação no treino (p 0,002) e +0,08R no teste (p 0,000). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 499 operações, 80% de acerto e fator de lucro 1,71. O vídeo mostra: 258 operações · 86% de acerto · fator de lucro 3,17 (desde jan/2024, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,04R por operação no treino (p 0,005) e +0,08R no teste (p 0,000). |
 | **É sorte de parâmetro?** | 6 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,12 a +0,17R por operação). |
 | **Cada condição importa?** | COMPLETO (versão principal): +0,04 → +0,08R · sem exigir distância da abertura: −0,02 → +0,01R · distância de 2.000: +0,03 → +0,19R · zera às 18h20 (como os outros setups): +0,07 → +0,07R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
@@ -326,7 +326,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 - **Fases ruins:** a pior queda da versão ATR 0,15 / 0,15 foi de −R\$ 620 por contrato (começou em mar/2023, recuperada em jul/2024); 8 perdas seguidas aconteceram no período.
 - **Mês a mês é quase cara ou coroa:** a versão ATR 0,15 / 0,15 + CDI ficou abaixo do CDI em 34% dos meses. O resultado aparece no ano.
-- **Anos negativos:** 2023, 2026.
+- **Anos negativos:** 2023.
 - **As vendas carregam o setup:** compras +0,04R × vendas +0,09R por operação.
 - **Alvo curto com custo:** o alvo do vídeo (50 pts) é pouco mais de 3 vezes o custo de 15 pts, e o stop é 6 vezes o alvo. Basta uma sequência ruim para apagar dezenas de acertos. As versões com alvo maior existem justamente para ver se o setup se sustenta sem depender da taxa de acerto.
 - **Pouco tempo de mercado:** 20 minutos no fim do pregão, justo quando o livro afina e o giro cai.

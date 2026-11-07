@@ -1,6 +1,6 @@
 ---
 title: Rompimento da Bollinger
-date: 2026-11-06
+date: 2026-11-07
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · velas das 10h15 às 11h00 e das 14h00 às 17h30
 
-🎬 **Vídeo de origem:** [Arthur 777 – "isso apareceu nos meus testes no mini índice"](https://youtu.be/2l5k3OyC7eQ) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 06/11/2026 19:40 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "isso apareceu nos meus testes no mini índice"](https://youtu.be/2l5k3OyC7eQ) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 07/11/2026 08:06 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 30.898** na versão ATR 0,09 / 0,52 com o capital no CDI (+25% ao ano · pior queda −4%)
@@ -262,7 +262,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 31/10/2026.*
+*Testes de robustez rodados em 07/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|

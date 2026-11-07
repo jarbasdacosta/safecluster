@@ -1,12 +1,12 @@
 ---
 title: Operações
-date: 2026-11-06
+date: 2026-11-07
 tags: [setup, operacoes]
 ---
 
 **As 14168 operações dos 16 setups aprovados e promissores, uma a uma, para conferir à mão.** Versão principal de cada setup, com o custo já descontado. Aqui ficam os pregões recentes e os resumos de todo o período; a lista completa, desde 2021, está nos arquivos para baixar.
 
-*Página gerada em 06/11/2026 19:40 BRT · [carteira](carteira) · [todos os setups](./)*
+*Página gerada em 07/11/2026 08:06 BRT · [carteira](carteira) · [todos os setups](./)*
 
 > [!tip] Como ler
 > **Pontos** = resultado líquido em pontos do WIN (custo de 15 pts já descontado) · **R\$** = o mesmo com 1 contrato (R\$ 0.20 por ponto) · **R** = em múltiplos do risco da operação (stop + custo): +1 R significa ter ganho o que arriscou. ⭐ = setup da carteira recomendada.

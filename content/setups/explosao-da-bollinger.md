@@ -1,6 +1,6 @@
 ---
 title: Explosão da Bollinger
-date: 2026-11-06
+date: 2026-11-07
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · entradas das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "só 10% de acerto? testei 3.000 trades"](https://youtu.be/V9EbJHI9wDw) · testado de forma independente nos nossos dados em 31/10/2026 · página gerada em 06/11/2026 19:40 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "só 10% de acerto? testei 3.000 trades"](https://youtu.be/V9EbJHI9wDw) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 07/11/2026 08:06 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 31.360** na versão ATR 0,10 / 1,54 com o capital no CDI (+26% ao ano · pior queda −14%)
@@ -313,14 +313,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 31/10/2026.*
+*Testes de robustez rodados em 07/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
 | **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1231 operações, 34% de acerto e fator de lucro 1,20. O vídeo mostra: 2.700 operações · 32% de acerto · payoff 2,73 (desde 2015, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,10R por operação no treino (p 0,078) e +0,14R no teste (p 0,001). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,10R por operação no treino (p 0,078) e +0,14R no teste (p 0,004). |
 | **É sorte de parâmetro?** | 12 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (+0,01 a +0,15R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,10 → +0,14R · sem a média de 50: +0,10 → +0,13R · sem a média de 200: +0,07 → +0,06R · Bollinger desvio 2,5: +0,12 → +0,14R · o dia todo (9h–17h): +0,08 → +0,09R (treino → teste). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,10 → +0,14R · sem a média de 50: +0,10 → +0,13R · sem a média de 200: +0,07 → +0,05R · Bollinger desvio 2,5: +0,12 → +0,14R · o dia todo (9h–17h): +0,08 → +0,09R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
 | **E se o custo for maior?** | 15 pts: +0,10 → +0,14R · 25 pts: +0,05 → +0,08R · 30 pts: +0,02 → +0,06R (treino → teste). |
 
