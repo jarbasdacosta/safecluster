@@ -6,7 +6,7 @@ tags: [setup]
 
 **Setups de day trade no mini índice que passaram nos nossos testes, cada um com as estatísticas completas e comparado com o CDI e com o Ibovespa comprado.**
 
-*Atualizado em 07/11/2026 14:32 BRT · dados de 01/11/2021 a 06/11/2026 · resultados com 15 pts de custo por operação e R\$ 10.000 por contrato, capital no CDI.*
+*Atualizado em 07/11/2026 19:53 BRT · dados de 01/11/2021 a 06/11/2026 · resultados com 15 pts de custo por operação e R\$ 10.000 por contrato, capital no CDI.*
 
 | Setup | Em uma frase | 1 contrato: ao ano · queda | Risco 1%: ao ano · queda | Treino → teste (pts/op) | Vídeo |
 |---|---|---|---|---|---|
@@ -118,9 +118,9 @@ A página da [carteira](carteira) explica a escolha, mostra as 9401 combinaçõe
 
 **✅ aprovado** = passou em tudo · **🟡 promissor** = passou no teste e na robustez, mas com alguma fraqueza (explicada na página).
 
-### [🧪 Todos os setups testados (43)](testados)
+### [🧪 Todos os setups testados (52)](testados)
 
-Inclusive os **26 reprovados**, cada um com o motivo. Só os aprovados e promissores ganham página própria.
+Inclusive os **35 reprovados**, cada um com o motivo. Só os aprovados e promissores ganham página própria.
 
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*

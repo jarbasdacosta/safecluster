@@ -36,20 +36,29 @@ tags: [setup]
 | **Vela das 10h15 (só a cor)** · [vídeo](https://youtu.be/FPDULDqXgkI) | ❌ reprovado | +0,06 → +0,18 | 0,049 | 1/15 | 07/11/2026 |
 | **Gap do Índice** · [vídeo](https://youtu.be/qkJhpWRRW_U) | ❌ reprovado | +0,04 → +0,15 | 0,166 | 4/12 | 07/11/2026 |
 | **Tendência do Mês na Sexta** · [vídeo](https://youtu.be/yOiGlNcxmYE) | ❌ reprovado | +0,11 → +0,12 | 0,142 | 6/9 | 07/11/2026 |
+| **Gap em percentual** · [vídeo](https://youtu.be/QCEu_frdHFE) | ❌ reprovado | +0,03 → +0,10 | 0,226 | 6/12 | 07/11/2026 |
 | **Primeira Vela M5 (ter/qui/sex)** · [vídeo](https://youtu.be/JNVkWLzJRNU) | ❌ reprovado | +0,04 → +0,07 | 0,207 | 3/12 | 07/11/2026 |
 | **Vela das 10h15** · [vídeo](https://youtu.be/Pn9YLIjcG0E) | ❌ reprovado | −0,05 → +0,05 | 0,006 | 0/12 | 07/11/2026 |
 | **Reversão no Extremo** · [vídeo](https://youtu.be/YbMMQlSbsII) | ❌ reprovado | +0,02 → +0,01 | 0,108 | 1/12 | 07/11/2026 |
 | **Reversão do IFR** · [vídeo](https://youtu.be/a9fNfQEIUpk) | ❌ reprovado | +0,08 → +0,01 | 0,287 | 7/12 | 07/11/2026 |
 | **Faixa de Consolidação** · [vídeo](https://youtu.be/uR2zD1MESaU) | ❌ reprovado | −0,00 → −0,01 | 0,017 | 0/4 | 07/11/2026 |
+| **Envelope do meio-dia** · [vídeo](https://youtu.be/hPsewZQDGjM) | ❌ reprovado | −0,02 → −0,02 | 0,049 | 0/3 | 07/11/2026 |
 | **Estrutura e zona** · [vídeo](https://youtu.be/uoSLafTWnY4) | ❌ reprovado | −0,05 → −0,02 | 0,360 | 3/12 | 07/11/2026 |
+| **Hora do almoço (estocástico)** · [vídeo](https://youtu.be/u-aWPKViJiM) | ❌ reprovado | −0,01 → −0,02 | 0,646 | 0/3 | 07/11/2026 |
 | **Bate e Volta nas Médias** · [vídeo](https://youtu.be/km_SKN-FCgI) | ❌ reprovado | −0,02 → −0,02 | 0,001 | 0/4 | 07/11/2026 |
 | **Reversão do IFR à Tarde** · [vídeo](https://youtu.be/qfu_8anGtO8) | ❌ reprovado | −0,03 → −0,02 | 0,162 | 0/12 | 07/11/2026 |
+| **Envelope do fim do pregão** · [vídeo](https://youtu.be/nwm0VVV7ajE) | ❌ reprovado | −0,02 → −0,03 | 0,101 | 0/3 | 07/11/2026 |
 | **Keltner da Tarde** · [vídeo](https://youtu.be/HTSSAEhUBE0) | ❌ reprovado | −0,03 → −0,03 | 0,169 | 0/9 | 07/11/2026 |
+| **Envelope de médias à tarde** · [vídeo](https://youtu.be/Mr6wRcUGojE) | ❌ reprovado | −0,00 → −0,04 | 0,144 | 1/4 | 07/11/2026 |
 | **Range das 10** · [vídeo](https://youtu.be/e9n3-GWaNbM) | ❌ reprovado | −0,00 → −0,04 | 0,480 | 0/12 | 07/11/2026 |
 | **Fórmula OTR (extremos do retângulo)** · [vídeo](https://youtu.be/9Rq27meFkH0) | ❌ reprovado | +0,35 → −0,04 | 0,358 | 0/12 | 07/11/2026 |
+| **RAPF — retomada após perda de fluidez** · [vídeo](https://youtu.be/W6QrJ3aJIlM) | ❌ reprovado | +0,02 → −0,06 | 0,584 | 0/12 | 07/11/2026 |
 | **Bollinger Fecha Dentro** · [vídeo](https://youtu.be/ax9Qx4uucDs) | ❌ reprovado | +0,01 → −0,06 | 0,773 | 0/12 | 07/11/2026 |
+| **Onda de médias (setup do relógio)** · [vídeo](https://youtu.be/M7ZAb2quIHY) | ❌ reprovado | +0,05 → −0,06 | 0,687 | 0/12 | 07/11/2026 |
+| **Alaska** · [vídeo](https://youtu.be/IvVe9bbGcdk?t=3219) | ❌ reprovado | −0,10 → −0,07 | 0,828 | 0/9 | 07/11/2026 |
 | **Reversão no Dia Anterior** · [vídeo](https://youtu.be/AulUB-JIcTE) | ❌ reprovado | −0,00 → −0,07 | 0,765 | 0/12 | 07/11/2026 |
 | **Varredura que falha + engolfo** · [vídeo](https://youtu.be/cSBeB_aQvuU) | ❌ reprovado | −0,05 → −0,07 | 0,940 | 0/12 | 07/11/2026 |
+| **Red Light, Green Light (duas escalas)** · [vídeo](https://youtu.be/8CDm_oFzv3A) | ❌ reprovado | +0,02 → −0,08 | 0,943 | 0/12 | 07/11/2026 |
 | **Rompimento dos americanos** · [vídeo](https://youtu.be/1hZmMvh-Pz8) | ❌ reprovado | +0,03 → −0,10 | 0,866 | 6/12 | 07/11/2026 |
 
 ### Testados antes da bateria padrão

@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "criei uma VWAP secreta"](https://youtu.be/50zdea2qbsM) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 07/11/2026 14:32 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "criei uma VWAP secreta"](https://youtu.be/50zdea2qbsM) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 07/11/2026 19:53 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
 > - **R\$ 25.314** na versão ATR 0,21 / 0,62 com o capital no CDI (+21% ao ano · pior queda −30%)
