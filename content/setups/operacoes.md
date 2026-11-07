@@ -6,7 +6,7 @@ tags: [setup, operacoes]
 
 **As 14168 operações dos 16 setups aprovados e promissores, uma a uma, para conferir à mão.** Versão principal de cada setup, com o custo já descontado. Aqui ficam os pregões recentes e os resumos de todo o período; a lista completa, desde 2021, está nos arquivos para baixar.
 
-*Página gerada em 07/11/2026 08:06 BRT · [carteira](carteira) · [todos os setups](./)*
+*Página gerada em 07/11/2026 10:41 BRT · [carteira](carteira) · [todos os setups](./)*
 
 > [!tip] Como ler
 > **Pontos** = resultado líquido em pontos do WIN (custo de 15 pts já descontado) · **R\$** = o mesmo com 1 contrato (R\$ 0.20 por ponto) · **R** = em múltiplos do risco da operação (stop + custo): +1 R significa ter ganho o que arriscou. ⭐ = setup da carteira recomendada.
@@ -14,6 +14,12 @@ tags: [setup, operacoes]
 ## 🔎 Últimos 7 pregões com operação
 
 De 28/10/2026 a 06/11/2026 · **66 operações** · 29% de acerto · **17.454 pts** (R\$ 3.491 com 1 contrato) · +34,87 R
+
+| | Operações · acerto | Ganho · perda média | Payoff | Expectativa (pts · R) | Lucro total (pts · R\$) |
+|---|---|---|---|---|---|
+| Últimos 7 pregões | 66 · 28,8% | +1.989 · 433 pts | 4,60 | **264,5 pts** · +0,53 R | 17.454 pts · R\$ 3.491 |
+
+*Taxa de acerto = operações no lucro ÷ total. Payoff = ganho médio ÷ perda média. **Expectativa matemática** = quanto a operação rende em média (acerto × ganho médio − erro × perda média); em **R** é o mesmo em múltiplos do risco (stop + custo), que é o que o tamanho de 1% usa. Lucro total em pontos, já com o custo de 15 pontos por operação.*
 
 | Dia e hora | Setup | Lado | Saída | Pontos | R |
 |---|---|---|---|---|---|
