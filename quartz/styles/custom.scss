@@ -55,12 +55,15 @@ body[data-slug^="setups/"] {
   th {
     vertical-align: bottom;
   }
-  table tr > *:first-child {
-    position: sticky;
-    left: 0;
-    z-index: 1;
-    background: var(--light);
-    box-shadow: 1px 0 0 var(--lightgray);
+  /* coluna fixa so no computador: no celular ela sobrepoe o que rola por baixo */
+  @media (min-width: 801px) {
+    table tr > *:first-child {
+      position: sticky;
+      left: 0;
+      z-index: 1;
+      background: var(--light);
+      box-shadow: 1px 0 0 var(--lightgray);
+    }
   }
 }
 @media all and (min-width: 1200px) {
