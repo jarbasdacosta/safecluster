@@ -6,7 +6,7 @@ description: "Setups de day trade no índice futuro, testados um por um contra o
 
 **Setups de day trade no mini índice, testados um por um contra o acaso.** As regras vêm prontas de um vídeo ou livro e não são ajustadas olhando os nossos dados. Cada uma é convertida para ATR, treinada até 2023 e testada de 2024 até hoje — e só aparece aqui se o resultado no teste não puder ser explicado por sorte.
 
-*Atualizado em 07/11/2026 21:38 BRT · 17 setups no ar · dados de 01/11/2021 a 06/11/2026 · 15 pts de custo por operação já descontados.*
+*Atualizado em 07/11/2026 21:46 BRT · 17 setups no ar · dados de 01/11/2021 a 06/11/2026 · 15 pts de custo por operação já descontados.*
 
 ## A carteira recomendada
 
