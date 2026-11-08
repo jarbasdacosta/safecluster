@@ -6,7 +6,7 @@ tags: [setup, operacoes]
 
 **As 14394 operações dos 17 setups aprovados e promissores, uma a uma, para conferir à mão.** Versão principal de cada setup, com o custo já descontado. Aqui ficam os pregões recentes e os resumos de todo o período; a lista completa, desde 2021, está nos arquivos para baixar.
 
-*Página gerada em 07/11/2026 19:53 BRT · [carteira](carteira) · [todos os setups](./)*
+*Página gerada em 07/11/2026 21:21 BRT · [carteira](carteira) · [todos os setups](./)*
 
 > [!tip] Como ler
 > **Pontos** = resultado líquido em pontos do WIN (custo de 15 pts já descontado) · **R\$** = o mesmo com 1 contrato (R\$ 0.20 por ponto) · **R** = em múltiplos do risco da operação (stop + custo): +1 R significa ter ganho o que arriscou. ⭐ = setup da carteira recomendada.
@@ -29,7 +29,7 @@ De 28/10/2026 a 06/11/2026 · **67 operações** · 30% de acerto · **20.814 pt
 | 06/11 10:30 | [Onda](vai-na-onda) | compra | zerou | **2.105** | +2,39 |
 | 06/11 10:30 | [ADX](adx-da-manha) | compra | stop | **−268** | −1,00 |
 | 05/11 14:15 | [MACD](macd-na-tendencia) | venda | zerou | **870** | +0,99 |
-| 05/11 14:15 | ⭐ [Tendência](tendencia-forte-do-dia) | venda | stop | **−645** | −1,00 |
+| 05/11 14:15 | [Tendência](tendencia-forte-do-dia) | venda | stop | **−645** | −1,00 |
 | 05/11 14:00 | [VWAP](bandas-de-vwap) | venda | zero | **−15** | −0,02 |
 | 05/11 12:30 | [Donchian](donchian-com-medias) | venda | zerou | **1.555** | +3,48 |
 | 05/11 11:00 | [Onda](vai-na-onda) | compra | stop | **−879** | −1,00 |
@@ -41,14 +41,14 @@ De 28/10/2026 a 06/11/2026 · **67 operações** · 30% de acerto · **20.814 pt
 | 04/11 10:15 | [GPS médias](gps-de-medias) | compra | stop | **−465** | −1,00 |
 | 04/11 10:15 | [ADX](adx-da-manha) | compra | stop | **−269** | −1,00 |
 | 04/11 10:15 | ⭐ [IFR](ifr-de-tendencia) | compra | stop | **−354** | −1,00 |
-| 03/11 11:32 | ⭐ [Extremos sem](extremos-da-semana-virada) | compra | stop (virada) | **−908** | −1,00 |
+| 03/11 11:32 | [Extremos sem](extremos-da-semana-virada) | compra | stop (virada) | **−908** | −1,00 |
 | 03/11 11:30 | [MACD](macd-na-tendencia) | venda | zero | **−15** | −0,02 |
 | 03/11 11:30 | [Onda](vai-na-onda) | venda | zerou | **−810** | −0,89 |
-| 03/11 11:19 | ⭐ [Extremos sem](extremos-da-semana-virada) | venda | stop | **−908** | −1,00 |
+| 03/11 11:19 | [Extremos sem](extremos-da-semana-virada) | venda | stop | **−908** | −1,00 |
 | 03/11 11:15 | [ADX](adx-da-manha) | venda | stop | **−266** | −1,00 |
-| 03/11 11:00 | ⭐ [Tendência](tendencia-forte-do-dia) | venda | zerou | **−330** | −0,50 |
+| 03/11 11:00 | [Tendência](tendencia-forte-do-dia) | venda | zerou | **−330** | −0,50 |
 | 03/11 10:15 | [ADX](adx-da-manha) | compra | stop | **−267** | −1,00 |
-| 03/11 09:15 | ⭐ [Tendência](tendencia-forte-do-dia) | venda | stop | **−666** | −1,00 |
+| 03/11 09:15 | [Tendência](tendencia-forte-do-dia) | venda | stop | **−666** | −1,00 |
 | 03/11 09:15 | [MACD](macd-na-tendencia) | venda | zero | **−15** | −0,02 |
 | 30/10 10:30 | [ADX](adx-da-manha) | compra | stop | **−269** | −1,00 |
 | 30/10 10:15 | [BB explosão](explosao-da-bollinger) | venda | stop | **−461** | −1,00 |
@@ -58,7 +58,7 @@ De 28/10/2026 a 06/11/2026 · **67 operações** · 30% de acerto · **20.814 pt
 | 29/10 14:45 | [VWAP](bandas-de-vwap) | venda | stop | **−934** | −1,00 |
 | 29/10 14:15 | [Donchian](donchian-com-medias) | venda | stop | **−474** | −1,00 |
 | 29/10 14:15 | [MACD](macd-na-tendencia) | venda | stop | **−934** | −1,00 |
-| 29/10 14:15 | ⭐ [Tendência](tendencia-forte-do-dia) | venda | stop | **−685** | −1,00 |
+| 29/10 14:15 | [Tendência](tendencia-forte-do-dia) | venda | stop | **−685** | −1,00 |
 | 29/10 12:45 | [VWAP](bandas-de-vwap) | venda | zero | **−15** | −0,02 |
 | 29/10 12:00 | [Donchian](donchian-com-medias) | venda | stop | **−474** | −1,00 |
 | 29/10 11:15 | [Donchian](donchian-com-medias) | venda | stop | **−474** | −1,00 |
@@ -81,12 +81,12 @@ De 28/10/2026 a 06/11/2026 · **67 operações** · 30% de acerto · **20.814 pt
 | 28/10 10:45 | ⭐ [IFR](ifr-de-tendencia) | venda | alvo | **1.732** | +4,75 |
 | 28/10 10:45 | [Onda](vai-na-onda) | venda | zerou | **1.440** | +1,63 |
 | 28/10 10:45 | [VWAP](bandas-de-vwap) | venda | zero | **−15** | −0,02 |
-| 28/10 10:45 | ⭐ [Tendência](tendencia-forte-do-dia) | venda | alvo | **2.354** | +3,64 |
+| 28/10 10:45 | [Tendência](tendencia-forte-do-dia) | venda | alvo | **2.354** | +3,64 |
 | 28/10 10:20 | [1ª vela 80](primeira-vela-80-min) | venda | zerou | **3.105** | +4,67 |
 | 28/10 10:15 | [Donchian](donchian-com-medias) | venda | zerou | **3.530** | +7,87 |
 | 28/10 10:15 | [BB explosão](explosao-da-bollinger) | venda | zerou | **2.755** | +6,14 |
 | 28/10 10:15 | [Fibo 50%](fibo-50-do-dia) | venda | móvel | **3.360** | +1,40 |
-| 28/10 10:15 | ⭐ [Tendência](tendencia-forte-do-dia) | venda | alvo | **2.354** | +3,64 |
+| 28/10 10:15 | [Tendência](tendencia-forte-do-dia) | venda | alvo | **2.354** | +3,64 |
 | 28/10 10:15 | [MACD](macd-na-tendencia) | venda | alvo | **4.319** | +4,90 |
 | 28/10 10:15 | [ADX](adx-da-manha) | venda | alvo | **2.283** | +8,15 |
 | 28/10 10:15 | [GPS médias](gps-de-medias) | venda | zerou | **3.530** | +7,87 |
@@ -195,7 +195,7 @@ De 28/10/2026 a 06/11/2026 · **67 operações** · 30% de acerto · **20.814 pt
 
 ## Baixar todas as operações
 
-A lista completa, desde o começo, para conferir fora do site: [**planilha (.xlsx)**](setups/operacoes.xlsx) (816 KB) · [**PDF**](setups/operacoes.pdf) (1.570 KB).
+A lista completa, desde o começo, para conferir fora do site: [**planilha (.xlsx)**](setups/operacoes.xlsx) (814 KB) · [**PDF**](setups/operacoes.pdf) (1.569 KB).
 
 *A planilha tem três abas: todas as operações, o resumo por ano e o resumo por mês.*
 
@@ -212,7 +212,7 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 06/11 10:30 | Onda | C | zerou | **2.105** | +2,39 |
 > | 06/11 10:30 | ADX | C | stop | **−268** | −1,00 |
 > | 05/11 14:15 | MACD | V | zerou | **870** | +0,99 |
-> | 05/11 14:15 | ⭐ Tendência | V | stop | **−645** | −1,00 |
+> | 05/11 14:15 | Tendência | V | stop | **−645** | −1,00 |
 > | 05/11 14:00 | VWAP | V | zero | **−15** | −0,02 |
 > | 05/11 12:30 | Donchian | V | zerou | **1.555** | +3,48 |
 > | 05/11 11:00 | Onda | C | stop | **−879** | −1,00 |
@@ -224,14 +224,14 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 04/11 10:15 | GPS médias | C | stop | **−465** | −1,00 |
 > | 04/11 10:15 | ADX | C | stop | **−269** | −1,00 |
 > | 04/11 10:15 | ⭐ IFR | C | stop | **−354** | −1,00 |
-> | 03/11 11:32 | ⭐ Extremos sem | C | stop (virada) | **−908** | −1,00 |
+> | 03/11 11:32 | Extremos sem | C | stop (virada) | **−908** | −1,00 |
 > | 03/11 11:30 | MACD | V | zero | **−15** | −0,02 |
 > | 03/11 11:30 | Onda | V | zerou | **−810** | −0,89 |
-> | 03/11 11:19 | ⭐ Extremos sem | V | stop | **−908** | −1,00 |
+> | 03/11 11:19 | Extremos sem | V | stop | **−908** | −1,00 |
 > | 03/11 11:15 | ADX | V | stop | **−266** | −1,00 |
-> | 03/11 11:00 | ⭐ Tendência | V | zerou | **−330** | −0,50 |
+> | 03/11 11:00 | Tendência | V | zerou | **−330** | −0,50 |
 > | 03/11 10:15 | ADX | C | stop | **−267** | −1,00 |
-> | 03/11 09:15 | ⭐ Tendência | V | stop | **−666** | −1,00 |
+> | 03/11 09:15 | Tendência | V | stop | **−666** | −1,00 |
 > | 03/11 09:15 | MACD | V | zero | **−15** | −0,02 |
 
 > [!example]- out/2026 — 231 operações · −3.427 pts · 23% de acerto
@@ -245,7 +245,7 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 29/10 14:45 | VWAP | V | stop | **−934** | −1,00 |
 > | 29/10 14:15 | Donchian | V | stop | **−474** | −1,00 |
 > | 29/10 14:15 | MACD | V | stop | **−934** | −1,00 |
-> | 29/10 14:15 | ⭐ Tendência | V | stop | **−685** | −1,00 |
+> | 29/10 14:15 | Tendência | V | stop | **−685** | −1,00 |
 > | 29/10 12:45 | VWAP | V | zero | **−15** | −0,02 |
 > | 29/10 12:00 | Donchian | V | stop | **−474** | −1,00 |
 > | 29/10 11:15 | Donchian | V | stop | **−474** | −1,00 |
@@ -268,12 +268,12 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 28/10 10:45 | ⭐ IFR | V | alvo | **1.732** | +4,75 |
 > | 28/10 10:45 | Onda | V | zerou | **1.440** | +1,63 |
 > | 28/10 10:45 | VWAP | V | zero | **−15** | −0,02 |
-> | 28/10 10:45 | ⭐ Tendência | V | alvo | **2.354** | +3,64 |
+> | 28/10 10:45 | Tendência | V | alvo | **2.354** | +3,64 |
 > | 28/10 10:20 | 1ª vela 80 | V | zerou | **3.105** | +4,67 |
 > | 28/10 10:15 | Donchian | V | zerou | **3.530** | +7,87 |
 > | 28/10 10:15 | BB explosão | V | zerou | **2.755** | +6,14 |
 > | 28/10 10:15 | Fibo 50% | V | móvel | **3.360** | +1,40 |
-> | 28/10 10:15 | ⭐ Tendência | V | alvo | **2.354** | +3,64 |
+> | 28/10 10:15 | Tendência | V | alvo | **2.354** | +3,64 |
 > | 28/10 10:15 | MACD | V | alvo | **4.319** | +4,90 |
 > | 28/10 10:15 | ADX | V | alvo | **2.283** | +8,15 |
 > | 28/10 10:15 | GPS médias | V | zerou | **3.530** | +7,87 |
@@ -285,14 +285,14 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 27/10 10:20 | 1ª vela 80 | C | stop | **−678** | −1,00 |
 > | 27/10 10:15 | ADX | C | stop | **−285** | −1,00 |
 > | 27/10 10:00 | Onda | C | stop | **−901** | −1,00 |
-> | 26/10 13:30 | ⭐ Tendência | V | stop | **−565** | −1,00 |
+> | 26/10 13:30 | Tendência | V | stop | **−565** | −1,00 |
 > | 26/10 12:45 | Onda | C | stop | **−770** | −1,00 |
 > | 26/10 11:30 | Fibo 50% | V | stop | **−2.092** | −1,00 |
-> | 26/10 11:30 | ⭐ Tendência | V | stop | **−565** | −1,00 |
-> | 26/10 11:15 | ⭐ Tendência | V | alvo | **2.049** | +3,62 |
+> | 26/10 11:30 | Tendência | V | stop | **−565** | −1,00 |
+> | 26/10 11:15 | Tendência | V | alvo | **2.049** | +3,62 |
 > | 26/10 11:15 | ⭐ IFR | V | alvo | **1.714** | +4,75 |
 > | 26/10 10:30 | ⭐ IFR | V | stop | **−360** | −1,00 |
-> | 26/10 09:45 | ⭐ Tendência | V | stop | **−565** | −1,00 |
+> | 26/10 09:45 | Tendência | V | stop | **−565** | −1,00 |
 > | 23/10 15:30 | BB explosão | C | stop | **−426** | −1,00 |
 > | 23/10 15:30 | VWAP | C | zerou | **−435** | −0,52 |
 > | 23/10 15:15 | GPS médias | C | stop | **−426** | −1,00 |
@@ -300,11 +300,11 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 23/10 11:15 | ADX | V | stop | **−326** | −1,00 |
 > | 23/10 10:30 | ADX | C | stop | **−327** | −1,00 |
 > | 23/10 10:30 | Onda | C | stop | **−837** | −1,00 |
-> | 22/10 14:55 | ⭐ Extremos sem | C | stop (virada) | **−834** | −1,00 |
+> | 22/10 14:55 | Extremos sem | C | stop (virada) | **−834** | −1,00 |
 > | 22/10 13:45 | VWAP | V | stop | **−834** | −1,00 |
 > | 22/10 11:45 | VWAP | V | zero | **−15** | −0,02 |
 > | 22/10 11:30 | Onda | V | zerou | **1.435** | +1,72 |
-> | 22/10 11:22 | ⭐ Extremos sem | V | stop | **−834** | −1,00 |
+> | 22/10 11:22 | Extremos sem | V | stop | **−834** | −1,00 |
 > | 22/10 11:15 | ADX | V | zerou | **1.660** | +5,08 |
 > | 22/10 11:15 | ⭐ IFR | V | alvo | **2.065** | +4,79 |
 > | 22/10 11:15 | GPS médias | V | zerou | **1.660** | +3,91 |
@@ -316,28 +316,28 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 21/10 14:15 | ⭐ IFR | V | zerou | **765** | +1,75 |
 > | 21/10 14:00 | Donchian | V | zerou | **830** | +1,94 |
 > | 21/10 14:00 | BB explosão | V | zerou | **220** | +0,51 |
-> | 21/10 14:00 | ⭐ Tendência | V | zerou | **830** | +1,35 |
+> | 21/10 14:00 | Tendência | V | zerou | **830** | +1,35 |
 > | 21/10 14:00 | VWAP | V | zerou | **220** | +0,26 |
 > | 21/10 11:00 | Onda | V | zerou | **2.140** | +2,55 |
 > | 21/10 11:00 | ADX | V | zerou | **2.140** | +6,43 |
 > | 21/10 10:15 | Onda | C | stop | **−841** | −1,00 |
 > | 21/10 10:15 | ADX | C | stop | **−334** | −1,00 |
 > | 20/10 17:50 | Pôr do sol | C | zerou | **30** | +0,05 |
-> | 20/10 17:00 | ⭐ Tendência | C | zerou | **550** | +0,91 |
-> | 20/10 15:02 | ⭐ Extremos sem | V | stop (virada) | **−821** | −1,00 |
-> | 20/10 13:39 | ⭐ Extremos sem | C | stop | **−821** | −1,00 |
+> | 20/10 17:00 | Tendência | C | zerou | **550** | +0,91 |
+> | 20/10 15:02 | Extremos sem | V | stop (virada) | **−821** | −1,00 |
+> | 20/10 13:39 | Extremos sem | C | stop | **−821** | −1,00 |
 > | 20/10 13:00 | Donchian | C | stop | **−418** | −1,00 |
 > | 20/10 13:00 | VWAP | C | stop | **−821** | −1,00 |
-> | 20/10 11:45 | ⭐ Tendência | C | stop | **−602** | −1,00 |
+> | 20/10 11:45 | Tendência | C | stop | **−602** | −1,00 |
 > | 20/10 10:45 | MACD | C | stop | **−821** | −1,00 |
 > | 20/10 10:45 | Fibo 50% | C | zero | **−15** | −0,01 |
 > | 20/10 10:20 | 1ª vela 80 | C | stop | **−619** | −1,00 |
 > | 20/10 10:15 | ADX | C | stop | **−333** | −1,00 |
 > | 20/10 10:00 | MACD | C | stop | **−821** | −1,00 |
-> | 20/10 09:15 | ⭐ Tendência | C | stop | **−602** | −1,00 |
-> | 19/10 16:45 | ⭐ Tendência | V | stop | **−593** | −1,00 |
+> | 20/10 09:15 | Tendência | C | stop | **−602** | −1,00 |
+> | 19/10 16:45 | Tendência | V | stop | **−593** | −1,00 |
 > | 19/10 12:02 | ⭐ Pullback | V | stop | **−593** | −1,00 |
-> | 19/10 12:00 | ⭐ Tendência | V | stop | **−593** | −1,00 |
+> | 19/10 12:00 | Tendência | V | stop | **−593** | −1,00 |
 > | 19/10 11:45 | VWAP | V | zero | **−15** | −0,02 |
 > | 19/10 11:30 | Onda | V | zerou | **590** | +0,73 |
 > | 19/10 10:30 | ADX | V | stop | **−331** | −1,00 |
@@ -348,25 +348,25 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 15/10 16:15 | GPS médias | V | stop | **−403** | −1,00 |
 > | 15/10 16:15 | ⭐ Bollinger | V | stop | **−340** | −1,00 |
 > | 15/10 11:55 | ⭐ Pullback | C | stop | **−580** | −1,00 |
-> | 15/10 11:45 | ⭐ Tendência | C | stop | **−580** | −1,00 |
+> | 15/10 11:45 | Tendência | C | stop | **−580** | −1,00 |
 > | 15/10 11:30 | VWAP | C | zero | **−15** | −0,02 |
 > | 15/10 11:00 | Onda | C | stop | **−790** | −1,00 |
 > | 15/10 10:45 | ADX | C | stop | **−327** | −1,00 |
 > | 15/10 10:30 | ADX | C | stop | **−327** | −1,00 |
 > | 15/10 10:15 | ADX | V | stop | **−327** | −1,00 |
-> | 15/10 09:21 | ⭐ Extremos sem | C | stop (virada) | **−790** | −1,00 |
-> | 15/10 09:10 | ⭐ Extremos sem | V | stop | **−790** | −1,00 |
+> | 15/10 09:21 | Extremos sem | C | stop (virada) | **−790** | −1,00 |
+> | 15/10 09:10 | Extremos sem | V | stop | **−790** | −1,00 |
 > | 14/10 14:30 | Onda | C | stop | **−785** | −1,00 |
 > | 14/10 14:15 | Donchian | C | stop | **−400** | −1,00 |
 > | 14/10 14:15 | Rompe 200 | C | stop | **−785** | −1,00 |
 > | 14/10 14:15 | GPS médias | C | stop | **−400** | −1,00 |
 > | 14/10 14:00 | BB explosão | C | zerou | **−25** | −0,06 |
 > | 14/10 13:00 | VWAP | C | zerou | **640** | +0,82 |
-> | 14/10 11:27 | ⭐ Extremos sem | C | zerou (virada) | **1.136** | +1,45 |
+> | 14/10 11:27 | Extremos sem | C | zerou (virada) | **1.136** | +1,45 |
 > | 14/10 11:15 | VWAP | V | stop | **−785** | −1,00 |
 > | 14/10 11:15 | Onda | V | stop | **−785** | −1,00 |
 > | 14/10 11:15 | Donchian | V | stop | **−400** | −1,00 |
-> | 14/10 11:01 | ⭐ Extremos sem | V | stop | **−785** | −1,00 |
+> | 14/10 11:01 | Extremos sem | V | stop | **−785** | −1,00 |
 > | 14/10 11:00 | ADX | V | stop | **−327** | −1,00 |
 > | 14/10 10:45 | ⭐ IFR | V | stop | **−432** | −1,00 |
 > | 14/10 10:45 | MACD | V | zero | **−15** | −0,02 |
@@ -378,7 +378,7 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 14/10 10:15 | Donchian | V | stop | **−400** | −1,00 |
 > | 14/10 10:15 | GPS médias | V | stop | **−400** | −1,00 |
 > | 14/10 10:15 | BB explosão | V | stop | **−400** | −1,00 |
-> | 14/10 09:45 | ⭐ Tendência | V | stop | **−576** | −1,00 |
+> | 14/10 09:45 | Tendência | V | stop | **−576** | −1,00 |
 > | 14/10 09:45 | MACD | V | zero | **−15** | −0,02 |
 > | 13/10 10:30 | ADX | C | stop | **−325** | −1,00 |
 > | 13/10 10:20 | 1ª vela 80 | V | stop | **−597** | −1,00 |
@@ -408,14 +408,14 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 08/10 14:45 | MACD | C | stop | **−762** | −1,00 |
 > | 08/10 14:15 | MACD | C | stop | **−762** | −1,00 |
 > | 08/10 14:00 | VWAP | C | zero | **−15** | −0,02 |
-> | 08/10 14:00 | ⭐ Tendência | C | stop | **−559** | −1,00 |
-> | 08/10 11:45 | ⭐ Tendência | C | stop | **−559** | −1,00 |
+> | 08/10 14:00 | Tendência | C | stop | **−559** | −1,00 |
+> | 08/10 11:45 | Tendência | C | stop | **−559** | −1,00 |
 > | 08/10 11:45 | MACD | C | stop | **−762** | −1,00 |
 > | 08/10 11:15 | Onda | C | stop | **−762** | −1,00 |
 > | 08/10 11:00 | Donchian | C | zero | **−15** | −0,04 |
 > | 08/10 10:45 | GPS médias | C | stop | **−388** | −1,00 |
 > | 08/10 10:45 | Fibo 50% | C | zero | **−15** | −0,01 |
-> | 08/10 10:45 | ⭐ Tendência | C | alvo | **2.026** | +3,62 |
+> | 08/10 10:45 | Tendência | C | alvo | **2.026** | +3,62 |
 > | 08/10 10:45 | ⭐ Pullback | C | zerou | **1.280** | +2,29 |
 > | 08/10 10:45 | VWAP | C | zero | **−15** | −0,02 |
 > | 08/10 10:45 | BB explosão | C | stop | **−388** | −1,00 |
@@ -444,50 +444,50 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 05/10 10:30 | ⭐ IFR | C | alvo | **2.056** | +4,79 |
 > | 05/10 10:30 | ADX | C | alvo | **2.678** | +8,22 |
 > | 02/10 17:50 | Pôr do sol | C | zerou | **330** | +0,65 |
-> | 02/10 16:15 | ⭐ Tendência | C | zerou | **735** | +1,49 |
+> | 02/10 16:15 | Tendência | C | zerou | **735** | +1,49 |
 > | 02/10 16:15 | Onda | C | zerou | **735** | +1,10 |
 > | 02/10 16:15 | VWAP | C | zerou | **370** | +0,55 |
 > | 02/10 15:45 | Donchian | C | zerou | **2.010** | +5,87 |
 > | 02/10 15:15 | ⭐ IFR | C | alvo | **1.896** | +4,77 |
-> | 02/10 14:45 | ⭐ Tendência | C | alvo | **1.776** | +3,61 |
+> | 02/10 14:45 | Tendência | C | alvo | **1.776** | +3,61 |
 > | 02/10 14:15 | VWAP | C | alvo | **1.951** | +2,91 |
 > | 02/10 14:15 | MACD | C | alvo | **3.261** | +4,87 |
-> | 02/10 13:45 | ⭐ Tendência | C | alvo | **1.776** | +3,61 |
+> | 02/10 13:45 | Tendência | C | alvo | **1.776** | +3,61 |
 > | 02/10 11:00 | Onda | V | stop | **−670** | −1,00 |
 > | 02/10 10:15 | ADX | V | stop | **−300** | −1,00 |
-> | 02/10 09:45 | ⭐ Tendência | C | stop | **−493** | −1,00 |
-> | 02/10 09:15 | ⭐ Tendência | C | alvo | **1.776** | +3,61 |
+> | 02/10 09:45 | Tendência | C | stop | **−493** | −1,00 |
+> | 02/10 09:15 | Tendência | C | alvo | **1.776** | +3,61 |
 > | 02/10 09:15 | MACD | C | zero | **−15** | −0,02 |
-> | 02/10 09:14 | ⭐ Extremos sem | V | stop (virada) | **−670** | −1,00 |
-> | 02/10 09:11 | ⭐ Extremos sem | C | stop | **−670** | −1,00 |
+> | 02/10 09:14 | Extremos sem | V | stop (virada) | **−670** | −1,00 |
+> | 02/10 09:11 | Extremos sem | C | stop | **−670** | −1,00 |
 > | 01/10 12:45 | VWAP | V | stop | **−660** | −1,00 |
 > | 01/10 12:15 | Donchian | V | stop | **−338** | −1,00 |
 > | 01/10 12:15 | BB explosão | V | stop | **−338** | −1,00 |
-> | 01/10 12:15 | ⭐ Tendência | V | stop | **−485** | −1,00 |
+> | 01/10 12:15 | Tendência | V | stop | **−485** | −1,00 |
 > | 01/10 12:15 | VWAP | V | stop | **−660** | −1,00 |
 > | 01/10 12:00 | Onda | V | stop | **−660** | −1,00 |
 > | 01/10 11:15 | GPS médias | V | stop | **−338** | −1,00 |
-> | 01/10 09:45 | ⭐ Tendência | C | stop | **−485** | −1,00 |
+> | 01/10 09:45 | Tendência | C | stop | **−485** | −1,00 |
 
 > [!example]- set/2026 — 54 operações · −8.541 pts · 15% de acerto
 > | Dia e hora | Setup | Lado | Saída | Pontos | R |
 > |---|---|---|---|---|---|
 > | 30/09 17:50 | Pôr do sol | C | zerou | **−170** | −0,34 |
 > | 30/09 15:45 | VWAP | C | zerou | **−415** | −0,63 |
-> | 30/09 15:00 | ⭐ Tendência | C | stop | **−487** | −1,00 |
+> | 30/09 15:00 | Tendência | C | stop | **−487** | −1,00 |
 > | 30/09 15:00 | Donchian | C | stop | **−339** | −1,00 |
 > | 30/09 14:45 | GPS médias | C | stop | **−339** | −1,00 |
 > | 30/09 14:45 | BB explosão | C | stop | **−339** | −1,00 |
 > | 30/09 14:15 | VWAP | C | zero | **−15** | −0,02 |
 > | 30/09 14:15 | MACD | C | zero | **−15** | −0,02 |
-> | 30/09 13:15 | ⭐ Tendência | C | alvo | **1.754** | +3,60 |
+> | 30/09 13:15 | Tendência | C | alvo | **1.754** | +3,60 |
 > | 30/09 11:30 | Fibo 50% | C | móvel | **1.685** | +0,94 |
-> | 30/09 11:15 | ⭐ Tendência | C | stop | **−487** | −1,00 |
-> | 30/09 09:45 | ⭐ Tendência | C | stop | **−487** | −1,00 |
-> | 30/09 09:15 | ⭐ Tendência | C | alvo | **1.754** | +3,60 |
+> | 30/09 11:15 | Tendência | C | stop | **−487** | −1,00 |
+> | 30/09 09:45 | Tendência | C | stop | **−487** | −1,00 |
+> | 30/09 09:15 | Tendência | C | alvo | **1.754** | +3,60 |
 > | 30/09 09:15 | MACD | C | zero | **−15** | −0,02 |
 > | 29/09 14:45 | GPS médias | C | zerou | **520** | +1,53 |
-> | 29/09 14:29 | ⭐ Extremos sem | C | zerou (virada) | **877** | +1,32 |
+> | 29/09 14:29 | Extremos sem | C | zerou (virada) | **877** | +1,32 |
 > | 29/09 10:45 | ADX | C | zerou | **1.825** | +6,31 |
 > | 29/09 10:30 | ⭐ Bollinger | V | stop | **−287** | −1,00 |
 > | 29/09 10:30 | Donchian | V | stop | **−339** | −1,00 |
@@ -495,29 +495,29 @@ Os **últimos 30 pregões com operação** (24/09/2026 a 06/11/2026, 312 operaç
 > | 29/09 10:15 | BB explosão | V | stop | **−339** | −1,00 |
 > | 29/09 10:15 | GPS médias | V | stop | **−339** | −1,00 |
 > | 29/09 10:00 | Onda | V | stop | **−663** | −1,00 |
-> | 29/09 09:58 | ⭐ Extremos sem | V | stop | **−663** | −1,00 |
-> | 29/09 09:45 | ⭐ Tendência | V | stop | **−487** | −1,00 |
+> | 29/09 09:58 | Extremos sem | V | stop | **−663** | −1,00 |
+> | 29/09 09:45 | Tendência | V | stop | **−487** | −1,00 |
 > | 28/09 11:00 | ADX | V | stop | **−290** | −1,00 |
 > | 28/09 10:45 | ADX | C | stop | **−290** | −1,00 |
 > | 28/09 10:15 | ⭐ IFR | V | stop | **−381** | −1,00 |
 > | 28/09 10:15 | ADX | V | stop | **−290** | −1,00 |
 > | 28/09 10:15 | BB explosão | V | stop | **−345** | −1,00 |
 > | 28/09 10:15 | GPS médias | V | stop | **−345** | −1,00 |
-> | 28/09 09:11 | ⭐ Extremos sem | C | stop (virada) | **−674** | −1,00 |
-> | 28/09 09:03 | ⭐ Extremos sem | V | stop | **−674** | −1,00 |
+> | 28/09 09:11 | Extremos sem | C | stop (virada) | **−674** | −1,00 |
+> | 28/09 09:03 | Extremos sem | V | stop | **−674** | −1,00 |
 > | 25/09 11:00 | ⭐ IFR | V | stop | **−382** | −1,00 |
 > | 25/09 11:00 | Onda | V | stop | **−692** | −1,00 |
 > | 25/09 10:45 | Donchian | V | stop | **−353** | −1,00 |
 > | 25/09 10:45 | ADX | V | stop | **−291** | −1,00 |
-> | 25/09 10:30 | ⭐ Tendência | V | stop | **−508** | −1,00 |
+> | 25/09 10:30 | Tendência | V | stop | **−508** | −1,00 |
 > | 25/09 10:30 | GPS médias | V | stop | **−353** | −1,00 |
 > | 25/09 10:30 | ⭐ Bollinger | V | stop | **−299** | −1,00 |
 > | 25/09 10:30 | MACD | V | zero | **−15** | −0,02 |
 > | 25/09 10:30 | Fibo 50% | V | zero | **−15** | −0,01 |
 > | 25/09 10:30 | BB explosão | V | stop | **−353** | −1,00 |
-> | 25/09 09:03 | ⭐ Extremos sem | V | stop | **−692** | −1,00 |
-> | 25/09 09:03 | ⭐ Extremos sem | C | stop (virada) | **−692** | −1,00 |
-> | 24/09 15:45 | ⭐ Tendência | V | zerou | **230** | +0,44 |
+> | 25/09 09:03 | Extremos sem | V | stop | **−692** | −1,00 |
+> | 25/09 09:03 | Extremos sem | C | stop (virada) | **−692** | −1,00 |
+> | 24/09 15:45 | Tendência | V | zerou | **230** | +0,44 |
 > | 24/09 15:45 | MACD | V | zerou | **230** | +0,32 |
 > | 24/09 14:45 | VWAP | V | zero | **−15** | −0,02 |
 > | 24/09 12:15 | BB explosão | V | stop | **−364** | −1,00 |

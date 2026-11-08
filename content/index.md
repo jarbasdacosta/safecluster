@@ -6,7 +6,7 @@ description: "Setups de day trade no índice futuro, testados um por um contra o
 
 **Setups de day trade no mini índice, testados um por um contra o acaso.** As regras vêm prontas de um vídeo ou livro e não são ajustadas olhando os nossos dados. Cada uma é convertida para ATR, treinada até 2023 e testada de 2024 até hoje — e só aparece aqui se o resultado no teste não puder ser explicado por sorte.
 
-*Atualizado em 07/11/2026 19:53 BRT · 17 setups no ar · dados de 01/11/2021 a 06/11/2026 · 15 pts de custo por operação já descontados.*
+*Atualizado em 07/11/2026 21:21 BRT · 17 setups no ar · dados de 01/11/2021 a 06/11/2026 · 15 pts de custo por operação já descontados.*
 
 ## A carteira recomendada
 
@@ -14,13 +14,11 @@ Operar vários setups juntos só vale se eles **ganharem juntos sem afundar junt
 
 | Setup | Família | Em uma frase |
 |---|---|---|
-| [**Extremos da Semana (virada de mão)**](setups/extremos-da-semana-virada) | ·EXT | Abre dentro da faixa da semana anterior, põe ordem nos dois extremos e, se o rompimento falhar e bater o stop, vira a mão na hora apostando na reversão. |
 | [**IFR de Tendência**](setups/ifr-de-tendencia) | ·TEN | Entra quando o IFR mostra força nos horários de tendência do dia (10h–11h e 14h–16h): vela a favor com o IFR acima de 70 ou abaixo de 30, stop curto e alvo longo. |
 | [**Pullback na Média**](setups/pullback-na-media) | ·PUL | Compra a volta da correção: em dia já a favor, o preço encosta na média de 45, retoma e rompe a vela anterior. |
 | [**Rompimento da Bollinger**](setups/rompimento-da-bollinger) | ·TEN | Três velas (a favor, contra, a favor) e a última rompe a banda de Bollinger a favor das médias de 50 e 200: stop curto e alvo 6× maior. |
-| [**Tendência Forte do Dia**](setups/tendencia-forte-do-dia) | ·TEN | Entra a favor do dia que já mostrou força: preço do lado certo das 3 médias, bem longe da abertura e uma vela confirmando. |
 
-Arriscando **1% do capital por operação**, dividido entre os 5: **+52% ao ano**, pior queda −6%, 35 dias no vermelho na pior sequência e −0% na pior janela de 60 dias. No mesmo período o CDI rendeu +13% ao ano e o Ibovespa comprado +10%, com queda de −21%.
+Arriscando **1% do capital por operação**, dividido entre os 3: **+51% ao ano**, pior queda −5%, 34 dias no vermelho na pior sequência e −1% na pior janela de 60 dias. No mesmo período o CDI rendeu +13% ao ano e o Ibovespa comprado +10%, com queda de −21%.
 
 [**Ver a carteira completa**](setups/carteira) — por que esses, o que muda acrescentando mais um, se os setups se ajudam e quantos contratos usar.
 
