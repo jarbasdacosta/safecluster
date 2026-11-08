@@ -6,7 +6,7 @@ tags: [setup, carteira]
 
 **O que acontece quando os setups aprovados são operados juntos? A carteira divide o capital igualmente entre eles e testa todas as combinações, sempre comparando com o CDI e com o Ibovespa comprado.**
 
-*Página gerada em 07/11/2026 21:21 BRT · dados de 01/11/2021 a 06/11/2026 · [voltar para todos os setups](./)*
+*Página gerada em 07/11/2026 21:38 BRT · dados de 01/11/2021 a 06/11/2026 · [voltar para todos os setups](./)*
 
 > [!success] Em resumo: com R\$ 10.000, operando os 17 setups juntos (capital dividido igualmente, capital no CDI)
 > - **R\$ 38.304** (+31% ao ano · pior queda −12% · Sharpe 1,18)
@@ -144,7 +144,7 @@ A recomendada é a 1ª, mas a diferença para as outras quatro costuma ser peque
 | ├ expectativa por operação (treino) · peso 2 | +0,32 R · nota 6,4 | +0,44 R · nota 8,9 | +0,31 R · nota 6,2 | +0,29 R · nota 5,8 | +0,35 R · nota 7,0 |
 | ├ dias no vermelho (treino) · peso 1 | 34 d · nota 8,6 | 57 d · nota 6,3 | 34 d · nota 8,6 | 37 d · nota 8,3 | 38 d · nota 8,2 |
 | └ pior 60 dias (treino) · peso 1 | −1,4% · nota 8,6 | −3,1% · nota 6,9 | −0,9% · nota 9,1 | −1,4% · nota 8,6 | −2,1% · nota 7,9 |
-| **Queda de 1 história em 20** (sorteio) | **−14%** | **−13%** | **−11%** | **−10%** | **−9%** |
+| **Queda de 1 história em 20** (sorteio) | **−12%** | **−13%** | **−9%** | **−9%** | **−9%** |
 | Operações · acerto | 1.335 · 34,5% | 562 · 37,4% | 1.540 · 35,1% | 1.561 · 35,6% | 788 · 38,7% |
 | Ganho médio · perda média | +754 · −265 pts | +681 · −251 pts | +760 · −286 pts | +773 · −291 pts | +738 · −309 pts |
 | Payoff · fator de lucro | 2,84 · 1,50 | 2,71 · 1,62 | 2,66 · 1,44 | 2,65 · 1,47 | 2,39 · 1,51 |
@@ -175,6 +175,35 @@ A recomendada é a 1ª, mas a diferença para as outras quatro costuma ser peque
 >
 > *A recomendada só troca quando os números dela mudam. Antes de 07/11/2026 a nota era a média das POSIÇÕES no ranking das combinações, então ela podia trocar sozinha quando um setup novo era aprovado e milhares de combinações entravam no conjunto — foi o que aconteceu naquele dia, ao aprovar o 17º setup (as combinações passaram de 6.884 para 9.401). Com a nota em escala fixa isso não acontece mais.*
 
+### Quanto risco cada uma carrega
+
+A tabela acima mostra cada combinação no tamanho de posição dela. Esta aqui nivela todas no **mesmo risco por operação** — 1% do capital em cada entrada — e pergunta uma coisa só: com o mesmo risco, qual é a que mais machuca quando a sorte vira? É a tabela para olhar quem carrega risco de ruína, e não quem rendeu mais.
+
+| # | Combinação | Ao ano · R\$ 10.000 viram | Pior queda real · dias no vermelho | Sorteio: típica · 1 em 20 | Pior sequência |
+|---|---|---|---|---|---|
+| 1 | IFR ·TEN + Pullback ·PUL + Bollinger ·TEN ⭐ | +159% · R\$ 1.140.470 | −17,1% · 59 d | −22% · **−33%** | 15 seguidas |
+| 2 | Pullback ·PUL + Bollinger ·TEN | +78% · R\$ 174.719 | −8,6% · 68 d | −16% · **−24%** | 10 seguidas |
+| 3 | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +174% · R\$ 1.492.169 | −21,4% · 68 d | −23% · **−33%** | 13 seguidas |
+| 4 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Bollinger ·TEN | +167% · R\$ 1.327.403 | −19,4% · 61 d | −22% · **−31%** | 19 seguidas |
+| 5 | Fibo 50% ·FIB + Pullback ·PUL + Bollinger ·TEN | +84% · R\$ 206.237 | −10,4% · 70 d | −16% · **−24%** | 12 seguidas |
+| 6 | Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +89% · R\$ 234.885 | −16,3% · 78 d | −18% · **−27%** | 13 seguidas |
+| 7 | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | +175% · R\$ 1.526.585 | −17,2% · 59 d | −21% · **−30%** | 14 seguidas |
+| 8 | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM | +106% · R\$ 366.607 | −15,3% · 102 d | −24% · **−35%** | 15 seguidas |
+| 9 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +182% · R\$ 1.731.434 | −23,7% · 68 d | −23% · **−33%** | 15 seguidas |
+| 10 | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +190% · R\$ 1.993.099 | −21,5% · 61 d | −22% · **−32%** | 14 seguidas |
+| 11 | Extremos sem ·EXT + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +211% · R\$ 2.798.742 | −25,1% · 48 d | −26% · **−37%** | 19 seguidas |
+| 12 | Pullback ·PUL + Rompe 200 ·ROM | +40% · R\$ 54.109 | −19,7% · 108 d | −18% · **−28%** | 17 seguidas |
+| 13 | GPS médias ·TEN + IFR ·TEN + Pullback ·PUL | +168% · R\$ 1.338.862 | −29,1% · 106 d | −36% · **−52%** | 19 seguidas |
+| 14 | Extremos sem ·EXT + IFR ·TEN + Pullback ·PUL + Bollinger ·TEN + Tendência ·TEN | +308% · R\$ 10.800.140 | −29,2% · 80 d | −31% · **−43%** | 24 seguidas |
+| 15 | Donchian ·TEN + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +304% · R\$ 10.260.921 | −28,9% · 81 d | −32% · **−44%** | 30 seguidas |
+| 16 | IFR ·TEN + MACD ·TEN + Pullback ·PUL + Bollinger ·TEN | +210% · R\$ 2.762.924 | −25,7% · 61 d | −24% · **−34%** | 20 seguidas |
+| 17 | GPS médias ·TEN + IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL | +184% · R\$ 1.778.913 | −25,9% · 85 d | −35% · **−48%** | 21 seguidas |
+| 18 | IFR ·TEN + Bollinger ·TEN | +122% · R\$ 526.042 | −16,6% · 61 d | −21% · **−32%** | 20 seguidas |
+| 19 | IFR ·TEN + MACD ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +226% · R\$ 3.551.335 | −29,7% · 68 d | −24% · **−35%** | 20 seguidas |
+| 20 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM | +113% · R\$ 427.831 | −17,4% · 110 d | −23% · **−34%** | 20 seguidas |
+
+*Todas as linhas arriscam **1% do capital em cada operação**. em cada setup — não é o tamanho recomendado (que é 1% dividido entre os setups da carteira). e sim o nivelamento que torna o risco comparável: com o mesmo risco por operação. carteira com mais setups fica com mais risco aberto ao mesmo tempo. e é isso que a coluna de queda mostra. **Pior queda real** = o que de fato aconteceu. que foi um sorteio só. **Sorteio** = as mesmas operações em outra ordem. 1.000 vezes: a típica é a mediana e a de 1 em 20 é o percentil 5 — de cada 20 histórias. uma foi pior que aquilo. **Dimensione pela coluna de 1 em 20**. não pela queda real. **Pior sequência** = o maior número de operações perdedoras seguidas.*
+
 
 **1% × 2% do capital: o que muda**
 
@@ -191,7 +220,7 @@ Ela tirou a maior **nota de sobrevivência**: 7,34 de 10, contra 7,04 da segunda
 - **Eficiência:** rende 7,0 vezes ao ano o tamanho da sua pior queda. É a medida que impede uma carteira de ganhar a disputa rendendo um pouco mais e arriscando muito mais — diferença de retorno se resolve com o tamanho da posição, diferença de queda não.
 - **Margem:** cada operação rende em média +0,32 R, ou seja, 32% do que arrisca. É a gordura entre o setup e o zero: com margem curta, um custo um pouco maior ou um ano mais fraco já viram prejuízo.
 - **Sequência:** passou no máximo 34 pregões seguidos abaixo do topo anterior, e o pior trimestre de toda a série custou −1,4%.
-- **Má sorte normal:** em 1.000 histórias alternativas — os mesmos dias em outra ordem — a queda que aparece em 1 de cada 20 é de −14%. É por esse número que se dimensiona a posição. não pela queda que de fato aconteceu.
+- **Má sorte normal:** em 1.000 histórias alternativas — os mesmos dias em outra ordem — a queda que aparece em 1 de cada 20 é de −12%. É por esse número que se dimensiona a posição. não pela queda que de fato aconteceu.
 - **Fora do treino**, em dados que não participaram de escolha nenhuma, ela entregou +52% ao ano com 1% dividido (Sharpe 2,10).
 
 A correlação média entre os setups dela é 0,01: eles ganham e perdem em momentos diferentes, e é isso que segura a queda. Acrescentar qualquer um dos outros 14 setups aprovados piora a nota dela — a tabela das combinações mostra onde cada mistura fica. A recomendação considera só combinações de **2 ou mais setups**: diversificar protege contra um setup que pare de funcionar, coisa que o backtest não consegue prever. Setups que dependem de um **dia da semana escolhido pelo autor do vídeo** (1ª vela 80, Quinta) ficam fora dos três perfis até os dados novos confirmarem — eles aparecem na tabela abaixo, com ⚠️, mas não são recomendados.
