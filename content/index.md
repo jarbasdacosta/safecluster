@@ -1,12 +1,12 @@
 ---
 title: "safecluster"
-date: 2026-11-07
+date: 2026-11-09
 description: "Setups de day trade no índice futuro, testados um por um contra o acaso"
 ---
 
 **Setups de day trade no mini índice, testados um por um contra o acaso.** As regras vêm prontas de um vídeo ou livro e não são ajustadas olhando os nossos dados. Cada uma é convertida para ATR, treinada até 2023 e testada de 2024 até hoje — e só aparece aqui se o resultado no teste não puder ser explicado por sorte.
 
-*Atualizado em 07/11/2026 21:52 BRT · 17 setups no ar · dados de 01/11/2021 a 06/11/2026 · 15 pts de custo por operação já descontados.*
+*Atualizado em 09/11/2026 19:40 BRT · 17 setups no ar · dados de 01/11/2021 a 09/11/2026 · 15 pts de custo por operação já descontados.*
 
 ## A carteira recomendada
 
@@ -18,7 +18,7 @@ Operar vários setups juntos só vale se eles **ganharem juntos sem afundar junt
 | [**Pullback na Média**](setups/pullback-na-media) | ·PUL | Compra a volta da correção: em dia já a favor, o preço encosta na média de 45, retoma e rompe a vela anterior. |
 | [**Rompimento da Bollinger**](setups/rompimento-da-bollinger) | ·TEN | Três velas (a favor, contra, a favor) e a última rompe a banda de Bollinger a favor das médias de 50 e 200: stop curto e alvo 6× maior. |
 
-Arriscando **1% do capital por operação**, dividido entre os 3: **+51% ao ano**, pior queda −5%, 34 dias no vermelho na pior sequência e −1% na pior janela de 60 dias. No mesmo período o CDI rendeu +13% ao ano e o Ibovespa comprado +10%, com queda de −21%.
+Arriscando **1% do capital por operação**, dividido entre os 3: **+52% ao ano**, pior queda −5%, 34 dias no vermelho na pior sequência e −1% na pior janela de 60 dias. No mesmo período o CDI rendeu +13% ao ano e o Ibovespa comprado +10%, com queda de −21%.
 
 [**Ver a carteira completa**](setups/carteira) — por que esses, o que muda acrescentando mais um, se os setups se ajudam e quantos contratos usar.
 
@@ -28,9 +28,9 @@ A ordem não é por retorno: é pela nota combinada em Sharpe, retorno ÷ pior q
 
 | # | Setup | Ao ano (risco 1%) | Pior queda |
 |---|---|---|---|
-| 1º | [**IFR**](setups/ifr-de-tendencia) ·TEN | **+67%** | −11% |
+| 1º | [**IFR**](setups/ifr-de-tendencia) ·TEN | **+68%** | −11% |
 | 2º | [**Bollinger**](setups/rompimento-da-bollinger) ·TEN | **+52%** | −7% |
-| 3º | [**Donchian**](setups/donchian-com-medias) ·TEN | **+84%** | −24% |
+| 3º | [**Donchian**](setups/donchian-com-medias) ·TEN | **+85%** | −24% |
 | 4º | [**Pôr do sol**](setups/por-do-sol) ·POR | **+20%** | −3% |
 | 5º | [**1ª vela 80**](setups/primeira-vela-80-min) ·VEL | **+47%** | −14% |
 
