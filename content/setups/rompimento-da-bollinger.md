@@ -1,6 +1,6 @@
 ---
 title: Rompimento da Bollinger
-date: 2026-11-11
+date: 2026-11-12
 tags: [setup, win]
 ---
 
@@ -8,17 +8,17 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · velas das 10h15 às 11h00 e das 14h00 às 17h30
 
-🎬 **Vídeo de origem:** [Arthur 777 – "isso apareceu nos meus testes no mini índice"](https://youtu.be/2l5k3OyC7eQ) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 11/11/2026 19:40 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "isso apareceu nos meus testes no mini índice"](https://youtu.be/2l5k3OyC7eQ) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 12/11/2026 19:40 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 10.000 aplicados em nov/2021 viraram
-> - **R\$ 30.945** na versão ATR 0,09 / 0,52 com o capital no CDI (+25% ao ano · pior queda −4%)
-> - **R\$ 31.550** na versão como no vídeo (até 17h30) com o capital no CDI (+26% ao ano · pior queda −3%)
-> - **R\$ 31.064** na versão tarde só até 17h00 com o capital no CDI (+26% ao ano · pior queda −3%)
-> - **R\$ 28.432** na versão stop 0,10% (vídeo) com o capital no CDI (+23% ao ano · pior queda −3%)
-> - **R\$ 18.221** só no CDI (+13% ao ano)
-> - **R\$ 16.301** comprado no Ibovespa (+10% ao ano · pior queda −21%)
+> - **R\$ 30.961** na versão ATR 0,09 / 0,52 com o capital no CDI (+25% ao ano · pior queda −4%)
+> - **R\$ 31.566** na versão como no vídeo (até 17h30) com o capital no CDI (+26% ao ano · pior queda −3%)
+> - **R\$ 31.080** na versão tarde só até 17h00 com o capital no CDI (+26% ao ano · pior queda −3%)
+> - **R\$ 28.446** na versão stop 0,10% (vídeo) com o capital no CDI (+23% ao ano · pior queda −3%)
+> - **R\$ 18.230** só no CDI (+13% ao ano)
+> - **R\$ 16.231** comprado no Ibovespa (+10% ao ano · pior queda −21%)
 >
-> - **R\$ 79.662** na versão ATR 0,09 / 0,52 **arriscando 1% do capital por operação** (+52% ao ano · pior queda −7%) — o tamanho sugerido, veja [tamanho de posição](carteira#tamanho-de-posição)
+> - **R\$ 79.702** na versão ATR 0,09 / 0,52 **arriscando 1% do capital por operação** (+52% ao ano · pior queda −7%) — o tamanho sugerido, veja [tamanho de posição](carteira#tamanho-de-posição)
 >
 > Com 1 contrato de WIN para cada R\$ 10.000 (ou pelo risco de 1%), sem imposto.
 
@@ -40,8 +40,8 @@ tags: [setup, win]
 | **Entrada** | compra a mercado na abertura da vela seguinte | vende a mercado na abertura da vela seguinte |
 | **Stop · alvo** | 0,15% · 0,90% do preço | 0,15% · 0,90% do preço |
 
-- **Versão principal (escolhida só pelo treino): ATR 0,09 / 0,52** — stop 0,086 ATR · alvo 0,518 ATR (6,0× o stop); hoje ≈ 363 pts de stop e 2.178 pts de alvo.
-- **ATR** = quanto o índice costuma andar num dia: a média da distância entre a máxima e a mínima dos últimos 14 pregões (hoje ≈ 4.202 pts). Usar múltiplos do ATR em vez de pontos fixos faz o setup acompanhar o mercado quando ele fica mais calmo ou mais agitado.
+- **Versão principal (escolhida só pelo treino): ATR 0,09 / 0,52** — stop 0,086 ATR · alvo 0,518 ATR (6,0× o stop); hoje ≈ 348 pts de stop e 2.090 pts de alvo.
+- **ATR** = quanto o índice costuma andar num dia: a média da distância entre a máxima e a mínima dos últimos 14 pregões (hoje ≈ 4.032 pts). Usar múltiplos do ATR em vez de pontos fixos faz o setup acompanhar o mercado quando ele fica mais calmo ou mais agitado.
 - **Uma operação de cada vez.** Se não bateu stop nem alvo, zera às 18h20.
 - **Testado pela bateria padrão** (a mesma para todos os setups): réplica do vídeo, pontos/% × ATR, vizinhança, peça por peça, custo e comparação com o acaso. Veredito por regras fixas, refeito todo sábado com os dados novos.
 
@@ -50,8 +50,8 @@ tags: [setup, win]
 | Versão | Regra | Acerto · payoff | Treino → teste (pts/op) | Ao ano (+ CDI) | Pior queda (+ CDI) |
 |---|---|---|---|---|---|
 | **ATR 0,09 / 0,52** (principal) | stop 0,086 ATR · alvo 0,518 ATR (6,0× o stop) | 37% · 3,18 | +73,0 → +128,5 | +25,5% | −3,6% |
-| **como no vídeo (até 17h30)** | stop 0,15% · alvo 0,90% do preço | 37% · 3,13 | +55,5 → +150,9 | +26,0% | −3,4% |
-| **tarde só até 17h00** | stop 0,15% · alvo 0,90% do preço | 36% · 3,22 | +53,1 → +160,1 | +25,6% | −3,4% |
+| **como no vídeo (até 17h30)** | stop 0,15% · alvo 0,90% do preço | 37% · 3,13 | +55,5 → +150,9 | +25,9% | −3,4% |
+| **tarde só até 17h00** | stop 0,15% · alvo 0,90% do preço | 36% · 3,22 | +53,1 → +160,1 | +25,5% | −3,4% |
 | **stop 0,10% (vídeo)** | stop 0,10% · alvo 0,90% do preço | 28% · 4,75 | +34,4 → +127,0 | +23,3% | −2,9% |
 
 ## Estatísticas da operação (1 contrato, em pontos)
@@ -153,14 +153,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | R\$ 10.000 viraram · ao ano | Pior queda | Oscilação · Sharpe | Meses acima: CDI · Ibov | Pior · melhor mês |
 |---|---|---|---|---|---|
-| **ATR 0,09 / 0,52** | **R\$ 30.945** · +25,5% | −3,6% | 6,8% · 1,61 | 64% · 51% | −1,4% · +9,5% |
-| **como no vídeo (até 17h30)** | **R\$ 31.550** · +26,0% | −3,4% | 7,4% · 1,53 | 61% · 51% | −1,1% · +9,7% |
-| **tarde só até 17h00** | **R\$ 31.064** · +25,6% | −3,4% | 7,3% · 1,50 | 62% · 52% | −1,1% · +9,7% |
-| **stop 0,10% (vídeo)** | **R\$ 28.432** · +23,3% | −2,9% | 6,6% · 1,39 | 57% · 54% | −1,9% · +10,0% |
-| **risco 1%** | **R\$ 79.662** · +51,7% | −6,9% | 17,3% · 1,80 | 66% · 62% | −3,9% · +21,6% |
-| **pura** | **R\$ 16.988** · +11,2% | −5,0% | 6,8% · −0,17 | 43% · 41% | −2,5% · +8,4% |
-| **CDI** | **R\$ 18.221** · +12,8% | +0,0% | 0,1% · — | — · 44% | +0,3% · +1,3% |
-| **Ibovespa** | **R\$ 16.301** · +10,3% | −20,9% | 18,6% · −0,03 | 56% · — | −11,5% · +12,6% |
+| **ATR 0,09 / 0,52** | **R\$ 30.961** · +25,5% | −3,6% | 6,8% · 1,61 | 64% · 51% | −1,4% · +9,5% |
+| **como no vídeo (até 17h30)** | **R\$ 31.566** · +25,9% | −3,4% | 7,4% · 1,53 | 61% · 51% | −1,1% · +9,7% |
+| **tarde só até 17h00** | **R\$ 31.080** · +25,5% | −3,4% | 7,3% · 1,50 | 62% · 52% | −1,1% · +9,7% |
+| **stop 0,10% (vídeo)** | **R\$ 28.446** · +23,3% | −2,9% | 6,6% · 1,39 | 57% · 54% | −1,9% · +10,0% |
+| **risco 1%** | **R\$ 79.702** · +51,7% | −6,9% | 17,3% · 1,80 | 66% · 62% | −3,9% · +21,6% |
+| **pura** | **R\$ 16.988** · +11,2% | −5,0% | 6,8% · −0,18 | 43% · 41% | −2,5% · +8,4% |
+| **CDI** | **R\$ 18.230** · +12,8% | +0,0% | 0,1% · — | — · 44% | +0,4% · +1,3% |
+| **Ibovespa** | **R\$ 16.231** · +10,2% | −20,9% | 18,6% · −0,03 | 56% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/rompimento-da-bollinger_queda.png)
 
@@ -168,16 +168,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **ATR 0,09 / 0,52** | +4,0% | +18,2% | +22,8% | +23,1% | +40,2% | +18,8% | **+209,5%** (+25,5% · R\$ 30.945) |
-| **como no vídeo (até 17h30)** | +3,3% | +16,8% | +20,4% | +29,2% | +42,6% | +17,9% | **+215,5%** (+26,0% · R\$ 31.550) |
-| **tarde só até 17h00** | +3,3% | +16,2% | +19,0% | +30,2% | +41,3% | +18,2% | **+210,6%** (+25,6% · R\$ 31.064) |
-| **stop 0,10% (vídeo)** | +1,7% | +16,4% | +17,3% | +26,7% | +42,2% | +13,7% | **+184,3%** (+23,3% · R\$ 28.432) |
-| **risco 1%** | +6,4% | +30,1% | +40,6% | +56,8% | +108,7% | +25,0% | **+696,6%** (+51,7% · R\$ 79.662) |
-| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,0% | **+82,2%** (+12,8% · R\$ 18.221) |
-| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +6,8% | **+63,0%** (+10,3% · R\$ 16.301) |
+| **ATR 0,09 / 0,52** | +4,0% | +18,2% | +22,8% | +23,1% | +40,2% | +18,9% | **+209,6%** (+25,5% · R\$ 30.961) |
+| **como no vídeo (até 17h30)** | +3,3% | +16,8% | +20,4% | +29,2% | +42,6% | +17,9% | **+215,7%** (+25,9% · R\$ 31.566) |
+| **tarde só até 17h00** | +3,3% | +16,2% | +19,0% | +30,2% | +41,3% | +18,3% | **+210,8%** (+25,5% · R\$ 31.080) |
+| **stop 0,10% (vídeo)** | +1,7% | +16,4% | +17,3% | +26,7% | +42,2% | +13,7% | **+184,5%** (+23,3% · R\$ 28.446) |
+| **risco 1%** | +6,4% | +30,1% | +40,6% | +56,8% | +108,7% | +25,1% | **+697,0%** (+51,7% · R\$ 79.702) |
+| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,1% | **+82,3%** (+12,8% · R\$ 18.230) |
+| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +6,3% | **+62,3%** (+10,2% · R\$ 16.231) |
 | *Quem ganhou* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* |
 
-\* ano parcial: os dados vão de 01/11/2021 a 11/11/2026.
+\* ano parcial: os dados vão de 01/11/2021 a 12/11/2026.
 
 ![Retorno por ano](setups/img/rompimento-da-bollinger_anos.png)
 
@@ -244,8 +244,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | +3,1% | +4,7% | +1,1% | −0,3% |
 > | set/2026 | +1,2% | +1,6% | +1,1% | +5,0% |
 > | out/2026 | −1,0% | −1,9% | +1,1% | −9,9% |
-> | nov/2026 | +0,3% | +0,3% | +0,3% | +2,5% |
-> | **Acumulado** | **+209,5%** | **+696,6%** | **+82,2%** | **+63,0%** |
+> | nov/2026 | +0,4% | +0,4% | +0,4% | +2,0% |
+> | **Acumulado** | **+209,6%** | **+697,0%** | **+82,3%** | **+62,3%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 
@@ -284,7 +284,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## Como o teste foi feito
 
-- **Dados:** WIN\$N em velas de 1 minuto do MetaTrader 5, de 25/10/2021 a 11/11/2026, com os saltos das rolagens ajustados para os indicadores; resultados em **pontos reais** do contrato de cada época.
+- **Dados:** WIN\$N em velas de 1 minuto do MetaTrader 5, de 25/10/2021 a 12/11/2026, com os saltos das rolagens ajustados para os indicadores; resultados em **pontos reais** do contrato de cada época.
 - **Execução realista:** cada operação acompanhada minuto a minuto; stop e alvo no mesmo minuto contam como **stop**; se o preço abriu além do stop, a saída foi no preço da abertura.
 - **Custo:** 15 pontos por operação. **CDI:** série diária do Banco Central. **Ibovespa:** fechamento diário, comprado o período todo.
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
