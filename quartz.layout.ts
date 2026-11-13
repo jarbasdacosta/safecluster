@@ -11,6 +11,11 @@ const explorerDateSort = Component.Explorer({
     const sa = ordemSetups.indexOf(a.slugSegment), sb = ordemSetups.indexOf(b.slugSegment)
     if (sa !== -1 || sb !== -1) return (sa === -1 ? 999 : sa) - (sb === -1 ? 999 : sb)
     // SETUPS-ORDEM-FIM
+    // ENTENDER-ORDEM-INICIO (gerado por site.py — não edite à mão)
+    const ordemEntender = ["index", "o-problema", "os-setups", "por-que-combinar", "suavidade", "o-que-o-passado-preve", "o-metodo", "o-ranking", "limites", "glossario"]
+    const ea = ordemEntender.indexOf(a.slugSegment), eb = ordemEntender.indexOf(b.slugSegment)
+    if (ea !== -1 || eb !== -1) return (ea === -1 ? 999 : ea) - (eb === -1 ? 999 : eb)
+    // ENTENDER-ORDEM-FIM
     // menu: ordem fixa na raiz do site
     const ordem = ["diario", "intraday", "historico", "linha-do-tempo", "operacoes", "sinais-topo-fundo", "amplitude", "estrangeiros", "tecnico", "metodologia", "ranking", "tendencia", "entradas", "ultimas-operacoes", "historico-por-ano", "todos-os-sinais", "tutorial", "crise", "sinais", "regras-de-operacao", "o-que-nao-passou"]
     const ia = ordem.indexOf(a.slugSegment)
