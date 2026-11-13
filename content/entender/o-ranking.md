@@ -5,7 +5,7 @@ description: "As carteiras escolhidas e o risco de cada uma"
 tags: [entender]
 ---
 
-As **20 carteiras** que o método escolheu, usando só o período de treino. Estão ordenadas pelo que rendem **quando o risco de cada uma é ajustado para cair 40%** — porque é essa a ordem que corresponde ao que você vai operar, com todas doendo igual.
+As **20 carteiras** que o método escolheu, usando só o período de treino, mais **1** que entra apenas como comparação (a que está em operação). Estão ordenadas pelo que rendem **quando o risco de cada uma é ajustado para cair 40%** — porque é essa a ordem que corresponde ao que você vai operar, com todas doendo igual.
 
 > [!warning] Antes de olhar a tabela, dois números
 > **O risco mostrado está otimista.** Ele foi calibrado no passado, e calibrar para 40% entregou 49% quando testado de verdade. Para viver 40%, calibre para **33%** — ou seja, use cerca de -18% do risco indicado.
@@ -35,8 +35,18 @@ As **20 carteiras** que o método escolheu, usando só o período de treino. Est
 | **18º** | gps + ifr + pullback + rompe + tendencia | 5 | 848 | **0,79%** | R\$ 29.395.057 | +208% | -62% |
 | **19º** | donchian + fibo + pullback + rompe + tendencia | 5 | 755 | **0,74%** | R\$ 8.201.359 | +139% | -61% |
 | **20º** | fibo + gps + pullback + rompe + tendencia | 5 | 738 | **0,80%** | R\$ 7.729.376 | +137% | -59% |
+| **em operação** | ifr + pullback + rompimento | 3 | 266 | **4,08%** | R\$ 37.975.609 | +224% | -42% |
 
-A última coluna é a mais importante e a menos agradável: é a queda que a carteira **de fato teve** no período de teste, usando o risco calibrado às cegas no treino. Compare com 40%, que era a promessa.
+> [!example] A última linha não é uma escolha do método
+> **ifr + pullback + rompimento** é a carteira que está sendo operada ao vivo, e ela entra aqui com as mesmas medidas de todas as outras — para comparar sem torcer para nenhum lado.
+>
+> O método **não** a escolheu. No período de treino ela ficou 2654ª em retorno e 62ª em queda entre as 4.928 combinações, então não entrou no grupo dos 10% de maior retorno.
+>
+> Ajustada para cair 40% como as outras, ela precisa de 4,08% de risco por operação e termina com R\$ 37.975.609 — o que a poria em **14º lugar** entre as 20 escolhidas.
+>
+> Isto é informação para decidir, não um veredito. Uma carteira que já está em operação tem um valor que o ranking não mede: ela está testada na prática, com execução real, derrapagem real e o emocional real de quem a opera.
+
+A coluna da direita é a mais importante e a menos agradável: é a queda que a carteira **de fato teve** no período de teste, usando o risco calibrado às cegas no treino. Compare com 40%, que era a promessa.
 
 ## Cada carteira em detalhe
 
@@ -680,6 +690,38 @@ A última coluna é a mais importante e a menos agradável: é a queda que a car
 
 </details>
 
+<details>
+<summary><b>21º · ifr + pullback + rompimento — R\$ 37.975.609 aos 40%</b></summary>
+
+**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,33% | R\$ 407.948 | +32% | -6% | -9% | 89 dias | 79% | 7 → 34 | 0% |
+| **1%** | 1,00% | R\$ 6.514.329 | +129% | -19% | -26% | 89 dias | 79% | 21 → 1117 | 0% |
+| **2%** | 2,00% | R\$ 28.598.377 | +207% | -26% | -47% | 85 dias | 77% | 43 → 2000 | 45% |
+| **no limite** | **4,08%** | R\$ 37.975.609 | +224% | -40% | — | — | — | — | — |
+| no extremo | 5,35% | R\$ 39.894.611 | +228% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +222% | +76% | +87% | +243% | +78% |
+| Pior queda do ano | -11% | -14% | -11% | -11% | -19% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 4,08% |
+| Queda que ele prometia | -40% |
+| Queda que ele entregou no teste | **-42%** |
+| Capital no teste | 203× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | — |
+| Operações no teto de contratos, no primeiro ano | — |
+
+</details>
+
 
 > [!note] Sobre os contratos e o teto
 > A coluna **Contratos** mostra quantos contratos a conta compra na primeira operação e no máximo. A coluna **No teto** mostra em quantas operações o número bateu no limite de 2.000 contratos, que é o que julgamos que o mercado do mini índice absorve sem o preço fugir.
@@ -687,7 +729,7 @@ A última coluna é a mais importante e a menos agradável: é a queda que a car
 > Quando essa coluna é alta, boa parte do resultado vem de um período em que a conta estava grande e **o teto é que estava segurando a queda** — não a qualidade da carteira. Por isso a linha do primeiro ano importa tanto: nela o teto não aparece, e é ela que descreve quem está começando agora.
 
 > [!abstract] Confira a conta você mesmo
-> [**Baixar carteiras.xlsx**](carteiras.xlsx) — as 20 carteiras com todas as medidas nos três modos, ano a ano, e o teste de calibração
+> [**Baixar carteiras.xlsx**](carteiras.xlsx) — as 21 carteiras com todas as medidas nos três modos, ano a ano, e o teste de calibração
 >
 > A planilha sai do mesmo cálculo que esta página, não de um cálculo paralelo: contratos inteiros, mesmo custo, mesmas regras. Se os números divergirem, é defeito nosso e queremos saber.
 

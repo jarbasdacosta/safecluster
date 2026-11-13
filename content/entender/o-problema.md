@@ -17,6 +17,18 @@ Vamos supor que você encontrou um que funciona. Ele ganha dinheiro ao longo de 
 | [Donchian com Médias](../setups/donchian-com-medias) | R\$ 1.108.603 | +61% |
 | [Pullback no 50% do dia](../setups/fibo-50-do-dia) | R\$ 117.847 | +3% |
 
+Mas esse número sozinho não responde à pergunta que importa. **Rendeu mais do que não fazer nada?** Com o mesmo dinheiro, no mesmo período:
+
+| Onde o dinheiro estava | Virou | Por ano | Pior queda |
+|---|---|---|---|
+| [Donchian com Médias](../setups/donchian-com-medias), arriscando 1% por operação | R\$ 1.108.603 | +61% | -26% |
+| CDI (sem operar nada) | R\$ 182.017 | +13% | praticamente nenhuma |
+| Ibovespa comprado e parado (BOVA11) | R\$ 197.252 | +14% | -21% |
+
+O **CDI** é o que o dinheiro rende parado na renda fixa, sem nenhum risco e sem nenhum trabalho. É a régua mínima: uma estratégia que rende menos que ele não vale o esforço, por mais bonitos que sejam os percentuais de acerto. O que o operar bem paga, aqui, é a diferença entre as duas primeiras linhas — e ela é grande.
+
+O **índice comprado e parado** é a alternativa de quem aceita risco mas não quer operar. Repare na coluna da direita: ele também cai, e cai 21%. Risco não é algo que só o day trade tem.
+
 > [!note] Retorno e rentabilidade não são a mesma coisa
 > **Retorno** é quanto você ganhou: R\$ 1.008.603 de lucro.
 >

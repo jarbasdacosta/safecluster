@@ -1,12 +1,12 @@
 ---
 title: "safecluster"
-date: 2026-11-12
+date: 2026-11-13
 description: "Setups de day trade no índice futuro, testados um por um contra o acaso"
 ---
 
 **Setups de day trade no mini índice, testados um por um contra o acaso.** As regras vêm prontas de um vídeo ou livro e não são ajustadas olhando os nossos dados. Cada uma é convertida para ATR, treinada até 2023 e testada de 2024 até hoje — e só aparece aqui se o resultado no teste não puder ser explicado por sorte.
 
-*Atualizado em 12/11/2026 19:40 BRT · 17 setups no ar · dados de 01/11/2021 a 12/11/2026 · 15 pts de custo por operação já descontados.*
+*Atualizado em 13/11/2026 19:40 BRT · 17 setups no ar · dados de 01/11/2021 a 13/11/2026 · 15 pts de custo por operação já descontados.*
 
 ## A carteira recomendada
 
@@ -30,9 +30,9 @@ A ordem não é por retorno: é pela nota combinada em Sharpe, retorno ÷ pior q
 |---|---|---|---|
 | 1º | [**IFR**](setups/ifr-de-tendencia) ·TEN | **+66%** | −11% |
 | 2º | [**Bollinger**](setups/rompimento-da-bollinger) ·TEN | **+52%** | −7% |
-| 3º | [**Donchian**](setups/donchian-com-medias) ·TEN | **+84%** | −24% |
+| 3º | [**Donchian**](setups/donchian-com-medias) ·TEN | **+83%** | −24% |
 | 4º | [**Pôr do sol**](setups/por-do-sol) ·POR | **+20%** | −3% |
-| 5º | [**1ª vela 80**](setups/primeira-vela-80-min) ·VEL | **+46%** | −14% |
+| 5º | [**GPS médias**](setups/gps-de-medias) ·TEN | **+67%** | −23% |
 
 [Todos os setups testados](setups/) — inclusive os que não passaram, e por quê.
 
