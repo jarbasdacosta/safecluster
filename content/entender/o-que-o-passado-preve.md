@@ -29,7 +29,7 @@ Em vez do número abstrato, a mesma coisa de outro jeito: pegamos as melhores do
 | Escolhendo as melhores em… | Pior queda que elas tiveram no teste | E as demais |
 |---|---|---|
 | **pior queda** (as 100 melhores) | **-19%** | -43% |
-| **cauda** (as 100 melhores) | **-22%** | -43% |
+| **cauda** (as 100 melhores) | **-23%** | -43% |
 
 As que menos caíram no primeiro período caíram 25 pontos menos que as outras no segundo. **Risco se escolhe.**
 

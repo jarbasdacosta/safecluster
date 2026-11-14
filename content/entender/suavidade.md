@@ -17,10 +17,10 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| extremos + ifr + pullback + rompimento + tendencia | **1,91%** | R\$ 65.699.851 | +262% |
-| fibo + gps + pullback + rompe + tendencia | **0,80%** | R\$ 7.729.376 | +137% |
+| extremos + ifr + pullback + rompimento + tendencia | **1,91%** | R\$ 65.138.451 | +261% |
+| fibo + gps + pullback + rompe + tendencia | **0,80%** | R\$ 7.740.354 | +137% |
 
-Mesma dor exata — as duas caem 40% — e a primeira termina com **8,5 vezes mais dinheiro**.
+Mesma dor exata — as duas caem 40% — e a primeira termina com **8,4 vezes mais dinheiro**.
 
 A explicação está na coluna do meio: a primeira **suporta 2,4 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
 
@@ -38,12 +38,12 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | donchian + macd + pullback + rompimento + tendencia | R\$ 51.028.044 | 16º | R\$ 35.232.687 |
-| 2º | ifr + macd + pullback + rompimento + tendencia | R\$ 49.465.848 | 4º | R\$ 54.621.612 |
-| 3º | donchian + ifr + macd + pullback + rompimento | R\$ 48.774.423 | 5º | R\$ 53.619.308 |
-| 4º | gps + ifr + pullback + rompe + tendencia | R\$ 45.287.687 | 18º | R\$ 29.395.057 |
-| 5º | extremos + ifr + pullback + rompimento + tendencia | R\$ 45.052.078 | 1º | R\$ 65.699.851 |
-| 6º | gps + ifr + macd + pullback + rompimento | R\$ 43.993.954 | 3º | R\$ 57.253.490 |
+| 1º | donchian + macd + pullback + rompimento + tendencia | R\$ 50.280.838 | 16º | R\$ 34.485.481 |
+| 2º | ifr + macd + pullback + rompimento + tendencia | R\$ 48.904.447 | 4º | R\$ 54.060.212 |
+| 3º | donchian + ifr + macd + pullback + rompimento | R\$ 48.358.874 | 5º | R\$ 53.203.759 |
+| 4º | gps + ifr + pullback + rompe + tendencia | R\$ 45.048.286 | 18º | R\$ 29.165.773 |
+| 5º | extremos + ifr + pullback + rompimento + tendencia | R\$ 44.490.678 | 1º | R\$ 65.138.451 |
+| 6º | gps + ifr + macd + pullback + rompimento | R\$ 44.231.082 | 3º | R\$ 57.490.618 |
 
 6 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 

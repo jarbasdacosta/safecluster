@@ -37,11 +37,11 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 ## O que está em jogo
 |  |  |
 |---|---|
-| Período estudado | 26/10/2021 a 12/11/2026 (5,0 anos, 1.254 dias de bolsa) |
+| Período estudado | 26/10/2021 a 13/11/2026 (5,0 anos, 1.255 dias de bolsa) |
 | Setups testados | 17 — 15 entram nas combinações |
 | Combinações avaliadas | 4.928 (de 2 a 5 setups cada) |
 | Capital de partida | R\$ 100.000 |
 | Custo por operação | 15 pontos, já descontados de todo resultado |
 | Limite de perda aceito | 40% do patrimônio (50% no extremo) |
 
-*Gerado em 13/11/2026 21:18 a partir dos dados de 13/11/2026.*
+*Gerado em 13/11/2026 21:40 a partir dos dados de 13/11/2026.*
