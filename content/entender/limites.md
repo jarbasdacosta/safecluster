@@ -1,6 +1,6 @@
 ---
 title: 8 · O que pode dar errado
-date: 2026-11-13
+date: 2026-11-14
 description: "Onde este estudo pode estar errado"
 tags: [entender]
 ---

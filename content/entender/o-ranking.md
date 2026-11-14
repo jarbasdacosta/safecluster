@@ -1,6 +1,6 @@
 ---
 title: 7 · O ranking
-date: 2026-11-13
+date: 2026-11-14
 description: "As carteiras escolhidas e o risco de cada uma"
 tags: [entender]
 ---
@@ -20,7 +20,7 @@ As **20 carteiras** que o método escolheu, usando só o período de treino. Est
 | **3º** | fibo + ifr + por + pullback + rompimento | 5 | 410 | **1,87%** | R\$ 15.462.193 | +171% | -28% |
 | **4º** | fibo + ifr + pullback + rompimento | 4 | 311 | **1,97%** | R\$ 14.991.206 | +170% | -29% |
 | **5º** | ifr + pullback + rompe + rompimento | 4 | 307 | **1,87%** | R\$ 14.393.920 | +168% | -34% |
-| **6º** ◆ | ifr + pullback + rompimento | 3 | 266 | **2,14%** | R\$ 14.270.398 | +167% | -26% |
+| **6º** ⭐ | ifr + pullback + rompimento | 3 | 266 | **2,14%** | R\$ 14.270.398 | +167% | -26% |
 | **7º** | fibo + ifr + por + pullback | 4 | 359 | **3,37%** | R\$ 13.641.334 | +165% | -43% |
 | **8º** | fibo + macd + por + pullback + rompimento | 5 | 434 | **1,89%** | R\$ 12.107.527 | +159% | -32% |
 | **9º** | fibo + ifr + por + rompe + rompimento | 5 | 390 | **1,66%** | R\$ 12.052.663 | +158% | -33% |
@@ -37,7 +37,7 @@ As **20 carteiras** que o método escolheu, usando só o período de treino. Est
 | **20º** | fibo + por + pullback + rompe + rompimento | 5 | 296 | **1,73%** | R\$ 6.535.325 | +129% | -34% |
 
 > [!success] A carteira em operação está entre as escolhidas
-> **ifr + pullback + rompimento** (a 6ª da tabela, marcada com ◆) é a que está sendo operada ao vivo — e o método chegou a ela sozinho, olhando só o período de treino.
+> **ifr + pullback + rompimento** (a 6ª da tabela, marcada com ⭐) é a que está sendo operada ao vivo — e o método chegou a ela sozinho, olhando só o período de treino.
 >
 > No treino ela ficou 14ª em retorno e 60ª em queda entre as 154 combinações. Ajustada para cair 30%, ela suporta 2,14% de risco por operação e termina com R\$ 14.270.398.
 >

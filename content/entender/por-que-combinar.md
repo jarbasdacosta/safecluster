@@ -1,6 +1,6 @@
 ---
 title: 3 · Por que combinar
-date: 2026-11-13
+date: 2026-11-14
 description: "O que se ganha juntando setups — e não é retorno"
 tags: [entender]
 ---
@@ -22,7 +22,7 @@ Nos nossos dados, a 1% por operação:
 |---|---|
 | Setup sozinho, o que cai mais | -37% |
 | Setup sozinho, o do meio da lista | -18% |
-| Carteira de vários setups, a do meio das 19 escolhidas | -21% |
+| Carteira de vários setups, a do meio das 20 escolhidas | -21% |
 
 > [!note] Isso tem nome, e o nome não importa muito
 > O efeito se chama **diversificação**, e a palavra costuma vir junto com a promessa de que ela reduz risco de graça. Não é de graça e não é mágica: ela funciona na medida em que os setups são diferentes entre si de verdade.
@@ -40,7 +40,7 @@ Testamos combinações de 2 a 5 setups — 154 no total. Mais do que isso tem do
 | Setups na carteira | Quantas entre as escolhidas |
 |---|---|
 | 2 | 1 |
-| 3 | 3 |
+| 3 | 4 |
 | 4 | 10 |
 | 5 | 5 |
 

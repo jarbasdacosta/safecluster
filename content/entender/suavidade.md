@@ -1,6 +1,6 @@
 ---
 title: 4 · Por que a carteira mais lisa rende mais
-date: 2026-11-13
+date: 2026-11-14
 description: "A ideia central do método, em um exemplo"
 tags: [entender]
 ---
@@ -13,7 +13,7 @@ Esta é a etapa que explica o método inteiro. Se você ler só uma, leia esta.
 > Então a carteira mais lisa não é a mais conservadora. Bem usada, ela é a que rende mais.
 
 ## O exemplo
-Duas carteiras das nossas 19. Vamos ajustar o risco por operação de cada uma até as duas caírem exatamente **30%** — o mesmo desconforto, para ninguém levar vantagem por estar apostando mais alto:
+Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma até as duas caírem exatamente **30%** — o mesmo desconforto, para ninguém levar vantagem por estar apostando mais alto:
 
 | Carteira | Risco por operação para cair 30% | Virou | Por ano |
 |---|---|---|---|
@@ -43,9 +43,9 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 | 3º | ifr + pullback + rompe + rompimento | R\$ 7.764.449 | 5º | R\$ 14.393.920 |
 | 4º | ifr + por + pullback + rompimento | R\$ 7.640.559 | 2º | R\$ 16.582.630 |
 | 5º | fibo + ifr + pullback + rompimento | R\$ 6.953.188 | 4º | R\$ 14.991.206 |
-| 6º | fibo + ifr + por + rompe + rompimento | R\$ 5.952.512 | 8º | R\$ 12.052.663 |
+| 6º | ifr + pullback + rompimento | R\$ 6.028.164 | 6º | R\$ 14.270.398 |
 
-5 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
+4 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 
 ## Como você usa isso na prática
 Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 30%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.
