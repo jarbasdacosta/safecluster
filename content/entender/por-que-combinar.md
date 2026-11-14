@@ -35,7 +35,7 @@ Vale ser explícito, porque é contraintuitivo: o melhor setup sozinho (Donchian
 O que a combinação compra é **suavidade**. E a etapa seguinte mostra por que suavidade, no fim, vira mais dinheiro do que retorno bruto — o que faz toda a diferença e é a ideia menos óbvia deste site.
 
 ## Quantos setups juntar
-Testamos combinações de 2 a 5 setups — 154 no total. Mais do que isso tem dois problemas: cada setup novo acrescenta menos suavidade que o anterior (os períodos ruins começam a se sobrepor), e na prática você precisa acompanhar todos eles todos os dias.
+Testamos combinações de 2 a 5 setups — 4.928 no total. Mais do que isso tem dois problemas: cada setup novo acrescenta menos suavidade que o anterior (os períodos ruins começam a se sobrepor), e na prática você precisa acompanhar todos eles todos os dias.
 
 | Setups na carteira | Quantas entre as escolhidas |
 |---|---|

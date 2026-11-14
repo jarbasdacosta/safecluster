@@ -39,7 +39,7 @@ As **20 carteiras** que o método escolheu, usando só o período de treino. Est
 > [!success] A carteira em operação está entre as escolhidas
 > **ifr + pullback + rompimento** (a 6ª da tabela, marcada com ⭐) é a que está sendo operada ao vivo — e o método chegou a ela sozinho, olhando só o período de treino.
 >
-> No treino ela ficou 14ª em retorno e 60ª em queda entre as 154 combinações. Ajustada para cair 30%, ela suporta 2,14% de risco por operação e termina com R\$ 14.270.398.
+> No treino ela ficou 14ª em retorno e 60ª em queda entre as 154 que cabem no limite de perda. Ajustada para cair 30%, ela suporta 2,14% de risco por operação e termina com R\$ 14.270.398.
 >
 > Cumpriu a promessa melhor que 9 das 19 outras: prometia -30% e viveu -26% no teste.
 >

@@ -5,7 +5,7 @@ description: "O que se repete do primeiro período para o segundo, e o que não"
 tags: [entender]
 ---
 
-Temos 154 combinações possíveis. Precisamos escolher. A pergunta que decide tudo é: **escolher olhando o quê?**
+Temos 4.928 combinações possíveis. Precisamos escolher. A pergunta que decide tudo é: **escolher olhando o quê?**
 
 A resposta não pode ser opinião, porque é testável. Cortamos os dados em dois, medimos cada combinação nos dois pedaços, e perguntamos o que se repete.
 
@@ -44,7 +44,7 @@ Daí a forma do método: usar o retorno para **delimitar um grupo** e depois esc
 > A etapa [6 · O método de escolha](o-metodo) mostra o que acontece com quem escolhe assim: **fica atrás de quem escolhe por sorteio.** Não um pouco atrás — atrás.
 
 > [!abstract] Confira a conta você mesmo
-> <a href="combinacoes.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar combinacoes.xlsx</a> — as 154 combinações com retorno, pior queda e cauda nos dois períodos, para você refazer as duas listas
+> <a href="combinacoes.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar combinacoes.xlsx</a> — as 4.928 combinações com retorno, pior queda e cauda nos dois períodos — a aba **Por retorno** traz a lista inteira ordenada, com as escolhidas marcadas
 >
 > A planilha sai do mesmo cálculo que esta página, não de um cálculo paralelo: contratos inteiros, mesmo custo, mesmas regras. Se os números divergirem, é defeito nosso e queremos saber.
 

@@ -39,9 +39,9 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 |---|---|
 | Período estudado | 26/10/2021 a 13/11/2026 (5,0 anos, 1.255 dias de bolsa) |
 | Setups testados | 17 — 15 entram nas combinações |
-| Combinações avaliadas | 154 (de 2 a 5 setups cada) |
+| Combinações avaliadas | 4.928 (de 2 a 5 setups cada) — 154 cabem no limite de perda |
 | Capital de partida | R\$ 100.000 |
 | Custo por operação | 15 pontos, já descontados de todo resultado |
 | Limite de perda aceito | 30% do patrimônio (40% no extremo) |
 
-*Gerado em 14/11/2026 06:54 a partir dos dados de 13/11/2026.*
+*Gerado em 14/11/2026 07:08 a partir dos dados de 13/11/2026.*

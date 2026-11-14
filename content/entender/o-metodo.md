@@ -9,7 +9,7 @@ tags: [entender]
 > [!success] A regra
 > **Entre os 10% de combinações que mais renderam no período de treino, escolhe-se a que menos balançou.**
 >
-> Nem a que mais rendeu, nem a que menos balançou no geral: a mais lisa entre as boas. São 40 combinações no grupo de cima, de 154 possíveis.
+> Nem a que mais rendeu, nem a que menos balançou no geral: a mais lisa entre as boas. São 40 combinações no grupo de cima, de 154 que cabem no limite de perda — que por sua vez saíram de 4.928 combinações possíveis.
 
 O resto desta página é a prova de que essa regra é melhor que as alternativas — e a medida de quanto dessa afirmação é sólida e quanto não é.
 
