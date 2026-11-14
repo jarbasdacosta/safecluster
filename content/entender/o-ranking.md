@@ -5,7 +5,7 @@ description: "As carteiras escolhidas e o risco de cada uma"
 tags: [entender]
 ---
 
-As **19 carteiras** que o método escolheu, usando só o período de treino, mais **1** que entra apenas como comparação (a que está em operação). Estão ordenadas pelo que rendem **quando o risco de cada uma é ajustado para cair 30%** — porque é essa a ordem que corresponde ao que você vai operar, com todas doendo igual.
+As **20 carteiras** que o método escolheu, usando só o período de treino. Estão ordenadas pelo que rendem **quando o risco de cada uma é ajustado para cair 30%** — porque é essa a ordem que corresponde ao que você vai operar, com todas doendo igual.
 
 > [!warning] Antes de olhar a tabela, dois números
 > **O risco mostrado está otimista.** Ele foi calibrado no passado, e calibrar para 30% entregou 34% quando testado de verdade. Para viver 30%, calibre para **26%** — ou seja, use cerca de -12% do risco indicado.
@@ -20,7 +20,7 @@ As **19 carteiras** que o método escolheu, usando só o período de treino, mai
 | **3º** | fibo + ifr + por + pullback + rompimento | 5 | 410 | **1,87%** | R\$ 15.462.193 | +171% | -28% |
 | **4º** | fibo + ifr + pullback + rompimento | 4 | 311 | **1,97%** | R\$ 14.991.206 | +170% | -29% |
 | **5º** | ifr + pullback + rompe + rompimento | 4 | 307 | **1,87%** | R\$ 14.393.920 | +168% | -34% |
-| **em operação** | ifr + pullback + rompimento | 3 | 266 | **2,14%** | R\$ 14.270.398 | +167% | -26% |
+| **6º** ◆ | ifr + pullback + rompimento | 3 | 266 | **2,14%** | R\$ 14.270.398 | +167% | -26% |
 | **7º** | fibo + ifr + por + pullback | 4 | 359 | **3,37%** | R\$ 13.641.334 | +165% | -43% |
 | **8º** | fibo + macd + por + pullback + rompimento | 5 | 434 | **1,89%** | R\$ 12.107.527 | +159% | -32% |
 | **9º** | fibo + ifr + por + rompe + rompimento | 5 | 390 | **1,66%** | R\$ 12.052.663 | +158% | -33% |
@@ -36,14 +36,14 @@ As **19 carteiras** que o método escolheu, usando só o período de treino, mai
 | **19º** | fibo + ifr + pullback + rompe | 4 | 300 | **1,60%** | R\$ 8.711.463 | +142% | -35% |
 | **20º** | fibo + por + pullback + rompe + rompimento | 5 | 296 | **1,73%** | R\$ 6.535.325 | +129% | -34% |
 
-> [!example] A última linha não é uma escolha do método
-> **ifr + pullback + rompimento** é a carteira que está sendo operada ao vivo, e ela entra aqui com as mesmas medidas de todas as outras — para comparar sem torcer para nenhum lado.
+> [!success] A carteira em operação está entre as escolhidas
+> **ifr + pullback + rompimento** (a 6ª da tabela, marcada com ◆) é a que está sendo operada ao vivo — e o método chegou a ela sozinho, olhando só o período de treino.
 >
-> O método **não** a escolheu. No período de treino ela ficou 14ª em retorno e 60ª em queda entre as 154 combinações, então não entrou no grupo dos 10% de maior retorno.
+> No treino ela ficou 14ª em retorno e 60ª em queda entre as 154 combinações. Ajustada para cair 30%, ela suporta 2,14% de risco por operação e termina com R\$ 14.270.398.
 >
-> Ajustada para cair 30% como as outras, ela precisa de 2,14% de risco por operação e termina com R\$ 14.270.398 — o que a poria em **6º lugar** entre as 19 escolhidas.
+> Cumpriu a promessa melhor que 9 das 19 outras: prometia -30% e viveu -26% no teste.
 >
-> Isto é informação para decidir, não um veredito. Uma carteira que já está em operação tem um valor que o ranking não mede: ela está testada na prática, com execução real, derrapagem real e o emocional real de quem a opera.
+> **Isto não é confirmação independente.** O método e essa carteira foram medidos nos mesmos cinco anos, e o limite de queda foi apertado ao longo do estudo até refletir o que o operador aguenta. Coincidir é um bom sinal, não uma prova — dois caminhos partindo dos mesmos dados chegando no mesmo lugar.
 
 A coluna da direita é a mais importante e a menos agradável: é a queda que a carteira **de fato teve** no período de teste, usando o risco calibrado às cegas no treino. Compare com 30%, que era a promessa.
 
