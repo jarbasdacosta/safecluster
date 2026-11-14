@@ -15,7 +15,7 @@ No primeiro pedaço (2,2 anos), fazemos uma lista das combinações em ordem. No
 | Característica | As listas se parecem? | Quanto |
 |---|---|---|
 | A pior queda | **muito** | 0,79 de 1,00 |
-| A cauda | **muito** | 0,76 de 1,00 |
+| A cauda | **muito** | 0,78 de 1,00 |
 | O retorno | em parte | 0,60 de 1,00 |
 
 > [!note] Como ler esse número
@@ -29,7 +29,7 @@ Em vez do número abstrato, a mesma coisa de outro jeito: pegamos as melhores do
 | Escolhendo as melhores em… | Pior queda que elas tiveram no teste | E as demais |
 |---|---|---|
 | **pior queda** (as 100 melhores) | **-19%** | -43% |
-| **cauda** (as 100 melhores) | **-23%** | -43% |
+| **cauda** (as 100 melhores) | **-23%** | -44% |
 
 As que menos caíram no primeiro período caíram 25 pontos menos que as outras no segundo. **Risco se escolhe.**
 

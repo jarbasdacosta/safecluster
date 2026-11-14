@@ -21,7 +21,7 @@ Em inglês *drawdown*. Quanto a conta devolveu a partir do ponto mais alto que j
 
 ### Cauda
 
-A pior queda que *poderia* ter acontecido. Embaralhamos as mesmas operações em 300 ordens diferentes e olhamos o pior ano entre vinte. Serve para não confundir sorte com qualidade. É uma estimativa, não um histórico.
+A pior queda que *poderia* ter acontecido. Embaralhamos as mesmas operações em 2.000 ordens diferentes e olhamos o pior ano entre vinte. Serve para não confundir sorte com qualidade. É uma estimativa, não um histórico.
 
 ### Risco por operação
 

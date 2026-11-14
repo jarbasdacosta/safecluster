@@ -1,5 +1,5 @@
 ---
-title: 8 · O que pode dar errado
+title: 9 · O que pode dar errado
 date: 2026-11-14
 description: "Onde este estudo pode estar errado"
 tags: [entender]
@@ -24,24 +24,24 @@ Isto está medido, e o número é feio:
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 2,10% |
+| Risco calibrado no treino | 2,13% |
 | Queda que ele prometia | -30% |
-| Queda que ele entregou | **-34%** |
-| Erro | **1,13×** |
+| Queda que ele entregou | **-33%** |
+| Erro | **1,10×** |
 | Carteiras que furaram 40% | 1 de 20 |
 
-A correção é direta: **calibre para 27% se quer viver 30%.** Mas note que esse fator de 1,13× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
+A correção é direta: **calibre para 27% se quer viver 30%.** Mas note que esse fator de 1,10× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
 
 ## 4. Os números grandes não são expectativa
-A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 17.265.243 em 5,0 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
+A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 16.582.630 em 5,0 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
 
-O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,13× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
+O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,10× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
 
 ## 5. Cinco anos é pouco
 Todo este estudo cabe em 5,0 anos e 1.255 dias de bolsa. Nesse intervalo o mini índice não passou por tudo que ele pode passar. Um regime de mercado que não apareceu aqui pode quebrar setups que neste período pareceram sólidos — e nenhuma conta feita sobre estes dados consegue avisar sobre isso.
 
 ## 6. A cauda é uma estimativa, não um histórico
-A **pior queda** é o que aconteceu de fato. A **cauda** é diferente: embaralhamos as mesmas operações em 300 ordens diferentes e olhamos o pior ano entre vinte. Serve para enxergar o azar que não aconteceu.
+A **pior queda** é o que aconteceu de fato. A **cauda** é diferente: embaralhamos as mesmas operações em 2.000 ordens diferentes e olhamos o pior ano entre vinte. Serve para enxergar o azar que não aconteceu.
 
 Mas embaralhar **desfaz o agrupamento das perdas** — e perdas agrupadas são justamente o que produz as quedas mais fundas. Por isso a cauda pode sair mais otimista que a realidade em carteiras cujos erros vêm em sequência. Ela também é calculada com posição proporcional, não com contratos inteiros como o resto do site.
 
@@ -60,6 +60,6 @@ Mas embaralhar **desfaz o agrupamento das perdas** — e perdas agrupadas são j
 
 ---
 
-← **anterior:** [7 · O ranking](o-ranking)  
+← **anterior:** [8 · Ano a ano, mês a mês](ano-a-ano)  
 
 [a trilha toda](./) · [glossário](glossario)
