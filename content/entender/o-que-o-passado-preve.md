@@ -44,7 +44,7 @@ Daí a forma do método: usar o retorno para **delimitar um grupo** e depois esc
 > A etapa [6 · O método de escolha](o-metodo) mostra o que acontece com quem escolhe assim: **fica atrás de quem escolhe por sorteio.** Não um pouco atrás — atrás.
 
 > [!abstract] Confira a conta você mesmo
-> [**Baixar combinacoes.xlsx**](combinacoes.xlsx) — as 4.928 combinações com retorno, pior queda e cauda nos dois períodos, para você refazer as duas listas
+> <a href="combinacoes.xlsx" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"><strong>⬇ Baixar combinacoes.xlsx</strong></a> — as 4.928 combinações com retorno, pior queda e cauda nos dois períodos, para você refazer as duas listas
 >
 > A planilha sai do mesmo cálculo que esta página, não de um cálculo paralelo: contratos inteiros, mesmo custo, mesmas regras. Se os números divergirem, é defeito nosso e queremos saber.
 

@@ -85,7 +85,7 @@ Em números: as duas calibradas para 40%, o sorteio entregou 46% e a regra 49%. 
 Seja qual for o caso, o número que você leva para a prática é o mesmo: **40% prometido não é 40% vivido.** A etapa [8 · O que pode dar errado](limites) tem a correção.
 
 > [!abstract] Confira a conta você mesmo
-> [**Baixar regras.xlsx**](regras.xlsx) — as regras comparadas na mesma queda, com faixa de incerteza, risco por operação e erro da promessa; mais a comparação a risco fixo (para ver como ela engana) e as regras descartadas por inconsistência
+> <a href="regras.xlsx" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"><strong>⬇ Baixar regras.xlsx</strong></a> — as regras comparadas na mesma queda, com faixa de incerteza, risco por operação e erro da promessa; mais a comparação a risco fixo (para ver como ela engana) e as regras descartadas por inconsistência
 >
 > A planilha sai do mesmo cálculo que esta página, não de um cálculo paralelo: contratos inteiros, mesmo custo, mesmas regras. Se os números divergirem, é defeito nosso e queremos saber.
 
