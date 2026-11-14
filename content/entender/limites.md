@@ -24,13 +24,13 @@ Isto está medido, e o número é feio:
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 2,08% |
+| Risco calibrado no treino | 2,10% |
 | Queda que ele prometia | -30% |
 | Queda que ele entregou | **-34%** |
 | Erro | **1,13×** |
-| Carteiras que furaram 40% | 1 de 19 |
+| Carteiras que furaram 40% | 1 de 20 |
 
-A correção é direta: **calibre para 26% se quer viver 30%.** Mas note que esse fator de 1,13× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
+A correção é direta: **calibre para 27% se quer viver 30%.** Mas note que esse fator de 1,13× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
 
 ## 4. Os números grandes não são expectativa
 A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 17.265.243 em 5,0 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.

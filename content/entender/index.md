@@ -44,4 +44,4 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 | Custo por operação | 15 pontos, já descontados de todo resultado |
 | Limite de perda aceito | 30% do patrimônio (40% no extremo) |
 
-*Gerado em 13/11/2026 22:46 a partir dos dados de 13/11/2026.*
+*Gerado em 13/11/2026 22:54 a partir dos dados de 13/11/2026.*

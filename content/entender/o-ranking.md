@@ -8,9 +8,9 @@ tags: [entender]
 As **20 carteiras** que o método escolheu, usando só o período de treino. Estão ordenadas pelo que rendem **quando o risco de cada uma é ajustado para cair 30%** — porque é essa a ordem que corresponde ao que você vai operar, com todas doendo igual.
 
 > [!warning] Antes de olhar a tabela, dois números
-> **O risco mostrado está otimista.** Ele foi calibrado no passado, e calibrar para 30% entregou 34% quando testado de verdade. Para viver 30%, calibre para **26%** — ou seja, use cerca de -12% do risco indicado.
+> **O risco mostrado está otimista.** Ele foi calibrado no passado, e calibrar para 30% entregou 34% quando testado de verdade. Para viver 30%, calibre para **27%** — ou seja, use cerca de -11% do risco indicado.
 >
-> **1 destas 19 carteiras furaram o limite extremo de 40% no teste.** Escolhendo uma no escuro, há uma chance em 19 de ela furar o seu teto. Isto não é ressalva de rodapé: é informação para decidir.
+> **1 destas 20 carteiras furaram o limite extremo de 40% no teste.** Escolhendo uma no escuro, há uma chance em 20 de ela furar o seu teto. Isto não é ressalva de rodapé: é informação para decidir.
 
 ## A tabela
 | # | Carteira | Setups | Ops/ano | Risco/op para 30% | Virou | Por ano | Queda real no teste |
