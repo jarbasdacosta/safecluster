@@ -94,10 +94,16 @@ Esta tabela não é sobre quanto cada setup rende. É sobre **se a promessa de r
 
 O extremo de cima é claro: as combinações que incluem **extremos-da-semana-virada** caem 5 pontos a mais do que as que não o incluem.
 
-> [!example] E o que fizemos com essa informação: nada
-> O resultado honesto é que **tentamos usar essa tabela e não funcionou**. Tirar os piores do universo de combinações foi testado com três cortes diferentes, e os três discordaram entre si — inclusive o corte que remove exatamente os três piores foi o que mais estourou o limite de perda.
+> [!success] E o que fizemos com essa informação: peneiramos
+> **Desta vez funcionou, e virou regra.** A regra adotada pelo método é *peneira 9 setups + grupo de cima + menor queda*: antes de escolher, tira do universo os setups de pior queda no treino e só então aplica o resto do método.
 >
-> A etapa [6 · O método de escolha](o-metodo) mostra esses números. A medida é real; transformá-la em filtro, não conseguimos. Fica registrada porque é informação para você decidir, não porque virou regra.
+> Ficam de fora: **Extremos da Semana (virada de mão)**, **GPS de Médias**, **Donchian com Médias**, **Vai na Onda**, **ADX da Manhã**, **Explosão da Bollinger**. Sobram 106 combinações para escolher.
+>
+> Ela rende 1,43× o que renderia escolher por sorteio, com todas as carteiras ajustadas para cair o mesmo. E cumpre a promessa de risco com erro de 1,10×.
+>
+> Os outros cortes testados (2) deram 1,23× e 1,23× — próximos o bastante para a ideia não depender de onde se corta. Quando eles discordam entre si, o método tira a família inteira da disputa, porque aí a vencedora seria o corte sorteado e não a ideia.
+>
+> A etapa [6 · O método de escolha](o-metodo) tem a comparação completa.
 
 > [!abstract] Confira a conta você mesmo
 > <a href="setups.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar setups.xlsx</a> — os 17 setups com a ficha completa nos três modos de risco, ano a ano, e a tabela de degradação
