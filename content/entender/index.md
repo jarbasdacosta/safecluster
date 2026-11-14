@@ -31,7 +31,8 @@ Abaixo está o raciocínio completo: **por que juntar setups, como escolher quai
 | [6 · O método de escolha](o-metodo) | A regra adotada, as outras testadas e o que não funcionou |
 | [7 · O ranking](o-ranking) | As carteiras escolhidas e o risco de cada uma |
 | [8 · Ano a ano, mês a mês](ano-a-ano) | O calendário de resultados das 20, ano a ano e mês a mês |
-| [9 · O que pode dar errado](limites) | Onde este estudo pode estar errado |
+| [9 · Operação a operação](extrato) | O extrato inteiro, operação por operação |
+| [10 · O que pode dar errado](limites) | Onde este estudo pode estar errado |
 
 Além delas: o **[glossário](glossario)**, com todos os termos usados, e as planilhas de cada etapa, para você refazer qualquer conta.
 
@@ -45,4 +46,4 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 | Custo por operação | 15 pontos, já descontados de todo resultado |
 | Limite de perda aceito | 30% do patrimônio (40% no extremo) |
 
-*Gerado em 14/11/2026 08:15 a partir dos dados de 14/11/2026.*
+*Gerado em 14/11/2026 08:31 a partir dos dados de 14/11/2026.*

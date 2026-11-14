@@ -50,7 +50,7 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 ## Como você usa isso na prática
 Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 30%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.
 
-Com um aviso importante, que a etapa [9 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 30% entregou 38% quando testado de verdade — então **calibra-se para 24% para viver 30%**.
+Com um aviso importante, que a etapa [10 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 30% entregou 38% quando testado de verdade — então **calibra-se para 24% para viver 30%**.
 
 ---
 

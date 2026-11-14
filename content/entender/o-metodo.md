@@ -67,7 +67,7 @@ Entre as 8 regras que empatam em retorno, o desempate foi por **menor erro de ca
 ## O preço do método
 A regra adotada e o sorteio cumprem a promessa de risco praticamente igual nesta rodada (1,27× contra 1,27×), com a regra pagando 1,47× o retorno do sorteio. Quando o cumprimento empata, a escolha do método sai de graça — e é o único caso em que sai.
 
-Seja qual for o caso, o número que você leva para a prática é o mesmo: **30% prometido não é 30% vivido.** A etapa [9 · O que pode dar errado](limites) tem a correção.
+Seja qual for o caso, o número que você leva para a prática é o mesmo: **30% prometido não é 30% vivido.** A etapa [10 · O que pode dar errado](limites) tem a correção.
 
 > [!abstract] Confira a conta você mesmo
 > <a href="regras.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar regras.xlsx</a> — as regras comparadas na mesma queda, com faixa de incerteza, risco por operação e erro da promessa; mais a comparação a risco fixo (para ver como ela engana) e as regras descartadas por inconsistência

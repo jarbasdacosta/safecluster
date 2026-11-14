@@ -1,5 +1,5 @@
 ---
-title: 9 · O que pode dar errado
+title: 10 · O que pode dar errado
 date: 2026-11-14
 description: "Onde este estudo pode estar errado"
 tags: [entender]
@@ -69,6 +69,6 @@ Mas embaralhar **desfaz o agrupamento das perdas** — e perdas agrupadas são j
 
 ---
 
-← **anterior:** [8 · Ano a ano, mês a mês](ano-a-ano)  
+← **anterior:** [9 · Operação a operação](extrato)  
 
 [a trilha toda](./) · [glossário](glossario)

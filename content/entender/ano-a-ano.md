@@ -402,6 +402,6 @@ Risco por operação: **1,85%** · capital final R\$ 6.784.196 · meses positivo
 ---
 
 ← **anterior:** [7 · O ranking](o-ranking)  
-→ **próxima:** [9 · O que pode dar errado](limites)  
+→ **próxima:** [9 · Operação a operação](extrato)  
 
 [a trilha toda](./) · [glossário](glossario)
