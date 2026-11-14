@@ -58,8 +58,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 304.539 | +25% | -5% | -7% | 89 dias | 82% | 5 → 20 | 0% |
 | **1%** | 1,00% | R\$ 7.640.559 | +136% | -19% | -24% | 89 dias | 82% | 21 → 1000 | 3% |
 | **2%** | 2,00% | R\$ 14.640.897 | +169% | -28% | -43% | 89 dias | 79% | 43 → 1000 | 58% |
+| **honesto** | **1,19%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,60%** | R\$ 13.345.566 | +164% | -30% (pior ano -30%) | -37% | 89 dias | 81% | 34 → 1000 | **43%** |
 | no extremo | 2,26% | R\$ 15.211.022 | +171% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -40% em vez dos 30% prometidos (1,34× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -91,8 +96,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 291.526 | +24% | -5% | -7% | 89 dias | 74% | 5 → 19 | 0% |
 | **1%** | 1,00% | R\$ 6.953.188 | +132% | -22% | -25% | 99 dias | 74% | 21 → 1000 | 2% |
 | **2%** | 2,00% | R\$ 15.082.634 | +170% | -31% | -45% | 144 dias | 74% | 43 → 1000 | 51% |
+| **honesto** | **1,10%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,44%** | R\$ 12.656.691 | +161% | -30% (pior ano -30%) | -34% | 103 dias | 74% | 31 → 1000 | 30% |
 | no extremo | 2,05% | R\$ 15.210.612 | +171% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -39% em vez dos 30% prometidos (1,32× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -124,8 +134,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,33% | R\$ 406.974 | +32% | -6% | -9% | 89 dias | 79% | 7 → 34 | 0% |
 | **1%** | 1,00% | R\$ 6.028.164 | +125% | -20% | -25% | 89 dias | 79% | 21 → 1000 | 0% |
 | **2%** | 2,00% | R\$ 13.851.560 | +166% | -26% | -44% | 102 dias | 77% | 43 → 1000 | 55% |
+| **honesto** | **1,17%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,58%** | R\$ 12.452.669 | +160% | -30% (pior ano -30%) | -37% | 89 dias | 77% | 34 → 1000 | **37%** |
 | no extremo | 2,23% | R\$ 14.453.930 | +168% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -40% em vez dos 30% prometidos (1,34× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -157,8 +172,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 219.071 | +17% | -4% | -7% | 105 dias | 77% | 5 → 10 | 0% |
 | **1%** | 1,00% | R\$ 2.395.916 | +88% | -15% | -25% | 113 dias | 77% | 21 → 350 | 0% |
 | **2%** | 2,00% | R\$ 10.579.948 | +152% | -30% | -44% | 132 dias | 76% | 43 → 1000 | 37% |
+| **honesto** | **2,01%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **2,16%** | R\$ 11.070.524 | +154% | -30% (pior ano -30%) | -46% | 160 dias | 76% | 46 → 1000 | **44%** |
 | no extremo | 3,05% | R\$ 13.092.229 | +163% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -32% em vez dos 30% prometidos (1,08× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -190,8 +210,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 245.045 | +19% | -4% | -6% | 92 dias | 77% | 5 → 17 | 0% |
 | **1%** | 1,00% | R\$ 3.765.049 | +105% | -18% | -22% | 92 dias | 77% | 20 → 788 | 0% |
 | **2%** | 2,00% | R\$ 11.382.531 | +155% | -26% | -40% | 117 dias | 76% | 41 → 1000 | 41% |
+| **honesto** | **1,46%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,80%** | R\$ 10.683.600 | +152% | -30% (pior ano -30%) | -37% | 117 dias | 77% | 37 → 1000 | **35%** |
 | no extremo | 2,55% | R\$ 12.354.369 | +160% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -37% em vez dos 30% prometidos (1,23× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -223,8 +248,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,20% | R\$ 212.419 | +16% | -4% | -5% | 103 dias | 79% | 4 → 12 | 0% |
 | **1%** | 1,00% | R\$ 4.389.493 | +112% | -21% | -22% | 103 dias | 79% | 20 → 927 | 0% |
 | **2%** | 2,00% | R\$ 12.423.283 | +160% | -31% | -39% | 117 dias | 74% | 41 → 1000 | 39% |
+| **honesto** | **1,33%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,57%** | R\$ 10.670.890 | +152% | -30% (pior ano -30%) | -32% | 117 dias | 79% | 33 → 1000 | 26% |
 | no extremo | 2,23% | R\$ 13.072.073 | +163% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -35% em vez dos 30% prometidos (1,18× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -256,8 +286,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,33% | R\$ 269.825 | +22% | -5% | -9% | 145 dias | 76% | 7 → 15 | 0% |
 | **1%** | 1,00% | R\$ 2.026.401 | +81% | -14% | -25% | 145 dias | 77% | 21 → 296 | 0% |
 | **2%** | 2,00% | R\$ 9.610.233 | +147% | -25% | -45% | 145 dias | 77% | 43 → 1000 | 36% |
+| **honesto** | **2,03%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **2,24%** | R\$ 10.162.769 | +150% | -30% (pior ano -28%) | -50% | 152 dias | 74% | 48 → 1000 | **46%** |
 | no extremo | 3,19% | R\$ 11.821.515 | +157% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -33% em vez dos 30% prometidos (1,11× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -289,8 +324,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 261.266 | +21% | -5% | -6% | 123 dias | 69% | 5 → 17 | 0% |
 | **1%** | 1,00% | R\$ 4.516.334 | +113% | -21% | -23% | 124 dias | 69% | 21 → 854 | 0% |
 | **2%** | 2,00% | R\$ 12.392.676 | +160% | -30% | -42% | 124 dias | 71% | 43 → 1000 | 38% |
+| **honesto** | **1,11%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,47%** | R\$ 10.132.311 | +150% | -30% (pior ano -30%) | -33% | 124 dias | 69% | 31 → 1000 | 24% |
 | no extremo | 2,08% | R\$ 12.600.515 | +161% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -40% em vez dos 30% prometidos (1,32× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -322,8 +362,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 224.936 | +17% | -4% | -7% | 122 dias | 74% | 5 → 10 | 0% |
 | **1%** | 1,00% | R\$ 2.756.902 | +93% | -17% | -26% | 122 dias | 74% | 21 → 403 | 0% |
 | **2%** | 2,00% | R\$ 10.352.218 | +151% | -30% | -46% | 201 dias | 68% | 43 → 1000 | 44% |
+| **honesto** | **1,53%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,82%** | R\$ 9.842.014 | +148% | -30% (pior ano -30%) | -42% | 147 dias | 71% | 39 → 1000 | **35%** |
 | no extremo | 2,57% | R\$ 11.845.934 | +157% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -36% em vez dos 30% prometidos (1,19× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -355,8 +400,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 271.462 | +22% | -6% | -7% | 107 dias | 69% | 5 → 18 | 0% |
 | **1%** | 1,00% | R\$ 5.144.860 | +118% | -23% | -24% | 107 dias | 69% | 21 → 972 | 0% |
 | **2%** | 2,00% | R\$ 12.139.331 | +159% | -33% | -44% | 127 dias | 68% | 43 → 1000 | 45% |
+| **honesto** | **0,88%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,32%** | R\$ 9.579.665 | +147% | -30% (pior ano -30%) | -32% | 107 dias | 69% | 28 → 1000 | 22% |
 | no extremo | 1,88% | R\$ 11.854.506 | +158% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -45% em vez dos 30% prometidos (1,49× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -388,8 +438,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,20% | R\$ 225.767 | +18% | -5% | -5% | 89 dias | 66% | 4 → 12 | 0% |
 | **1%** | 1,00% | R\$ 5.952.512 | +125% | -26% | -24% | 111 dias | 66% | 21 → 1000 | 1% |
 | **2%** | 2,00% | R\$ 13.429.878 | +164% | -35% | -44% | 124 dias | 66% | 43 → 1000 | 45% |
+| **honesto** | **0,83%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,23%** | R\$ 9.565.811 | +147% | -30% (pior ano -30%) | -29% | 111 dias | 66% | 26 → 1000 | 18% |
 | no extremo | 1,74% | R\$ 12.484.242 | +160% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -44% em vez dos 30% prometidos (1,47× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -421,8 +476,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 237.941 | +19% | -5% | -6% | 95 dias | 74% | 5 → 16 | 0% |
 | **1%** | 1,00% | R\$ 3.280.496 | +100% | -20% | -23% | 103 dias | 71% | 20 → 693 | 0% |
 | **2%** | 2,00% | R\$ 11.342.469 | +155% | -29% | -41% | 116 dias | 71% | 41 → 1000 | 34% |
+| **honesto** | **1,24%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,58%** | R\$ 9.439.581 | +146% | -30% (pior ano -30%) | -33% | 115 dias | 71% | 33 → 1000 | 20% |
 | no extremo | 2,24% | R\$ 12.056.744 | +158% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -38% em vez dos 30% prometidos (1,27× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -454,8 +514,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,33% | R\$ 255.046 | +20% | -5% | -9% | 160 dias | 74% | 7 → 14 | 0% |
 | **1%** | 1,00% | R\$ 1.750.965 | +76% | -16% | -26% | 160 dias | 71% | 21 → 258 | 0% |
 | **2%** | 2,00% | R\$ 9.427.865 | +146% | -32% | -46% | 161 dias | 71% | 43 → 1000 | 27% |
+| **honesto** | **1,55%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,92%** | R\$ 9.118.716 | +144% | -30% (pior ano -30%) | -45% | 161 dias | 71% | 41 → 1000 | 25% |
 | no extremo | 2,71% | R\$ 11.506.278 | +156% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -37% em vez dos 30% prometidos (1,24× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -487,8 +552,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,50% | R\$ 395.833 | +31% | -7% | -13% | 129 dias | 73% | 10 → 28 | 0% |
 | **1%** | 1,00% | R\$ 1.477.245 | +70% | -14% | -25% | 129 dias | 73% | 21 → 218 | 0% |
 | **2%** | 2,00% | R\$ 8.460.687 | +141% | -28% | -45% | 160 dias | 73% | 43 → 1000 | 27% |
+| **honesto** | **1,87%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **2,18%** | R\$ 9.040.966 | +144% | -30% (pior ano -29%) | -49% | 160 dias | 69% | 47 → 1000 | **34%** |
 | no extremo | 3,10% | R\$ 10.857.524 | +153% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -35% em vez dos 30% prometidos (1,17× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -520,8 +590,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 245.905 | +20% | -5% | -7% | 95 dias | 74% | 5 → 17 | 0% |
 | **1%** | 1,00% | R\$ 3.782.520 | +105% | -22% | -24% | 105 dias | 74% | 20 → 780 | 0% |
 | **2%** | 2,00% | R\$ 11.212.075 | +155% | -30% | -43% | 158 dias | 73% | 41 → 1000 | 40% |
+| **honesto** | **1,09%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,43%** | R\$ 8.930.691 | +143% | -30% (pior ano -30%) | -34% | 115 dias | 73% | 29 → 1000 | 14% |
 | no extremo | 2,03% | R\$ 11.276.844 | +155% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -39% em vez dos 30% prometidos (1,31× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -553,8 +628,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 221.906 | +17% | -5% | -7% | 160 dias | 71% | 5 → 10 | 0% |
 | **1%** | 1,00% | R\$ 2.398.420 | +88% | -19% | -27% | 160 dias | 69% | 21 → 354 | 0% |
 | **2%** | 2,00% | R\$ 10.349.923 | +151% | -37% | -47% | 161 dias | 69% | 43 → 1000 | 34% |
+| **honesto** | **1,37%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,62%** | R\$ 8.829.076 | +143% | -30% (pior ano -30%) | -40% | 161 dias | 68% | 35 → 1000 | 17% |
 | no extremo | 2,29% | R\$ 11.672.165 | +157% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -35% em vez dos 30% prometidos (1,18× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -586,8 +666,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,33% | R\$ 273.035 | +22% | -5% | -10% | 159 dias | 73% | 7 → 15 | 0% |
 | **1%** | 1,00% | R\$ 2.030.800 | +82% | -17% | -27% | 160 dias | 71% | 21 → 300 | 0% |
 | **2%** | 2,00% | R\$ 9.374.815 | +146% | -33% | -47% | 161 dias | 66% | 43 → 1000 | 33% |
+| **honesto** | **1,42%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,78%** | R\$ 8.811.162 | +143% | -30% (pior ano -30%) | -43% | 160 dias | 69% | 38 → 1000 | 24% |
 | no extremo | 2,53% | R\$ 10.921.862 | +153% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -38% em vez dos 30% prometidos (1,26× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -619,8 +704,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,33% | R\$ 347.986 | +28% | -8% | -9% | 114 dias | 71% | 7 → 29 | 0% |
 | **1%** | 1,00% | R\$ 3.917.412 | +107% | -23% | -25% | 127 dias | 68% | 21 → 731 | 0% |
 | **2%** | 2,00% | R\$ 11.244.219 | +155% | -30% | -45% | 127 dias | 71% | 43 → 1000 | 41% |
+| **honesto** | **0,82%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,30%** | R\$ 8.325.034 | +140% | -30% (pior ano -30%) | -32% | 127 dias | 69% | 28 → 1000 | 18% |
 | no extremo | 1,85% | R\$ 10.783.452 | +153% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -48% em vez dos 30% prometidos (1,59× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -652,8 +742,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,25% | R\$ 263.466 | +21% | -6% | -7% | 114 dias | 68% | 5 → 17 | 0% |
 | **1%** | 1,00% | R\$ 4.571.064 | +113% | -25% | -25% | 114 dias | 66% | 21 → 858 | 0% |
 | **2%** | 2,00% | R\$ 12.402.676 | +160% | -32% | -45% | 127 dias | 65% | 43 → 1000 | 37% |
+| **honesto** | **0,78%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,21%** | R\$ 8.146.341 | +139% | -30% (pior ano -30%) | -30% | 114 dias | 66% | 26 → 1000 | 14% |
 | no extremo | 1,72% | R\$ 11.317.549 | +155% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -47% em vez dos 30% prometidos (1,55× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
@@ -685,8 +780,13 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,20% | R\$ 180.463 | +12% | -3% | -4% | 126 dias | 73% | 4 → 11 | 0% |
 | **1%** | 1,00% | R\$ 2.049.439 | +82% | -17% | -19% | 126 dias | 76% | 20 → 504 | 0% |
 | **2%** | 2,00% | R\$ 6.992.631 | +132% | -35% | -35% | 134 dias | 73% | 41 → 1000 | 31% |
+| **honesto** | **1,62%** | — | — | 30% à frente | — | — | — | — | — |
 | **no limite** | **1,85%** | R\$ 6.784.196 | +131% | -30% (pior ano -30%) | -34% | 134 dias | 74% | 38 → 1000 | 25% |
 | no extremo | 2,61% | R\$ 8.256.398 | +140% | -40% | — | — | — | — | — |
+
+A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -34% em vez dos 30% prometidos (1,14× mais queda).
+
+A linha **honesto** é esse mesmo risco dividido pela degradação desta carteira: é o risco por operação com que 30% volta a ser verdade para quem começa hoje. Ele rende menos — e é o único dos dois que é reproduzível.
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 

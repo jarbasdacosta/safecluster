@@ -289,3 +289,42 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*
+
+<!-- FICHA-COMPLETA-INICIO -->
+
+## Todas as medidas
+
+Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setups da carteira; **1%** e **2%** são por operação, independentemente de quantos setups você opera.
+
+
+<details>
+<summary><b>Ficha completa de Rompimento da Bollinger</b></summary>
+
+| Medida | Risco dividido | Risco 1% | Risco 2% |
+|---|---|---|---|
+| Operações | 259 | 259 | 259 |
+| Operações por ano | 51 | 51 | 51 |
+| Taxa de acerto | 36,7% | 36,7% | 36,7% |
+| Payoff (ganho médio ÷ perda média) | 3,40 | 3,40 | 3,40 |
+| Expectativa por operação (em R) | 0,598 | 0,598 | 0,598 |
+| Fator de lucro | 1,97 | 1,97 | 1,97 |
+| Pontos no período | 27.064 | 27.064 | 27.064 |
+| Lucro com 1 contrato fixo | R\$ 5.413 | R\$ 5.413 | R\$ 5.413 |
+| Capital final | R\$ 427.430 | R\$ 427.430 | R\$ 1.575.353 |
+| Múltiplo do capital | 4,27× | 4,27× | 15,75× |
+| Rentabilidade ao ano | +33,3% | +33,3% | +72,7% |
+| Pior queda do período | -9,1% | -9,1% | -18,2% |
+| Pior queda dentro de um ano | -9,1% | -9,1% | -18,2% |
+| Cauda — pior em 1 de 20 anos | -13,9% | -13,9% | -26,1% |
+| Maior tempo sem novo topo (dias) | 192 | 192 | 192 |
+| Meses positivos | 65% | 65% | 65% |
+| Sharpe | 1,79 | 1,79 | 1,77 |
+| Sortino | 6,39 | 6,39 | 6,39 |
+| Pregões para dobrar o capital | 749 | 749 | 431 |
+| Contratos na 1ª operação | 20 | 20 | 41 |
+| Maior lote | 117 | 117 | 800 |
+| Operações no teto de contratos | 0% | 0% | 0% |
+
+</details>
+
+<!-- FICHA-COMPLETA-FIM -->

@@ -339,3 +339,42 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*
+
+<!-- FICHA-COMPLETA-INICIO -->
+
+## Todas as medidas
+
+Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setups da carteira; **1%** e **2%** são por operação, independentemente de quantos setups você opera.
+
+
+<details>
+<summary><b>Ficha completa de Donchian com Médias</b></summary>
+
+| Medida | Risco dividido | Risco 1% | Risco 2% |
+|---|---|---|---|
+| Operações | 1.322 | 1.322 | 1.322 |
+| Operações por ano | 262 | 262 | 262 |
+| Taxa de acerto | 19,7% | 19,7% | 19,7% |
+| Payoff (ganho médio ÷ perda média) | 5,37 | 5,37 | 5,37 |
+| Expectativa por operação (em R) | 0,212 | 0,212 | 0,212 |
+| Fator de lucro | 1,31 | 1,31 | 1,31 |
+| Pontos no período | 61.770 | 61.770 | 61.770 |
+| Lucro com 1 contrato fixo | R\$ 12.354 | R\$ 12.354 | R\$ 12.354 |
+| Capital final | R\$ 1.086.613 | R\$ 1.086.613 | R\$ 4.542.302 |
+| Múltiplo do capital | 10,87× | 10,87× | 45,42× |
+| Rentabilidade ao ano | +60,4% | +60,4% | +112,9% |
+| Pior queda do período | -26,0% | -26,0% | -46,6% |
+| Pior queda dentro de um ano | -26,0% | -26,0% | -46,6% |
+| Cauda — pior em 1 de 20 anos | -38,4% | -38,4% | -63,8% |
+| Maior tempo sem novo topo (dias) | 272 | 272 | 312 |
+| Meses positivos | 66% | 66% | 65% |
+| Sharpe | 1,40 | 1,40 | 1,34 |
+| Sortino | 4,31 | 4,31 | 4,13 |
+| Pregões para dobrar o capital | 280 | 280 | 232 |
+| Contratos na 1ª operação | 17 | 17 | 35 |
+| Maior lote | 169 | 169 | 1.000 |
+| Operações no teto de contratos | 0% | 0% | 5% |
+
+</details>
+
+<!-- FICHA-COMPLETA-FIM -->

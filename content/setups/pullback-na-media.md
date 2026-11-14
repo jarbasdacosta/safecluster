@@ -277,3 +277,42 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*
+
+<!-- FICHA-COMPLETA-INICIO -->
+
+## Todas as medidas
+
+Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setups da carteira; **1%** e **2%** são por operação, independentemente de quantos setups você opera.
+
+
+<details>
+<summary><b>Ficha completa de Pullback na Média</b></summary>
+
+| Medida | Risco dividido | Risco 1% | Risco 2% |
+|---|---|---|---|
+| Operações | 304 | 304 | 304 |
+| Operações por ano | 60 | 60 | 60 |
+| Taxa de acerto | 38,2% | 38,2% | 38,2% |
+| Payoff (ganho médio ÷ perda média) | 2,37 | 2,37 | 2,37 |
+| Expectativa por operação (em R) | 0,277 | 0,277 | 0,277 |
+| Fator de lucro | 1,46 | 1,46 | 1,46 |
+| Pontos no período | 27.632 | 27.632 | 27.632 |
+| Lucro com 1 contrato fixo | R\$ 5.526 | R\$ 5.526 | R\$ 5.526 |
+| Capital final | R\$ 215.640 | R\$ 215.640 | R\$ 433.020 |
+| Múltiplo do capital | 2,16× | 2,16× | 4,33× |
+| Rentabilidade ao ano | +16,4% | +16,4% | +33,7% |
+| Pior queda do período | -11,9% | -11,9% | -22,8% |
+| Pior queda dentro de um ano | -10,5% | -10,5% | -20,1% |
+| Cauda — pior em 1 de 20 anos | -15,9% | -15,9% | -29,5% |
+| Maior tempo sem novo topo (dias) | 303 | 303 | 387 |
+| Meses positivos | 60% | 60% | 60% |
+| Sharpe | 1,17 | 1,17 | 1,17 |
+| Sortino | 2,98 | 2,98 | 3,01 |
+| Pregões para dobrar o capital | 1.020 | 1.020 | 190 |
+| Contratos na 1ª operação | 12 | 12 | 24 |
+| Maior lote | 47 | 47 | 164 |
+| Operações no teto de contratos | 0% | 0% | 0% |
+
+</details>
+
+<!-- FICHA-COMPLETA-FIM -->

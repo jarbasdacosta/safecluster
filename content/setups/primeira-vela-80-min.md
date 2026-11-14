@@ -315,3 +315,42 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*
+
+<!-- FICHA-COMPLETA-INICIO -->
+
+## Todas as medidas
+
+Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setups da carteira; **1%** e **2%** são por operação, independentemente de quantos setups você opera.
+
+
+<details>
+<summary><b>Ficha completa de Primeira Vela de 80 Minutos</b></summary>
+
+| Medida | Risco dividido | Risco 1% | Risco 2% |
+|---|---|---|---|
+| Operações | 478 | 478 | 478 |
+| Operações por ano | 95 | 95 | 95 |
+| Taxa de acerto | 21,5% | 21,5% | 21,5% |
+| Payoff (ganho médio ÷ perda média) | 5,45 | 5,45 | 5,45 |
+| Expectativa por operação (em R) | 0,297 | 0,297 | 0,297 |
+| Fator de lucro | 1,50 | 1,50 | 1,50 |
+| Pontos no período | 40.712 | 40.712 | 40.712 |
+| Lucro com 1 contrato fixo | R\$ 8.142 | R\$ 8.142 | R\$ 8.142 |
+| Capital final | R\$ 359.979 | R\$ 359.979 | R\$ 1.063.095 |
+| Múltiplo do capital | 3,60× | 3,60× | 10,63× |
+| Rentabilidade ao ano | +28,9% | +28,9% | +59,7% |
+| Pior queda do período | -18,0% | -18,0% | -34,0% |
+| Pior queda dentro de um ano | -18,0% | -18,0% | -34,0% |
+| Cauda — pior em 1 de 20 anos | -21,9% | -21,9% | -39,6% |
+| Maior tempo sem novo topo (dias) | 435 | 435 | 435 |
+| Meses positivos | 65% | 65% | 63% |
+| Sharpe | 1,28 | 1,28 | 1,28 |
+| Sortino | 4,38 | 4,38 | 4,37 |
+| Pregões para dobrar o capital | 711 | 711 | 596 |
+| Contratos na 1ª operação | 12 | 12 | 24 |
+| Maior lote | 55 | 55 | 280 |
+| Operações no teto de contratos | 0% | 0% | 0% |
+
+</details>
+
+<!-- FICHA-COMPLETA-FIM -->

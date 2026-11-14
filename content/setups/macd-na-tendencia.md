@@ -315,3 +315,42 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*
+
+<!-- FICHA-COMPLETA-INICIO -->
+
+## Todas as medidas
+
+Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setups da carteira; **1%** e **2%** são por operação, independentemente de quantos setups você opera.
+
+
+<details>
+<summary><b>Ficha completa de MACD na Tendência</b></summary>
+
+| Medida | Risco dividido | Risco 1% | Risco 2% |
+|---|---|---|---|
+| Operações | 902 | 902 | 902 |
+| Operações por ano | 179 | 179 | 179 |
+| Taxa de acerto | 22,2% | 22,2% | 22,2% |
+| Payoff (ganho médio ÷ perda média) | 4,75 | 4,75 | 4,75 |
+| Expectativa por operação (em R) | 0,132 | 0,132 | 0,132 |
+| Fator de lucro | 1,35 | 1,35 | 1,35 |
+| Pontos no período | 42.319 | 42.319 | 42.319 |
+| Lucro com 1 contrato fixo | R\$ 8.464 | R\$ 8.464 | R\$ 8.464 |
+| Capital final | R\$ 293.694 | R\$ 293.694 | R\$ 746.575 |
+| Múltiplo do capital | 2,94× | 2,94× | 7,47× |
+| Rentabilidade ao ano | +23,8% | +23,8% | +48,9% |
+| Pior queda do período | -11,2% | -11,2% | -21,8% |
+| Pior queda dentro de um ano | -11,2% | -11,2% | -21,8% |
+| Cauda — pior em 1 de 20 anos | -21,2% | -21,2% | -38,5% |
+| Maior tempo sem novo topo (dias) | 279 | 279 | 347 |
+| Meses positivos | 68% | 68% | 65% |
+| Sharpe | 1,28 | 1,28 | 1,27 |
+| Sortino | 2,37 | 2,37 | 2,35 |
+| Pregões para dobrar o capital | 839 | 839 | 711 |
+| Contratos na 1ª operação | 9 | 9 | 18 |
+| Maior lote | 33 | 33 | 150 |
+| Operações no teto de contratos | 0% | 0% | 0% |
+
+</details>
+
+<!-- FICHA-COMPLETA-FIM -->

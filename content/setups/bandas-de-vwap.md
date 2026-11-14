@@ -339,3 +339,42 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*
+
+<!-- FICHA-COMPLETA-INICIO -->
+
+## Todas as medidas
+
+Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setups da carteira; **1%** e **2%** são por operação, independentemente de quantos setups você opera.
+
+
+<details>
+<summary><b>Ficha completa de Bandas de VWAP</b></summary>
+
+| Medida | Risco dividido | Risco 1% | Risco 2% |
+|---|---|---|---|
+| Operações | 1.564 | 1.564 | 1.564 |
+| Operações por ano | 310 | 310 | 310 |
+| Taxa de acerto | 25,1% | 25,1% | 25,1% |
+| Payoff (ganho médio ÷ perda média) | 3,30 | 3,30 | 3,30 |
+| Expectativa por operação (em R) | 0,040 | 0,040 | 0,040 |
+| Fator de lucro | 1,11 | 1,11 | 1,11 |
+| Pontos no período | 21.161 | 21.161 | 21.161 |
+| Lucro com 1 contrato fixo | R\$ 4.232 | R\$ 4.232 | R\$ 4.232 |
+| Capital final | R\$ 166.510 | R\$ 166.510 | R\$ 234.944 |
+| Múltiplo do capital | 1,67× | 1,67× | 2,35× |
+| Rentabilidade ao ano | +10,6% | +10,6% | +18,4% |
+| Pior queda do período | -26,8% | -26,8% | -50,3% |
+| Pior queda dentro de um ano | -23,0% | -23,0% | -43,1% |
+| Cauda — pior em 1 de 20 anos | -29,4% | -29,4% | -51,0% |
+| Maior tempo sem novo topo (dias) | 749 | 749 | 910 |
+| Meses positivos | 56% | 56% | 56% |
+| Sharpe | 0,63 | 0,63 | 0,63 |
+| Sortino | 1,14 | 1,14 | 1,15 |
+| Pregões para dobrar o capital | 1.200 | 1.200 | 950 |
+| Contratos na 1ª operação | 9 | 9 | 18 |
+| Maior lote | 23 | 23 | 64 |
+| Operações no teto de contratos | 0% | 0% | 0% |
+
+</details>
+
+<!-- FICHA-COMPLETA-FIM -->

@@ -337,3 +337,40 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*
+
+<!-- FICHA-COMPLETA-INICIO -->
+
+## Todas as medidas
+
+Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setups da carteira; **1%** e **2%** são por operação, independentemente de quantos setups você opera.
+
+
+<details>
+<summary><b>Ficha completa de Primeira Vela de Quinta</b></summary>
+
+| Medida | Risco dividido | Risco 1% | Risco 2% |
+|---|---|---|---|
+| Operações | 109 | 109 | 109 |
+| Operações por ano | 22 | 22 | 22 |
+| Taxa de acerto | 63,3% | 63,3% | 63,3% |
+| Payoff (ganho médio ÷ perda média) | 0,93 | 0,93 | 0,93 |
+| Expectativa por operação (em R) | 0,219 | 0,219 | 0,219 |
+| Fator de lucro | 1,60 | 1,60 | 1,60 |
+| Pontos no período | 8.161 | 8.161 | 8.161 |
+| Lucro com 1 contrato fixo | R\$ 1.632 | R\$ 1.632 | R\$ 1.632 |
+| Capital final | R\$ 125.392 | R\$ 125.392 | R\$ 156.987 |
+| Múltiplo do capital | 1,25× | 1,25× | 1,57× |
+| Rentabilidade ao ano | +4,6% | +4,6% | +9,3% |
+| Pior queda do período | -4,8% | -4,8% | -9,9% |
+| Cauda — pior em 1 de 20 anos | -6,5% | -6,5% | -12,8% |
+| Maior tempo sem novo topo (dias) | 275 | 275 | 275 |
+| Meses positivos | 47% | 47% | 47% |
+| Sharpe | 1,09 | 1,09 | 1,08 |
+| Sortino | 10,15 | 10,15 | 27,12 |
+| Contratos na 1ª operação | 9 | 9 | 18 |
+| Maior lote | 22 | 22 | 52 |
+| Operações no teto de contratos | 0% | 0% | 0% |
+
+</details>
+
+<!-- FICHA-COMPLETA-FIM -->

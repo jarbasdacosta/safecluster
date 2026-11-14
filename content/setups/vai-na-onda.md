@@ -336,3 +336,42 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
 
 *Leitura educacional baseada em backtest. Não é recomendação de investimento.*
+
+<!-- FICHA-COMPLETA-INICIO -->
+
+## Todas as medidas
+
+Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setups da carteira; **1%** e **2%** são por operação, independentemente de quantos setups você opera.
+
+
+<details>
+<summary><b>Ficha completa de Vai na Onda</b></summary>
+
+| Medida | Risco dividido | Risco 1% | Risco 2% |
+|---|---|---|---|
+| Operações | 1.190 | 1.190 | 1.190 |
+| Operações por ano | 236 | 236 | 236 |
+| Taxa de acerto | 35,5% | 35,5% | 35,5% |
+| Payoff (ganho médio ÷ perda média) | 2,14 | 2,14 | 2,14 |
+| Expectativa por operação (em R) | 0,106 | 0,106 | 0,106 |
+| Fator de lucro | 1,17 | 1,17 | 1,17 |
+| Pontos no período | 42.421 | 42.421 | 42.421 |
+| Lucro com 1 contrato fixo | R\$ 8.484 | R\$ 8.484 | R\$ 8.484 |
+| Capital final | R\$ 296.770 | R\$ 296.770 | R\$ 651.086 |
+| Múltiplo do capital | 2,97× | 2,97× | 6,51× |
+| Rentabilidade ao ano | +24,0% | +24,0% | +44,9% |
+| Pior queda do período | -27,1% | -27,1% | -50,3% |
+| Pior queda dentro de um ano | -19,3% | -19,3% | -36,6% |
+| Cauda — pior em 1 de 20 anos | -30,9% | -30,9% | -53,6% |
+| Maior tempo sem novo topo (dias) | 617 | 617 | 639 |
+| Meses positivos | 63% | 63% | 63% |
+| Sharpe | 1,00 | 1,00 | 0,99 |
+| Sortino | 3,05 | 3,05 | 3,05 |
+| Pregões para dobrar o capital | 799 | 799 | 713 |
+| Contratos na 1ª operação | 9 | 9 | 18 |
+| Maior lote | 36 | 36 | 143 |
+| Operações no teto de contratos | 0% | 0% | 0% |
+
+</details>
+
+<!-- FICHA-COMPLETA-FIM -->

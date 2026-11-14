@@ -44,6 +44,12 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 | Combinações avaliadas | 4.928 (de 2 a 5 setups cada) — 140 cabem no limite de perda |
 | Capital de partida | R\$ 100.000 |
 | Custo por operação | 15 pontos, já descontados de todo resultado |
-| Limite de perda aceito | 30% do patrimônio (40% no extremo) |
+| Alvo de calibração da queda | 30% do patrimônio (40% no extremo) |
+| Queda esperada operando à frente | **38%** — o alvo vezes a degradação medida (1,27×) |
 
-*Gerado em 14/11/2026 08:31 a partir dos dados de 14/11/2026.*
+> [!warning] O alvo de queda não é uma promessa
+> 30% é o número para o qual o risco de cada carteira é calibrado **usando o passado**. Quando esse mesmo procedimento é testado de verdade — calibrar só com os dados antigos e aplicar adiante — a queda que vem é maior.
+>
+> Por isso as duas linhas acima são diferentes, e é a segunda que vale para quem vai operar. A [etapa 10](entender/limites) mostra a medição.
+
+*Gerado em 14/11/2026 10:54 a partir dos dados de 14/11/2026.*
