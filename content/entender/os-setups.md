@@ -107,7 +107,7 @@ O extremo de cima é claro: as combinações que incluem **explosao-da-bollinger
 > A etapa [6 · O método de escolha](o-metodo) mostra esses números. A medida é real; transformá-la em filtro, não conseguimos. Fica registrada porque é informação para você decidir, não porque virou regra.
 
 > [!abstract] Confira a conta você mesmo
-> <a href="setups.xlsx" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"><strong>⬇ Baixar setups.xlsx</strong></a> — os 17 setups com a ficha completa nos três modos de risco, ano a ano, e a tabela de degradação
+> <a href="setups.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar setups.xlsx</a> — os 17 setups com a ficha completa nos três modos de risco, ano a ano, e a tabela de degradação
 >
 > A planilha sai do mesmo cálculo que esta página, não de um cálculo paralelo: contratos inteiros, mesmo custo, mesmas regras. Se os números divergirem, é defeito nosso e queremos saber.
 

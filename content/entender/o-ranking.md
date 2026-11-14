@@ -729,7 +729,7 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 > Quando essa coluna é alta, boa parte do resultado vem de um período em que a conta estava grande e **o teto é que estava segurando a queda** — não a qualidade da carteira. Por isso a linha do primeiro ano importa tanto: nela o teto não aparece, e é ela que descreve quem está começando agora.
 
 > [!abstract] Confira a conta você mesmo
-> <a href="carteiras.xlsx" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"><strong>⬇ Baixar carteiras.xlsx</strong></a> — as 21 carteiras com todas as medidas nos três modos, ano a ano, e o teste de calibração
+> <a href="carteiras.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar carteiras.xlsx</a> — as 21 carteiras com todas as medidas nos três modos, ano a ano, e o teste de calibração
 >
 > A planilha sai do mesmo cálculo que esta página, não de um cálculo paralelo: contratos inteiros, mesmo custo, mesmas regras. Se os números divergirem, é defeito nosso e queremos saber.
 
