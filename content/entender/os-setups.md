@@ -79,27 +79,20 @@ A mesma carteira, com o mesmo acerto e o mesmo payoff, dá resultados muito dife
 > Escolher o modo é uma decisão maior do que escolher a carteira. A etapa [4 · Por que a carteira mais lisa rende mais](suavidade) mostra como traduzir isso para o limite de perda que *você* aguenta.
 
 ## Quais setups entregam o que prometem
-Esta tabela não é sobre quanto cada setup rende. É sobre **se a promessa de risco dele se cumpre**. Para cada setup, comparamos a pior queda das combinações que o incluem com a das que não o incluem, no período de teste — cada linha medida em 1.470 combinações.
+Esta tabela não é sobre quanto cada setup rende. É sobre **se a promessa de risco dele se cumpre**. Para cada setup, comparamos a pior queda das combinações que o incluem com a das que não o incluem, no período de teste — cada linha medida em 39 combinações.
 
 | Setup | Queda com ele | Sem ele | Diferença |  |
 |---|---|---|---|---|
-| [Explosão da Bollinger](../setups/explosao-da-bollinger) | -53% | -40% | **-13 pontos** | decepciona |
-| [ADX da Manhã](../setups/adx-da-manha) | -49% | -41% | **-9 pontos** | decepciona |
-| [Tendência Forte do Dia](../setups/tendencia-forte-do-dia) | -49% | -41% | **-7 pontos** | decepciona |
-| [GPS de Médias](../setups/gps-de-medias) | -47% | -41% | **-6 pontos** | decepciona |
-| [Donchian com Médias](../setups/donchian-com-medias) | -47% | -42% | **-5 pontos** | decepciona |
-| [Bandas de VWAP](../setups/bandas-de-vwap) | -45% | -42% | **-3 pontos** | decepciona |
-| [MACD na Tendência](../setups/macd-na-tendencia) | -43% | -43% | **+0 pontos** | neutro |
-| [Vai na Onda](../setups/vai-na-onda) | -42% | -44% | **+2 pontos** | neutro |
-| [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) | -41% | -44% | **+3 pontos** | neutro |
-| [IFR de Tendência](../setups/ifr-de-tendencia) | -41% | -44% | **+3 pontos** | neutro |
-| [Rompimento da Média de 200](../setups/rompe-media-200) | -41% | -44% | **+3 pontos** | neutro |
-| [Pullback no 50% do dia](../setups/fibo-50-do-dia) | -41% | -44% | **+4 pontos** | entrega |
-| [Pullback na Média](../setups/pullback-na-media) | -41% | -44% | **+4 pontos** | entrega |
-| [Rompimento da Bollinger](../setups/rompimento-da-bollinger) | -41% | -45% | **+4 pontos** | entrega |
-| [Pôr do Sol (17h45)](../setups/por-do-sol) | -39% | -45% | **+7 pontos** | entrega |
+| [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) | -24% | -20% | **-4 pontos** | decepciona |
+| [Rompimento da Média de 200](../setups/rompe-media-200) | -22% | -20% | **-2 pontos** | neutro |
+| [Rompimento da Bollinger](../setups/rompimento-da-bollinger) | -22% | -21% | **-1 pontos** | neutro |
+| [Pullback na Média](../setups/pullback-na-media) | -21% | -21% | **-1 pontos** | neutro |
+| [MACD na Tendência](../setups/macd-na-tendencia) | -22% | -21% | **-1 pontos** | neutro |
+| [IFR de Tendência](../setups/ifr-de-tendencia) | -22% | -21% | **-1 pontos** | neutro |
+| [Pullback no 50% do dia](../setups/fibo-50-do-dia) | -21% | -21% | **-0 pontos** | neutro |
+| [Pôr do Sol (17h45)](../setups/por-do-sol) | -21% | -22% | **+1 pontos** | neutro |
 
-O extremo de cima é claro: as combinações que incluem **explosao-da-bollinger** caem 13 pontos a mais do que as que não o incluem.
+O extremo de cima é claro: as combinações que incluem **extremos-da-semana-virada** caem 4 pontos a mais do que as que não o incluem.
 
 > [!example] E o que fizemos com essa informação: nada
 > O resultado honesto é que **tentamos usar essa tabela e não funcionou**. Tirar os piores do universo de combinações foi testado com três cortes diferentes, e os três discordaram entre si — inclusive o corte que remove exatamente os três piores foi o que mais estourou o limite de perda.

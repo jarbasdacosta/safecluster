@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 11h30
 
-🎬 **Vídeo de origem:** [usei a retração de fibo e achei um padrão bizarro](https://youtu.be/krHN5ziozlA) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 21:36 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [usei a retração de fibo e achei um padrão bizarro](https://youtu.be/krHN5ziozlA) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 21:46 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 117.847** arriscando **1% do capital** por operação (+3% ao ano · pior queda −4% · cauda −7%)

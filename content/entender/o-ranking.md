@@ -5,693 +5,180 @@ description: "As carteiras escolhidas e o risco de cada uma"
 tags: [entender]
 ---
 
-As **20 carteiras** que o método escolheu, usando só o período de treino, mais **1** que entra apenas como comparação (a que está em operação). Estão ordenadas pelo que rendem **quando o risco de cada uma é ajustado para cair 40%** — porque é essa a ordem que corresponde ao que você vai operar, com todas doendo igual.
+As **19 carteiras** que o método escolheu, usando só o período de treino, mais **1** que entra apenas como comparação (a que está em operação). Estão ordenadas pelo que rendem **quando o risco de cada uma é ajustado para cair 30%** — porque é essa a ordem que corresponde ao que você vai operar, com todas doendo igual.
 
 > [!warning] Antes de olhar a tabela, dois números
-> **O risco mostrado está otimista.** Ele foi calibrado no passado, e calibrar para 40% entregou 49% quando testado de verdade. Para viver 40%, calibre para **33%** — ou seja, use cerca de -18% do risco indicado.
+> **O risco mostrado está otimista.** Ele foi calibrado no passado, e calibrar para 30% entregou 35% quando testado de verdade. Para viver 30%, calibre para **26%** — ou seja, use cerca de -15% do risco indicado.
 >
-> **8 destas 20 carteiras furaram o limite extremo de 50% no teste.** Escolhendo uma no escuro, há uma chance em 2 de ela furar o seu teto. Isto não é ressalva de rodapé: é informação para decidir.
+> **0 destas 19 carteiras furaram o limite extremo de 50% no teste.** Escolhendo uma no escuro, há uma chance em 19 de ela furar o seu teto. Isto não é ressalva de rodapé: é informação para decidir.
 
 ## A tabela
-| # | Carteira | Setups | Ops/ano | Risco/op para 40% | Virou | Por ano | Queda real no teste |
+| # | Carteira | Setups | Ops/ano | Risco/op para 30% | Virou | Por ano | Queda real no teste |
 |---|---|---|---|---|---|---|---|
-| **1º** | extremos + ifr + pullback + rompimento + tendencia | 5 | 731 | **1,91%** | R\$ 65.138.451 | +261% | -50% |
-| **2º** | ifr + por + pullback + rompimento + tendencia | 5 | 714 | **2,29%** | R\$ 60.856.722 | +256% | -54% |
-| **3º** | gps + ifr + macd + pullback + rompimento | 5 | 689 | **1,45%** | R\$ 57.490.618 | +252% | -44% |
-| **4º** | ifr + macd + pullback + rompimento + tendencia | 5 | 793 | **1,14%** | R\$ 54.060.212 | +248% | -46% |
-| **5º** | donchian + ifr + macd + pullback + rompimento | 5 | 707 | **1,16%** | R\$ 53.203.759 | +247% | -50% |
-| **6º** | donchian + ifr + pullback + rompe + rompimento | 5 | 568 | **1,73%** | R\$ 51.824.356 | +245% | -48% |
-| **7º** | donchian + fibo + ifr + pullback + rompimento | 5 | 573 | **1,60%** | R\$ 50.592.091 | +243% | -46% |
-| **8º** | fibo + ifr + pullback + rompimento + tendencia | 5 | 659 | **1,47%** | R\$ 50.050.863 | +243% | -48% |
-| **9º** | ifr + pullback + rompe + rompimento + tendencia | 5 | 655 | **1,42%** | R\$ 49.150.634 | +241% | -50% |
-| **10º** | gps + ifr + por + pullback + rompimento | 5 | 609 | **1,64%** | R\$ 47.559.021 | +239% | -40% |
-| **11º** | gps + ifr + pullback + rompe + rompimento | 5 | 551 | **1,53%** | R\$ 45.258.095 | +236% | -44% |
-| **12º** | fibo + gps + ifr + pullback + rompimento | 5 | 555 | **1,46%** | R\$ 44.287.192 | +234% | -42% |
-| **13º** | donchian + por + pullback + rompimento + tendencia | 5 | 821 | **0,93%** | R\$ 37.253.491 | +223% | -54% |
-| **14º** | gps + por + pullback + rompimento + tendencia | 5 | 803 | **1,05%** | R\$ 37.062.032 | +223% | -46% |
-| **15º** | donchian + pullback + rompe + rompimento + tendencia | 5 | 763 | **0,90%** | R\$ 35.318.508 | +220% | -53% |
-| **16º** | donchian + macd + pullback + rompimento + tendencia | 5 | 901 | **0,75%** | R\$ 34.485.481 | +218% | -58% |
-| **17º** | gps + pullback + rompe + rompimento + tendencia | 5 | 745 | **0,90%** | R\$ 31.591.516 | +213% | -49% |
-| **18º** | gps + ifr + pullback + rompe + tendencia | 5 | 848 | **0,79%** | R\$ 29.165.773 | +208% | -62% |
-| **19º** | donchian + fibo + pullback + rompe + tendencia | 5 | 756 | **0,74%** | R\$ 7.974.944 | +138% | -61% |
-| **20º** | fibo + gps + pullback + rompe + tendencia | 5 | 738 | **0,80%** | R\$ 7.740.354 | +137% | -59% |
-| **em operação** | ifr + pullback + rompimento | 3 | 266 | **4,08%** | R\$ 37.890.737 | +224% | -42% |
+| **1º** | ifr + por + pullback + rompimento | 4 | 365 | **3,03%** | R\$ 38.067.707 | +224% | -32% |
+| **2º** | fibo + ifr + macd + rompimento | 4 | 429 | **1,86%** | R\$ 35.791.190 | +221% | -38% |
+| **3º** | fibo + ifr + por + pullback + rompimento | 5 | 410 | **1,92%** | R\$ 34.125.550 | +217% | -31% |
+| **4º** | fibo + ifr + pullback + rompimento | 4 | 311 | **2,02%** | R\$ 31.436.048 | +212% | -35% |
+| **em operação** | ifr + pullback + rompimento | 3 | 266 | **2,25%** | R\$ 30.559.384 | +211% | -29% |
+| **6º** | ifr + pullback + rompe + rompimento | 4 | 307 | **1,90%** | R\$ 30.121.529 | +210% | -40% |
+| **7º** | macd + por + pullback + rompe + rompimento | 5 | 430 | **1,91%** | R\$ 25.656.224 | +200% | -36% |
+| **8º** | fibo + macd + por + pullback + rompimento | 5 | 434 | **1,92%** | R\$ 25.650.131 | +200% | -33% |
+| **9º** | fibo + ifr + por + rompe + rompimento | 5 | 390 | **1,70%** | R\$ 24.738.673 | +198% | -35% |
+| **10º** | ifr + por + rompe + rompimento | 4 | 345 | **1,85%** | R\$ 24.255.585 | +197% | -31% |
+| **11º** | fibo + ifr + por + pullback | 4 | 359 | **2,18%** | R\$ 23.548.823 | +195% | -32% |
+| **12º** | ifr + por + pullback | 3 | 314 | **2,53%** | R\$ 23.547.240 | +195% | -31% |
+| **13º** | fibo + ifr + rompe + rompimento | 4 | 291 | **1,89%** | R\$ 23.426.891 | +195% | -38% |
+| **14º** | ifr + por + pullback + rompe | 4 | 354 | **2,12%** | R\$ 23.207.788 | +194% | -36% |
+| **15º** | macd + pullback + rompe + rompimento | 4 | 331 | **1,90%** | R\$ 22.185.373 | +192% | -38% |
+| **16º** | ifr + pullback | 2 | 215 | **2,25%** | R\$ 17.459.218 | +178% | -34% |
+| **17º** | ifr + pullback + rompe | 3 | 255 | **1,84%** | R\$ 15.996.042 | +173% | -38% |
+| **18º** | fibo + ifr + pullback | 3 | 259 | **1,93%** | R\$ 15.774.275 | +172% | -37% |
+| **19º** | fibo + ifr + pullback + rompe | 4 | 300 | **1,64%** | R\$ 14.308.616 | +167% | -35% |
+| **20º** | fibo + por + pullback + rompe + rompimento | 5 | 296 | **1,85%** | R\$ 13.035.647 | +162% | -34% |
 
 > [!example] A última linha não é uma escolha do método
 > **ifr + pullback + rompimento** é a carteira que está sendo operada ao vivo, e ela entra aqui com as mesmas medidas de todas as outras — para comparar sem torcer para nenhum lado.
 >
-> O método **não** a escolheu. No período de treino ela ficou 2654ª em retorno e 62ª em queda entre as 4.928 combinações, então não entrou no grupo dos 10% de maior retorno.
+> O método **não** a escolheu. No período de treino ela ficou 14ª em retorno e 60ª em queda entre as 154 combinações, então não entrou no grupo dos 10% de maior retorno.
 >
-> Ajustada para cair 40% como as outras, ela precisa de 4,08% de risco por operação e termina com R\$ 37.890.737 — o que a poria em **13º lugar** entre as 20 escolhidas.
+> Ajustada para cair 30% como as outras, ela precisa de 2,25% de risco por operação e termina com R\$ 30.559.384 — o que a poria em **5º lugar** entre as 19 escolhidas.
 >
 > Isto é informação para decidir, não um veredito. Uma carteira que já está em operação tem um valor que o ranking não mede: ela está testada na prática, com execução real, derrapagem real e o emocional real de quem a opera.
 
-A coluna da direita é a mais importante e a menos agradável: é a queda que a carteira **de fato teve** no período de teste, usando o risco calibrado às cegas no treino. Compare com 40%, que era a promessa.
+A coluna da direita é a mais importante e a menos agradável: é a queda que a carteira **de fato teve** no período de teste, usando o risco calibrado às cegas no treino. Compare com 30%, que era a promessa.
 
 ## Cada carteira em detalhe
 
 <details>
-<summary><b>1º · extremos + ifr + pullback + rompimento + tendencia — R\$ 65.138.451 aos 40%</b></summary>
+<summary><b>1º · ifr + por + pullback + rompimento — R\$ 38.067.707 aos 30%</b></summary>
 
-**Setups:** [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
+**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 401.865 | +32% | -6% | -8% | 115 dias | 74% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 44.490.678 | +235% | -28% | -34% | 115 dias | 77% | 21 → 2000 | 27% |
-| **2%** | 2,00% | R\$ 66.315.841 | +262% | -40% | -58% | 150 dias | 77% | 43 → 2000 | 76% |
-| **no limite** | **1,91%** | R\$ 65.138.451 | +261% | -40% | — | — | — | — | — |
-| no extremo | 2,57% | R\$ 72.215.658 | +268% | -50% | — | — | — | — | — |
+| **dividido** | 0,25% | R\$ 304.539 | +25% | -5% | -7% | 89 dias | 82% | 5 → 20 | 0% |
+| **1%** | 1,00% | R\$ 8.754.204 | +142% | -19% | -24% | 89 dias | 82% | 21 → 1491 | 0% |
+| **2%** | 2,00% | R\$ 31.914.219 | +213% | -27% | -43% | 85 dias | 84% | 43 → 2000 | 51% |
+| **no limite** | **3,03%** | R\$ 38.067.707 | +224% | -30% | — | — | — | — | — |
+| no extremo | 5,85% | R\$ 44.110.702 | +234% | -50% | — | — | — | — | — |
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +611% | +148% | +179% | +311% | +120% |
-| Pior queda do ano | -22% | -25% | -28% | -28% | -13% |
+| Rendeu | +246% | +71% | +125% | +256% | +77% |
+| Pior queda do ano | -10% | -14% | -9% | -12% | -19% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 1,91% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-50%** |
-| Capital no teste | 348× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -28% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>2º · ifr + por + pullback + rompimento + tendencia — R\$ 60.856.722 aos 40%</b></summary>
-
-**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 366.342 | +29% | -8% | -7% | 115 dias | 74% | 4 → 17 | 0% |
-| **1%** | 1,00% | R\$ 37.304.941 | +223% | -26% | -31% | 116 dias | 73% | 21 → 2000 | 22% |
-| **2%** | 2,00% | R\$ 57.970.203 | +253% | -37% | -54% | 136 dias | 74% | 43 → 2000 | 75% |
-| **no limite** | **2,29%** | R\$ 60.856.722 | +256% | -40% | — | — | — | — | — |
-| no extremo | 3,08% | R\$ 67.089.705 | +263% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +501% | +169% | +167% | +298% | +116% |
-| Pior queda do ano | -19% | -26% | -23% | -21% | -23% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 2,29% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-54%** |
-| Capital no teste | 318× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -37% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>3º · gps + ifr + macd + pullback + rompimento — R\$ 57.490.618 aos 40%</b></summary>
-
-**Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [MACD na Tendência](../setups/macd-na-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 439.111 | +34% | -9% | -9% | 100 dias | 77% | 4 → 20 | 0% |
-| **1%** | 1,00% | R\$ 44.231.082 | +234% | -30% | -39% | 116 dias | 79% | 21 → 2000 | 30% |
-| **2%** | 2,00% | R\$ 64.654.845 | +260% | -52% | -64% | 129 dias | 79% | 43 → 2000 | 73% |
-| **no limite** | **1,45%** | R\$ 57.490.618 | +252% | -40% | — | — | — | — | — |
-| no extremo | 1,93% | R\$ 63.813.972 | +259% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +444% | +292% | +235% | +245% | +96% |
-| Pior queda do ano | -29% | -23% | -30% | -30% | -19% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,45% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-44%** |
-| Capital no teste | 246× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -29% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>4º · ifr + macd + pullback + rompimento + tendencia — R\$ 54.060.212 aos 40%</b></summary>
-
-**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [MACD na Tendência](../setups/macd-na-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 430.522 | +34% | -10% | -8% | 116 dias | 71% | 4 → 20 | 0% |
-| **1%** | 1,00% | R\$ 48.904.447 | +241% | -31% | -36% | 161 dias | 74% | 21 → 2000 | 31% |
-| **2%** | 2,00% | R\$ 70.898.071 | +267% | -43% | -61% | 142 dias | 74% | 43 → 2000 | 73% |
-| **no limite** | **1,14%** | R\$ 54.060.212 | +248% | -40% | — | — | — | — | — |
-| no extremo | 2,49% | R\$ 75.542.992 | +272% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +537% | +219% | +203% | +316% | +104% |
-| Pior queda do ano | -24% | -29% | -31% | -25% | -22% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,38% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-46%** |
-| Capital no teste | 269× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -27% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>5º · donchian + ifr + macd + pullback + rompimento — R\$ 53.203.759 aos 40%</b></summary>
-
-**Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [MACD na Tendência](../setups/macd-na-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 484.767 | +37% | -8% | -8% | 118 dias | 77% | 4 → 22 | 0% |
-| **1%** | 1,00% | R\$ 48.358.874 | +240% | -31% | -36% | 119 dias | 79% | 21 → 2000 | 31% |
-| **2%** | 2,00% | R\$ 68.811.069 | +265% | -50% | -60% | 129 dias | 79% | 43 → 2000 | 74% |
-| **no limite** | **1,16%** | R\$ 53.203.759 | +247% | -40% | — | — | — | — | — |
-| no extremo | 1,83% | R\$ 66.652.628 | +263% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +787% | +172% | +189% | +360% | +83% |
-| Pior queda do ano | -26% | -24% | -31% | -29% | -16% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,58% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-50%** |
-| Capital no teste | 328× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -40% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>6º · donchian + ifr + pullback + rompe + rompimento — R\$ 51.824.356 aos 40%</b></summary>
-
-**Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 408.874 | +32% | -6% | -8% | 116 dias | 76% | 4 → 19 | 0% |
-| **1%** | 1,00% | R\$ 36.929.525 | +223% | -28% | -36% | 119 dias | 79% | 21 → 2000 | 27% |
-| **2%** | 2,00% | R\$ 55.503.755 | +250% | -43% | -60% | 129 dias | 77% | 43 → 2000 | 74% |
-| **no limite** | **1,73%** | R\$ 51.824.356 | +245% | -40% | — | — | — | — | — |
-| no extremo | 2,31% | R\$ 58.198.068 | +253% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +757% | +167% | +113% | +452% | +69% |
-| Pior queda do ano | -24% | -23% | -27% | -28% | -17% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,82% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-48%** |
-| Capital no teste | 256× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -40% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>7º · donchian + fibo + ifr + pullback + rompimento — R\$ 50.592.091 aos 40%</b></summary>
-
-**Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 395.642 | +31% | -7% | -8% | 119 dias | 76% | 4 → 19 | 0% |
-| **1%** | 1,00% | R\$ 36.193.063 | +221% | -26% | -37% | 119 dias | 79% | 21 → 2000 | 24% |
-| **2%** | 2,00% | R\$ 56.275.453 | +251% | -45% | -61% | 161 dias | 76% | 43 → 2000 | 72% |
-| **no limite** | **1,60%** | R\$ 50.592.091 | +243% | -40% | — | — | — | — | — |
-| no extremo | 2,16% | R\$ 57.412.776 | +252% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +754% | +133% | +116% | +421% | +88% |
-| Pior queda do ano | -25% | -22% | -26% | -25% | -16% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,73% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-46%** |
-| Capital no teste | 245× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -40% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>8º · fibo + ifr + pullback + rompimento + tendencia — R\$ 50.050.863 aos 40%</b></summary>
-
-**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 361.740 | +29% | -8% | -7% | 136 dias | 73% | 4 → 17 | 0% |
-| **1%** | 1,00% | R\$ 35.815.585 | +221% | -29% | -32% | 144 dias | 71% | 21 → 2000 | 20% |
-| **2%** | 2,00% | R\$ 58.465.685 | +253% | -42% | -56% | 158 dias | 69% | 43 → 2000 | 71% |
-| **no limite** | **1,47%** | R\$ 50.050.863 | +243% | -40% | — | — | — | — | — |
-| no extremo | 2,97% | R\$ 66.789.807 | +263% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +515% | +173% | +126% | +333% | +122% |
-| Pior queda do ano | -20% | -28% | -29% | -22% | -26% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,47% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-48%** |
-| Capital no teste | 163× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -25% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>9º · ifr + pullback + rompe + rompimento + tendencia — R\$ 49.150.634 aos 40%</b></summary>
-
-**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 370.795 | +30% | -8% | -7% | 144 dias | 74% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 36.846.090 | +222% | -29% | -31% | 144 dias | 74% | 21 → 2000 | 23% |
-| **2%** | 2,00% | R\$ 57.648.686 | +252% | -42% | -54% | 157 dias | 73% | 43 → 2000 | 73% |
-| **no limite** | **1,42%** | R\$ 49.150.634 | +241% | -40% | — | — | — | — | — |
-| no extremo | 2,73% | R\$ 64.487.293 | +260% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +511% | +213% | +123% | +375% | +97% |
-| Pior queda do ano | -22% | -29% | -29% | -24% | -26% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,42% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-50%** |
-| Capital no teste | 159× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -24% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>10º · gps + ifr + por + pullback + rompimento — R\$ 47.559.021 aos 40%</b></summary>
-
-**Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 369.990 | +30% | -7% | -9% | 117 dias | 77% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 33.824.893 | +217% | -26% | -38% | 117 dias | 79% | 21 → 2000 | 25% |
-| **2%** | 2,00% | R\$ 51.452.022 | +244% | -47% | -63% | 93 dias | 79% | 43 → 2000 | 74% |
-| **no limite** | **1,64%** | R\$ 47.559.021 | +239% | -40% | — | — | — | — | — |
-| no extremo | 2,17% | R\$ 52.744.775 | +246% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +422% | +231% | +196% | +234% | +100% |
-| Pior queda do ano | -26% | -22% | -25% | -24% | -15% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,64% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-40%** |
-| Capital no teste | 198× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -28% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>11º · gps + ifr + pullback + rompe + rompimento — R\$ 45.258.095 aos 40%</b></summary>
-
-**Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 373.897 | +30% | -7% | -8% | 129 dias | 77% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 33.313.237 | +216% | -30% | -37% | 129 dias | 77% | 21 → 2000 | 25% |
-| **2%** | 2,00% | R\$ 51.290.876 | +244% | -50% | -62% | 129 dias | 77% | 43 → 2000 | 73% |
-| **no limite** | **1,53%** | R\$ 45.258.095 | +236% | -40% | — | — | — | — | — |
-| no extremo | 2,03% | R\$ 51.590.356 | +245% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +427% | +284% | +148% | +304% | +81% |
-| Pior queda do ano | -28% | -25% | -30% | -27% | -18% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,53% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-44%** |
-| Capital no teste | 160× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -25% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>12º · fibo + gps + ifr + pullback + rompimento — R\$ 44.287.192 aos 40%</b></summary>
-
-**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 365.048 | +29% | -7% | -8% | 117 dias | 79% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 32.422.812 | +214% | -31% | -36% | 117 dias | 79% | 21 → 2000 | 23% |
-| **2%** | 2,00% | R\$ 52.079.270 | +245% | -51% | -60% | 142 dias | 77% | 43 → 2000 | 72% |
-| **no limite** | **1,46%** | R\$ 44.287.192 | +234% | -40% | — | — | — | — | — |
-| no extremo | 1,94% | R\$ 51.296.476 | +244% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +432% | +236% | +151% | +267% | +105% |
-| Pior queda do ano | -29% | -22% | -31% | -25% | -17% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,46% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-42%** |
-| Capital no teste | 122× o inicial |
+| Risco calibrado no treino | 3,03% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-32%** |
+| Capital no teste | 204× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -26% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>13º · donchian + por + pullback + rompimento + tendencia — R\$ 37.253.491 aos 40%</b></summary>
+<summary><b>2º · fibo + ifr + macd + rompimento — R\$ 35.791.190 aos 30%</b></summary>
 
-**Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [MACD na Tendência](../setups/macd-na-tendencia) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 425.831 | +33% | -8% | -9% | 170 dias | 71% | 3 → 19 | 0% |
-| **1%** | 1,00% | R\$ 39.578.149 | +227% | -38% | -37% | 184 dias | 73% | 17 → 2000 | 26% |
-| **2%** | 2,00% | R\$ 58.359.418 | +253% | -45% | -64% | 184 dias | 74% | 35 → 2000 | 77% |
-| **no limite** | **0,93%** | R\$ 37.253.491 | +223% | -40% | — | — | — | — | — |
-| no extremo | 1,95% | R\$ 57.798.342 | +252% | -50% | — | — | — | — | — |
+| **dividido** | 0,25% | R\$ 315.325 | +26% | -8% | -7% | 89 dias | 73% | 5 → 20 | 0% |
+| **1%** | 1,00% | R\$ 10.499.734 | +151% | -29% | -27% | 89 dias | 74% | 21 → 1894 | 0% |
+| **2%** | 2,00% | R\$ 37.397.158 | +223% | -30% | -48% | 111 dias | 74% | 43 → 2000 | 38% |
+| **no limite** | **1,86%** | R\$ 35.791.190 | +221% | -30% | — | — | — | — | — |
+| no extremo | 3,50% | R\$ 46.086.006 | +237% | -50% | — | — | — | — | — |
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +678% | +183% | +126% | +279% | +119% |
-| Pior queda do ano | -23% | -28% | -38% | -28% | -20% |
+| Rendeu | +164% | +81% | +163% | +357% | +103% |
+| Pior queda do ano | -16% | -16% | -13% | -22% | -29% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 1,42% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-54%** |
-| Capital no teste | 205× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -36% |
+| Risco calibrado no treino | 1,97% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-38%** |
+| Capital no teste | 207× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -24% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>14º · gps + por + pullback + rompimento + tendencia — R\$ 37.062.032 aos 40%</b></summary>
+<summary><b>3º · fibo + ifr + por + pullback + rompimento — R\$ 34.125.550 aos 30%</b></summary>
 
-**Setups:** [GPS de Médias](../setups/gps-de-medias) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 384.398 | +31% | -8% | -9% | 126 dias | 73% | 3 → 18 | 0% |
-| **1%** | 1,00% | R\$ 35.681.181 | +220% | -36% | -40% | 136 dias | 74% | 17 → 2000 | 25% |
-| **2%** | 2,00% | R\$ 53.707.038 | +247% | -55% | -65% | 144 dias | 73% | 35 → 2000 | 76% |
-| **no limite** | **1,05%** | R\$ 37.062.032 | +223% | -40% | — | — | — | — | — |
-| no extremo | 1,67% | R\$ 49.885.610 | +242% | -50% | — | — | — | — | — |
+| **dividido** | 0,20% | R\$ 244.013 | +19% | -4% | -5% | 89 dias | 81% | 4 → 13 | 0% |
+| **1%** | 1,00% | R\$ 10.430.988 | +151% | -21% | -24% | 89 dias | 81% | 21 → 1779 | 0% |
+| **2%** | 2,00% | R\$ 34.922.338 | +219% | -31% | -43% | 111 dias | 81% | 43 → 2000 | 49% |
+| **no limite** | **1,92%** | R\$ 34.125.550 | +217% | -30% | — | — | — | — | — |
+| no extremo | 4,26% | R\$ 47.114.837 | +238% | -50% | — | — | — | — | — |
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +386% | +307% | +163% | +166% | +142% |
-| Pior queda do ano | -32% | -24% | -36% | -31% | -21% |
+| Rendeu | +281% | +69% | +130% | +280% | +77% |
+| Pior queda do ano | -14% | -17% | -10% | -12% | -21% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 1,25% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-46%** |
-| Capital no teste | 72× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -23% |
+| Risco calibrado no treino | 1,92% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-31%** |
+| Capital no teste | 137× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -17% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>15º · donchian + pullback + rompe + rompimento + tendencia — R\$ 35.318.508 aos 40%</b></summary>
+<summary><b>4º · fibo + ifr + pullback + rompimento — R\$ 31.436.048 aos 30%</b></summary>
 
-**Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 427.934 | +33% | -9% | -9% | 183 dias | 71% | 3 → 19 | 0% |
-| **1%** | 1,00% | R\$ 38.948.179 | +226% | -40% | -37% | 183 dias | 71% | 17 → 2000 | 26% |
-| **2%** | 2,00% | R\$ 58.244.205 | +253% | -46% | -62% | 158 dias | 68% | 35 → 2000 | 77% |
-| **no limite** | **0,90%** | R\$ 35.318.508 | +220% | -40% | — | — | — | — | — |
-| no extremo | 2,13% | R\$ 59.786.588 | +255% | -50% | — | — | — | — | — |
+| **dividido** | 0,25% | R\$ 291.526 | +24% | -5% | -7% | 89 dias | 74% | 5 → 19 | 0% |
+| **1%** | 1,00% | R\$ 7.608.686 | +136% | -21% | -24% | 99 dias | 74% | 21 → 1316 | 0% |
+| **2%** | 2,00% | R\$ 31.259.662 | +212% | -30% | -43% | 126 dias | 74% | 43 → 2000 | 41% |
+| **no limite** | **2,02%** | R\$ 31.436.048 | +212% | -30% | — | — | — | — | — |
+| no extremo | 4,17% | R\$ 43.431.761 | +233% | -50% | — | — | — | — | — |
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +691% | +227% | +89% | +356% | +100% |
-| Pior queda do ano | -26% | -31% | -40% | -30% | -24% |
+| Rendeu | +251% | +73% | +90% | +266% | +76% |
+| Pior queda do ano | -14% | -16% | -12% | -12% | -21% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 1,31% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-53%** |
-| Capital no teste | 140× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -32% |
+| Risco calibrado no treino | 2,02% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-35%** |
+| Capital no teste | 117× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -18% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>16º · donchian + macd + pullback + rompimento + tendencia — R\$ 34.485.481 aos 40%</b></summary>
-
-**Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [MACD na Tendência](../setups/macd-na-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 500.490 | +38% | -11% | -10% | 183 dias | 73% | 3 → 22 | 0% |
-| **1%** | 1,00% | R\$ 50.280.838 | +243% | -46% | -42% | 183 dias | 73% | 17 → 2000 | 32% |
-| **2%** | 2,00% | R\$ 71.392.149 | +267% | -51% | -67% | 183 dias | 73% | 35 → 2000 | 77% |
-| **no limite** | **0,75%** | R\$ 34.485.481 | +218% | -40% | — | — | — | — | — |
-| no extremo | 1,64% | R\$ 66.622.682 | +262% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +723% | +235% | +157% | +283% | +109% |
-| Pior queda do ano | -28% | -32% | -46% | -30% | -21% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,27% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-58%** |
-| Capital no teste | 246× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -35% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>17º · gps + pullback + rompe + rompimento + tendencia — R\$ 31.591.516 aos 40%</b></summary>
-
-**Setups:** [GPS de Médias](../setups/gps-de-medias) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 392.818 | +31% | -9% | -10% | 136 dias | 71% | 3 → 18 | 0% |
-| **1%** | 1,00% | R\$ 35.105.509 | +219% | -41% | -41% | 144 dias | 73% | 17 → 2000 | 24% |
-| **2%** | 2,00% | R\$ 53.675.672 | +247% | -58% | -67% | 157 dias | 71% | 35 → 2000 | 76% |
-| **no limite** | **0,90%** | R\$ 31.591.516 | +213% | -40% | — | — | — | — | — |
-| no extremo | 1,57% | R\$ 47.718.916 | +239% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +391% | +370% | +120% | +223% | +118% |
-| Pior queda do ano | -34% | -26% | -41% | -33% | -25% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,17% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-49%** |
-| Capital no teste | 52× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -21% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>18º · gps + ifr + pullback + rompe + tendencia — R\$ 29.165.773 aos 40%</b></summary>
-
-**Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 435.659 | +34% | -11% | -10% | 144 dias | 71% | 4 → 16 | 0% |
-| **1%** | 1,00% | R\$ 45.048.286 | +235% | -47% | -43% | 144 dias | 73% | 21 → 2000 | 33% |
-| **2%** | 2,00% | R\$ 66.233.436 | +262% | -49% | -70% | 158 dias | 73% | 43 → 2000 | 76% |
-| **no limite** | **0,79%** | R\$ 29.165.773 | +208% | -40% | — | — | — | — | — |
-| no extremo | 1,98% | R\$ 66.062.998 | +262% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +695% | +387% | +111% | +206% | +116% |
-| Pior queda do ano | -28% | -28% | -47% | -33% | -23% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,46% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-62%** |
-| Capital no teste | 139× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -30% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>19º · donchian + fibo + pullback + rompe + tendencia — R\$ 7.974.944 aos 40%</b></summary>
-
-**Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 330.366 | +27% | -11% | -10% | 289 dias | 68% | 3 → 13 | 0% |
-| **1%** | 1,00% | R\$ 27.004.657 | +203% | -49% | -41% | 301 dias | 69% | 17 → 2000 | 7% |
-| **2%** | 2,00% | R\$ 50.476.673 | +243% | -44% | -69% | 287 dias | 69% | 35 → 2000 | 73% |
-| **no limite** | **0,74%** | R\$ 7.974.944 | +138% | -40% | — | — | — | — | — |
-| no extremo | 0,98% | R\$ 26.066.176 | +201% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +660% | +160% | +37% | +319% | +184% |
-| Pior queda do ano | -25% | -31% | -49% | -31% | -32% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,33% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-61%** |
-| Capital no teste | 40× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -31% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>20º · fibo + gps + pullback + rompe + tendencia — R\$ 7.740.354 aos 40%</b></summary>
-
-**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [GPS de Médias](../setups/gps-de-medias) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
-| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
-|---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 301.168 | +24% | -11% | -11% | 158 dias | 71% | 3 → 14 | 0% |
-| **1%** | 1,00% | R\$ 20.321.900 | +187% | -46% | -45% | 158 dias | 71% | 17 → 2000 | 2% |
-| **2%** | 2,00% | R\$ 45.704.643 | +236% | -52% | -72% | 305 dias | 69% | 35 → 2000 | 72% |
-| **no limite** | **0,80%** | R\$ 7.740.354 | +137% | -40% | — | — | — | — | — |
-| no extremo | 1,83% | R\$ 43.515.970 | +233% | -50% | — | — | — | — | — |
-
-**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
-
-| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
-|---|---|---|---|---|---|
-| Rendeu | +367% | +274% | +59% | +139% | +226% |
-| Pior queda do ano | -29% | -27% | -46% | -33% | -31% |
-
-**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
-
-|  |  |
-|---|---|
-| Risco calibrado no treino | 1,38% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-59%** |
-| Capital no teste | 25× o inicial |
-| Queda no primeiro ano, saindo de R\$ 100.000 | -21% |
-| Operações no teto de contratos, no primeiro ano | 0% |
-
-</details>
-
-<details>
-<summary><b>21º · ifr + pullback + rompimento — R\$ 37.890.737 aos 40%</b></summary>
+<summary><b>5º · ifr + pullback + rompimento — R\$ 30.559.384 aos 30%</b></summary>
 
 **Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
@@ -699,7 +186,7 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 | **dividido** | 0,33% | R\$ 406.974 | +32% | -6% | -9% | 89 dias | 79% | 7 → 34 | 0% |
 | **1%** | 1,00% | R\$ 6.465.439 | +128% | -19% | -25% | 89 dias | 79% | 21 → 1117 | 0% |
 | **2%** | 2,00% | R\$ 28.513.505 | +206% | -26% | -44% | 85 dias | 77% | 43 → 2000 | 45% |
-| **no limite** | **4,08%** | R\$ 37.890.737 | +224% | -40% | — | — | — | — | — |
+| **no limite** | **2,25%** | R\$ 30.559.384 | +211% | -30% | — | — | — | — | — |
 | no extremo | 5,35% | R\$ 39.809.739 | +227% | -50% | — | — | — | — | — |
 
 **Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
@@ -713,10 +200,490 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 4,08% |
-| Queda que ele prometia | -40% |
-| Queda que ele entregou no teste | **-42%** |
-| Capital no teste | 202× o inicial |
+| Risco calibrado no treino | 2,25% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-29%** |
+| Capital no teste | 133× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | — |
+| Operações no teto de contratos, no primeiro ano | — |
+
+</details>
+
+<details>
+<summary><b>6º · ifr + pullback + rompe + rompimento — R\$ 30.121.529 aos 30%</b></summary>
+
+**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,25% | R\$ 309.382 | +25% | -6% | -7% | 99 dias | 73% | 5 → 20 | 0% |
+| **1%** | 1,00% | R\$ 8.852.950 | +143% | -23% | -25% | 114 dias | 73% | 21 → 1488 | 0% |
+| **2%** | 2,00% | R\$ 31.287.787 | +212% | -31% | -45% | 126 dias | 71% | 43 → 2000 | 52% |
+| **no limite** | **1,90%** | R\$ 30.121.529 | +210% | -30% | — | — | — | — | — |
+| no extremo | 5,31% | R\$ 43.755.876 | +234% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +254% | +98% | +88% | +322% | +67% |
+| Pior queda do ano | -12% | -17% | -13% | -14% | -23% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 1,90% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-40%** |
+| Capital no teste | 103× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -18% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>7º · macd + por + pullback + rompe + rompimento — R\$ 25.656.224 aos 30%</b></summary>
+
+**Setups:** [MACD na Tendência](../setups/macd-na-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,20% | R\$ 218.981 | +17% | -4% | -5% | 89 dias | 77% | 4 → 12 | 0% |
+| **1%** | 1,00% | R\$ 5.285.467 | +119% | -22% | -22% | 95 dias | 77% | 20 → 1061 | 0% |
+| **2%** | 2,00% | R\$ 26.460.216 | +202% | -30% | -40% | 114 dias | 76% | 41 → 2000 | 39% |
+| **no limite** | **1,91%** | R\$ 25.656.224 | +200% | -30% | — | — | — | — | — |
+| no extremo | 5,26% | R\$ 40.238.317 | +228% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +134% | +73% | +131% | +270% | +43% |
+| Pior queda do ano | -8% | -16% | -14% | -18% | -22% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 1,91% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-36%** |
+| Capital no teste | 87× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -17% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>8º · fibo + macd + por + pullback + rompimento — R\$ 25.650.131 aos 30%</b></summary>
+
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [MACD na Tendência](../setups/macd-na-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,20% | R\$ 212.419 | +16% | -4% | -5% | 103 dias | 79% | 4 → 12 | 0% |
+| **1%** | 1,00% | R\$ 4.543.283 | +113% | -20% | -21% | 103 dias | 79% | 20 → 938 | 0% |
+| **2%** | 2,00% | R\$ 26.596.051 | +202% | -31% | -39% | 111 dias | 79% | 41 → 2000 | 34% |
+| **no limite** | **1,92%** | R\$ 25.650.131 | +200% | -30% | — | — | — | — | — |
+| no extremo | 4,73% | R\$ 40.337.384 | +228% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +133% | +51% | +134% | +221% | +51% |
+| Pior queda do ano | -11% | -16% | -14% | -15% | -20% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 1,92% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-33%** |
+| Capital no teste | 85× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | — |
+| Operações no teto de contratos, no primeiro ano | — |
+
+</details>
+
+<details>
+<summary><b>9º · fibo + ifr + por + rompe + rompimento — R\$ 24.738.673 aos 30%</b></summary>
+
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,20% | R\$ 225.767 | +18% | -5% | -5% | 89 dias | 66% | 4 → 12 | 0% |
+| **1%** | 1,00% | R\$ 6.493.727 | +129% | -25% | -24% | 89 dias | 66% | 21 → 1179 | 0% |
+| **2%** | 2,00% | R\$ 28.448.125 | +206% | -34% | -42% | 111 dias | 66% | 43 → 2000 | 37% |
+| **no limite** | **1,70%** | R\$ 24.738.673 | +198% | -30% | — | — | — | — | — |
+| no extremo | 4,42% | R\$ 39.154.342 | +226% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +175% | +72% | +133% | +313% | +55% |
+| Pior queda do ano | -13% | -16% | -12% | -12% | -25% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 1,98% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-35%** |
+| Capital no teste | 130× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -17% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>10º · ifr + por + rompe + rompimento — R\$ 24.255.585 aos 30%</b></summary>
+
+**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,25% | R\$ 271.462 | +22% | -6% | -7% | 107 dias | 69% | 5 → 18 | 0% |
+| **1%** | 1,00% | R\$ 5.464.283 | +121% | -23% | -24% | 107 dias | 69% | 21 → 992 | 0% |
+| **2%** | 2,00% | R\$ 25.626.543 | +200% | -32% | -44% | 107 dias | 68% | 43 → 2000 | 38% |
+| **no limite** | **1,85%** | R\$ 24.255.585 | +197% | -30% | — | — | — | — | — |
+| no extremo | 4,99% | R\$ 35.874.262 | +221% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +151% | +75% | +128% | +288% | +55% |
+| Pior queda do ano | -11% | -15% | -11% | -12% | -23% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,18% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-31%** |
+| Capital no teste | 141× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -19% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>11º · fibo + ifr + por + pullback — R\$ 23.548.823 aos 30%</b></summary>
+
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,25% | R\$ 219.071 | +17% | -4% | -6% | 105 dias | 77% | 5 → 10 | 0% |
+| **1%** | 1,00% | R\$ 2.396.890 | +88% | -15% | -24% | 113 dias | 77% | 21 → 350 | 0% |
+| **2%** | 2,00% | R\$ 21.421.734 | +190% | -27% | -43% | 113 dias | 77% | 43 → 2000 | 29% |
+| **no limite** | **2,18%** | R\$ 23.548.823 | +195% | -30% | — | — | — | — | — |
+| no extremo | 6,00% | R\$ 38.616.822 | +225% | -45% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +230% | +35% | +62% | +108% | +59% |
+| Pior queda do ano | -9% | -14% | -14% | -11% | -15% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,36% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-32%** |
+| Capital no teste | 37× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -17% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>12º · ifr + por + pullback — R\$ 23.547.240 aos 30%</b></summary>
+
+**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,33% | R\$ 269.825 | +22% | -5% | -9% | 145 dias | 76% | 7 → 15 | 0% |
+| **1%** | 1,00% | R\$ 2.026.401 | +81% | -14% | -26% | 145 dias | 77% | 21 → 296 | 0% |
+| **2%** | 2,00% | R\$ 19.035.402 | +183% | -24% | -46% | 113 dias | 77% | 43 → 2000 | 27% |
+| **no limite** | **2,53%** | R\$ 23.547.240 | +195% | -30% | — | — | — | — | — |
+| no extremo | 6,00% | R\$ 32.576.489 | +215% | -46% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +201% | +38% | +59% | +95% | +59% |
+| Pior queda do ano | -10% | -12% | -12% | -11% | -12% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,53% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-31%** |
+| Capital no teste | 37× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -18% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>13º · fibo + ifr + rompe + rompimento — R\$ 23.426.891 aos 30%</b></summary>
+
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,25% | R\$ 263.466 | +21% | -6% | -7% | 114 dias | 68% | 5 → 17 | 0% |
+| **1%** | 1,00% | R\$ 4.762.020 | +115% | -25% | -24% | 114 dias | 66% | 21 → 874 | 0% |
+| **2%** | 2,00% | R\$ 24.693.493 | +198% | -32% | -44% | 127 dias | 68% | 43 → 2000 | 32% |
+| **no limite** | **1,89%** | R\$ 23.426.891 | +195% | -30% | — | — | — | — | — |
+| no extremo | 4,33% | R\$ 34.865.354 | +219% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +154% | +77% | +93% | +298% | +54% |
+| Pior queda do ano | -14% | -15% | -12% | -11% | -25% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,11% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-38%** |
+| Capital no teste | 114× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | — |
+| Operações no teto de contratos, no primeiro ano | — |
+
+</details>
+
+<details>
+<summary><b>14º · ifr + por + pullback + rompe — R\$ 23.207.788 aos 30%</b></summary>
+
+**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,25% | R\$ 224.936 | +17% | -4% | -7% | 122 dias | 74% | 5 → 10 | 0% |
+| **1%** | 1,00% | R\$ 2.760.766 | +93% | -17% | -27% | 122 dias | 74% | 21 → 404 | 0% |
+| **2%** | 2,00% | R\$ 21.624.085 | +190% | -30% | -48% | 122 dias | 73% | 43 → 2000 | 34% |
+| **no limite** | **2,12%** | R\$ 23.207.788 | +194% | -30% | — | — | — | — | — |
+| no extremo | 6,00% | R\$ 36.503.581 | +222% | -46% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +229% | +55% | +60% | +139% | +50% |
+| Pior queda do ano | -11% | -15% | -16% | -14% | -17% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,23% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-36%** |
+| Capital no teste | 35× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -20% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>15º · macd + pullback + rompe + rompimento — R\$ 22.185.373 aos 30%</b></summary>
+
+**Setups:** [MACD na Tendência](../setups/macd-na-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,25% | R\$ 245.905 | +20% | -5% | -6% | 95 dias | 74% | 5 → 17 | 0% |
+| **1%** | 1,00% | R\$ 3.853.217 | +106% | -22% | -22% | 105 dias | 74% | 20 → 784 | 0% |
+| **2%** | 2,00% | R\$ 23.059.780 | +194% | -30% | -40% | 115 dias | 73% | 41 → 2000 | 35% |
+| **no limite** | **1,90%** | R\$ 22.185.373 | +192% | -30% | — | — | — | — | — |
+| no extremo | 4,57% | R\$ 34.529.708 | +218% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +116% | +77% | +92% | +256% | +42% |
+| Pior queda do ano | -10% | -16% | -15% | -17% | -22% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,00% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-38%** |
+| Capital no teste | 69× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -18% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>16º · ifr + pullback — R\$ 17.459.218 aos 30%</b></summary>
+
+**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,50% | R\$ 395.833 | +31% | -7% | -14% | 129 dias | 73% | 10 → 28 | 0% |
+| **1%** | 1,00% | R\$ 1.477.245 | +70% | -14% | -25% | 129 dias | 73% | 21 → 218 | 0% |
+| **2%** | 2,00% | R\$ 14.081.601 | +166% | -27% | -45% | 142 dias | 74% | 43 → 2000 | 12% |
+| **no limite** | **2,25%** | R\$ 17.459.218 | +178% | -30% | — | — | — | — | — |
+| no extremo | 6,00% | R\$ 29.147.418 | +208% | -45% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +178% | +41% | +32% | +87% | +58% |
+| Pior queda do ano | -7% | -11% | -14% | -10% | -12% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,63% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-34%** |
+| Capital no teste | 23× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | — |
+| Operações no teto de contratos, no primeiro ano | — |
+
+</details>
+
+<details>
+<summary><b>17º · ifr + pullback + rompe — R\$ 15.996.042 aos 30%</b></summary>
+
+**Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,33% | R\$ 273.035 | +22% | -5% | -10% | 159 dias | 73% | 7 → 15 | 0% |
+| **1%** | 1,00% | R\$ 2.030.800 | +82% | -17% | -27% | 160 dias | 71% | 21 → 300 | 0% |
+| **2%** | 2,00% | R\$ 17.973.734 | +180% | -31% | -47% | 160 dias | 69% | 43 → 2000 | 24% |
+| **no limite** | **1,84%** | R\$ 15.996.042 | +173% | -30% | — | — | — | — | — |
+| no extremo | 5,41% | R\$ 32.301.452 | +214% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +205% | +59% | +33% | +130% | +49% |
+| Pior queda do ano | -9% | -14% | -17% | -13% | -16% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,35% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-38%** |
+| Capital no teste | 24× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -25% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>18º · fibo + ifr + pullback — R\$ 15.774.275 aos 30%</b></summary>
+
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,33% | R\$ 255.046 | +20% | -5% | -9% | 160 dias | 74% | 7 → 14 | 0% |
+| **1%** | 1,00% | R\$ 1.750.965 | +76% | -16% | -26% | 160 dias | 71% | 21 → 258 | 0% |
+| **2%** | 2,00% | R\$ 16.956.866 | +176% | -31% | -46% | 161 dias | 71% | 43 → 2000 | 19% |
+| **no limite** | **1,93%** | R\$ 15.774.275 | +172% | -30% | — | — | — | — | — |
+| no extremo | 6,00% | R\$ 34.539.776 | +218% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +204% | +39% | +35% | +100% | +58% |
+| Pior queda do ano | -9% | -13% | -16% | -10% | -14% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,49% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-37%** |
+| Capital no teste | 25× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | — |
+| Operações no teto de contratos, no primeiro ano | — |
+
+</details>
+
+<details>
+<summary><b>19º · fibo + ifr + pullback + rompe — R\$ 14.308.616 aos 30%</b></summary>
+
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,25% | R\$ 221.906 | +17% | -5% | -7% | 160 dias | 71% | 5 → 10 | 0% |
+| **1%** | 1,00% | R\$ 2.399.560 | +88% | -19% | -25% | 160 dias | 69% | 21 → 354 | 0% |
+| **2%** | 2,00% | R\$ 20.234.612 | +186% | -35% | -45% | 161 dias | 69% | 43 → 2000 | 26% |
+| **no limite** | **1,64%** | R\$ 14.308.616 | +167% | -30% | — | — | — | — | — |
+| no extremo | 5,69% | R\$ 37.915.248 | +224% | -50% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +234% | +57% | +36% | +146% | +49% |
+| Pior queda do ano | -10% | -16% | -19% | -13% | -19% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 1,97% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-35%** |
+| Capital no teste | 18× o inicial |
+| Queda no primeiro ano, saindo de R\$ 100.000 | -20% |
+| Operações no teto de contratos, no primeiro ano | 0% |
+
+</details>
+
+<details>
+<summary><b>20º · fibo + por + pullback + rompe + rompimento — R\$ 13.035.647 aos 30%</b></summary>
+
+**Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
+| Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
+|---|---|---|---|---|---|---|---|---|---|
+| **dividido** | 0,20% | R\$ 180.463 | +12% | -3% | -4% | 126 dias | 73% | 4 → 11 | 0% |
+| **1%** | 1,00% | R\$ 2.058.888 | +82% | -17% | -19% | 126 dias | 76% | 20 → 505 | 0% |
+| **2%** | 2,00% | R\$ 14.338.081 | +167% | -32% | -35% | 126 dias | 77% | 41 → 2000 | 25% |
+| **no limite** | **1,85%** | R\$ 13.035.647 | +162% | -30% | — | — | — | — | — |
+| no extremo | 6,00% | R\$ 30.741.677 | +211% | -46% | — | — | — | — | — |
+
+**Ano a ano** (modo 1%) — e repare que nenhum ano se parece com a média:
+
+| Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
+|---|---|---|---|---|---|
+| Rendeu | +125% | +47% | +72% | +180% | +15% |
+| Pior queda do ano | -8% | -15% | -17% | -9% | -17% |
+
+**O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
+
+|  |  |
+|---|---|
+| Risco calibrado no treino | 2,16% |
+| Queda que ele prometia | -30% |
+| Queda que ele entregou no teste | **-34%** |
+| Capital no teste | 32× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | — |
 | Operações no teto de contratos, no primeiro ano | — |
 
@@ -729,7 +696,7 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 > Quando essa coluna é alta, boa parte do resultado vem de um período em que a conta estava grande e **o teto é que estava segurando a queda** — não a qualidade da carteira. Por isso a linha do primeiro ano importa tanto: nela o teto não aparece, e é ela que descreve quem está começando agora.
 
 > [!abstract] Confira a conta você mesmo
-> <a href="carteiras.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar carteiras.xlsx</a> — as 21 carteiras com todas as medidas nos três modos, ano a ano, e o teste de calibração
+> <a href="carteiras.xlsx" target="_blank" download type="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet">⬇ Baixar carteiras.xlsx</a> — as 20 carteiras com todas as medidas nos três modos, ano a ano, e o teste de calibração
 >
 > A planilha sai do mesmo cálculo que esta página, não de um cálculo paralelo: contratos inteiros, mesmo custo, mesmas regras. Se os números divergirem, é defeito nosso e queremos saber.
 
