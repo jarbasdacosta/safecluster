@@ -1,6 +1,6 @@
 ---
 title: Pôr do Sol (17h45)
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
@@ -8,11 +8,11 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 5 minutos · só a vela das 17h45
 
-🎬 **Vídeo de origem:** [Arthur 777 – "padrão repetitivo, 90% de acerto no candle de 17:45"](https://youtu.be/HswLyQd9rm8) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "padrão repetitivo, 90% de acerto no candle de 17:45"](https://youtu.be/HswLyQd9rm8) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
-> - **R\$ 135.059** arriscando **1% do capital** por operação (+6% ao ano · pior queda −10% · cauda −5%)
-> - **R\$ 182.661** arriscando **2% do capital** por operação (+13% ao ano · pior queda −19% · cauda −10%)
+> - **R\$ 135.059** arriscando **1% do capital** por operação (+6% ao ano · pior queda −10% · cauda −6%)
+> - **R\$ 182.661** arriscando **2% do capital** por operação (+13% ao ano · pior queda −19% · cauda −11%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
@@ -308,16 +308,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 499 operações, 80% de acerto e fator de lucro 1,71. O vídeo mostra: 258 operações · 86% de acerto · fator de lucro 3,17 (desde jan/2024, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,04R por operação no treino (p 0,005) e +0,08R no teste (p 0,000). |
-| **É sorte de parâmetro?** | 6 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,12 a +0,17R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,04 → +0,08R · sem exigir distância da abertura: −0,02 → +0,01R · distância de 2.000: +0,03 → +0,19R · zera às 18h20 (como os outros setups): +0,07 → +0,07R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 500 operações, 80% de acerto e fator de lucro 1,72. O vídeo mostra: 258 operações · 86% de acerto · fator de lucro 3,17 (desde jan/2024, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,04R por operação no treino (p 0,004) e +0,09R no teste (p 0,000). |
+| **É sorte de parâmetro?** | 6 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,12 a +0,18R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,04 → +0,09R · sem exigir distância da abertura: −0,02 → +0,01R · distância de 2.000: +0,03 → +0,19R · zera às 18h20 (como os outros setups): +0,07 → +0,08R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,04 → +0,08R · 25 pts: +0,01 → +0,05R · 30 pts: −0,01 → +0,03R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,04 → +0,09R · 25 pts: +0,01 → +0,05R · 30 pts: −0,01 → +0,04R (treino → teste). |
 
 ## Riscos e cuidados
 

@@ -1,6 +1,6 @@
 ---
 title: Tendência Forte do Dia
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
@@ -8,10 +8,10 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · sinais da 1ª vela do dia até 17h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "encontrei uma coisa absurda nos testes"](https://youtu.be/N4CJ9Yv8To8) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "encontrei uma coisa absurda nos testes"](https://youtu.be/N4CJ9Yv8To8) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
-> - **R\$ 771.281** arriscando **1% do capital** por operação (+50% ao ano · pior queda −26% · cauda −35%)
+> - **R\$ 771.281** arriscando **1% do capital** por operação (+50% ao ano · pior queda −26% · cauda −34%)
 > - **R\$ 3.506.922** arriscando **2% do capital** por operação (+102% ao ano · pior queda −48% · cauda −58%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
@@ -245,12 +245,12 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1757 operações, 35% de acerto e fator de lucro 1,28. O vídeo mostra: fator de lucro 1,19 (pontos fixos 700/400/400). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,16R por operação no treino (p 0,001) e +0,13R no teste (p 0,000). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1760 operações, 35% de acerto e fator de lucro 1,28. O vídeo mostra: fator de lucro 1,19 (pontos fixos 700/400/400). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,16R por operação no treino (p 0,001) e +0,13R no teste (p 0,001). |
 | **É sorte de parâmetro?** | 8 de 9 combinações de stop × alvo deram lucro no treino **e** no teste (−0,00 a +0,18R por operação). |
 | **Cada condição importa?** | COMPLETO (versão principal): +0,16 → +0,13R · sem as médias: +0,06 → +0,08R · sem a distância da abertura: +0,06 → +0,00R · sem fechar além da vela anterior: +0,14 → +0,09R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |

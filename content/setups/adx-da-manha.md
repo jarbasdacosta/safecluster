@@ -1,6 +1,6 @@
 ---
 title: ADX da Manhã
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
@@ -8,11 +8,11 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · só as velas das 10h00, 10h15, 10h30, 10h45 e 11h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "esse indicador é bizarro no mini índice"](https://youtu.be/D9mwdxexECE) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "esse indicador é bizarro no mini índice"](https://youtu.be/D9mwdxexECE) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
-> - **R\$ 551.452** arriscando **1% do capital** por operação (+40% ao ano · pior queda −35% · cauda −53%)
-> - **R\$ 988.086** arriscando **2% do capital** por operação (+57% ao ano · pior queda −65% · cauda −80%)
+> - **R\$ 551.452** arriscando **1% do capital** por operação (+40% ao ano · pior queda −35% · cauda −54%)
+> - **R\$ 988.086** arriscando **2% do capital** por operação (+57% ao ano · pior queda −65% · cauda −81%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
@@ -245,16 +245,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1802 operações, 18% de acerto e fator de lucro 1,28. O vídeo mostra: 1.940 operações (nossos dados: 1.960). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,06R por operação no treino (p 0,361) e +0,21R no teste (p 0,002). |
-| **É sorte de parâmetro?** | 9 de 9 combinações de stop × alvo deram lucro no treino **e** no teste (+0,02 a +0,35R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,06 → +0,21R · sem o ADX: +0,03 → +0,07R · sem o filtro do tamanho da vela: +0,04 → +0,23R · venda com o ADX descendo: +0,06 → +0,20R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1810 operações, 18% de acerto e fator de lucro 1,27. O vídeo mostra: 1.940 operações (nossos dados: 1.960). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,06R por operação no treino (p 0,361) e +0,20R no teste (p 0,006). |
+| **É sorte de parâmetro?** | 9 de 9 combinações de stop × alvo deram lucro no treino **e** no teste (+0,02 a +0,34R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,06 → +0,20R · sem o ADX: +0,03 → +0,06R · sem o filtro do tamanho da vela: +0,04 → +0,22R · venda com o ADX descendo: +0,06 → +0,19R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu manter como no vídeo. |
-| **E se o custo for maior?** | 15 pts: +0,06 → +0,21R · 25 pts: +0,00 → +0,17R · 30 pts: −0,03 → +0,14R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,06 → +0,20R · 25 pts: +0,00 → +0,16R · 30 pts: −0,03 → +0,13R (treino → teste). |
 
 ## Riscos e cuidados
 

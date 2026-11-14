@@ -1,6 +1,6 @@
 ---
 title: Extremos da Semana (virada de mão)
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · ordens válidas até as 15h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "STOP?! Virada de mão! payoff alto no mini índice"](https://youtu.be/p20GbzQCJlc) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "STOP?! Virada de mão! payoff alto no mini índice"](https://youtu.be/p20GbzQCJlc) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 211.313** arriscando **1% do capital** por operação (+16% ao ano · pior queda −23% · cauda −25%)
@@ -310,16 +310,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 604 operações, 33% de acerto e fator de lucro 1,12. O vídeo mostra: 896 operações · 33% de acerto · payoff 2,67 (desde 2015, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,09R por operação no treino (p 0,327) e +0,19R no teste (p 0,011). |
-| **É sorte de parâmetro?** | 12 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (+0,00 a +0,19R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,09 → +0,19R · sem virada de mão: +0,11 → +0,25R · sem exigir abertura dentro da faixa: +0,03 → +0,12R · ordens válidas até 12h: +0,14 → +0,20R · ordens válidas o dia todo: +0,10 → +0,20R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 606 operações, 33% de acerto e fator de lucro 1,12. O vídeo mostra: 896 operações · 33% de acerto · payoff 2,67 (desde 2015, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,09R por operação no treino (p 0,251) e +0,20R no teste (p 0,018). |
+| **É sorte de parâmetro?** | 12 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (+0,00 a +0,20R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,09 → +0,20R · sem virada de mão: +0,11 → +0,27R · sem exigir abertura dentro da faixa: +0,03 → +0,12R · ordens válidas até 12h: +0,14 → +0,21R · ordens válidas o dia todo: +0,10 → +0,21R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,09 → +0,19R · 25 pts: +0,06 → +0,17R · 30 pts: +0,05 → +0,16R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,09 → +0,20R · 25 pts: +0,06 → +0,18R · 30 pts: +0,05 → +0,17R (treino → teste). |
 
 ## Riscos e cuidados
 

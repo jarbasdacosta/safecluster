@@ -1,6 +1,6 @@
 ---
 title: Pullback no 50% do dia
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 11h30
 
-🎬 **Vídeo de origem:** [usei a retração de fibo e achei um padrão bizarro](https://youtu.be/krHN5ziozlA) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [usei a retração de fibo e achei um padrão bizarro](https://youtu.be/krHN5ziozlA) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 117.847** arriscando **1% do capital** por operação (+3% ao ano · pior queda −4% · cauda −7%)
@@ -312,14 +312,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 251 operações, 41% de acerto e fator de lucro 1,39. O vídeo mostra: 424 operações · ~76% de acerto · fator de lucro 1,59 · pior queda 8% (desde 2021, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,10R por operação no treino (p 0,102) e +0,07R no teste (p 0,054). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 252 operações, 41% de acerto e fator de lucro 1,36. O vídeo mostra: 424 operações · ~76% de acerto · fator de lucro 1,59 · pior queda 8% (desde 2021, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,10R por operação no treino (p 0,069) e +0,07R no teste (p 0,048). |
 | **É sorte de parâmetro?** | 12 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (+0,04 a +0,11R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,10 → +0,07R · sem as médias: +0,10 → +0,03R · sem exigir a cor da vela: +0,10 → +0,07R · sem exigir o toque na linha de 50%: +0,04 → +0,02R · sem a força do dia (distância 0): +0,02 → +0,01R · sem break even nem stop móvel: +0,08 → +0,05R · o dia todo (9h–16h): +0,03 → +0,07R (treino → teste). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,10 → +0,07R · sem as médias: +0,10 → +0,03R · sem exigir a cor da vela: +0,10 → +0,07R · sem exigir o toque na linha de 50%: +0,04 → +0,02R · sem a força do dia (distância 0): +0,02 → +0,02R · sem break even nem stop móvel: +0,08 → +0,05R · o dia todo (9h–16h): +0,03 → +0,07R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
 | **E se o custo for maior?** | 15 pts: +0,10 → +0,07R · 25 pts: +0,10 → +0,06R · 30 pts: +0,09 → +0,05R (treino → teste). |
 

@@ -99,9 +99,9 @@ O extremo de cima é claro: as combinações que incluem **extremos-da-semana-vi
 >
 > Ficam de fora: **Extremos da Semana (virada de mão)**, **GPS de Médias**, **Donchian com Médias**, **Vai na Onda**, **ADX da Manhã**, **Explosão da Bollinger**. Sobram 106 combinações para escolher.
 >
-> Ela rende 1,43× o que renderia escolher por sorteio, com todas as carteiras ajustadas para cair o mesmo. E cumpre a promessa de risco com erro de 1,10×.
+> Ela rende 1,47× o que renderia escolher por sorteio, com todas as carteiras ajustadas para cair o mesmo. E cumpre a promessa de risco com erro de 1,27×.
 >
-> Os outros cortes testados (2) deram 1,23× e 1,23× — próximos o bastante para a ideia não depender de onde se corta. Quando eles discordam entre si, o método tira a família inteira da disputa, porque aí a vencedora seria o corte sorteado e não a ideia.
+> Os outros cortes testados (2) deram 1,25× e 1,25× — próximos o bastante para a ideia não depender de onde se corta. Quando eles discordam entre si, o método tira a família inteira da disputa, porque aí a vencedora seria o corte sorteado e não a ideia.
 >
 > A etapa [6 · O método de escolha](o-metodo) tem a comparação completa.
 

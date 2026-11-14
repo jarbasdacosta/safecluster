@@ -1,6 +1,6 @@
 ---
 title: Rompimento da Média de 200
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
@@ -8,11 +8,11 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · das 9h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "95% de acerto, vários testes (500 trades)"](https://youtu.be/GGi3PKhC0Jo) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "95% de acerto, vários testes (500 trades)"](https://youtu.be/GGi3PKhC0Jo) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 135.629** arriscando **1% do capital** por operação (+6% ao ano · pior queda −11% · cauda −14%)
-> - **R\$ 177.877** arriscando **2% do capital** por operação (+12% ao ano · pior queda −22% · cauda −26%)
+> - **R\$ 177.877** arriscando **2% do capital** por operação (+12% ao ano · pior queda −22% · cauda −27%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
@@ -307,12 +307,12 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
 | **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 204 operações, 40% de acerto e fator de lucro 1,48. O vídeo mostra: 533 operações · 37% de acerto · payoff 2,57 (2015–2026, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,23R por operação no treino (p 0,044) e +0,14R no teste (p 0,053). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,23R por operação no treino (p 0,044) e +0,14R no teste (p 0,068). |
 | **É sorte de parâmetro?** | 8 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,10 a +0,27R por operação). |
 | **Cada condição importa?** | COMPLETO (versão principal): +0,23 → +0,14R · sem o filtro da abertura do dia: +0,16 → −0,01R · sem o filtro da média de 300: +0,34 → +0,07R · entrada a mercado: +0,24 → +0,09R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |

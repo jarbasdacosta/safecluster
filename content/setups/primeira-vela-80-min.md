@@ -1,6 +1,6 @@
 ---
 title: Primeira Vela de 80 Minutos
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
@@ -8,11 +8,11 @@ tags: [setup, win]
 
 🟡 promissor · dia escolhido pelo autor · Mini índice (WIN) · gráfico de 80 minutos · só a primeira vela do dia (9h00–10h20)
 
-🎬 **Vídeo de origem:** [Arthur 777 – "encontrei algo muito estranho no mini índice"](https://youtu.be/UFLCVkzcghU) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "encontrei algo muito estranho no mini índice"](https://youtu.be/UFLCVkzcghU) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 359.979** arriscando **1% do capital** por operação (+29% ao ano · pior queda −18% · cauda −22%)
-> - **R\$ 1.063.095** arriscando **2% do capital** por operação (+60% ao ano · pior queda −34% · cauda −39%)
+> - **R\$ 1.063.095** arriscando **2% do capital** por operação (+60% ao ano · pior queda −34% · cauda −40%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
@@ -287,16 +287,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 463 operações, 35% de acerto e fator de lucro 1,29. O vídeo mostra: stop 300: 677 operações, 21% de acerto, payoff 5,65; stop 600: fator de lucro 1,61, 27% de acerto (2018–2026, só terça a quinta, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,14R por operação no treino (p 0,499) e +0,46R no teste (p 0,008). |
-| **É sorte de parâmetro?** | 7 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,04 a +0,46R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,14 → +0,46R · sem o filtro da sombra: +0,03 → +0,31R · sombra máxima de 150: +0,56 → +0,41R · sombra máxima de 500: +0,07 → +0,34R · todos os dias da semana: +0,09 → +0,20R · sem break even: +0,14 → +0,43R · sem stop móvel: +0,15 → +0,44R · sem break even e sem stop móvel: +0,15 → +0,41R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 465 operações, 35% de acerto e fator de lucro 1,28. O vídeo mostra: stop 300: 677 operações, 21% de acerto, payoff 5,65; stop 600: fator de lucro 1,61, 27% de acerto (2018–2026, só terça a quinta, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,14R por operação no treino (p 0,242) e +0,45R no teste (p 0,003). |
+| **É sorte de parâmetro?** | 7 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,04 a +0,45R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,14 → +0,45R · sem o filtro da sombra: +0,03 → +0,31R · sombra máxima de 150: +0,56 → +0,40R · sombra máxima de 500: +0,07 → +0,33R · todos os dias da semana: +0,09 → +0,20R · sem break even: +0,14 → +0,42R · sem stop móvel: +0,15 → +0,43R · sem break even e sem stop móvel: +0,15 → +0,40R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,14 → +0,46R · 25 pts: +0,10 → +0,42R · 30 pts: +0,09 → +0,41R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,14 → +0,45R · 25 pts: +0,10 → +0,42R · 30 pts: +0,09 → +0,40R (treino → teste). |
 
 ## Riscos e cuidados
 

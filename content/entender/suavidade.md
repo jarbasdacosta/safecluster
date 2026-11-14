@@ -17,12 +17,12 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 30% | Virou | Por ano |
 |---|---|---|---|
-| ifr + por + pullback + rompimento | **2,94%** | R\$ 16.582.630 | +175% |
-| fibo + por + pullback + rompe + rompimento | **1,73%** | R\$ 6.535.325 | +129% |
+| ifr + por + pullback + rompimento | **1,60%** | R\$ 13.345.566 | +164% |
+| fibo + por + pullback + rompe + rompimento | **1,85%** | R\$ 6.784.196 | +131% |
 
-Mesma dor exata — as duas caem 30% — e a primeira termina com **2,5 vezes mais dinheiro**.
+Mesma dor exata — as duas caem 30% — e a primeira termina com **2,0 vezes mais dinheiro**.
 
-A explicação está na coluna do meio: a primeira **suporta 1,7 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
+Nesta rodada as duas suportam risco parecido (1,60% e 1,85%), então a diferença de resultado vem mais da qualidade das operações que da suavidade. O mecanismo descrito abaixo continua valendo, mas neste conjunto de carteiras ele está menos visível.
 
 > [!note] Por que uma suporta mais que a outra
 > Porque a pior queda não vem do tamanho da aposta sozinho — vem do tamanho da aposta **multiplicado pelo quanto a carteira tropeça**. Uma carteira cujos erros vêm espalhados pode apostar alto e ainda assim nunca acumular uma sequência funda. Uma cujos erros vêm agrupados chega na mesma queda apostando muito menos.
@@ -38,19 +38,19 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 30% | Virou a 30% |
 |---|---|---|---|---|
-| 1º | ifr + por + pullback + rompimento | R\$ 7.640.559 | 1º | R\$ 16.582.630 |
-| 2º | fibo + ifr + pullback + rompimento | R\$ 6.953.188 | 2º | R\$ 14.991.206 |
-| 3º | ifr + pullback + rompimento | R\$ 6.028.164 | 3º | R\$ 14.270.398 |
-| 4º | fibo + ifr + por + rompe + rompimento | R\$ 5.952.512 | 7º | R\$ 12.052.663 |
-| 5º | ifr + por + rompe + rompimento | R\$ 5.144.860 | 10º | R\$ 11.522.961 |
-| 6º | fibo + ifr + rompe + rompimento | R\$ 4.571.064 | 8º | R\$ 11.777.157 |
+| 1º | ifr + por + pullback + rompimento | R\$ 7.640.559 | 1º | R\$ 13.345.566 |
+| 2º | fibo + ifr + pullback + rompimento | R\$ 6.953.188 | 2º | R\$ 12.656.691 |
+| 3º | ifr + pullback + rompimento | R\$ 6.028.164 | 3º | R\$ 12.452.669 |
+| 4º | fibo + ifr + por + rompe + rompimento | R\$ 5.952.512 | 11º | R\$ 9.565.811 |
+| 5º | ifr + por + rompe + rompimento | R\$ 5.144.860 | 10º | R\$ 9.579.665 |
+| 6º | fibo + ifr + rompe + rompimento | R\$ 4.571.064 | 19º | R\$ 8.146.341 |
 
 3 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 
 ## Como você usa isso na prática
 Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 30%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.
 
-Com um aviso importante, que a etapa [9 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 30% entregou 33% quando testado de verdade — então **calibra-se para 27% para viver 30%**.
+Com um aviso importante, que a etapa [9 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 30% entregou 38% quando testado de verdade — então **calibra-se para 24% para viver 30%**.
 
 ---
 

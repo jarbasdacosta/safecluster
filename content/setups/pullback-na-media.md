@@ -1,6 +1,6 @@
 ---
 title: Pullback na Média
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
@@ -8,11 +8,11 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · velas das 10h30 às 12h30 e das 14h45 às 15h45
 
-🎬 **Vídeo de origem:** [Arthur 777 – "isso se repete milhares de vezes"](https://youtu.be/iIaJDFRbNpI) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "isso se repete milhares de vezes"](https://youtu.be/iIaJDFRbNpI) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 215.640** arriscando **1% do capital** por operação (+16% ao ano · pior queda −12% · cauda −16%)
-> - **R\$ 433.020** arriscando **2% do capital** por operação (+34% ao ano · pior queda −23% · cauda −30%)
+> - **R\$ 433.020** arriscando **2% do capital** por operação (+34% ao ano · pior queda −23% · cauda −29%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
@@ -247,14 +247,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 303 operações, 39% de acerto e fator de lucro 1,60. O vídeo mostra: ~268 operações · 44–45% de acerto · payoff 2,1–2,4 (sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,52R por operação no treino (p 0,000) e +0,13R no teste (p 0,076). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 304 operações, 39% de acerto e fator de lucro 1,60. O vídeo mostra: ~268 operações · 44–45% de acerto · payoff 2,1–2,4 (sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,52R por operação no treino (p 0,000) e +0,13R no teste (p 0,072). |
 | **É sorte de parâmetro?** | 9 de 9 combinações de stop × alvo deram lucro no treino **e** no teste (+0,03 a +0,54R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,52 → +0,13R · sem o toque na MME45: +0,17 → +0,15R · sem a distância da abertura: +0,29 → −0,05R · sem a MME200: +0,18 → −0,02R · sem fechar além da vela anterior: +0,37 → +0,11R (treino → teste). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,52 → +0,13R · sem o toque na MME45: +0,17 → +0,15R · sem a distância da abertura: +0,29 → −0,05R · sem a MME200: +0,18 → −0,03R · sem fechar além da vela anterior: +0,37 → +0,11R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
 | **E se o custo for maior?** | 15 pts: +0,52 → +0,13R · 25 pts: +0,48 → +0,09R · 30 pts: +0,46 → +0,07R (treino → teste). |
 

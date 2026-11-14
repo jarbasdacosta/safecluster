@@ -1,18 +1,18 @@
 ---
 title: Bandas de VWAP
-date: 2026-11-13
+date: 2026-11-14
 tags: [setup, win]
 ---
 
 **Quando o preço se afasta da VWAP do dia a favor da média de 200, entra atrás de um alvo longo e protege a operação no primeiro lucro.**
 
-🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
+✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "criei uma VWAP secreta"](https://youtu.be/50zdea2qbsM) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "criei uma VWAP secreta"](https://youtu.be/50zdea2qbsM) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
-> - **R\$ 166.510** arriscando **1% do capital** por operação (+11% ao ano · pior queda −27% · cauda −28%)
-> - **R\$ 234.944** arriscando **2% do capital** por operação (+18% ao ano · pior queda −50% · cauda −49%)
+> - **R\$ 166.510** arriscando **1% do capital** por operação (+11% ao ano · pior queda −27% · cauda −29%)
+> - **R\$ 234.944** arriscando **2% do capital** por operação (+18% ao ano · pior queda −50% · cauda −51%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
@@ -311,16 +311,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 07/11/2026.*
+*Testes de robustez rodados em 14/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1495 operações, 23% de acerto e fator de lucro 1,17. O vídeo mostra: 3.940 operações · ~50% de acerto · payoff 1,41 (desde 2015, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,02R por operação no treino (p 0,352) e +0,05R no teste (p 0,004). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1498 operações, 23% de acerto e fator de lucro 1,17. O vídeo mostra: 3.940 operações · ~50% de acerto · payoff 1,41 (desde 2015, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,02R por operação no treino (p 0,036) e +0,06R no teste (p 0,000). |
 | **É sorte de parâmetro?** | 12 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (+0,00 a +0,09R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,02 → +0,05R · sem o filtro da média de 200: −0,01 → +0,04R · sem exigir a cor da vela: +0,00 → +0,06R · bandas de 1.000 pts: −0,03 → +0,07R · sem break even: +0,01 → +0,05R · o dia todo (9h–17h): +0,02 → +0,03R (treino → teste). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,02 → +0,06R · sem o filtro da média de 200: −0,01 → +0,04R · sem exigir a cor da vela: +0,00 → +0,06R · bandas de 1.000 pts: −0,03 → +0,07R · sem break even: +0,01 → +0,05R · o dia todo (9h–17h): +0,02 → +0,03R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,02 → +0,05R · 25 pts: −0,00 → +0,03R · 30 pts: −0,01 → +0,02R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,02 → +0,06R · 25 pts: −0,00 → +0,03R · 30 pts: −0,01 → +0,02R (treino → teste). |
 
 ## Riscos e cuidados
 
