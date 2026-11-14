@@ -15,7 +15,7 @@ A regra foi escolhida comparando várias alternativas **no período de teste**. 
 Então a vantagem medida é um **teto**, não uma expectativa. Quanto dela sobra para frente, só um terceiro pedaço de tempo responde, e ele ainda não aconteceu.
 
 ## 2. A derrapagem de contas grandes não está no modelo
-O cálculo supõe que uma ordem de 2.000 contratos é executada no preço do sinal. Na prática, ordem grande move o preço contra quem a envia — e isso se chama derrapagem.
+O cálculo supõe que uma ordem de 1.000 contratos é executada no preço do sinal. Na prática, ordem grande move o preço contra quem a envia — e isso se chama derrapagem.
 
 Há 15 pontos de custo por operação já descontados de todo resultado deste site, o que cobre corretagem, emolumentos e uma derrapagem pequena. **Não cobre a derrapagem de uma ordem de centenas de contratos.** Toda a parte do resultado que vem de conta grande está otimista por um valor que não medimos.
 
@@ -24,18 +24,18 @@ Isto está medido, e o número é feio:
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 2,11% |
+| Risco calibrado no treino | 2,08% |
 | Queda que ele prometia | -30% |
-| Queda que ele entregou | **-35%** |
-| Erro | **1,18×** |
-| Carteiras que furaram 50% | 0 de 19 |
+| Queda que ele entregou | **-34%** |
+| Erro | **1,13×** |
+| Carteiras que furaram 40% | 1 de 19 |
 
-A correção é direta: **calibre para 26% se quer viver 30%.** Mas note que esse fator de 1,18× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
+A correção é direta: **calibre para 26% se quer viver 30%.** Mas note que esse fator de 1,13× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
 
 ## 4. Os números grandes não são expectativa
-A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 38.067.707 em 5,0 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
+A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 17.265.243 em 5,0 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
 
-O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,18× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
+O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,13× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
 
 ## 5. Cinco anos é pouco
 Todo este estudo cabe em 5,0 anos e 1.255 dias de bolsa. Nesse intervalo o mini índice não passou por tudo que ele pode passar. Um regime de mercado que não apareceu aqui pode quebrar setups que neste período pareceram sólidos — e nenhuma conta feita sobre estes dados consegue avisar sobre isso.

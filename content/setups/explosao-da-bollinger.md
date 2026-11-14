@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · entradas das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "só 10% de acerto? testei 3.000 trades"](https://youtu.be/V9EbJHI9wDw) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 21:46 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "só 10% de acerto? testei 3.000 trades"](https://youtu.be/V9EbJHI9wDw) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 286.574** arriscando **1% do capital** por operação (+23% ao ano · pior queda −37% · cauda −41%)
@@ -17,7 +17,7 @@ tags: [setup, win]
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
-> Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
+> Contratos **inteiros** (mínimo 1, teto de 1000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
 >
 > [Por que o risco por operação é a decisão que mais importa](../entender/suavidade) · [a trilha completa do método](../entender/)
 

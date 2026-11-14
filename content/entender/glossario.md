@@ -69,7 +69,7 @@ A unidade negociada. No mini índice cada ponto de variação vale R\$ 0,20 por 
 
 ### Teto de contratos
 
-O limite de 2.000 contratos por operação que usamos no cálculo, por julgarmos que acima disso o mercado do mini índice não absorve a ordem sem o preço fugir.
+O limite de 1.000 contratos por operação que usamos no cálculo, por julgarmos que acima disso o mercado do mini índice não absorve a ordem sem o preço fugir.
 
 ### Derrapagem
 

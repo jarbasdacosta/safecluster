@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · velas das 9h45 às 16h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "achei um padrão bizarro no mini índice"](https://youtu.be/5JZC82O-0Nc) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 21:46 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "achei um padrão bizarro no mini índice"](https://youtu.be/5JZC82O-0Nc) · testado de forma independente nos nossos dados em 07/11/2026 · página gerada em 13/11/2026 22:35 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 296.770** arriscando **1% do capital** por operação (+24% ao ano · pior queda −27% · cauda −32%)
@@ -17,7 +17,7 @@ tags: [setup, win]
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
-> Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
+> Contratos **inteiros** (mínimo 1, teto de 1000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
 >
 > [Por que o risco por operação é a decisão que mais importa](../entender/suavidade) · [a trilha completa do método](../entender/)
 

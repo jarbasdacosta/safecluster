@@ -42,6 +42,6 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 | Combinações avaliadas | 154 (de 2 a 5 setups cada) |
 | Capital de partida | R\$ 100.000 |
 | Custo por operação | 15 pontos, já descontados de todo resultado |
-| Limite de perda aceito | 30% do patrimônio (50% no extremo) |
+| Limite de perda aceito | 30% do patrimônio (40% no extremo) |
 
-*Gerado em 13/11/2026 21:50 a partir dos dados de 13/11/2026.*
+*Gerado em 13/11/2026 22:39 a partir dos dados de 13/11/2026.*
