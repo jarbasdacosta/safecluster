@@ -16,8 +16,8 @@ tags: [setup]
 
 | Setup | Resultado | R por operação: treino → teste | Acaso (p no teste) | Vizinhança | Testado em |
 |---|---|---|---|---|---|
-| [**Rompimento da Bollinger**](rompimento-da-bollinger) · [vídeo](https://youtu.be/2l5k3OyC7eQ) | ✅ aprovado | +0,43 → +0,83 | 0,000 | 16/16 | 14/11/2026 |
-| [**IFR de Tendência**](ifr-de-tendencia) · [vídeo](https://youtu.be/sswleA6JTvY) | ✅ aprovado | +0,25 → +0,31 | 0,000 | 9/9 | 14/11/2026 |
+| [**Rompimento da Bollinger**](rompimento-da-bollinger) · [vídeo](https://youtu.be/2l5k3OyC7eQ) | ✅ aprovado | +0,43 → +0,83 | 0,000 | 16/16 | 16/11/2026 |
+| [**IFR de Tendência**](ifr-de-tendencia) · [vídeo](https://youtu.be/sswleA6JTvY) | ✅ aprovado | +0,25 → +0,31 | 0,000 | 9/9 | 16/11/2026 |
 | [**Donchian com Médias**](donchian-com-medias) · [vídeo](https://youtu.be/11F3W1gsnGM) | ✅ aprovado | +0,22 → +0,23 | 0,000 | 9/12 | 14/11/2026 |
 | [**GPS de Médias**](gps-de-medias) · [vídeo](https://youtu.be/g0FJNSNubW8) | ✅ aprovado | +0,25 → +0,18 | 0,000 | 9/12 | 14/11/2026 |
 | [**MACD na Tendência**](macd-na-tendencia) · [vídeo](https://youtu.be/eHvY4bvS95c) | ✅ aprovado | +0,08 → +0,18 | 0,000 | 12/12 | 14/11/2026 |
@@ -30,7 +30,7 @@ tags: [setup]
 | [**ADX da Manhã**](adx-da-manha) · [vídeo](https://youtu.be/D9mwdxexECE) | 🟡 promissor | +0,06 → +0,20 | 0,006 | 9/9 | 14/11/2026 |
 | [**Vai na Onda**](vai-na-onda) · [vídeo](https://youtu.be/5JZC82O-0Nc) | 🟡 promissor | +0,03 → +0,18 | 0,001 | 6/12 | 14/11/2026 |
 | [**Rompimento da Média de 200**](rompe-media-200) · [vídeo](https://youtu.be/GGi3PKhC0Jo) | 🟡 promissor | +0,23 → +0,14 | 0,068 | 8/12 | 14/11/2026 |
-| [**Pullback na Média**](pullback-na-media) · [vídeo](https://youtu.be/iIaJDFRbNpI) | 🟡 promissor | +0,52 → +0,13 | 0,072 | 9/9 | 14/11/2026 |
+| [**Pullback na Média**](pullback-na-media) · [vídeo](https://youtu.be/iIaJDFRbNpI) | 🟡 promissor | +0,52 → +0,13 | 0,072 | 9/9 | 16/11/2026 |
 | [**Pôr do Sol (17h45)**](por-do-sol) · [vídeo](https://youtu.be/HswLyQd9rm8) | 🟡 promissor | +0,04 → +0,09 | 0,000 | 6/12 | 14/11/2026 |
 | [**Pullback no 50% do dia**](fibo-50-do-dia) · [vídeo](https://youtu.be/krHN5ziozlA) | 🟡 promissor | +0,10 → +0,07 | 0,048 | 12/12 | 14/11/2026 |
 | **Vela das 10h15 (só a cor)** · [vídeo](https://youtu.be/FPDULDqXgkI) | ❌ reprovado | +0,06 → +0,17 | 0,041 | 1/15 | 14/11/2026 |
@@ -59,7 +59,7 @@ tags: [setup]
 | **Varredura que falha + engolfo** · [vídeo](https://youtu.be/cSBeB_aQvuU) | ❌ reprovado | −0,05 → −0,07 | 0,969 | 0/12 | 14/11/2026 |
 | **Reversão no Dia Anterior** · [vídeo](https://youtu.be/AulUB-JIcTE) | ❌ reprovado | −0,00 → −0,07 | 0,886 | 0/12 | 14/11/2026 |
 | **Red Light, Green Light (duas escalas)** · [vídeo](https://youtu.be/8CDm_oFzv3A) | ❌ reprovado | +0,02 → −0,08 | 0,973 | 0/12 | 14/11/2026 |
-| **Rompimento dos americanos** · [vídeo](https://youtu.be/1hZmMvh-Pz8) | ❌ reprovado | +0,03 → −0,10 | 0,867 | 6/12 | 14/11/2026 |
+| **Rompimento dos americanos** · [vídeo](https://youtu.be/1hZmMvh-Pz8) | ❌ reprovado | +0,03 → −0,10 | 0,867 | 6/12 | 16/11/2026 |
 
 ### Testados antes da bateria padrão
 

@@ -57,7 +57,7 @@ Arriscando **1% do capital por operação**, partindo de R\$ 100.000. Clique no 
 | [Pôr do Sol (17h45)](../setups/por-do-sol) | 99 | 53% | 1,27 | 0,06 | R\$ 135.059 | +6% | -10% | -5% |
 | [Primeira Vela de Quinta](../setups/primeira-vela-de-quinta) ⚠️ | 22 | 63% | 0,93 | 0,22 | R\$ 125.392 | +5% | -5% | -6% |
 | [Pullback no 50% do dia](../setups/fibo-50-do-dia) | 45 | 42% | 1,90 | 0,08 | R\$ 117.847 | +3% | -4% | -7% |
-| *CDI (sem operar nada)* | — | — | — | — | R\$ 182.109 | +13% | — | — |
+| *CDI (sem operar nada)* | — | — | — | — | R\$ 182.202 | +13% | — | — |
 | *Ibovespa comprado e parado (BOVA11)* | — | — | — | — | R\$ 197.252 | +14% | -21% | — |
 
 As duas últimas linhas são as referências: o dinheiro parado na renda fixa e o dinheiro comprado no índice sem operar. Um setup que não bate a primeira não vale o trabalho.

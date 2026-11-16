@@ -44,6 +44,8 @@ As **20 carteiras** que o método escolheu, usando só o período de treino, mai
 >
 > Ajustada para cair 40% como as outras, ela precisa de 2,23% de risco por operação e termina com R\$ 20.611.482 — o que a poria em **18º lugar** entre as 20 escolhidas.
 >
+> **Esta tabela ordena por retorno.** A combinação que o site recomenda sai de outro critério — sobrevivência: quanto rende para cada 1% de queda, quantos dias passa no vermelho e qual a pior janela de 60 dias. Por isso uma carteira pode ficar de fora desta lista e ainda assim ser a recomendada: são perguntas diferentes. *Qual rende mais apanhando 40%?* não é a mesma pergunta que *qual apanha menos pelo que rende?*
+>
 > Isto é informação para decidir, não um veredito. Uma carteira que já está em operação tem um valor que o ranking não mede: ela está testada na prática, com execução real, derrapagem real e o emocional real de quem a opera.
 
 A coluna da direita é a mais importante e a menos agradável: é a queda que a carteira **de fato teve** no período de teste, usando o risco calibrado às cegas no treino. Compare com 40%, que era a promessa.

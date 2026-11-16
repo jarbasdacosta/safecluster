@@ -52,4 +52,4 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 >
 > Por isso as duas linhas acima são diferentes, e é a segunda que vale para quem vai operar. A [etapa 10](entender/limites) mostra a medição.
 
-*Gerado em 16/11/2026 10:03 a partir dos dados de 16/11/2026.*
+*Gerado em 16/11/2026 19:50 a partir dos dados de 16/11/2026.*
