@@ -1,6 +1,6 @@
 ---
 title: Donchian com Médias
-date: 2026-11-14
+date: 2026-11-16
 tags: [setup, win]
 ---
 
@@ -8,16 +8,16 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "perde quase sempre, mas quando acerta paga tudo"](https://youtu.be/11F3W1gsnGM) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "perde quase sempre, mas quando acerta paga tudo"](https://youtu.be/11F3W1gsnGM) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 16/11/2026 09:58 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 1.086.613** arriscando **1% do capital** por operação (+60% ao ano · pior queda −26% · cauda −38%)
-> - **R\$ 4.542.302** arriscando **2% do capital** por operação (+113% ao ano · pior queda −47% · cauda −64%)
+> - **R\$ 4.404.526** arriscando **2% do capital** por operação (+112% ao ano · pior queda −47% · cauda −64%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
-> Contratos **inteiros** (mínimo 1, teto de 1000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
+> Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
 >
 > [Por que o risco por operação é a decisão que mais importa](../entender/suavidade) · [a trilha completa do método](../entender/)
 
@@ -195,15 +195,15 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | R\$ 10.000 viraram · ao ano | Pior queda | Oscilação · Sharpe | Meses acima: CDI · Ibov | Pior · melhor mês |
 |---|---|---|---|---|---|
-| **ATR 0,10 / 1,29** | **R\$ 57.414** · +42,0% | −10,5% | 18,9% · 1,31 | 67% · 56% | −5,4% · +16,8% |
-| **como no vídeo (alvo 100, break even 300)** | **R\$ 13.628** · +6,4% | −12,2% | 7,7% · −0,72 | 38% · 43% | −3,0% · +6,2% |
-| **alvo 1.000** | **R\$ 45.664** · +35,6% | −11,7% | 16,9% · 1,18 | 64% · 66% | −5,2% · +12,7% |
-| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | **R\$ 64.394** · +45,3% | −11,4% | 18,0% · 1,49 | 67% · 54% | −5,4% · +17,8% |
-| **sem break even** | **R\$ 13.628** · +6,4% | −12,2% | 7,7% · −0,72 | 38% · 43% | −3,0% · +6,2% |
-| **canal de 40 períodos** | **R\$ 16.424** · +10,5% | −8,3% | 6,9% · −0,27 | 44% · 43% | −2,2% · +5,3% |
-| **risco 1%** | **R\$ 202.427** · +82,8% | −23,6% | 40,1% · 1,40 | 67% · 64% | −11,4% · +44,8% |
+| **ATR 0,10 / 1,29** | **R\$ 57.443** · +42,0% | −10,5% | 18,9% · 1,31 | 67% · 57% | −5,4% · +16,8% |
+| **como no vídeo (alvo 100, break even 300)** | **R\$ 13.635** · +6,4% | −12,2% | 7,7% · −0,72 | 38% · 43% | −3,0% · +6,2% |
+| **alvo 1.000** | **R\$ 45.688** · +35,6% | −11,7% | 16,9% · 1,18 | 64% · 66% | −5,2% · +12,7% |
+| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | **R\$ 64.427** · +45,3% | −11,4% | 18,0% · 1,49 | 67% · 54% | −5,4% · +17,8% |
+| **sem break even** | **R\$ 13.635** · +6,4% | −12,2% | 7,7% · −0,72 | 38% · 43% | −3,0% · +6,2% |
+| **canal de 40 períodos** | **R\$ 16.433** · +10,5% | −8,3% | 6,9% · −0,27 | 44% · 43% | −2,2% · +5,3% |
+| **risco 1%** | **R\$ 202.532** · +82,8% | −23,6% | 40,1% · 1,40 | 67% · 66% | −11,4% · +44,8% |
 | **pura** | **R\$ 31.496** · +25,9% | −12,5% | 18,9% · 0,67 | 61% · 54% | −6,4% · +15,4% |
-| **CDI** | **R\$ 18.239** · +12,8% | +0,0% | 0,1% · — | — · 44% | +0,4% · +1,3% |
+| **CDI** | **R\$ 18.248** · +12,8% | +0,0% | 0,1% · — | — · 44% | +0,5% · +1,3% |
 | **Ibovespa** | **R\$ 16.339** · +10,3% | −20,9% | 18,6% · −0,02 | 56% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/donchian-com-medias_queda.png)
@@ -212,14 +212,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **ATR 0,10 / 1,29** | −6,9% | +74,2% | +29,5% | +17,2% | +46,7% | +58,9% | **+474,1%** (+42,0% · R\$ 57.414) |
-| **como no vídeo (alvo 100, break even 300)** | +0,2% | +1,1% | +3,1% | +2,8% | +16,7% | +8,8% | **+36,3%** (+6,4% · R\$ 13.628) |
-| **alvo 1.000** | −2,2% | +61,3% | +21,0% | +17,5% | +52,7% | +33,3% | **+356,6%** (+35,6% · R\$ 45.664) |
-| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | −9,5% | +80,0% | +33,1% | +16,1% | +46,2% | +74,9% | **+543,9%** (+45,3% · R\$ 64.394) |
-| **sem break even** | +0,2% | +1,1% | +3,1% | +2,8% | +16,7% | +8,8% | **+36,3%** (+6,4% · R\$ 13.628) |
-| **canal de 40 períodos** | −0,7% | +11,4% | +3,3% | +11,9% | +15,7% | +11,1% | **+64,2%** (+10,5% · R\$ 16.424) |
-| **risco 1%** | −14,9% | +173,6% | +51,8% | +25,9% | +129,6% | +98,1% | **+1924,3%** (+82,8% · R\$ 202.427) |
-| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,1% | **+82,4%** (+12,8% · R\$ 18.239) |
+| **ATR 0,10 / 1,29** | −6,9% | +74,2% | +29,5% | +17,2% | +46,7% | +59,0% | **+474,4%** (+42,0% · R\$ 57.443) |
+| **como no vídeo (alvo 100, break even 300)** | +0,2% | +1,1% | +3,1% | +2,8% | +16,7% | +8,9% | **+36,3%** (+6,4% · R\$ 13.635) |
+| **alvo 1.000** | −2,2% | +61,3% | +21,0% | +17,5% | +52,7% | +33,4% | **+356,9%** (+35,6% · R\$ 45.688) |
+| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | −9,5% | +80,0% | +33,1% | +16,1% | +46,2% | +75,0% | **+544,3%** (+45,3% · R\$ 64.427) |
+| **sem break even** | +0,2% | +1,1% | +3,1% | +2,8% | +16,7% | +8,9% | **+36,3%** (+6,4% · R\$ 13.635) |
+| **canal de 40 períodos** | −0,7% | +11,4% | +3,3% | +11,9% | +15,7% | +11,2% | **+64,3%** (+10,5% · R\$ 16.433) |
+| **risco 1%** | −14,9% | +173,6% | +51,8% | +25,9% | +129,6% | +98,2% | **+1925,3%** (+82,8% · R\$ 202.532) |
+| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,2% | **+82,5%** (+12,8% · R\$ 18.248) |
 | **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +7,0% | **+63,4%** (+10,3% · R\$ 16.339) |
 | *Quem ganhou* | *CDI* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* |
 
@@ -290,8 +290,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | +4,9% | +7,0% | +1,1% | −0,3% |
 > | set/2026 | −0,5% | −0,6% | +1,1% | +5,0% |
 > | out/2026 | +6,0% | +7,4% | +1,1% | −9,9% |
-> | nov/2026 | +2,7% | +2,7% | +0,4% | +2,7% |
-> | **Acumulado** | **+474,1%** | **+1924,3%** | **+82,4%** | **+63,4%** |
+> | nov/2026 | +2,7% | +2,8% | +0,5% | +2,7% |
+> | **Acumulado** | **+474,4%** | **+1925,3%** | **+82,5%** | **+63,4%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 
@@ -360,20 +360,20 @@ Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setup
 | Fator de lucro | 1,31 | 1,31 | 1,31 |
 | Pontos no período | 61.770 | 61.770 | 61.770 |
 | Lucro com 1 contrato fixo | R\$ 12.354 | R\$ 12.354 | R\$ 12.354 |
-| Capital final | R\$ 1.086.613 | R\$ 1.086.613 | R\$ 4.542.302 |
-| Múltiplo do capital | 10,87× | 10,87× | 45,42× |
-| Rentabilidade ao ano | +60,4% | +60,4% | +112,9% |
+| Capital final | R\$ 1.086.613 | R\$ 1.086.613 | R\$ 4.404.526 |
+| Múltiplo do capital | 10,87× | 10,87× | 44,05× |
+| Rentabilidade ao ano | +60,4% | +60,4% | +111,6% |
 | Pior queda do período | -26,0% | -26,0% | -46,6% |
 | Pior queda dentro de um ano | -26,0% | -26,0% | -46,6% |
-| Cauda — pior em 1 de 20 anos | -38,4% | -38,4% | -63,8% |
+| Cauda — pior em 1 de 20 anos | -38,4% | -38,4% | -64,3% |
 | Maior tempo sem novo topo (dias) | 272 | 272 | 312 |
 | Meses positivos | 66% | 66% | 65% |
-| Sharpe | 1,40 | 1,40 | 1,34 |
-| Sortino | 4,31 | 4,31 | 4,13 |
+| Sharpe | 1,40 | 1,40 | 1,33 |
+| Sortino | 4,31 | 4,31 | 4,09 |
 | Pregões para dobrar o capital | 280 | 280 | 232 |
 | Contratos na 1ª operação | 17 | 17 | 35 |
-| Maior lote | 169 | 169 | 1.000 |
-| Operações no teto de contratos | 0% | 0% | 5% |
+| Maior lote | 169 | 169 | 1.514 |
+| Operações no teto de contratos | 0% | 0% | 0% |
 
 </details>
 

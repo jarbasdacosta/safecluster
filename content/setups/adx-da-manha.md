@@ -1,6 +1,6 @@
 ---
 title: ADX da Manhã
-date: 2026-11-14
+date: 2026-11-16
 tags: [setup, win]
 ---
 
@@ -8,16 +8,16 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · só as velas das 10h00, 10h15, 10h30, 10h45 e 11h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "esse indicador é bizarro no mini índice"](https://youtu.be/D9mwdxexECE) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 14/11/2026 08:16 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "esse indicador é bizarro no mini índice"](https://youtu.be/D9mwdxexECE) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 16/11/2026 09:58 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
-> - **R\$ 551.452** arriscando **1% do capital** por operação (+40% ao ano · pior queda −35% · cauda −54%)
-> - **R\$ 988.086** arriscando **2% do capital** por operação (+57% ao ano · pior queda −65% · cauda −81%)
+> - **R\$ 551.452** arriscando **1% do capital** por operação (+40% ao ano · pior queda −35% · cauda −53%)
+> - **R\$ 988.086** arriscando **2% do capital** por operação (+57% ao ano · pior queda −65% · cauda −80%)
 >
 > - **R\$ 182.109** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
-> Contratos **inteiros** (mínimo 1, teto de 1000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
+> Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
 >
 > [Por que o risco por operação é a decisão que mais importa](../entender/suavidade) · [a trilha completa do método](../entender/)
 
@@ -57,7 +57,7 @@ tags: [setup, win]
 |---|---|---|---|---|---|
 | **filtro 0,89%** (principal) | stop 0,15% · alvo 1,30% do preço | 18% · 5,21 | +9,8 → +43,8 | +36,1% | −15,4% |
 | **como no vídeo** | stop 0,15% · alvo 1,30% do preço | 18% · 5,20 | +7,9 → +39,3 | +32,8% | −13,2% |
-| **ATR 0,09 / 0,75** | stop 0,086 ATR · alvo 0,749 ATR (8,7× o stop) | 17% · 5,71 | +12,9 → +38,0 | +35,4% | −17,4% |
+| **ATR 0,09 / 0,75** | stop 0,086 ATR · alvo 0,749 ATR (8,7× o stop) | 17% · 5,71 | +12,9 → +38,0 | +35,5% | −17,4% |
 
 ## Estatísticas da operação (1 contrato, em pontos)
 
@@ -139,12 +139,12 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | R\$ 10.000 viraram · ao ano | Pior queda | Oscilação · Sharpe | Meses acima: CDI · Ibov | Pior · melhor mês |
 |---|---|---|---|---|---|
-| **filtro 0,89%** | **R\$ 46.552** · +36,1% | −15,4% | 21,4% · 0,98 | 62% · 59% | −10,0% · +23,4% |
-| **como no vídeo** | **R\$ 41.196** · +32,8% | −13,2% | 22,1% · 0,85 | 59% · 56% | −7,4% · +15,6% |
-| **ATR 0,09 / 0,75** | **R\$ 45.412** · +35,4% | −17,4% | 21,5% · 0,96 | 59% · 61% | −10,4% · +31,3% |
-| **risco 1%** | **R\$ 111.260** · +62,1% | −30,8% | 49,1% · 0,98 | 59% · 62% | −19,1% · +38,5% |
+| **filtro 0,89%** | **R\$ 46.576** · +36,1% | −15,4% | 21,4% · 0,98 | 62% · 59% | −10,0% · +23,4% |
+| **como no vídeo** | **R\$ 41.217** · +32,8% | −13,2% | 22,1% · 0,85 | 59% · 56% | −7,4% · +15,6% |
+| **ATR 0,09 / 0,75** | **R\$ 45.435** · +35,5% | −17,4% | 21,5% · 0,96 | 59% · 61% | −10,4% · +31,3% |
+| **risco 1%** | **R\$ 111.317** · +62,1% | −30,8% | 49,1% · 0,98 | 59% · 62% | −19,1% · +38,5% |
 | **pura** | **R\$ 25.534** · +20,7% | −17,2% | 21,4% · 0,42 | 54% · 51% | −10,9% · +22,1% |
-| **CDI** | **R\$ 18.239** · +12,8% | +0,0% | 0,1% · — | — · 44% | +0,4% · +1,3% |
+| **CDI** | **R\$ 18.248** · +12,8% | +0,0% | 0,1% · — | — · 44% | +0,5% · +1,3% |
 | **Ibovespa** | **R\$ 16.339** · +10,3% | −20,9% | 18,6% · −0,02 | 56% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/adx-da-manha_queda.png)
@@ -153,11 +153,11 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **filtro 0,89%** | +2,1% | +29,8% | +12,0% | +36,5% | +65,9% | +38,5% | **+365,5%** (+36,1% · R\$ 46.552) |
-| **como no vídeo** | −2,8% | +26,8% | +11,5% | +63,7% | +42,1% | +29,0% | **+312,0%** (+32,8% · R\$ 41.196) |
-| **ATR 0,09 / 0,75** | −7,2% | +27,8% | +27,4% | +32,5% | +61,1% | +40,8% | **+354,1%** (+35,4% · R\$ 45.412) |
-| **risco 1%** | +2,0% | +51,0% | +7,4% | +71,5% | +161,6% | +49,8% | **+1012,6%** (+62,1% · R\$ 111.260) |
-| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,1% | **+82,4%** (+12,8% · R\$ 18.239) |
+| **filtro 0,89%** | +2,1% | +29,8% | +12,0% | +36,5% | +65,9% | +38,6% | **+365,8%** (+36,1% · R\$ 46.576) |
+| **como no vídeo** | −2,8% | +26,8% | +11,5% | +63,7% | +42,1% | +29,0% | **+312,2%** (+32,8% · R\$ 41.217) |
+| **ATR 0,09 / 0,75** | −7,2% | +27,8% | +27,4% | +32,5% | +61,1% | +40,9% | **+354,3%** (+35,5% · R\$ 45.435) |
+| **risco 1%** | +2,0% | +51,0% | +7,4% | +71,5% | +161,6% | +49,8% | **+1013,2%** (+62,1% · R\$ 111.317) |
+| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,2% | **+82,5%** (+12,8% · R\$ 18.248) |
 | **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +7,0% | **+63,4%** (+10,3% · R\$ 16.339) |
 | *Quem ganhou* | *filtro 0,89%* | *risco 1%* | *ATR 0,09 / 0,75* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* |
 
@@ -228,8 +228,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | +1,9% | +2,1% | +1,1% | −0,3% |
 > | set/2026 | +16,4% | +27,8% | +1,1% | +5,0% |
 > | out/2026 | +5,3% | +7,0% | +1,1% | −9,9% |
-> | nov/2026 | −4,1% | −7,8% | +0,4% | +2,7% |
-> | **Acumulado** | **+365,5%** | **+1012,6%** | **+82,4%** | **+63,4%** |
+> | nov/2026 | −4,1% | −7,7% | +0,5% | +2,7% |
+> | **Acumulado** | **+365,8%** | **+1013,2%** | **+82,5%** | **+63,4%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 
@@ -301,7 +301,7 @@ Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setup
 | Rentabilidade ao ano | +40,2% | +40,2% | +57,4% |
 | Pior queda do período | -35,1% | -35,1% | -65,0% |
 | Pior queda dentro de um ano | -33,6% | -33,6% | -58,2% |
-| Cauda — pior em 1 de 20 anos | -54,4% | -54,4% | -81,0% |
+| Cauda — pior em 1 de 20 anos | -52,7% | -52,7% | -79,8% |
 | Maior tempo sem novo topo (dias) | 589 | 589 | 632 |
 | Meses positivos | 63% | 63% | 63% |
 | Sharpe | 0,95 | 0,95 | 0,94 |

@@ -1,6 +1,6 @@
 ---
 title: 4 · Por que a carteira mais lisa rende mais
-date: 2026-11-14
+date: 2026-11-16
 description: "A ideia central do método, em um exemplo"
 tags: [entender]
 ---
@@ -13,16 +13,16 @@ Esta é a etapa que explica o método inteiro. Se você ler só uma, leia esta.
 > Então a carteira mais lisa não é a mais conservadora. Bem usada, ela é a que rende mais.
 
 ## O exemplo
-Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma até as duas caírem exatamente **30%** — o mesmo desconforto, para ninguém levar vantagem por estar apostando mais alto:
+Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma até as duas caírem exatamente **40%** — o mesmo desconforto, para ninguém levar vantagem por estar apostando mais alto:
 
-| Carteira | Risco por operação para cair 30% | Virou | Por ano |
+| Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| ifr + por + pullback + rompimento | **1,60%** | R\$ 13.345.566 | +164% |
-| fibo + por + pullback + rompe + rompimento | **1,85%** | R\$ 6.784.196 | +131% |
+| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 34.103.290 | +217% |
+| gps + macd + por + pullback + tendencia | **0,91%** | R\$ 16.617.991 | +175% |
 
-Mesma dor exata — as duas caem 30% — e a primeira termina com **2,0 vezes mais dinheiro**.
+Mesma dor exata — as duas caem 40% — e a primeira termina com **2,1 vezes mais dinheiro**.
 
-Nesta rodada as duas suportam risco parecido (1,60% e 1,85%), então a diferença de resultado vem mais da qualidade das operações que da suavidade. O mecanismo descrito abaixo continua valendo, mas neste conjunto de carteiras ele está menos visível.
+A explicação está na coluna do meio: a primeira **suporta 1,2 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
 
 > [!note] Por que uma suporta mais que a outra
 > Porque a pior queda não vem do tamanho da aposta sozinho — vem do tamanho da aposta **multiplicado pelo quanto a carteira tropeça**. Uma carteira cujos erros vêm espalhados pode apostar alto e ainda assim nunca acumular uma sequência funda. Uma cujos erros vêm agrupados chega na mesma queda apostando muito menos.
@@ -34,23 +34,23 @@ Quase toda comparação de estratégias que você vai encontrar — inclusive as
 
 Com risco fixo, a carteira que mais rende é tipicamente a que balança mais, porque balançar mais com aposta igual produz números maiores — e também quedas maiores. **Você acaba premiando a mais alavancada e chamando isso de competência.** A comparação só fica honesta quando todas são ajustadas para doerem igual.
 
-As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas são postas a cair 30%:
+As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas são postas a cair 40%:
 
-| A 1% fixo | Carteira | Virou a 1% | Ordenando por 30% | Virou a 30% |
+| A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | ifr + por + pullback + rompimento | R\$ 7.640.559 | 1º | R\$ 13.345.566 |
-| 2º | fibo + ifr + pullback + rompimento | R\$ 6.953.188 | 2º | R\$ 12.656.691 |
-| 3º | ifr + pullback + rompimento | R\$ 6.028.164 | 3º | R\$ 12.452.669 |
-| 4º | fibo + ifr + por + rompe + rompimento | R\$ 5.952.512 | 11º | R\$ 9.565.811 |
-| 5º | ifr + por + rompe + rompimento | R\$ 5.144.860 | 10º | R\$ 9.579.665 |
-| 6º | fibo + ifr + rompe + rompimento | R\$ 4.571.064 | 19º | R\$ 8.146.341 |
+| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 32.504.644 | 1º | R\$ 34.103.290 |
+| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 28.674.320 | 2º | R\$ 32.498.697 |
+| 3º | gps + ifr + macd + pullback + rompimento | R\$ 28.631.924 | 3º | R\$ 29.262.869 |
+| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.628.093 | 5º | R\$ 27.890.287 |
+| 5º | ifr + pullback + rompe + rompimento + tendencia | R\$ 25.247.795 | 10º | R\$ 25.644.834 |
+| 6º | gps + ifr + pullback + rompe + tendencia | R\$ 25.192.377 | 18º | R\$ 18.349.412 |
 
 3 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 
 ## Como você usa isso na prática
-Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 30%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.
+Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 40%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.
 
-Com um aviso importante, que a etapa [10 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 30% entregou 38% quando testado de verdade — então **calibra-se para 24% para viver 30%**.
+Com um aviso importante, que a etapa [10 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 40% entregou 48% quando testado de verdade — então **calibra-se para 34% para viver 40%**.
 
 ---
 
