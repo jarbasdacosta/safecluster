@@ -10,7 +10,7 @@ Os gráficos de capital deste site usam **contratos fracionários**. É a régua
 
 Esta página mostra as duas no mesmo eixo.
 
-![Curva de capital: lote inteiro contra fracionário](img/lote-inteiro_curva.png)
+![Curva de capital: lote inteiro contra fracionário](setups/img/lote-inteiro_curva.png)
 
 ## O que foi medido
 
