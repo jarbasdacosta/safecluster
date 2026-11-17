@@ -1,6 +1,6 @@
 ---
 title: Primeira Vela de Quinta
-date: 2026-11-16
+date: 2026-11-17
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · dia escolhido pelo autor · Mini índice (WIN) · gráfico de 15 minutos · só a primeira vela do dia
 
-🎬 **Vídeo de origem:** [Arthur 777 – "descobri um padrão bizarro no mini índice"](https://youtu.be/5pmW0UMnXwE) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 16/11/2026 19:45 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "descobri um padrão bizarro no mini índice"](https://youtu.be/5pmW0UMnXwE) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 17/11/2026 19:45 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 125.392** arriscando **1% do capital** por operação (+5% ao ano · pior queda −5% · cauda −6%)
@@ -40,8 +40,8 @@ tags: [setup, win]
 | **Entrada** | ordem de compra na **máxima** dela (só na vela seguinte) | ordem de venda na **mínima** |
 | **Stop · alvo** | 400 · 400 pts no vídeo → em ATR aqui | igual |
 
-- **Versão principal (escolhida só pelo treino): ATR 0,21 / 0,21** — stop 0,206 ATR · alvo 0,206 ATR (1,0× o stop); hoje ≈ 784 pts de stop e 784 pts de alvo.
-- **ATR** = quanto o índice costuma andar num dia: a média da distância entre a máxima e a mínima dos últimos 14 pregões (hoje ≈ 3.809 pts). Usar múltiplos do ATR em vez de pontos fixos faz o setup acompanhar o mercado quando ele fica mais calmo ou mais agitado.
+- **Versão principal (escolhida só pelo treino): ATR 0,21 / 0,21** — stop 0,206 ATR · alvo 0,206 ATR (1,0× o stop); hoje ≈ 635 pts de stop e 635 pts de alvo.
+- **ATR** = quanto o índice costuma andar num dia: a média da distância entre a máxima e a mínima dos últimos 14 pregões (hoje ≈ 3.085 pts). Usar múltiplos do ATR em vez de pontos fixos faz o setup acompanhar o mercado quando ele fica mais calmo ou mais agitado.
 - **Uma operação de cada vez.** Se não bateu stop nem alvo, zera às 18h20.
 - **Testado pela bateria padrão** (a mesma para todos os setups): réplica do vídeo, pontos/% × ATR, vizinhança, peça por peça, custo e comparação com o acaso. Veredito por regras fixas, refeito todo sábado com os dados novos.
 
@@ -49,12 +49,12 @@ tags: [setup, win]
 
 | Versão | Regra | Acerto · payoff | Treino → teste (pts/op) | Ao ano (+ CDI) | Pior queda (+ CDI) |
 |---|---|---|---|---|---|
-| **ATR 0,21 / 0,21** (principal) | stop 0,206 ATR · alvo 0,206 ATR (1,0× o stop) | 63% · 0,83 | +106,6 → +51,7 | +16,5% | −3,7% |
+| **ATR 0,21 / 0,21** (principal) | stop 0,206 ATR · alvo 0,206 ATR (1,0× o stop) | 63% · 0,83 | +106,6 → +51,7 | +16,4% | −3,7% |
 | **todos os dias** | stop 400 · alvo 400 pts | 53% · 0,93 | +30,4 → −11,8 | +13,8% | −8,4% |
 | **só quinta (vídeo)** | stop 400 · alvo 400 pts | 63% · 0,93 | +104,3 → +79,7 | +18,1% | −2,5% |
 | **só quinta, entrada a mercado (vídeo)** | stop 400 · alvo 400 pts | 61% · 0,94 | +96,1 → +64,4 | +21,6% | −3,9% |
 | **só quinta, corpo de 100+ (vídeo)** | stop 400 · alvo 400 pts | 65% · 0,93 | +124,1 → +92,9 | +18,1% | −2,0% |
-| **todos os dias, entrada a mercado** | stop 400 · alvo 400 pts | 53% · 0,93 | +10,2 → +12,4 | +18,4% | −15,7% |
+| **todos os dias, entrada a mercado** | stop 400 · alvo 400 pts | 53% · 0,93 | +10,2 → +11,8 | +18,2% | −15,7% |
 
 ## Estatísticas da operação (1 contrato, em pontos)
 
@@ -159,20 +159,20 @@ Cada operação já desconta **15 pontos de custo** (corretagem, emolumentos e e
 
 | | Treino | Teste | Total |
 |---|---|---|---|
-| Operações | 540 | 710 | 1.250 |
+| Operações | 540 | 711 | 1.251 |
 | Operações por mês | 20,0 | 20,3 | 20,2 |
-| Taxa de acerto | 53,1% | 53,4% | 53,3% |
+| Taxa de acerto | 53,1% | 53,3% | 53,2% |
 | Bateram o alvo / o stop / zeraram no fim do dia | 53% / 47% / 0% | 53% / 46% / 1% | 53% / 47% / 0% |
 | Stop típico | 400 pts | 400 pts | 400 pts |
 | Ganho médio · perda média | +385 · −415 pts | +384 · −413 pts | +384 · −414 pts |
 | Payoff (ganho médio ÷ perda média) | 0,93 | 0,93 | 0,93 |
 | Fator de lucro (total ganho ÷ total perdido) | 1,05 | 1,06 | 1,06 |
-| Resultado médio por operação | +10,2 pts (+25,2 sem custo) | +12,4 pts (+27,4 sem custo) | +11,4 pts (+26,4 sem custo) |
-| **Lucro líquido** | **+5.500 pts · R\$ 1.100** | **+8.795 pts · R\$ 1.759** | **+14.295 pts · R\$ 2.859** |
+| Resultado médio por operação | +10,2 pts (+25,2 sem custo) | +11,8 pts (+26,8 sem custo) | +11,1 pts (+26,1 sem custo) |
+| **Lucro líquido** | **+5.500 pts · R\$ 1.100** | **+8.380 pts · R\$ 1.676** | **+13.880 pts · R\$ 2.776** |
 | Pior queda (drawdown) | −12.015 pts · −R\$ 2.403 | −5.250 pts · −R\$ 1.050 | −12.015 pts · −R\$ 2.403 |
 | Maior sequência de perdas | 9 seguidas | 7 seguidas | 9 seguidas |
 | Compras: acerto · lucro | 55% · +7.625 pts | 55% · +7.965 pts | 55% · +15.590 pts |
-| Vendas: acerto · lucro | 51% · −2.125 pts | 52% · +830 pts | 52% · −1.295 pts |
+| Vendas: acerto · lucro | 51% · −2.125 pts | 52% · +415 pts | 51% · −1.710 pts |
 
 ![Pontos acumulados com 1 contrato](setups/img/primeira-vela-de-quinta_pontos.png)
 
@@ -193,16 +193,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | R\$ 10.000 viraram · ao ano | Pior queda | Oscilação · Sharpe | Meses acima: CDI · Ibov | Pior · melhor mês |
 |---|---|---|---|---|---|
-| **ATR 0,21 / 0,21** | **R\$ 21.389** · +16,5% | −3,7% | 4,2% · 0,78 | 49% · 49% | −2,1% · +3,4% |
-| **todos os dias** | **R\$ 19.076** · +13,8% | −8,4% | 9,2% · 0,14 | 54% · 52% | −4,8% · +5,6% |
-| **só quinta (vídeo)** | **R\$ 22.925** · +18,1% | −2,5% | 4,1% · 1,14 | 49% · 52% | −1,3% · +3,5% |
-| **só quinta, entrada a mercado (vídeo)** | **R\$ 26.510** · +21,6% | −3,9% | 5,6% · 1,37 | 52% · 52% | −2,1% · +5,0% |
-| **só quinta, corpo de 100+ (vídeo)** | **R\$ 22.916** · +18,1% | −2,0% | 3,7% · 1,26 | 46% · 51% | −0,6% · +3,4% |
-| **todos os dias, entrada a mercado** | **R\$ 23.191** · +18,4% | −15,7% | 12,6% · 0,44 | 59% · 48% | −5,1% · +8,8% |
-| **risco 1%** | **R\$ 23.044** · +18,2% | −2,6% | 4,4% · 1,07 | 48% · 49% | −1,0% · +3,9% |
+| **ATR 0,21 / 0,21** | **R\$ 21.399** · +16,4% | −3,7% | 4,2% · 0,78 | 49% · 49% | −2,1% · +3,4% |
+| **todos os dias** | **R\$ 19.086** · +13,8% | −8,4% | 9,2% · 0,14 | 54% · 52% | −4,8% · +5,6% |
+| **só quinta (vídeo)** | **R\$ 22.937** · +18,1% | −2,5% | 4,1% · 1,14 | 49% · 52% | −1,3% · +3,5% |
+| **só quinta, entrada a mercado (vídeo)** | **R\$ 26.524** · +21,6% | −3,9% | 5,6% · 1,37 | 52% · 52% | −2,1% · +5,0% |
+| **só quinta, corpo de 100+ (vídeo)** | **R\$ 22.928** · +18,1% | −2,0% | 3,7% · 1,26 | 46% · 51% | −0,6% · +3,4% |
+| **todos os dias, entrada a mercado** | **R\$ 23.010** · +18,2% | −15,7% | 12,6% · 0,43 | 59% · 48% | −5,1% · +8,8% |
+| **risco 1%** | **R\$ 23.055** · +18,2% | −2,6% | 4,4% · 1,07 | 48% · 49% | −1,0% · +3,9% |
 | **pura** | **R\$ 11.722** · +3,2% | −6,9% | 4,2% · −2,10 | 21% · 41% | −3,1% · +2,4% |
-| **CDI** | **R\$ 18.248** · +12,8% | +0,0% | 0,1% · — | — · 44% | +0,5% · +1,3% |
-| **Ibovespa** | **R\$ 16.039** · +9,9% | −20,9% | 18,6% · −0,04 | 56% · — | −11,5% · +12,6% |
+| **CDI** | **R\$ 18.258** · +12,8% | 0,0% | 0,1% · — | — · 44% | +0,5% · +1,3% |
+| **Ibovespa** | **R\$ 16.089** · +10,0% | −20,9% | 18,6% · −0,04 | 56% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/primeira-vela-de-quinta_queda.png)
 
@@ -210,18 +210,18 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **ATR 0,21 / 0,21** | +4,0% | +18,1% | +15,3% | +16,4% | +21,9% | +6,4% | **+113,9%** (+16,5% · R\$ 21.389) |
-| **todos os dias** | +0,5% | +14,9% | +29,1% | +0,9% | +17,4% | +8,0% | **+90,8%** (+13,8% · R\$ 19.076) |
-| **só quinta (vídeo)** | +2,7% | +16,8% | +19,5% | +19,8% | +20,7% | +10,5% | **+129,2%** (+18,1% · R\$ 22.925) |
-| **só quinta, entrada a mercado (vídeo)** | +3,4% | +21,6% | +24,4% | +20,9% | +18,9% | +17,9% | **+165,1%** (+21,6% · R\$ 26.510) |
-| **só quinta, corpo de 100+ (vídeo)** | +2,0% | +19,8% | +17,8% | +18,1% | +18,0% | +14,3% | **+129,2%** (+18,1% · R\$ 22.916) |
-| **todos os dias, entrada a mercado** | +5,7% | −0,6% | +33,5% | +2,5% | +22,5% | +31,7% | **+131,9%** (+18,4% · R\$ 23.191) |
-| **risco 1%** | +4,2% | +19,1% | +16,4% | +19,2% | +23,5% | +8,4% | **+130,4%** (+18,2% · R\$ 23.044) |
-| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,2% | **+82,5%** (+12,8% · R\$ 18.248) |
-| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +5,1% | **+60,4%** (+9,9% · R\$ 16.039) |
+| **ATR 0,21 / 0,21** | +4,0% | +18,1% | +15,3% | +16,4% | +21,9% | +6,4% | **+114,0%** (+16,4% · R\$ 21.399) |
+| **todos os dias** | +0,5% | +14,9% | +29,1% | +0,9% | +17,4% | +8,1% | **+90,9%** (+13,8% · R\$ 19.086) |
+| **só quinta (vídeo)** | +2,7% | +16,8% | +19,5% | +19,8% | +20,7% | +10,6% | **+129,4%** (+18,1% · R\$ 22.937) |
+| **só quinta, entrada a mercado (vídeo)** | +3,4% | +21,6% | +24,4% | +20,9% | +18,9% | +17,9% | **+165,2%** (+21,6% · R\$ 26.524) |
+| **só quinta, corpo de 100+ (vídeo)** | +2,0% | +19,8% | +17,8% | +18,1% | +18,0% | +14,3% | **+129,3%** (+18,1% · R\$ 22.928) |
+| **todos os dias, entrada a mercado** | +5,7% | −0,6% | +33,5% | +2,5% | +22,5% | +30,7% | **+130,1%** (+18,2% · R\$ 23.010) |
+| **risco 1%** | +4,2% | +19,1% | +16,4% | +19,2% | +23,5% | +8,5% | **+130,6%** (+18,2% · R\$ 23.055) |
+| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,3% | **+82,6%** (+12,8% · R\$ 18.258) |
+| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +5,4% | **+60,9%** (+10,0% · R\$ 16.089) |
 | *Quem ganhou* | *todos os dias, entrada a mercado* | *só quinta, entrada a mercado (vídeo)* | *todos os dias, entrada a mercado* | *só quinta, entrada a mercado (vídeo)* | *Ibovespa* | *todos os dias, entrada a mercado* | *só quinta, entrada a mercado (vídeo)* |
 
-\* ano parcial: os dados vão de 01/11/2021 a 16/11/2026.
+\* ano parcial: os dados vão de 01/11/2021 a 17/11/2026.
 
 ![Retorno por ano](setups/img/primeira-vela-de-quinta_anos.png)
 
@@ -288,8 +288,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | −1,4% | −0,9% | +1,1% | −0,3% |
 > | set/2026 | +1,1% | +1,1% | +1,1% | +5,0% |
 > | out/2026 | +2,7% | +2,0% | +1,1% | −9,9% |
-> | nov/2026 | −1,2% | −0,5% | +0,5% | +0,8% |
-> | **Acumulado** | **+113,9%** | **+130,4%** | **+82,5%** | **+60,4%** |
+> | nov/2026 | −1,2% | −0,5% | +0,5% | +1,1% |
+> | **Acumulado** | **+114,0%** | **+130,6%** | **+82,6%** | **+60,9%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 
@@ -331,7 +331,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## Como o teste foi feito
 
-- **Dados:** WIN\$N em velas de 1 minuto do MetaTrader 5, de 25/10/2021 a 16/11/2026, com os saltos das rolagens ajustados para os indicadores; resultados em **pontos reais** do contrato de cada época.
+- **Dados:** WIN\$N em velas de 1 minuto do MetaTrader 5, de 25/10/2021 a 17/11/2026, com os saltos das rolagens ajustados para os indicadores; resultados em **pontos reais** do contrato de cada época.
 - **Execução realista:** cada operação acompanhada minuto a minuto; stop e alvo no mesmo minuto contam como **stop**; se o preço abriu além do stop, a saída foi no preço da abertura.
 - **Custo:** 15 pontos por operação. **CDI:** série diária do Banco Central. **Ibovespa:** fechamento diário, comprado o período todo.
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
@@ -363,10 +363,10 @@ Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setup
 | Rentabilidade ao ano | +4,6% | +4,6% | +9,3% |
 | Pior queda do período | -4,8% | -4,8% | -9,9% |
 | Cauda — pior em 1 de 20 anos | -6,2% | -6,2% | -12,1% |
-| Maior tempo sem novo topo (dias) | 275 | 275 | 275 |
+| Maior tempo sem novo topo (dias) | 278 | 278 | 278 |
 | Meses positivos | 47% | 47% | 47% |
 | Sharpe | 1,09 | 1,09 | 1,08 |
-| Sortino | 10,15 | 10,15 | 27,12 |
+| Sortino | 10,14 | 10,14 | 27,10 |
 | Contratos na 1ª operação | 9 | 9 | 18 |
 | Maior lote | 22 | 22 | 52 |
 | Operações no teto de contratos | 0% | 0% | 0% |

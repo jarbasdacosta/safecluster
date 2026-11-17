@@ -1,6 +1,6 @@
 ---
 title: 10 · O que pode dar errado
-date: 2026-11-16
+date: 2026-11-17
 description: "Onde este estudo pode estar errado"
 tags: [entender]
 ---
@@ -44,21 +44,21 @@ Isto está medido, e o número é feio:
 
 |  |  |
 |---|---|
-| Risco calibrado no treino | 1,53% |
+| Risco calibrado no treino | 1,52% |
 | Queda que ele prometia | -40% |
-| Queda que ele entregou | **-48%** |
-| Erro | **1,19×** |
-| Carteiras que furaram 50% | 7 de 20 |
+| Queda que ele entregou | **-49%** |
+| Erro | **1,22×** |
+| Carteiras que furaram 50% | 8 de 20 |
 
-A correção é direta: **calibre para 34% se quer viver 40%.** Mas note que esse fator de 1,19× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
+A correção é direta: **calibre para 33% se quer viver 40%.** Mas note que esse fator de 1,22× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
 
 ## 6. Os números grandes não são expectativa
-A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 34.103.290 em 5,0 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
+A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 34.421.690 em 5,1 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
 
-O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,19× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
+O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,22× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
 
 ## 7. Cinco anos é pouco
-Todo este estudo cabe em 5,0 anos e 1.255 dias de bolsa. Nesse intervalo o mini índice não passou por tudo que ele pode passar. Um regime de mercado que não apareceu aqui pode quebrar setups que neste período pareceram sólidos — e nenhuma conta feita sobre estes dados consegue avisar sobre isso.
+Todo este estudo cabe em 5,1 anos e 1.256 dias de bolsa. Nesse intervalo o mini índice não passou por tudo que ele pode passar. Um regime de mercado que não apareceu aqui pode quebrar setups que neste período pareceram sólidos — e nenhuma conta feita sobre estes dados consegue avisar sobre isso.
 
 ## 8. A cauda é uma estimativa, não um histórico
 A **pior queda** é o que aconteceu de fato. A **cauda** é diferente: embaralhamos as mesmas operações em 300 ordens diferentes e olhamos o pior ano entre vinte. Serve para enxergar o azar que não aconteceu.

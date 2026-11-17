@@ -1,6 +1,6 @@
 ---
 title: 3 · Por que combinar
-date: 2026-11-16
+date: 2026-11-17
 description: "O que se ganha juntando setups — e não é retorno"
 tags: [entender]
 ---
@@ -22,7 +22,7 @@ Nos nossos dados, a 1% por operação:
 |---|---|
 | Setup sozinho, o que cai mais | -37% |
 | Setup sozinho, o do meio da lista | -18% |
-| Carteira de vários setups, a do meio das 20 escolhidas | -36% |
+| Carteira de vários setups, a do meio das 20 escolhidas | -37% |
 
 > [!note] Isso tem nome, e o nome não importa muito
 > O efeito se chama **diversificação**, e a palavra costuma vir junto com a promessa de que ela reduz risco de graça. Não é de graça e não é mágica: ela funciona na medida em que os setups são diferentes entre si de verdade.
@@ -30,7 +30,7 @@ Nos nossos dados, a 1% por operação:
 > Dois setups que entram nas mesmas horas, na mesma direção, pelo mesmo motivo, vão errar juntos — e aí a queda **soma** em vez de compensar. Juntar dois nomes diferentes da mesma ideia não diversifica nada.
 
 ## A combinação não compra retorno
-Vale ser explícito, porque é contraintuitivo: o melhor setup sozinho (Donchian com Médias, +60% por ano) **rende mais, em percentual, do que a maioria das carteiras combinadas no mesmo modo de risco**. Se o único objetivo fosse rentabilidade medida assim, você operaria só ele.
+Vale ser explícito, porque é contraintuitivo: o melhor setup sozinho (Donchian com Médias, +62% por ano) **rende mais, em percentual, do que a maioria das carteiras combinadas no mesmo modo de risco**. Se o único objetivo fosse rentabilidade medida assim, você operaria só ele.
 
 O que a combinação compra é **suavidade**. E a etapa seguinte mostra por que suavidade, no fim, vira mais dinheiro do que retorno bruto — o que faz toda a diferença e é a ideia menos óbvia deste site.
 
@@ -39,8 +39,8 @@ Testamos combinações de 2 a 5 setups — 4.928 no total. Mais do que isso tem 
 
 | Setups na carteira | Quantas entre as escolhidas |
 |---|---|
-| 4 | 4 |
-| 5 | 16 |
+| 4 | 3 |
+| 5 | 17 |
 
 Entre as carteiras que o método escolheu, a distribuição acima mostra quantos setups ele preferiu juntar.
 

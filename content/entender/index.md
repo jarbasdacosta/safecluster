@@ -1,6 +1,6 @@
 ---
 title: Entender o método
-date: 2026-11-16
+date: 2026-11-17
 description: "Do problema à carteira escolhida, uma etapa por vez"
 tags: [entender]
 ---
@@ -39,17 +39,17 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 ## O que está em jogo
 |  |  |
 |---|---|
-| Período estudado | 26/10/2021 a 13/11/2026 (5,0 anos, 1.255 dias de bolsa) |
+| Período estudado | 26/10/2021 a 16/11/2026 (5,1 anos, 1.256 dias de bolsa) |
 | Setups testados | 17 — 15 entram nas combinações |
-| Combinações avaliadas | 4.928 (de 2 a 5 setups cada) — 805 cabem no limite de perda |
+| Combinações avaliadas | 4.928 (de 2 a 5 setups cada) — 816 cabem no limite de perda |
 | Capital de partida | R\$ 100.000 |
 | Custo por operação | 15 pontos, já descontados de todo resultado |
 | Alvo de calibração da queda | 40% do patrimônio (50% no extremo) |
-| Queda esperada operando à frente | **48%** — o alvo vezes a degradação medida (1,19×) |
+| Queda esperada operando à frente | **49%** — o alvo vezes a degradação medida (1,22×) |
 
 > [!warning] O alvo de queda não é uma promessa
 > 40% é o número para o qual o risco de cada carteira é calibrado **usando o passado**. Quando esse mesmo procedimento é testado de verdade — calibrar só com os dados antigos e aplicar adiante — a queda que vem é maior.
 >
 > Por isso as duas linhas acima são diferentes, e é a segunda que vale para quem vai operar. A [etapa 10](entender/limites) mostra a medição.
 
-*Gerado em 16/11/2026 19:50 a partir dos dados de 16/11/2026.*
+*Gerado em 17/11/2026 19:50 a partir dos dados de 17/11/2026.*
