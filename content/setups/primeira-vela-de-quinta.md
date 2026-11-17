@@ -8,13 +8,13 @@ tags: [setup, win]
 
 🟡 promissor · dia escolhido pelo autor · Mini índice (WIN) · gráfico de 15 minutos · só a primeira vela do dia
 
-🎬 **Vídeo de origem:** [Arthur 777 – "descobri um padrão bizarro no mini índice"](https://youtu.be/5pmW0UMnXwE) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 17/11/2026 19:45 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "descobri um padrão bizarro no mini índice"](https://youtu.be/5pmW0UMnXwE) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 17/11/2026 20:31 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 125.392** arriscando **1% do capital** por operação (+5% ao ano · pior queda −5% · cauda −6%)
 > - **R\$ 156.987** arriscando **2% do capital** por operação (+9% ao ano · pior queda −10% · cauda −12%)
 >
-> - **R\$ 182.202** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
+> - **R\$ 182.294** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
 > Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
@@ -363,10 +363,10 @@ Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setup
 | Rentabilidade ao ano | +4,6% | +4,6% | +9,3% |
 | Pior queda do período | -4,8% | -4,8% | -9,9% |
 | Cauda — pior em 1 de 20 anos | -6,2% | -6,2% | -12,1% |
-| Maior tempo sem novo topo (dias) | 278 | 278 | 278 |
+| Maior tempo sem novo topo (dias) | 279 | 279 | 279 |
 | Meses positivos | 47% | 47% | 47% |
 | Sharpe | 1,09 | 1,09 | 1,08 |
-| Sortino | 10,14 | 10,14 | 27,10 |
+| Sortino | 10,13 | 10,13 | 27,08 |
 | Contratos na 1ª operação | 9 | 9 | 18 |
 | Maior lote | 22 | 22 | 52 |
 | Operações no teto de contratos | 0% | 0% | 0% |

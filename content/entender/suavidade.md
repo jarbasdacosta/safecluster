@@ -17,10 +17,10 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 34.421.690 | +217% |
-| gps + por + pullback + rompe + tendencia | **0,91%** | R\$ 11.082.087 | +154% |
+| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 34.008.930 | +216% |
+| gps + macd + por + pullback + tendencia | **0,91%** | R\$ 16.442.550 | +174% |
 
-Mesma dor exata — as duas caem 40% — e a primeira termina com **3,1 vezes mais dinheiro**.
+Mesma dor exata — as duas caem 40% — e a primeira termina com **2,1 vezes mais dinheiro**.
 
 A explicação está na coluna do meio: a primeira **suporta 1,2 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
 
@@ -38,19 +38,19 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 32.823.044 | 1º | R\$ 34.421.690 |
-| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 29.041.520 | 2º | R\$ 32.865.897 |
-| 3º | gps + ifr + macd + pullback + rompimento | R\$ 28.978.869 | 3º | R\$ 29.583.438 |
-| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 26.257.293 | 5º | R\$ 28.519.487 |
-| 5º | gps + ifr + pullback + rompe + tendencia | R\$ 26.190.177 | 17º | R\$ 19.145.684 |
-| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 25.679.063 | 4º | R\$ 28.957.614 |
+| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 32.410.284 | 1º | R\$ 34.008.930 |
+| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 28.415.795 | 2º | R\$ 32.240.173 |
+| 3º | gps + ifr + macd + pullback + rompimento | R\$ 28.328.327 | 3º | R\$ 28.932.896 |
+| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.573.168 | 5º | R\$ 27.835.362 |
+| 5º | donchian + fibo + ifr + pullback + rompimento | R\$ 25.266.303 | 4º | R\$ 28.544.854 |
+| 6º | gps + ifr + pullback + rompe + tendencia | R\$ 24.989.961 | 18º | R\$ 18.165.268 |
 
 3 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 
 ## Como você usa isso na prática
 Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 40%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.
 
-Com um aviso importante, que a etapa [10 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 40% entregou 49% quando testado de verdade — então **calibra-se para 33% para viver 40%**.
+Com um aviso importante, que a etapa [10 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 40% entregou 48% quando testado de verdade — então **calibra-se para 34% para viver 40%**.
 
 ---
 

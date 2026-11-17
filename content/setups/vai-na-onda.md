@@ -8,13 +8,13 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · velas das 9h45 às 16h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "achei um padrão bizarro no mini índice"](https://youtu.be/5JZC82O-0Nc) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 17/11/2026 19:45 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "achei um padrão bizarro no mini índice"](https://youtu.be/5JZC82O-0Nc) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 17/11/2026 20:31 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
-> - **R\$ 302.062** arriscando **1% do capital** por operação (+24% ao ano · pior queda −27% · cauda −31%)
-> - **R\$ 674.900** arriscando **2% do capital** por operação (+46% ao ano · pior queda −50% · cauda −54%)
+> - **R\$ 299.072** arriscando **1% do capital** por operação (+24% ao ano · pior queda −27% · cauda −32%)
+> - **R\$ 661.512** arriscando **2% do capital** por operação (+45% ao ano · pior queda −50% · cauda −54%)
 >
-> - **R\$ 182.202** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
+> - **R\$ 182.294** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
 > Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
@@ -349,24 +349,24 @@ Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setup
 
 | Medida | Risco dividido | Risco 1% | Risco 2% |
 |---|---|---|---|
-| Operações | 1.191 | 1.191 | 1.191 |
+| Operações | 1.192 | 1.192 | 1.192 |
 | Operações por ano | 236 | 236 | 236 |
 | Taxa de acerto | 35,5% | 35,5% | 35,5% |
 | Payoff (ganho médio ÷ perda média) | 2,14 | 2,14 | 2,14 |
 | Expectativa por operação (em R) | 0,107 | 0,107 | 0,107 |
 | Fator de lucro | 1,18 | 1,18 | 1,18 |
-| Pontos no período | 43.891 | 43.891 | 43.891 |
-| Lucro com 1 contrato fixo | R\$ 8.778 | R\$ 8.778 | R\$ 8.778 |
-| Capital final | R\$ 302.062 | R\$ 302.062 | R\$ 674.900 |
-| Múltiplo do capital | 3,02× | 3,02× | 6,75× |
-| Rentabilidade ao ano | +24,4% | +24,4% | +45,9% |
+| Pontos no período | 43.241 | 43.241 | 43.241 |
+| Lucro com 1 contrato fixo | R\$ 8.648 | R\$ 8.648 | R\$ 8.648 |
+| Capital final | R\$ 299.072 | R\$ 299.072 | R\$ 661.512 |
+| Múltiplo do capital | 2,99× | 2,99× | 6,62× |
+| Rentabilidade ao ano | +24,2% | +24,2% | +45,3% |
 | Pior queda do período | -27,1% | -27,1% | -50,3% |
 | Pior queda dentro de um ano | -19,3% | -19,3% | -36,6% |
-| Cauda — pior em 1 de 20 anos | -31,2% | -31,2% | -53,6% |
+| Cauda — pior em 1 de 20 anos | -31,7% | -31,7% | -54,2% |
 | Maior tempo sem novo topo (dias) | 617 | 617 | 639 |
 | Meses positivos | 63% | 63% | 63% |
-| Sharpe | 1,01 | 1,01 | 1,00 |
-| Sortino | 3,09 | 3,09 | 3,09 |
+| Sharpe | 1,00 | 1,00 | 0,99 |
+| Sortino | 3,07 | 3,07 | 3,06 |
 | Pregões para dobrar o capital | 799 | 799 | 713 |
 | Contratos na 1ª operação | 9 | 9 | 18 |
 | Maior lote | 36 | 36 | 143 |
