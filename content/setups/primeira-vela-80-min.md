@@ -1,6 +1,6 @@
 ---
 title: Primeira Vela de 80 Minutos
-date: 2026-11-17
+date: 2026-11-18
 tags: [setup, win]
 ---
 
@@ -8,13 +8,13 @@ tags: [setup, win]
 
 🟡 promissor · dia escolhido pelo autor · Mini índice (WIN) · gráfico de 80 minutos · só a primeira vela do dia (9h00–10h20)
 
-🎬 **Vídeo de origem:** [Arthur 777 – "encontrei algo muito estranho no mini índice"](https://youtu.be/UFLCVkzcghU) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 17/11/2026 20:31 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "encontrei algo muito estranho no mini índice"](https://youtu.be/UFLCVkzcghU) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 18/11/2026 09:23 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 359.871** arriscando **1% do capital** por operação (+29% ao ano · pior queda −18% · cauda −22%)
 > - **R\$ 1.062.447** arriscando **2% do capital** por operação (+60% ao ano · pior queda −34% · cauda −39%)
 >
-> - **R\$ 182.294** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
+> - **R\$ 182.387** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
 > Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
@@ -175,14 +175,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | R\$ 10.000 viraram · ao ano | Pior queda | Oscilação · Sharpe | Meses acima: CDI · Ibov | Pior · melhor mês |
 |---|---|---|---|---|---|
-| **ATR 0,15 / 1,28** | **R\$ 38.943** · +31,3% | −12,8% | 15,1% · 1,08 | 62% · 59% | −4,0% · +13,8% |
-| **como no vídeo: ter–qui, pontos fixos** | **R\$ 28.507** · +23,3% | −14,4% | 14,5% · 0,69 | 51% · 51% | −6,3% · +10,1% |
-| **ter–qui, sombra em ATR** | **R\$ 28.443** · +23,3% | −16,9% | 15,4% · 0,65 | 54% · 51% | −6,3% · +13,2% |
-| **todos os dias, sombra em ATR** | **R\$ 26.037** · +21,1% | −21,1% | 19,6% · 0,46 | 51% · 52% | −10,4% · +15,5% |
-| **1ª configuração (stop 300 · móvel 1.500), ter–qui, ATR** | **R\$ 39.277** · +31,5% | −9,0% | 14,1% · 1,16 | 61% · 57% | −3,9% · +13,5% |
-| **risco 1%** | **R\$ 66.955** · +46,3% | −13,6% | 22,3% · 1,27 | 64% · 67% | −6,8% · +17,3% |
+| **ATR 0,15 / 1,28** | **R\$ 38.963** · +31,3% | −12,8% | 15,1% · 1,08 | 62% · 59% | −4,0% · +13,8% |
+| **como no vídeo: ter–qui, pontos fixos** | **R\$ 28.521** · +23,3% | −14,4% | 14,5% · 0,69 | 51% · 51% | −6,3% · +10,1% |
+| **ter–qui, sombra em ATR** | **R\$ 28.457** · +23,3% | −16,9% | 15,4% · 0,65 | 54% · 51% | −6,3% · +13,2% |
+| **todos os dias, sombra em ATR** | **R\$ 26.050** · +21,1% | −21,1% | 19,6% · 0,46 | 51% · 52% | −10,4% · +15,5% |
+| **1ª configuração (stop 300 · móvel 1.500), ter–qui, ATR** | **R\$ 39.297** · +31,5% | −9,0% | 14,1% · 1,16 | 61% · 57% | −3,9% · +13,5% |
+| **risco 1%** | **R\$ 66.989** · +46,3% | −13,6% | 22,3% · 1,27 | 64% · 67% | −6,8% · +17,3% |
 | **pura** | **R\$ 21.337** · +16,4% | −15,6% | 15,1% · 0,28 | 51% · 48% | −5,0% · +12,7% |
-| **CDI** | **R\$ 18.258** · +12,8% | 0,0% | 0,1% · — | — · 44% | +0,5% · +1,3% |
+| **CDI** | **R\$ 18.267** · +12,8% | 0,0% | 0,1% · — | — · 44% | +0,6% · +1,3% |
 | **Ibovespa** | **R\$ 16.089** · +10,0% | −20,9% | 18,6% · −0,04 | 56% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/primeira-vela-80-min_queda.png)
@@ -191,13 +191,13 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **ATR 0,15 / 1,28** | +7,7% | +9,1% | +27,7% | +37,8% | +46,7% | +28,4% | **+289,4%** (+31,3% · R\$ 38.943) |
-| **como no vídeo: ter–qui, pontos fixos** | +9,8% | −0,2% | +14,3% | +32,8% | +39,4% | +23,0% | **+185,1%** (+23,3% · R\$ 28.507) |
-| **ter–qui, sombra em ATR** | +1,6% | −0,4% | +14,3% | +32,9% | +47,4% | +25,4% | **+184,4%** (+23,3% · R\$ 28.443) |
-| **todos os dias, sombra em ATR** | −1,4% | +3,2% | +18,0% | +32,0% | +54,7% | +6,3% | **+160,4%** (+21,1% · R\$ 26.037) |
-| **1ª configuração (stop 300 · móvel 1.500), ter–qui, ATR** | +6,5% | +14,7% | +27,8% | +29,8% | +44,5% | +34,0% | **+292,8%** (+31,5% · R\$ 39.277) |
-| **risco 1%** | +10,2% | +7,2% | +36,6% | +73,1% | +77,3% | +35,3% | **+569,5%** (+46,3% · R\$ 66.955) |
-| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,3% | **+82,6%** (+12,8% · R\$ 18.258) |
+| **ATR 0,15 / 1,28** | +7,7% | +9,1% | +27,7% | +37,8% | +46,7% | +28,5% | **+289,6%** (+31,3% · R\$ 38.963) |
+| **como no vídeo: ter–qui, pontos fixos** | +9,8% | −0,2% | +14,3% | +32,8% | +39,4% | +23,0% | **+185,2%** (+23,3% · R\$ 28.521) |
+| **ter–qui, sombra em ATR** | +1,6% | −0,4% | +14,3% | +32,9% | +47,4% | +25,5% | **+184,6%** (+23,3% · R\$ 28.457) |
+| **todos os dias, sombra em ATR** | −1,4% | +3,2% | +18,0% | +32,0% | +54,7% | +6,4% | **+160,5%** (+21,1% · R\$ 26.050) |
+| **1ª configuração (stop 300 · móvel 1.500), ter–qui, ATR** | +6,5% | +14,7% | +27,8% | +29,8% | +44,5% | +34,1% | **+293,0%** (+31,5% · R\$ 39.297) |
+| **risco 1%** | +10,2% | +7,2% | +36,6% | +73,1% | +77,3% | +35,3% | **+569,9%** (+46,3% · R\$ 66.989) |
+| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,3% | **+82,7%** (+12,8% · R\$ 18.267) |
 | **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +5,4% | **+60,9%** (+10,0% · R\$ 16.089) |
 | *Quem ganhou* | *risco 1%* | *1ª configuração (stop 300 · móvel 1.500), ter–qui, ATR* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* |
 
@@ -268,8 +268,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | +4,8% | +4,9% | +1,1% | −0,3% |
 > | set/2026 | −3,5% | −3,0% | +1,1% | +5,0% |
 > | out/2026 | −2,9% | −2,4% | +1,1% | −9,9% |
-> | nov/2026 | −2,3% | −1,5% | +0,5% | +1,1% |
-> | **Acumulado** | **+289,4%** | **+569,5%** | **+82,6%** | **+60,9%** |
+> | nov/2026 | −2,2% | −1,5% | +0,6% | +1,1% |
+> | **Acumulado** | **+289,6%** | **+569,9%** | **+82,7%** | **+60,9%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 
@@ -281,7 +281,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 | **como no vídeo: ter–qui, pontos fixos** | +32% ao ano · queda −32% | +23% ao ano · queda −14% | +18% ao ano · queda −5% | +16% ao ano · queda −1% |
 | **ter–qui, sombra em ATR** | +32% ao ano · queda −36% | +23% ao ano · queda −17% | +18% ao ano · queda −6% | +16% ao ano · queda −1% |
 | **todos os dias, sombra em ATR** | +25% ao ano · queda −44% | +21% ao ano · queda −21% | +17% ao ano · queda −9% | +15% ao ano · queda −3% |
-| **1ª configuração (stop 300 · móvel 1.500), ter–qui, ATR** | +50% ao ano · queda −20% | +31% ao ano · queda −9% | +22% ao ano · queda −3% | +17% ao ano · queda −1% |
+| **1ª configuração (stop 300 · móvel 1.500), ter–qui, ATR** | +50% ao ano · queda −20% | +32% ao ano · queda −9% | +22% ao ano · queda −3% | +17% ao ano · queda −1% |
 
 *Referência: CDI +13% ao ano · Ibovespa +10% ao ano, pior queda −21%.*
 

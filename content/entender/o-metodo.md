@@ -1,6 +1,6 @@
 ---
 title: 6 · O método de escolha
-date: 2026-11-17
+date: 2026-11-18
 description: "A regra adotada, as outras testadas, e o que não funcionou"
 tags: [entender]
 ---

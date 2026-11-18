@@ -1,6 +1,6 @@
 ---
 title: 3 · Por que combinar
-date: 2026-11-17
+date: 2026-11-18
 description: "O que se ganha juntando setups — e não é retorno"
 tags: [entender]
 ---

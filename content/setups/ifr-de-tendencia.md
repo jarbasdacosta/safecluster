@@ -1,6 +1,6 @@
 ---
 title: IFR de Tendência
-date: 2026-11-17
+date: 2026-11-18
 tags: [setup, win]
 ---
 
@@ -8,13 +8,13 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · velas das 10h00 às 11h00 e das 14h00 às 16h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "só precisei de 1 indicador no mini índice"](https://youtu.be/sswleA6JTvY) · testado de forma independente nos nossos dados em 16/11/2026 · página gerada em 17/11/2026 20:31 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "só precisei de 1 indicador no mini índice"](https://youtu.be/sswleA6JTvY) · testado de forma independente nos nossos dados em 16/11/2026 · página gerada em 18/11/2026 09:23 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 673.838** arriscando **1% do capital** por operação (+46% ao ano · pior queda −12% · cauda −25%)
 > - **R\$ 3.218.962** arriscando **2% do capital** por operação (+99% ao ano · pior queda −23% · cauda −44%)
 >
-> - **R\$ 182.294** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
+> - **R\$ 182.387** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
 > Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
@@ -56,7 +56,7 @@ tags: [setup, win]
 | Versão | Regra | Acerto · payoff | Treino → teste (pts/op) | Ao ano (+ CDI) | Pior queda (+ CDI) |
 |---|---|---|---|---|---|
 | **manhã + tarde** (principal) | stop 0,20% · alvo 1,00% do preço | 32% · 2,95 | +55,7 → +94,5 | +42,0% | −7,5% |
-| **só a tarde** | stop 0,20% · alvo 1,00% do preço | 48% · 2,24 | +136,3 → +145,2 | +31,8% | −4,3% |
+| **só a tarde** | stop 0,20% · alvo 1,00% do preço | 48% · 2,24 | +136,3 → +145,2 | +31,9% | −4,3% |
 | **como no vídeo** | stop 0,20% · alvo 1,00% do preço | 33% · 2,71 | +32,4 → +78,4 | +33,8% | −8,0% |
 | **ATR 0,12 / 0,58** | stop 0,115 ATR · alvo 0,576 ATR (5,0× o stop) | 30% · 3,10 | +57,6 → +68,5 | +37,3% | −7,5% |
 
@@ -159,13 +159,13 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | R\$ 10.000 viraram · ao ano | Pior queda | Oscilação · Sharpe | Meses acima: CDI · Ibov | Pior · melhor mês |
 |---|---|---|---|---|---|
-| **manhã + tarde** | **R\$ 57.556** · +42,0% | −7,5% | 15,5% · 1,56 | 70% · 59% | −3,5% · +14,6% |
-| **só a tarde** | **R\$ 39.785** · +31,8% | −4,3% | 8,2% · 1,93 | 69% · 56% | −2,6% · +8,0% |
-| **como no vídeo** | **R\$ 42.842** · +33,8% | −8,0% | 14,6% · 1,24 | 62% · 59% | −3,5% · +14,4% |
-| **ATR 0,12 / 0,58** | **R\$ 48.733** · +37,3% | −7,5% | 14,6% · 1,42 | 62% · 59% | −3,4% · +15,1% |
-| **risco 1%** | **R\$ 125.647** · +66,0% | −11,2% | 26,9% · 1,57 | 67% · 64% | −6,4% · +24,8% |
+| **manhã + tarde** | **R\$ 57.585** · +42,0% | −7,5% | 15,5% · 1,56 | 70% · 59% | −3,5% · +14,6% |
+| **só a tarde** | **R\$ 39.805** · +31,9% | −4,3% | 8,2% · 1,93 | 69% · 56% | −2,6% · +8,0% |
+| **como no vídeo** | **R\$ 42.864** · +33,8% | −8,0% | 14,6% · 1,24 | 62% · 59% | −3,5% · +14,4% |
+| **ATR 0,12 / 0,58** | **R\$ 48.758** · +37,3% | −7,5% | 14,6% · 1,42 | 62% · 59% | −3,3% · +15,1% |
+| **risco 1%** | **R\$ 125.711** · +66,0% | −11,2% | 26,9% · 1,57 | 67% · 64% | −6,4% · +24,8% |
 | **pura** | **R\$ 31.542** · +25,9% | −8,5% | 15,5% · 0,78 | 51% · 52% | −4,7% · +13,3% |
-| **CDI** | **R\$ 18.258** · +12,8% | 0,0% | 0,1% · — | — · 44% | +0,5% · +1,3% |
+| **CDI** | **R\$ 18.267** · +12,8% | 0,0% | 0,1% · — | — · 44% | +0,6% · +1,3% |
 | **Ibovespa** | **R\$ 16.089** · +10,0% | −20,9% | 18,6% · −0,04 | 56% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/ifr-de-tendencia_queda.png)
@@ -174,12 +174,12 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **manhã + tarde** | −3,6% | +51,5% | +28,3% | +30,7% | +55,3% | +51,3% | **+475,6%** (+42,0% · R\$ 57.556) |
-| **só a tarde** | −1,4% | +41,0% | +29,9% | +25,4% | +25,3% | +40,2% | **+297,8%** (+31,8% · R\$ 39.785) |
-| **como no vídeo** | −3,6% | +37,9% | +20,0% | +21,3% | +54,0% | +43,8% | **+328,4%** (+33,8% · R\$ 42.842) |
-| **ATR 0,12 / 0,58** | −0,3% | +51,8% | +22,1% | +27,1% | +39,9% | +48,3% | **+387,3%** (+37,3% · R\$ 48.733) |
-| **risco 1%** | −9,3% | +108,3% | +45,0% | +48,1% | +88,9% | +64,1% | **+1156,5%** (+66,0% · R\$ 125.647) |
-| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,3% | **+82,6%** (+12,8% · R\$ 18.258) |
+| **manhã + tarde** | −3,6% | +51,5% | +28,3% | +30,7% | +55,3% | +51,3% | **+475,9%** (+42,0% · R\$ 57.585) |
+| **só a tarde** | −1,4% | +41,0% | +29,9% | +25,4% | +25,3% | +40,2% | **+298,0%** (+31,9% · R\$ 39.805) |
+| **como no vídeo** | −3,6% | +37,9% | +20,0% | +21,3% | +54,0% | +43,8% | **+328,6%** (+33,8% · R\$ 42.864) |
+| **ATR 0,12 / 0,58** | −0,3% | +51,8% | +22,1% | +27,1% | +39,9% | +48,4% | **+387,6%** (+37,3% · R\$ 48.758) |
+| **risco 1%** | −9,3% | +108,3% | +45,0% | +48,1% | +88,9% | +64,1% | **+1157,1%** (+66,0% · R\$ 125.711) |
+| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,3% | **+82,7%** (+12,8% · R\$ 18.267) |
 | **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +5,4% | **+60,9%** (+10,0% · R\$ 16.089) |
 | *Quem ganhou* | *CDI* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* |
 
@@ -250,8 +250,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | +5,8% | +7,6% | +1,1% | −0,3% |
 > | set/2026 | −0,6% | −1,1% | +1,1% | +5,0% |
 > | out/2026 | +14,1% | +17,6% | +1,1% | −9,9% |
-> | nov/2026 | −2,0% | −3,0% | +0,5% | +1,1% |
-> | **Acumulado** | **+475,6%** | **+1156,5%** | **+82,6%** | **+60,9%** |
+> | nov/2026 | −1,9% | −2,9% | +0,6% | +1,1% |
+> | **Acumulado** | **+475,9%** | **+1157,1%** | **+82,7%** | **+60,9%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 

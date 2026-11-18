@@ -1,6 +1,6 @@
 ---
 title: Entender o método
-date: 2026-11-17
+date: 2026-11-18
 description: "Do problema à carteira escolhida, uma etapa por vez"
 tags: [entender]
 ---
@@ -52,4 +52,4 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 >
 > Por isso as duas linhas acima são diferentes, e é a segunda que vale para quem vai operar. A [etapa 10](entender/limites) mostra a medição.
 
-*Gerado em 17/11/2026 20:35 a partir dos dados de 17/11/2026.*
+*Gerado em 18/11/2026 09:27 a partir dos dados de 18/11/2026.*
