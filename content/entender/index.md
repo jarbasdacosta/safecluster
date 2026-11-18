@@ -39,9 +39,9 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 ## O que está em jogo
 |  |  |
 |---|---|
-| Período estudado | 26/10/2021 a 17/11/2026 (5,1 anos, 1.257 dias de bolsa) |
+| Período estudado | 26/10/2021 a 18/11/2026 (5,1 anos, 1.258 dias de bolsa) |
 | Setups testados | 17 — 15 entram nas combinações |
-| Combinações avaliadas | 4.928 (de 2 a 5 setups cada) — 802 cabem no limite de perda |
+| Combinações avaliadas | 4.928 (de 2 a 5 setups cada) — 783 cabem no limite de perda |
 | Capital de partida | R\$ 100.000 |
 | Custo por operação | 15 pontos, já descontados de todo resultado |
 | Alvo de calibração da queda | 40% do patrimônio (50% no extremo) |
@@ -52,4 +52,4 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 >
 > Por isso as duas linhas acima são diferentes, e é a segunda que vale para quem vai operar. A [etapa 10](entender/limites) mostra a medição.
 
-*Gerado em 18/11/2026 09:27 a partir dos dados de 18/11/2026.*
+*Gerado em 18/11/2026 19:51 a partir dos dados de 18/11/2026.*
