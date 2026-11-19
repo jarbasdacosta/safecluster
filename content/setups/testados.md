@@ -1,6 +1,6 @@
 ---
 title: Setups testados
-date: 2026-11-18
+date: 2026-11-19
 tags: [setup]
 ---
 

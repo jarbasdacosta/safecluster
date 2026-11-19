@@ -1,6 +1,6 @@
 ---
 title: 4 · Por que a carteira mais lisa rende mais
-date: 2026-11-18
+date: 2026-11-19
 description: "A ideia central do método, em um exemplo"
 tags: [entender]
 ---
@@ -17,12 +17,12 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 33.898.751 | +216% |
-| gps + ifr + pullback + tendencia | **0,83%** | R\$ 18.263.497 | +180% |
+| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 33.833.452 | +216% |
+| gps + macd + por + pullback + tendencia | **0,91%** | R\$ 16.741.958 | +175% |
 
-Mesma dor exata — as duas caem 40% — e a primeira termina com **1,9 vezes mais dinheiro**.
+Mesma dor exata — as duas caem 40% — e a primeira termina com **2,0 vezes mais dinheiro**.
 
-A explicação está na coluna do meio: a primeira **suporta 1,3 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
+A explicação está na coluna do meio: a primeira **suporta 1,2 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
 
 > [!note] Por que uma suporta mais que a outra
 > Porque a pior queda não vem do tamanho da aposta sozinho — vem do tamanho da aposta **multiplicado pelo quanto a carteira tropeça**. Uma carteira cujos erros vêm espalhados pode apostar alto e ainda assim nunca acumular uma sequência funda. Uma cujos erros vêm agrupados chega na mesma queda apostando muito menos.
@@ -38,12 +38,12 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 32.300.105 | 1º | R\$ 33.898.751 |
-| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 28.055.972 | 2º | R\$ 31.880.349 |
-| 3º | gps + ifr + macd + pullback + rompimento | R\$ 27.891.547 | 4º | R\$ 28.496.116 |
-| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.747.432 | 5º | R\$ 28.009.626 |
-| 5º | donchian + por + pullback + rompimento + tendencia | R\$ 25.559.189 | 11º | R\$ 24.818.865 |
-| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 25.440.567 | 3º | R\$ 28.719.118 |
+| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 32.234.806 | 1º | R\$ 33.833.452 |
+| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 28.526.480 | 2º | R\$ 32.350.857 |
+| 3º | gps + ifr + macd + pullback + rompimento | R\$ 27.826.248 | 4º | R\$ 28.430.817 |
+| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.947.437 | 5º | R\$ 28.209.630 |
+| 5º | donchian + por + pullback + rompimento + tendencia | R\$ 25.934.286 | 11º | R\$ 25.193.962 |
+| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 25.640.572 | 3º | R\$ 28.919.123 |
 
 4 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 
