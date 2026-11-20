@@ -1,6 +1,6 @@
 ---
 title: 8 · Ano a ano, mês a mês
-date: 2026-11-19
+date: 2026-11-20
 description: "O calendário de resultados das 20 carteiras, sem média escondendo nada"
 tags: [entender]
 ---

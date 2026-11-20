@@ -1,12 +1,12 @@
 ---
 title: Setups
-date: 2026-11-19
+date: 2026-11-20
 tags: [setup]
 ---
 
 **Setups de day trade no mini índice que passaram nos nossos testes, cada um com as estatísticas completas e comparado com o CDI e com o Ibovespa comprado.**
 
-*Atualizado em 19/11/2026 19:47 BRT · dados de 01/11/2021 a 19/11/2026 · resultados com 15 pts de custo por operação e R\$ 10.000 por contrato, capital no CDI.*
+*Atualizado em 20/11/2026 19:47 BRT · dados de 01/11/2021 a 19/11/2026 · resultados com 15 pts de custo por operação e R\$ 10.000 por contrato, capital no CDI.*
 
 | Setup | Em uma frase | 1 contrato: ao ano · queda | Risco 1%: ao ano · queda | Treino → teste (pts/op) | Vídeo |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@ tags: [setup]
 | 📈 Maior retorno | Tendência | **+71% · −23,6%** | +71% · −23,6% | +47% · −16,1% | 1,58 → 1,17 |
 | 🛡️ Menor queda | Pôr do sol + Pullback + Bollinger | **+90% · −9,1%** | +35% · −2,5% | +23% · −1,6% | 2,30 → 1,98 |
 
-*R\$ 10 mil viraram, na recomendada: R\$ 39.005 com 1 contrato por R\$ 10 mil · R\$ 78.463 com 1% dividido entre os setups · **R\$ 1.126.507 arriscando 1% por setup**. Nomes: Tendência = Tendência Forte do Dia · ADX = ADX da Manhã · IFR = IFR de Tendência · Pullback = Pullback na Média · VWAP = Bandas de VWAP · Donchian = Donchian com Médias · BB explosão = Explosão da Bollinger · Extremos sem = Extremos da Semana (virada de mão) · Fibo 50% = Pullback no 50% do dia · GPS médias = GPS de Médias · MACD = MACD na Tendência · Pôr do sol = Pôr do Sol (17h45) · 1ª vela 80 = Primeira Vela de 80 Minutos · Quinta = Primeira Vela de Quinta · Rompe 200 = Rompimento da Média de 200 · Bollinger = Rompimento da Bollinger · Onda = Vai na Onda.*
+*R\$ 10 mil viraram, na recomendada: R\$ 39.025 com 1 contrato por R\$ 10 mil · R\$ 78.503 com 1% dividido entre os setups · **R\$ 1.127.065 arriscando 1% por setup**. Nomes: Tendência = Tendência Forte do Dia · ADX = ADX da Manhã · IFR = IFR de Tendência · Pullback = Pullback na Média · VWAP = Bandas de VWAP · Donchian = Donchian com Médias · BB explosão = Explosão da Bollinger · Extremos sem = Extremos da Semana (virada de mão) · Fibo 50% = Pullback no 50% do dia · GPS médias = GPS de Médias · MACD = MACD na Tendência · Pôr do sol = Pôr do Sol (17h45) · 1ª vela 80 = Primeira Vela de 80 Minutos · Quinta = Primeira Vela de Quinta · Rompe 200 = Rompimento da Média de 200 · Bollinger = Rompimento da Bollinger · Onda = Vai na Onda.*
 
 A página da [carteira](carteira) explica a escolha, mostra as 9401 combinações, se os setups se ajudam e o [tamanho de posição](carteira#tamanho-de-posição) sugerido: **arriscar 1% do capital por operação** (Kelly e Larry Williams comparados, com calculadora de contratos).
 

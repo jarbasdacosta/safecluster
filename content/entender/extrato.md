@@ -1,6 +1,6 @@
 ---
 title: 9 · Operação a operação
-date: 2026-11-19
+date: 2026-11-20
 description: "O extrato inteiro, sem resumo: dá para refazer a conta linha por linha"
 tags: [entender]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2 · Os setups, um por um
-date: 2026-11-19
+date: 2026-11-20
 description: "As regras de cada setup e a ficha completa"
 tags: [entender]
 ---
@@ -57,7 +57,7 @@ Arriscando **1% do capital por operação**, partindo de R\$ 100.000. Clique no 
 | [Rompimento da Média de 200](../setups/rompe-media-200) | 41 | 39% | 2,02 | 0,16 | R\$ 134.329 | +6% | -11% | -15% |
 | [Primeira Vela de Quinta](../setups/primeira-vela-de-quinta) ⚠️ | 22 | 63% | 0,93 | 0,21 | R\$ 124.210 | +4% | -6% | -7% |
 | [Pullback no 50% do dia](../setups/fibo-50-do-dia) | 45 | 42% | 1,90 | 0,08 | R\$ 117.847 | +3% | -4% | -7% |
-| *CDI (sem operar nada)* | — | — | — | — | R\$ 182.480 | +13% | — | — |
+| *CDI (sem operar nada)* | — | — | — | — | R\$ 182.572 | +13% | — | — |
 | *Ibovespa comprado e parado (BOVA11)* | — | — | — | — | R\$ 197.252 | +14% | -21% | — |
 
 As duas últimas linhas são as referências: o dinheiro parado na renda fixa e o dinheiro comprado no índice sem operar. Um setup que não bate a primeira não vale o trabalho.

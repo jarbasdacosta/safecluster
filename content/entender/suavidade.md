@@ -1,6 +1,6 @@
 ---
 title: 4 · Por que a carteira mais lisa rende mais
-date: 2026-11-19
+date: 2026-11-20
 description: "A ideia central do método, em um exemplo"
 tags: [entender]
 ---
