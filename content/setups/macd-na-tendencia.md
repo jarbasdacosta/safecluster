@@ -1,6 +1,6 @@
 ---
 title: MACD na Tendência
-date: 2026-11-20
+date: 2026-11-21
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · velas das 9h00 às 11h30 e das 14h00 às 16h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "parecia uma coincidência, mas não era"](https://youtu.be/eHvY4bvS95c) · testado de forma independente nos nossos dados em 14/11/2026 · página gerada em 20/11/2026 19:47 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "parecia uma coincidência, mas não era"](https://youtu.be/eHvY4bvS95c) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 21/11/2026 08:17 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 285.314** arriscando **1% do capital** por operação (+23% ao ano · pior queda −11% · cauda −21%)
@@ -288,22 +288,23 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 14/11/2026.*
+*Testes de robustez rodados em 21/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1014 operações, 29% de acerto e fator de lucro 1,33. O vídeo mostra: 1.329 operações · 30% de acerto · fator de lucro 1,40 · payoff 1,92 (desde 2021, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,08R por operação no treino (p 0,074) e +0,18R no teste (p 0,000). |
-| **É sorte de parâmetro?** | 12 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (+0,06 a +0,18R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,08 → +0,18R · sem o MACD: +0,08 → +0,10R · MACD linha em vez do histograma: +0,08 → +0,14R · sem 'MACD subindo': +0,07 → +0,15R · sem a máxima/mínima do dia anterior: +0,02 → +0,08R · sem a distância da abertura: +0,08 → +0,08R · sem o horário (velas das 9h00 às 17h00): +0,06 → +0,12R · sem break even: +0,03 → +0,15R · COM stop móvel (como no vídeo): +0,05 → +0,12R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 1020 operações, 29% de acerto e fator de lucro 1,33. O vídeo mostra: 1.329 operações · 30% de acerto · fator de lucro 1,40 · payoff 1,92 (desde 2021, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,08R por operação no treino (p 0,089) e +0,17R no teste (p 0,000). |
+| **É sorte de parâmetro?** | 12 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (+0,05 a +0,17R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,08 → +0,17R · sem o MACD: +0,08 → +0,10R · MACD linha em vez do histograma: +0,08 → +0,14R · sem 'MACD subindo': +0,07 → +0,14R · sem a máxima/mínima do dia anterior: +0,02 → +0,07R · sem a distância da abertura: +0,08 → +0,08R · sem o horário (velas das 9h00 às 17h00): +0,06 → +0,12R · sem break even: +0,03 → +0,15R · COM stop móvel (como no vídeo): +0,05 → +0,11R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,08 → +0,18R · 25 pts: +0,05 → +0,15R · 30 pts: +0,04 → +0,14R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,08 → +0,17R · 25 pts: +0,05 → +0,14R · 30 pts: +0,04 → +0,13R (treino → teste). |
 
 ## Riscos e cuidados
 
 - **Fases ruins:** a pior queda da versão ATR 0,21 / 1,03 foi de −R\$ 1.960 por contrato (começou em set/2026, ainda não recuperada); 17 perdas seguidas aconteceram no período.
 - **Mês a mês é quase cara ou coroa:** a versão ATR 0,21 / 1,03 + CDI ficou abaixo do CDI em 38% dos meses. O resultado aparece no ano.
 - **Anos negativos:** 2021.
+- **As compras carregam o setup:** compras +0,19R × vendas +0,09R por operação.
 - **Acerto de ~22%:** a maioria das operações dá stop; sequências de stops são normais.
 - **Poucos anos de dados** (desde out/2021) e **sem imposto** (day trade paga 20% sobre o lucro).
 

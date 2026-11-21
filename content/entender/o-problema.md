@@ -1,6 +1,6 @@
 ---
 title: 1 · O problema
-date: 2026-11-20
+date: 2026-11-21
 description: "O que incomoda em operar um setup sozinho"
 tags: [entender]
 ---

@@ -1,6 +1,6 @@
 ---
 title: 2 · Os setups, um por um
-date: 2026-11-20
+date: 2026-11-21
 description: "As regras de cada setup e a ficha completa"
 tags: [entender]
 ---

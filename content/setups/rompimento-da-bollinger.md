@@ -1,6 +1,6 @@
 ---
 title: Rompimento da Bollinger
-date: 2026-11-20
+date: 2026-11-21
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · velas das 10h15 às 11h00 e das 14h00 às 17h30
 
-🎬 **Vídeo de origem:** [Arthur 777 – "isso apareceu nos meus testes no mini índice"](https://youtu.be/2l5k3OyC7eQ) · testado de forma independente nos nossos dados em 16/11/2026 · página gerada em 20/11/2026 19:47 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "isso apareceu nos meus testes no mini índice"](https://youtu.be/2l5k3OyC7eQ) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 21/11/2026 08:17 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 423.208** arriscando **1% do capital** por operação (+33% ao ano · pior queda −9% · cauda −15%)
@@ -263,22 +263,22 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 16/11/2026.*
+*Testes de robustez rodados em 21/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 258 operações, 37% de acerto e fator de lucro 2,01. O vídeo mostra: 197 operações · 36% de acerto · fator de lucro 4,19 (desde 2022, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,43R por operação no treino (p 0,009) e +0,83R no teste (p 0,000). |
-| **É sorte de parâmetro?** | 16 de 16 combinações de stop × alvo deram lucro no treino **e** no teste (+0,09 a +0,84R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,43 → +0,83R · acompanhando o horário de verão dos EUA (janela segue Nova York): +0,37 → +0,62R · sem o padrão de 3 velas (só a última a favor): +0,23 → +0,15R · sem a Bollinger: +0,11 → +0,13R · sem a média de 50: +0,43 → +0,80R · sem a média de 200: +0,29 → +0,72R · sem as duas médias: +0,25 → +0,62R · sem o horário (velas das 9h15 às 17h30): +0,33 → +0,23R · Bollinger desvio 1,5: +0,21 → +0,54R · Bollinger desvio 2,5: +0,29 → +1,50R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 259 operações, 37% de acerto e fator de lucro 2,00. O vídeo mostra: 197 operações · 36% de acerto · fator de lucro 4,19 (desde 2022, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,43R por operação no treino (p 0,016) e +0,82R no teste (p 0,000). |
+| **É sorte de parâmetro?** | 16 de 16 combinações de stop × alvo deram lucro no treino **e** no teste (+0,09 a +0,83R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,43 → +0,82R · acompanhando o horário de verão dos EUA (janela segue Nova York): +0,37 → +0,60R · sem o padrão de 3 velas (só a última a favor): +0,23 → +0,16R · sem a Bollinger: +0,11 → +0,13R · sem a média de 50: +0,43 → +0,79R · sem a média de 200: +0,29 → +0,70R · sem as duas médias: +0,25 → +0,60R · sem o horário (velas das 9h15 às 17h30): +0,33 → +0,22R · Bollinger desvio 1,5: +0,21 → +0,54R · Bollinger desvio 2,5: +0,29 → +1,50R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,43 → +0,83R · 25 pts: +0,37 → +0,77R · 30 pts: +0,34 → +0,74R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,43 → +0,82R · 25 pts: +0,37 → +0,76R · 30 pts: +0,34 → +0,73R (treino → teste). |
 
 ## Riscos e cuidados
 
 - **Fases ruins:** a pior queda da versão ATR 0,09 / 0,52 foi de −R\$ 588 por contrato (começou em abr/2026, ainda não recuperada); 9 perdas seguidas aconteceram no período.
 - **Mês a mês é quase cara ou coroa:** a versão ATR 0,09 / 0,52 + CDI ficou abaixo do CDI em 36% dos meses. O resultado aparece no ano.
-- **Stop curto** (~166 pts): o custo e o escorregão pesam mais — veja "E se o custo for maior?".
+- **Stop curto** (~167 pts): o custo e o escorregão pesam mais — veja "E se o custo for maior?".
 - **Opera pouco** (~4,2 operações por mês): os números têm mais incerteza.
 - **Acerto de ~37%:** a maioria das operações dá stop; sequências de stops são normais.
 - **Poucos anos de dados** (desde out/2021) e **sem imposto** (day trade paga 20% sobre o lucro).

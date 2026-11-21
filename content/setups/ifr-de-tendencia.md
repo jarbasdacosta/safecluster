@@ -1,6 +1,6 @@
 ---
 title: IFR de Tendência
-date: 2026-11-20
+date: 2026-11-21
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · velas das 10h00 às 11h00 e das 14h00 às 16h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "só precisei de 1 indicador no mini índice"](https://youtu.be/sswleA6JTvY) · testado de forma independente nos nossos dados em 16/11/2026 · página gerada em 20/11/2026 19:47 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "só precisei de 1 indicador no mini índice"](https://youtu.be/sswleA6JTvY) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 21/11/2026 08:17 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 660.499** arriscando **1% do capital** por operação (+45% ao ano · pior queda −12% · cauda −23%)
@@ -268,23 +268,23 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 16/11/2026.*
+*Testes de robustez rodados em 21/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 780 operações, 33% de acerto e fator de lucro 1,52. O vídeo mostra: 826 operações · 33% de acerto · payoff 2,90 (sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,25R por operação no treino (p 0,007) e +0,31R no teste (p 0,000). |
-| **É sorte de parâmetro?** | 9 de 9 combinações de stop × alvo deram lucro no treino **e** no teste (+0,13 a +0,46R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,25 → +0,31R · acompanhando o horário de verão dos EUA (janela segue Nova York): +0,22 → +0,27R · sem o IFR (só a cor da vela): +0,02 → +0,02R · sem a cor da vela (só o IFR): +0,21 → +0,23R · sem o horário (velas das 9h15 às 16h45): +0,14 → +0,13R · níveis 80/20: +0,41 → +0,37R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 783 operações, 33% de acerto e fator de lucro 1,51. O vídeo mostra: 826 operações · 33% de acerto · payoff 2,90 (sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,25R por operação no treino (p 0,007) e +0,30R no teste (p 0,001). |
+| **É sorte de parâmetro?** | 9 de 9 combinações de stop × alvo deram lucro no treino **e** no teste (+0,13 a +0,45R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,25 → +0,30R · acompanhando o horário de verão dos EUA (janela segue Nova York): +0,22 → +0,27R · sem o IFR (só a cor da vela): +0,02 → +0,02R · sem a cor da vela (só o IFR): +0,21 → +0,23R · sem o horário (velas das 9h15 às 16h45): +0,14 → +0,13R · níveis 80/20: +0,41 → +0,35R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu manter como no vídeo. |
-| **E se o custo for maior?** | 15 pts: +0,25 → +0,31R · 25 pts: +0,21 → +0,28R · 30 pts: +0,18 → +0,26R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,25 → +0,30R · 25 pts: +0,21 → +0,27R · 30 pts: +0,18 → +0,25R (treino → teste). |
 
 ## Riscos e cuidados
 
 - **Fases ruins:** a pior queda da versão manhã + tarde foi de −R\$ 1.076 por contrato (começou em mai/2026, recuperada em jul/2026); 15 perdas seguidas aconteceram no período.
 - **Mês a mês é quase cara ou coroa:** a versão manhã + tarde + CDI ficou abaixo do CDI em 30% dos meses. O resultado aparece no ano.
 - **Anos negativos:** 2021.
-- **As compras carregam o setup:** compras +0,43R × vendas +0,13R por operação.
+- **As compras carregam o setup:** compras +0,43R × vendas +0,12R por operação.
 - **Acerto de ~33%:** a maioria das operações dá stop; sequências de stops são normais.
 - **As compras carregam o setup:** +0,45R por operação contra +0,13R nas vendas. Num mercado de queda longa, o resultado pode ser menor.
 - **Acerto de ~33%:** dois terços das operações dão stop; sequências de stops são normais.
