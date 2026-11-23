@@ -1,6 +1,6 @@
 ---
 title: 4 · Por que a carteira mais lisa rende mais
-date: 2026-11-21
+date: 2026-11-23
 description: "A ideia central do método, em um exemplo"
 tags: [entender]
 ---
@@ -17,10 +17,10 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 33.833.452 | +216% |
-| gps + macd + por + pullback + tendencia | **0,91%** | R\$ 16.741.958 | +175% |
+| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 33.191.083 | +214% |
+| gps + macd + por + pullback + tendencia | **0,91%** | R\$ 16.144.687 | +172% |
 
-Mesma dor exata — as duas caem 40% — e a primeira termina com **2,0 vezes mais dinheiro**.
+Mesma dor exata — as duas caem 40% — e a primeira termina com **2,1 vezes mais dinheiro**.
 
 A explicação está na coluna do meio: a primeira **suporta 1,2 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
 
@@ -38,14 +38,14 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 32.234.806 | 1º | R\$ 33.833.452 |
-| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 28.526.480 | 2º | R\$ 32.350.857 |
-| 3º | gps + ifr + macd + pullback + rompimento | R\$ 27.826.248 | 4º | R\$ 28.430.817 |
-| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.947.437 | 5º | R\$ 28.209.630 |
-| 5º | donchian + por + pullback + rompimento + tendencia | R\$ 25.934.286 | 11º | R\$ 25.193.962 |
-| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 25.640.572 | 3º | R\$ 28.919.123 |
+| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 31.592.436 | 1º | R\$ 33.191.083 |
+| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 28.192.200 | 2º | R\$ 32.016.578 |
+| 3º | gps + ifr + macd + pullback + rompimento | R\$ 27.052.139 | 7º | R\$ 27.656.708 |
+| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.797.229 | 4º | R\$ 28.059.422 |
+| 5º | donchian + por + pullback + rompimento + tendencia | R\$ 25.750.214 | 11º | R\$ 25.009.890 |
+| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 25.234.051 | 3º | R\$ 28.391.507 |
 
-4 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
+3 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 
 ## Como você usa isso na prática
 Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 40%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.

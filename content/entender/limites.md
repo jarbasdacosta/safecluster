@@ -1,6 +1,6 @@
 ---
 title: 10 · O que pode dar errado
-date: 2026-11-21
+date: 2026-11-23
 description: "Onde este estudo pode estar errado"
 tags: [entender]
 ---
@@ -53,12 +53,12 @@ Isto está medido, e o número é feio:
 A correção é direta: **calibre para 34% se quer viver 40%.** Mas note que esse fator de 1,19× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
 
 ## 6. Os números grandes não são expectativa
-A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 33.833.452 em 5,1 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
+A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 33.191.083 em 5,1 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
 
 O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,19× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
 
 ## 7. Cinco anos é pouco
-Todo este estudo cabe em 5,1 anos e 1.259 dias de bolsa. Nesse intervalo o mini índice não passou por tudo que ele pode passar. Um regime de mercado que não apareceu aqui pode quebrar setups que neste período pareceram sólidos — e nenhuma conta feita sobre estes dados consegue avisar sobre isso.
+Todo este estudo cabe em 5,1 anos e 1.260 dias de bolsa. Nesse intervalo o mini índice não passou por tudo que ele pode passar. Um regime de mercado que não apareceu aqui pode quebrar setups que neste período pareceram sólidos — e nenhuma conta feita sobre estes dados consegue avisar sobre isso.
 
 ## 8. A cauda é uma estimativa, não um histórico
 A **pior queda** é o que aconteceu de fato. A **cauda** é diferente: embaralhamos as mesmas operações em 300 ordens diferentes e olhamos o pior ano entre vinte. Serve para enxergar o azar que não aconteceu.

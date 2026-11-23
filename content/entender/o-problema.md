@@ -1,6 +1,6 @@
 ---
 title: 1 · O problema
-date: 2026-11-21
+date: 2026-11-23
 description: "O que incomoda em operar um setup sozinho"
 tags: [entender]
 ---
@@ -15,7 +15,7 @@ Vamos supor que você encontrou um que funciona. Ele ganha dinheiro ao longo de 
 | Setup | Virou | Por ano |
 |---|---|---|
 | [Donchian com Médias](../setups/donchian-com-medias) | R\$ 1.112.907 | +61% |
-| [Pullback no 50% do dia](../setups/fibo-50-do-dia) | R\$ 117.847 | +3% |
+| [Pullback no 50% do dia](../setups/fibo-50-do-dia) | R\$ 116.895 | +3% |
 
 Mas esse número sozinho não responde à pergunta que importa. **Rendeu mais do que não fazer nada?** Com o mesmo dinheiro, no mesmo período:
 

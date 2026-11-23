@@ -1,6 +1,6 @@
 ---
 title: Donchian com Médias
-date: 2026-11-21
+date: 2026-11-23
 tags: [setup, win]
 ---
 
@@ -8,11 +8,11 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "perde quase sempre, mas quando acerta paga tudo"](https://youtu.be/11F3W1gsnGM) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 21/11/2026 08:17 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "perde quase sempre, mas quando acerta paga tudo"](https://youtu.be/11F3W1gsnGM) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 23/11/2026 19:46 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 1.112.907** arriscando **1% do capital** por operação (+61% ao ano · pior queda −26% · cauda −39%)
-> - **R\$ 4.578.042** arriscando **2% do capital** por operação (+113% ao ano · pior queda −47% · cauda −64%)
+> - **R\$ 4.578.042** arriscando **2% do capital** por operação (+112% ao ano · pior queda −47% · cauda −64%)
 >
 > - **R\$ 182.572** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
@@ -42,8 +42,8 @@ tags: [setup, win]
 | **Alvo · stop** | 100 · 300 pts no vídeo → em ATR aqui | igual |
 | **Break even** | vela fechando com **300 pts** de lucro move o stop para a entrada | igual |
 
-- **Versão principal (escolhida só pelo treino): ATR 0,10 / 1,29** — stop 0,103 ATR · alvo 1,286 ATR (12,5× o stop); hoje ≈ 288 pts de stop e 3.602 pts de alvo.
-- **ATR** = quanto o índice costuma andar num dia: a média da distância entre a máxima e a mínima dos últimos 14 pregões (hoje ≈ 2.800 pts). Usar múltiplos do ATR em vez de pontos fixos faz o setup acompanhar o mercado quando ele fica mais calmo ou mais agitado.
+- **Versão principal (escolhida só pelo treino): ATR 0,10 / 1,29** — stop 0,103 ATR · alvo 1,286 ATR (12,5× o stop); hoje ≈ 286 pts de stop e 3.573 pts de alvo.
+- **ATR** = quanto o índice costuma andar num dia: a média da distância entre a máxima e a mínima dos últimos 14 pregões (hoje ≈ 2.778 pts). Usar múltiplos do ATR em vez de pontos fixos faz o setup acompanhar o mercado quando ele fica mais calmo ou mais agitado.
 - **Uma operação de cada vez.** Se não bateu stop nem alvo, zera às 18h20.
 - **Testado pela bateria padrão** (a mesma para todos os setups): réplica do vídeo, pontos/% × ATR, vizinhança, peça por peça, custo e comparação com o acaso. Veredito por regras fixas, refeito todo sábado com os dados novos.
 
@@ -54,7 +54,7 @@ tags: [setup, win]
 | **ATR 0,10 / 1,29** (principal) | stop 0,103 ATR · alvo 1,286 ATR (12,5× o stop) | 20% · 5,30 | +45,6 → +48,8 | +42,5% | −10,5% |
 | **como no vídeo (alvo 100, break even 300)** | stop 300 · alvo 100 pts | 77% · 0,27 | −8,8 → −2,4 | +6,4% | −12,2% |
 | **alvo 1.000** | stop 300 · alvo 1.000 pts | 28% · 3,09 | +35,0 → +36,5 | +35,9% | −11,7% |
-| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | stop 200 · alvo 2.500 pts | 19% · 5,64 | +46,7 → +52,7 | +46,2% | −11,4% |
+| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | stop 200 · alvo 2.500 pts | 19% · 5,64 | +46,7 → +52,7 | +46,1% | −11,4% |
 | **sem break even** | stop 300 · alvo 100 pts | 77% · 0,27 | −8,8 → −2,4 | +6,4% | −12,2% |
 | **canal de 40 períodos** | stop 300 · alvo 100 pts | 78% · 0,27 | −6,1 → +0,7 | +10,4% | −8,3% |
 
@@ -198,13 +198,13 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 | **ATR 0,10 / 1,29** | **R\$ 58.885** · +42,5% | −10,5% | 19,0% · 1,33 | 67% · 57% | −5,4% · +16,8% |
 | **como no vídeo (alvo 100, break even 300)** | **R\$ 13.666** · +6,4% | −12,2% | 7,7% · −0,72 | 38% · 44% | −3,0% · +6,2% |
 | **alvo 1.000** | **R\$ 46.463** · +35,9% | −11,7% | 16,9% · 1,19 | 64% · 66% | −5,2% · +12,7% |
-| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | **R\$ 66.864** · +46,2% | −11,4% | 18,1% · 1,53 | 67% · 54% | −5,4% · +17,8% |
+| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | **R\$ 66.864** · +46,1% | −11,4% | 18,1% · 1,52 | 67% · 54% | −5,4% · +17,8% |
 | **sem break even** | **R\$ 13.666** · +6,4% | −12,2% | 7,7% · −0,72 | 38% · 44% | −3,0% · +6,2% |
 | **canal de 40 períodos** | **R\$ 16.443** · +10,4% | −8,3% | 6,9% · −0,27 | 44% · 44% | −2,2% · +5,3% |
-| **risco 1%** | **R\$ 207.825** · +83,4% | −23,6% | 40,1% · 1,41 | 67% · 66% | −11,4% · +44,8% |
+| **risco 1%** | **R\$ 207.825** · +83,3% | −23,6% | 40,1% · 1,41 | 67% · 66% | −11,4% · +44,8% |
 | **pura** | **R\$ 32.222** · +26,3% | −12,5% | 19,0% · 0,69 | 61% · 56% | −6,4% · +15,4% |
 | **CDI** | **R\$ 18.285** · +12,8% | 0,0% | 0,1% · — | — · 46% | +0,6% · +1,3% |
-| **Ibovespa** | **R\$ 15.763** · +9,5% | −20,9% | 18,6% · −0,07 | 54% · — | −11,5% · +12,6% |
+| **Ibovespa** | **R\$ 15.613** · +9,3% | −21,2% | 18,6% · −0,08 | 54% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/donchian-com-medias_queda.png)
 
@@ -215,15 +215,15 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 | **ATR 0,10 / 1,29** | −6,9% | +74,2% | +29,5% | +17,2% | +46,7% | +63,0% | **+488,9%** (+42,5% · R\$ 58.885) |
 | **como no vídeo (alvo 100, break even 300)** | +0,2% | +1,1% | +3,1% | +2,8% | +16,7% | +9,1% | **+36,7%** (+6,4% · R\$ 13.666) |
 | **alvo 1.000** | −2,2% | +61,3% | +21,0% | +17,5% | +52,7% | +35,7% | **+364,6%** (+35,9% · R\$ 46.463) |
-| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | −9,5% | +80,0% | +33,1% | +16,1% | +46,2% | +81,7% | **+568,6%** (+46,2% · R\$ 66.864) |
+| **alvo 2.500, stop 200 (payoff 5 do vídeo)** | −9,5% | +80,0% | +33,1% | +16,1% | +46,2% | +81,7% | **+568,6%** (+46,1% · R\$ 66.864) |
 | **sem break even** | +0,2% | +1,1% | +3,1% | +2,8% | +16,7% | +9,1% | **+36,7%** (+6,4% · R\$ 13.666) |
 | **canal de 40 períodos** | −0,7% | +11,4% | +3,3% | +11,9% | +15,7% | +11,2% | **+64,4%** (+10,4% · R\$ 16.443) |
-| **risco 1%** | −14,9% | +173,6% | +51,8% | +25,9% | +129,6% | +103,4% | **+1978,3%** (+83,4% · R\$ 207.825) |
+| **risco 1%** | −14,9% | +173,6% | +51,8% | +25,9% | +129,6% | +103,4% | **+1978,3%** (+83,3% · R\$ 207.825) |
 | **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,4% | **+82,9%** (+12,8% · R\$ 18.285) |
-| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +3,3% | **+57,6%** (+9,5% · R\$ 15.763) |
+| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +2,3% | **+56,1%** (+9,3% · R\$ 15.613) |
 | *Quem ganhou* | *CDI* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* | *risco 1%* |
 
-\* ano parcial: os dados vão de 01/11/2021 a 19/11/2026.
+\* ano parcial: os dados vão de 01/11/2021 a 23/11/2026.
 
 ![Retorno por ano](setups/img/donchian-com-medias_anos.png)
 
@@ -290,8 +290,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | +4,9% | +7,0% | +1,1% | −0,3% |
 > | set/2026 | −0,5% | −0,6% | +1,1% | +5,0% |
 > | out/2026 | +6,0% | +7,4% | +1,1% | −9,9% |
-> | nov/2026 | +5,3% | +5,4% | +0,7% | −0,9% |
-> | **Acumulado** | **+488,9%** | **+1978,3%** | **+82,9%** | **+57,6%** |
+> | nov/2026 | +5,3% | +5,4% | +0,7% | −1,9% |
+> | **Acumulado** | **+488,9%** | **+1978,3%** | **+82,9%** | **+56,1%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 
@@ -299,14 +299,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | Versão (+ CDI) | R\$ 5.000 por contrato | R\$ 10.000 por contrato | R\$ 20.000 por contrato | R\$ 40.000 por contrato |
 |---|---|---|---|---|
-| **ATR 0,10 / 1,29** | +74% ao ano · queda −22% | +43% ao ano · queda −10% | +27% ao ano · queda −5% | +20% ao ano · queda −2% |
+| **ATR 0,10 / 1,29** | +74% ao ano · queda −22% | +42% ao ano · queda −10% | +27% ao ano · queda −5% | +20% ao ano · queda −2% |
 | **como no vídeo (alvo 100, break even 300)** | −0% ao ano · queda −36% | +6% ao ano · queda −12% | +10% ao ano · queda −3% | +11% ao ano · queda −1% |
-| **alvo 1.000** | +59% ao ano · queda −24% | +36% ao ano · queda −12% | +24% ao ano · queda −5% | +19% ao ano · queda −2% |
+| **alvo 1.000** | +59% ao ano · queda −24% | +36% ao ano · queda −12% | +24% ao ano · queda −5% | +18% ao ano · queda −2% |
 | **alvo 2.500, stop 200 (payoff 5 do vídeo)** | +84% ao ano · queda −24% | +46% ao ano · queda −11% | +29% ao ano · queda −5% | +21% ao ano · queda −2% |
 | **sem break even** | −0% ao ano · queda −36% | +6% ao ano · queda −12% | +10% ao ano · queda −3% | +11% ao ano · queda −1% |
 | **canal de 40 períodos** | +8% ao ano · queda −23% | +10% ao ano · queda −8% | +12% ao ano · queda −2% | +12% ao ano · queda −1% |
 
-*Referência: CDI +13% ao ano · Ibovespa +10% ao ano, pior queda −21%.*
+*Referência: CDI +13% ao ano · Ibovespa +9% ao ano, pior queda −21%.*
 
 ## O que os testes mostraram
 
@@ -333,7 +333,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## Como o teste foi feito
 
-- **Dados:** WIN\$N em velas de 1 minuto do MetaTrader 5, de 25/10/2021 a 19/11/2026, com os saltos das rolagens ajustados para os indicadores; resultados em **pontos reais** do contrato de cada época.
+- **Dados:** WIN\$N em velas de 1 minuto do MetaTrader 5, de 25/10/2021 a 23/11/2026, com os saltos das rolagens ajustados para os indicadores; resultados em **pontos reais** do contrato de cada época.
 - **Execução realista:** cada operação acompanhada minuto a minuto; stop e alvo no mesmo minuto contam como **stop**; se o preço abriu além do stop, a saída foi no preço da abertura.
 - **Custo:** 15 pontos por operação. **CDI:** série diária do Banco Central. **Ibovespa:** fechamento diário, comprado o período todo.
 - **Os parâmetros vieram prontos do vídeo**; o período de 2024 em diante serviu como prova.
@@ -362,7 +362,7 @@ Os três modos de risco lado a lado. **dividido** é 1% repartido entre os setup
 | Lucro com 1 contrato fixo | R\$ 12.590 | R\$ 12.590 | R\$ 12.590 |
 | Capital final | R\$ 1.112.907 | R\$ 1.112.907 | R\$ 4.578.042 |
 | Múltiplo do capital | 11,13× | 11,13× | 45,78× |
-| Rentabilidade ao ano | +60,9% | +60,9% | +112,8% |
+| Rentabilidade ao ano | +60,8% | +60,8% | +112,4% |
 | Pior queda do período | -26,0% | -26,0% | -46,6% |
 | Pior queda dentro de um ano | -26,0% | -26,0% | -46,6% |
 | Cauda — pior em 1 de 20 anos | -39,1% | -39,1% | -64,0% |
