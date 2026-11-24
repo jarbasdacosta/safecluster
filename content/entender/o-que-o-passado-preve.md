@@ -1,6 +1,6 @@
 ---
 title: 5 · O que o passado consegue prever
-date: 2026-11-23
+date: 2026-11-24
 description: "O que se repete do primeiro período para o segundo, e o que não"
 tags: [entender]
 ---
@@ -15,7 +15,7 @@ No primeiro pedaço (2,2 anos), fazemos uma lista das combinações em ordem. No
 | Característica | As listas se parecem? | Quanto |
 |---|---|---|
 | A pior queda | **muito** | 0,79 de 1,00 |
-| A cauda | **muito** | 0,76 de 1,00 |
+| A cauda | **muito** | 0,77 de 1,00 |
 | O retorno | em parte | 0,60 de 1,00 |
 
 > [!note] Como ler esse número
