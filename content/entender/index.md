@@ -1,6 +1,6 @@
 ---
 title: Entender o método
-date: 2026-11-24
+date: 2026-11-25
 description: "Do problema à carteira escolhida, uma etapa por vez"
 tags: [entender]
 ---
@@ -41,7 +41,7 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 |---|---|
 | Período estudado | 26/10/2021 a 24/11/2026 (5,1 anos, 1.261 dias de bolsa) |
 | Setups testados | 17 — 15 entram nas combinações |
-| Combinações avaliadas | 4.928 (de 2 a 5 setups cada) — 784 cabem no limite de perda |
+| Combinações avaliadas | 4.928 (de 2 a 5 setups cada) — 795 cabem no limite de perda |
 | Capital de partida | R\$ 100.000 |
 | Custo por operação | 15 pontos, já descontados de todo resultado |
 | Alvo de calibração da queda | 40% do patrimônio (50% no extremo) |
@@ -52,4 +52,4 @@ Além delas: o **[glossário](glossario)**, com todos os termos usados, e as pla
 >
 > Por isso as duas linhas acima são diferentes, e é a segunda que vale para quem vai operar. A [etapa 10](entender/limites) mostra a medição.
 
-*Gerado em 24/11/2026 19:50 a partir dos dados de 24/11/2026.*
+*Gerado em 25/11/2026 19:53 a partir dos dados de 25/11/2026.*

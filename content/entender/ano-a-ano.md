@@ -1,6 +1,6 @@
 ---
 title: 8 · Ano a ano, mês a mês
-date: 2026-11-24
+date: 2026-11-25
 description: "O calendário de resultados das 20 carteiras, sem média escondendo nada"
 tags: [entender]
 ---
@@ -36,7 +36,7 @@ A tabela do ranking responde quanto cada carteira rendeu **no período inteiro**
 | **19º** | [gps + ifr + pullback + rompe + tendencia](o-ranking) | +425% | +256% | +66% | +143% | +171% | 1% |
 | **20º** | [gps + macd + por + pullback + tendencia](o-ranking) | +317% | +237% | +106% | +93% | +188% | 0% |
 | **21º** | [ifr + pullback + rompimento](o-ranking) | +1047% | +133% | +84% | +182% | +47% | **42%** |
-| — | *CDI (sem operar nada)* | *+12%* | *+13%* | *+11%* | *+14%* | *+12%* | — |
+| — | *CDI (sem operar nada)* | *+12%* | *+13%* | *+11%* | *+14%* | *+13%* | — |
 | — | *Ibovespa comprado e parado (BOVA11)* | *+5%* | *+23%* | *-10%* | *+35%* | *+28%* | — |
 
 > [!warning] A última coluna é a mais importante desta tabela

@@ -1,6 +1,6 @@
 ---
 title: Tendência Forte do Dia
-date: 2026-11-24
+date: 2026-11-25
 tags: [setup, win]
 ---
 
@@ -8,13 +8,13 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · sinais da 1ª vela do dia até 17h00
 
-🎬 **Vídeo de origem:** [Arthur 777 – "encontrei uma coisa absurda nos testes"](https://youtu.be/N4CJ9Yv8To8) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 24/11/2026 19:46 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "encontrei uma coisa absurda nos testes"](https://youtu.be/N4CJ9Yv8To8) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 25/11/2026 19:48 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 775.121** arriscando **1% do capital** por operação (+50% ao ano · pior queda −26% · cauda −35%)
 > - **R\$ 3.531.338** arriscando **2% do capital** por operação (+102% ao ano · pior queda −48% · cauda −59%)
 >
-> - **R\$ 182.665** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
+> - **R\$ 182.758** CDI (sem operar nada) — +13% ao ano, praticamente sem queda
 > - **R\$ 197.252** Ibovespa comprado e parado (BOVA11) — +14% ao ano, pior queda −21%
 >
 > Contratos **inteiros** (mínimo 1, teto de 2000), 15 pts de custo já descontados de cada operação, sem imposto. As duas últimas linhas são as alternativas a operar: o dinheiro parado na renda fixa e comprado no índice.
@@ -139,13 +139,13 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | R\$ 10.000 viraram · ao ano | Pior queda | Oscilação · Sharpe | Meses acima: CDI · Ibov | Pior · melhor mês |
 |---|---|---|---|---|---|
-| **ATR 0,36 / 0,15 / 3,75×** | **R\$ 69.313** · +47,2% | −16,1% | 22,4% · 1,30 | 59% · 62% | −7,4% · +16,6% |
-| **ATR ≈ 400/400** | **R\$ 50.544** · +38,2% | −12,8% | 20,2% · 1,10 | 59% · 56% | −7,2% · +14,0% |
-| **pontos fixos 400/400** | **R\$ 54.154** · +40,1% | −13,4% | 19,3% · 1,22 | 57% · 57% | −6,3% · +16,5% |
-| **risco 1%** | **R\$ 144.293** · +70,3% | −23,6% | 32,7% · 1,42 | 59% · 62% | −13,6% · +22,4% |
-| **pura** | **R\$ 37.910** · +30,5% | −17,7% | 22,4% · 0,76 | 56% · 56% | −8,2% · +15,4% |
-| **CDI** | **R\$ 18.295** · +12,8% | 0,0% | 0,1% · — | — · 46% | +0,6% · +1,3% |
-| **Ibovespa** | **R\$ 15.652** · +9,4% | −21,2% | 18,6% · −0,07 | 54% · — | −11,5% · +12,6% |
+| **ATR 0,36 / 0,15 / 3,75×** | **R\$ 69.348** · +47,2% | −16,1% | 22,4% · 1,30 | 59% · 62% | −7,4% · +16,6% |
+| **ATR ≈ 400/400** | **R\$ 50.570** · +38,2% | −12,8% | 20,2% · 1,10 | 59% · 56% | −7,2% · +14,0% |
+| **pontos fixos 400/400** | **R\$ 54.182** · +40,1% | −13,4% | 19,3% · 1,22 | 57% · 57% | −6,3% · +16,5% |
+| **risco 1%** | **R\$ 144.366** · +70,4% | −23,6% | 32,7% · 1,42 | 59% · 62% | −13,6% · +22,4% |
+| **pura** | **R\$ 37.910** · +30,5% | −17,7% | 22,4% · 0,76 | 56% · 57% | −8,2% · +15,4% |
+| **CDI** | **R\$ 18.304** · +12,8% | 0,0% | 0,1% · — | — · 46% | +0,6% · +1,3% |
+| **Ibovespa** | **R\$ 15.546** · +9,2% | −21,5% | 18,6% · −0,08 | 54% · — | −11,5% · +12,6% |
 
 ![Quedas](setups/img/tendencia-forte-do-dia_queda.png)
 
@@ -153,12 +153,12 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **ATR 0,36 / 0,15 / 3,75×** | −1,7% | +58,4% | +50,3% | +21,6% | +32,2% | +84,3% | **+593,1%** (+47,2% · R\$ 69.313) |
-| **ATR ≈ 400/400** | +0,3% | +72,5% | +26,0% | +29,5% | +22,2% | +46,5% | **+405,4%** (+38,2% · R\$ 50.544) |
-| **pontos fixos 400/400** | −5,2% | +68,7% | +33,5% | +31,5% | +19,8% | +60,9% | **+441,5%** (+40,1% · R\$ 54.154) |
-| **risco 1%** | −2,9% | +94,7% | +78,7% | +31,5% | +62,2% | +100,2% | **+1342,9%** (+70,3% · R\$ 144.293) |
-| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,5% | **+82,9%** (+12,8% · R\$ 18.295) |
-| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +2,5% | **+56,5%** (+9,4% · R\$ 15.652) |
+| **ATR 0,36 / 0,15 / 3,75×** | −1,7% | +58,4% | +50,3% | +21,6% | +32,2% | +84,4% | **+593,5%** (+47,2% · R\$ 69.348) |
+| **ATR ≈ 400/400** | +0,3% | +72,5% | +26,0% | +29,5% | +22,2% | +46,6% | **+405,7%** (+38,2% · R\$ 50.570) |
+| **pontos fixos 400/400** | −5,2% | +68,7% | +33,5% | +31,5% | +19,8% | +60,9% | **+441,8%** (+40,1% · R\$ 54.182) |
+| **risco 1%** | −2,9% | +94,7% | +78,7% | +31,5% | +62,2% | +100,3% | **+1343,7%** (+70,4% · R\$ 144.366) |
+| **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,5% | **+83,0%** (+12,8% · R\$ 18.304) |
+| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +1,8% | **+55,5%** (+9,2% · R\$ 15.546) |
 | *Quem ganhou* | *CDI* | *risco 1%* | *risco 1%* | *pontos fixos 400/400* | *risco 1%* | *risco 1%* | *risco 1%* |
 
 \* ano parcial: os dados vão de 01/11/2021 a 24/11/2026.
@@ -228,8 +228,8 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 > | ago/2026 | +9,9% | +11,3% | +1,1% | −0,3% |
 > | set/2026 | +4,2% | +5,0% | +1,1% | +5,0% |
 > | out/2026 | +16,6% | +15,3% | +1,1% | −9,9% |
-> | nov/2026 | −0,9% | −0,9% | +0,7% | −1,6% |
-> | **Acumulado** | **+593,1%** | **+1342,9%** | **+82,9%** | **+56,5%** |
+> | nov/2026 | −0,9% | −0,8% | +0,8% | −2,3% |
+> | **Acumulado** | **+593,5%** | **+1343,7%** | **+83,0%** | **+55,5%** |
 >
 > *As outras versões aparecem no ano a ano acima; o mês a mês é da versão principal.*
 
@@ -239,9 +239,9 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 |---|---|---|---|---|
 | **ATR 0,36 / 0,15 / 3,75×** | +83% ao ano · queda −32% | +47% ao ano · queda −16% | +30% ao ano · queda −7% | +21% ao ano · queda −3% |
 | **ATR ≈ 400/400** | +63% ao ano · queda −26% | +38% ao ano · queda −13% | +25% ao ano · queda −6% | +19% ao ano · queda −2% |
-| **pontos fixos 400/400** | +68% ao ano · queda −28% | +40% ao ano · queda −13% | +26% ao ano · queda −6% | +19% ao ano · queda −2% |
+| **pontos fixos 400/400** | +68% ao ano · queda −28% | +40% ao ano · queda −13% | +26% ao ano · queda −6% | +20% ao ano · queda −2% |
 
-*Referência: CDI +13% ao ano · Ibovespa +9% ao ano, pior queda −21%.*
+*Referência: CDI +13% ao ano · Ibovespa +9% ao ano, pior queda −22%.*
 
 ## O que os testes mostraram
 

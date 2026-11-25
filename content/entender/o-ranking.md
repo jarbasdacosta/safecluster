@@ -1,6 +1,6 @@
 ---
 title: 7 · O ranking
-date: 2026-11-24
+date: 2026-11-25
 description: "As carteiras escolhidas e o risco de cada uma"
 tags: [entender]
 ---
@@ -40,7 +40,7 @@ As **20 carteiras** que o método escolheu, usando só o período de treino, mai
 > [!example] A última linha não é uma escolha do método
 > **ifr + pullback + rompimento** é a carteira que está sendo operada ao vivo, e ela entra aqui com as mesmas medidas de todas as outras — para comparar sem torcer para nenhum lado.
 >
-> O método **não** a escolheu. No período de treino ela ficou 288ª em retorno e 62ª em queda entre as 784 que cabem no limite, então não entrou no grupo dos 10% de maior retorno.
+> O método **não** a escolheu. No período de treino ela ficou 293ª em retorno e 62ª em queda entre as 795 que cabem no limite, então não entrou no grupo dos 10% de maior retorno.
 >
 > Ajustada para cair 40% como as outras, ela precisa de 2,23% de risco por operação e termina com R\$ 20.497.024 — o que a poria em **17º lugar** entre as 20 escolhidas.
 >
