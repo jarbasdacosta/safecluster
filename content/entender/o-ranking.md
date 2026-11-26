@@ -15,34 +15,34 @@ As **20 carteiras** que o método escolheu, usando só o período de treino, mai
 ## A tabela
 | # | Carteira | Setups | Ops/ano | Risco/op para 40% | Virou | Por ano | Queda real no teste |
 |---|---|---|---|---|---|---|---|
-| **1º** | donchian + ifr + macd + pullback + rompimento | 5 | 707 | **1,12%** | R\$ 32.495.060 | +212% | -45% |
-| **2º** | extremos + ifr + pullback + rompimento + tendencia | 5 | 730 | **1,34%** | R\$ 31.645.598 | +210% | -47% |
-| **3º** | donchian + fibo + ifr + pullback + rompimento | 5 | 572 | **1,30%** | R\$ 27.955.408 | +203% | -46% |
-| **4º** | donchian + ifr + pullback + rompe + rompimento | 5 | 568 | **1,38%** | R\$ 27.623.323 | +202% | -47% |
-| **5º** | donchian + ifr + pullback + rompimento | 4 | 527 | **1,30%** | R\$ 27.419.499 | +202% | -46% |
-| **6º** | gps + ifr + macd + pullback + rompimento | 5 | 690 | **1,06%** | R\$ 27.207.843 | +201% | -50% |
-| **7º** | donchian + ifr + por + pullback + rompimento | 5 | 627 | **1,32%** | R\$ 27.203.985 | +201% | -47% |
-| **8º** | ifr + por + pullback + rompimento + tendencia | 5 | 713 | **1,21%** | R\$ 25.671.100 | +198% | -49% |
-| **9º** | fibo + ifr + pullback + rompimento + tendencia | 5 | 658 | **1,13%** | R\$ 25.628.298 | +198% | -49% |
-| **10º** | ifr + pullback + rompe + rompimento + tendencia | 5 | 654 | **1,07%** | R\$ 25.151.187 | +197% | -50% |
+| **1º** | donchian + ifr + macd + pullback + rompimento | 5 | 707 | **1,12%** | R\$ 32.647.037 | +212% | -45% |
+| **2º** | extremos + ifr + pullback + rompimento + tendencia | 5 | 730 | **1,34%** | R\$ 31.797.662 | +211% | -47% |
+| **3º** | donchian + fibo + ifr + pullback + rompimento | 5 | 572 | **1,30%** | R\$ 28.107.662 | +203% | -46% |
+| **4º** | donchian + ifr + pullback + rompe + rompimento | 5 | 568 | **1,38%** | R\$ 27.775.311 | +203% | -47% |
+| **5º** | donchian + ifr + pullback + rompimento | 4 | 527 | **1,30%** | R\$ 27.571.411 | +202% | -46% |
+| **6º** | gps + ifr + macd + pullback + rompimento | 5 | 690 | **1,06%** | R\$ 27.359.615 | +202% | -50% |
+| **7º** | donchian + ifr + por + pullback + rompimento | 5 | 626 | **1,32%** | R\$ 27.355.834 | +202% | -47% |
+| **8º** | ifr + por + pullback + rompimento + tendencia | 5 | 713 | **1,21%** | R\$ 25.822.936 | +198% | -49% |
+| **9º** | fibo + ifr + pullback + rompimento + tendencia | 5 | 658 | **1,13%** | R\$ 25.780.074 | +198% | -49% |
+| **10º** | ifr + pullback + rompe + rompimento + tendencia | 5 | 654 | **1,07%** | R\$ 25.303.010 | +197% | -50% |
 | **11º** | donchian + por + pullback + rompimento + tendencia | 5 | 820 | **0,93%** | R\$ 24.762.571 | +196% | -55% |
-| **12º** | fibo + gps + ifr + pullback + rompimento | 5 | 555 | **1,33%** | R\$ 23.014.281 | +192% | -43% |
-| **13º** | gps + ifr + pullback + rompe + rompimento | 5 | 551 | **1,27%** | R\$ 22.812.298 | +191% | -46% |
-| **14º** | gps + ifr + pullback + rompimento | 4 | 510 | **1,38%** | R\$ 22.778.753 | +191% | -44% |
-| **15º** | gps + ifr + por + pullback + tendencia | 5 | 906 | **0,90%** | R\$ 22.587.016 | +191% | -61% |
-| **16º** | gps + ifr + por + pullback + rompimento | 5 | 610 | **1,38%** | R\$ 22.275.557 | +190% | -46% |
-| **17º** | gps + ifr + macd + pullback + rompe | 5 | 679 | **1,07%** | R\$ 19.481.286 | +182% | -55% |
-| **18º** | gps + ifr + pullback + tendencia | 4 | 807 | **0,83%** | R\$ 17.699.864 | +177% | -63% |
-| **19º** | gps + ifr + pullback + rompe + tendencia | 5 | 848 | **0,79%** | R\$ 17.685.695 | +177% | -62% |
+| **12º** | fibo + gps + ifr + pullback + rompimento | 5 | 555 | **1,33%** | R\$ 23.165.945 | +192% | -43% |
+| **13º** | gps + ifr + pullback + rompe + rompimento | 5 | 551 | **1,27%** | R\$ 22.964.219 | +192% | -46% |
+| **14º** | gps + ifr + pullback + rompimento | 4 | 510 | **1,38%** | R\$ 22.930.741 | +191% | -44% |
+| **15º** | gps + ifr + por + pullback + tendencia | 5 | 906 | **0,90%** | R\$ 22.738.774 | +191% | -61% |
+| **16º** | gps + ifr + por + pullback + rompimento | 5 | 609 | **1,38%** | R\$ 22.427.598 | +190% | -46% |
+| **17º** | gps + ifr + macd + pullback + rompe | 5 | 679 | **1,07%** | R\$ 19.631.315 | +183% | -55% |
+| **18º** | gps + ifr + pullback + tendencia | 4 | 807 | **0,83%** | R\$ 17.851.123 | +177% | -63% |
+| **19º** | gps + ifr + pullback + rompe + tendencia | 5 | 848 | **0,79%** | R\$ 17.836.582 | +177% | -62% |
 | **20º** | gps + macd + por + pullback + tendencia | 5 | 931 | **0,91%** | R\$ 16.009.996 | +172% | -55% |
-| **em operação** | ifr + pullback + rompimento | 3 | 266 | **2,23%** | R\$ 20.345.272 | +185% | -52% |
+| **em operação** | ifr + pullback + rompimento | 3 | 266 | **2,23%** | R\$ 20.497.260 | +185% | -52% |
 
 > [!example] A última linha não é uma escolha do método
 > **ifr + pullback + rompimento** é a carteira que está sendo operada ao vivo, e ela entra aqui com as mesmas medidas de todas as outras — para comparar sem torcer para nenhum lado.
 >
-> O método **não** a escolheu. No período de treino ela ficou 291ª em retorno e 62ª em queda entre as 790 que cabem no limite, então não entrou no grupo dos 10% de maior retorno.
+> O método **não** a escolheu. No período de treino ela ficou 289ª em retorno e 62ª em queda entre as 785 que cabem no limite, então não entrou no grupo dos 10% de maior retorno.
 >
-> Ajustada para cair 40% como as outras, ela precisa de 2,23% de risco por operação e termina com R\$ 20.345.272 — o que a poria em **17º lugar** entre as 20 escolhidas.
+> Ajustada para cair 40% como as outras, ela precisa de 2,23% de risco por operação e termina com R\$ 20.497.260 — o que a poria em **17º lugar** entre as 20 escolhidas.
 >
 > **Esta tabela ordena por retorno.** A combinação que o site recomenda sai de outro critério — sobrevivência: quanto rende para cada 1% de queda, quantos dias passa no vermelho e qual a pior janela de 60 dias. Por isso uma carteira pode ficar de fora desta lista e ainda assim ser a recomendada: são perguntas diferentes. *Qual rende mais apanhando 40%?* não é a mesma pergunta que *qual apanha menos pelo que rende?*
 >
@@ -53,17 +53,17 @@ A coluna da direita é a mais importante e a menos agradável: é a queda que a 
 ## Cada carteira em detalhe
 
 <details>
-<summary><b>1º · donchian + ifr + macd + pullback + rompimento — R\$ 32.495.060 aos 40%</b></summary>
+<summary><b>1º · donchian + ifr + macd + pullback + rompimento — R\$ 32.647.037 aos 40%</b></summary>
 
 **Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [MACD na Tendência](../setups/macd-na-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 478.387 | +36% | -8% | -9% | 118 dias | 76% | 4 → 22 | 0% |
-| **1%** | 1,00% | R\$ 30.896.414 | +209% | -36% | -37% | 119 dias | 73% | 21 → 2000 | 24% |
-| **2%** | 2,00% | R\$ 35.227.248 | +217% | -60% | -61% | 250 dias | 66% | 43 → 2000 | 58% |
+| **dividido** | 0,20% | R\$ 479.301 | +36% | -8% | -9% | 118 dias | 76% | 4 → 22 | 0% |
+| **1%** | 1,00% | R\$ 31.048.402 | +209% | -36% | -37% | 119 dias | 73% | 21 → 2000 | 24% |
+| **2%** | 2,00% | R\$ 35.379.236 | +217% | -60% | -63% | 250 dias | 66% | 43 → 2000 | 58% |
 | **honesto** | **0,99%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,12%** | R\$ 32.495.060 | +212% | -40% (pior ano -39%) | -41% | 129 dias | 73% | 24 → 2000 | **30%** |
-| no extremo | 1,52% | R\$ 34.109.869 | +215% | -50% | — | — | — | — | — |
+| **no limite** | **1,12%** | R\$ 32.647.037 | +212% | -40% (pior ano -39%) | -38% | 129 dias | 73% | 24 → 2000 | **30%** |
+| no extremo | 1,52% | R\$ 34.261.857 | +215% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -45% em vez dos 40% prometidos (1,14× mais queda).
 
@@ -73,7 +73,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +787% | +165% | +135% | +291% | +74% |
+| Rendeu | +787% | +165% | +135% | +291% | +75% |
 | Pior queda do ano | -26% | -24% | -32% | -36% | -27% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -84,24 +84,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-45%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -50% |
-| Capital no teste | 176× o inicial |
+| Capital no teste | 177× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -35% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>2º · extremos + ifr + pullback + rompimento + tendencia — R\$ 31.645.598 aos 40%</b></summary>
+<summary><b>2º · extremos + ifr + pullback + rompimento + tendencia — R\$ 31.797.662 aos 40%</b></summary>
 
 **Setups:** [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 398.410 | +31% | -6% | -8% | 115 dias | 74% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 27.821.220 | +203% | -31% | -35% | 116 dias | 73% | 21 → 2000 | 15% |
-| **2%** | 2,00% | R\$ 31.801.529 | +211% | -60% | -58% | 316 dias | 65% | 43 → 2000 | 59% |
+| **dividido** | 0,20% | R\$ 399.183 | +31% | -6% | -8% | 115 dias | 74% | 4 → 18 | 0% |
+| **1%** | 1,00% | R\$ 27.973.043 | +203% | -31% | -33% | 116 dias | 73% | 21 → 2000 | 15% |
+| **2%** | 2,00% | R\$ 31.953.517 | +211% | -60% | -57% | 316 dias | 65% | 43 → 2000 | 59% |
 | **honesto** | **1,14%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,34%** | R\$ 31.645.598 | +210% | -40% (pior ano -40%) | -46% | 182 dias | 71% | 28 → 2000 | **34%** |
-| no extremo | 1,79% | R\$ 31.746.161 | +211% | -50% | — | — | — | — | — |
+| **no limite** | **1,34%** | R\$ 31.797.662 | +211% | -40% (pior ano -40%) | -46% | 182 dias | 71% | 28 → 2000 | **34%** |
+| no extremo | 1,79% | R\$ 31.898.149 | +211% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -47% em vez dos 40% prometidos (1,17× mais queda).
 
@@ -111,7 +111,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +611% | +144% | +136% | +224% | +110% |
+| Rendeu | +611% | +144% | +136% | +224% | +111% |
 | Pior queda do ano | -22% | -25% | -29% | -31% | -25% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -122,24 +122,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-47%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -47% |
-| Capital no teste | 186× o inicial |
+| Capital no teste | 188× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -24% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>3º · donchian + fibo + ifr + pullback + rompimento — R\$ 27.955.408 aos 40%</b></summary>
+<summary><b>3º · donchian + fibo + ifr + pullback + rompimento — R\$ 28.107.662 aos 40%</b></summary>
 
 **Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 394.338 | +31% | -7% | -8% | 119 dias | 76% | 4 → 19 | 0% |
-| **1%** | 1,00% | R\$ 24.797.951 | +196% | -29% | -35% | 129 dias | 77% | 21 → 2000 | 17% |
-| **2%** | 2,00% | R\$ 29.208.923 | +206% | -58% | -59% | 290 dias | 65% | 43 → 2000 | 56% |
+| **dividido** | 0,20% | R\$ 395.056 | +31% | -7% | -8% | 119 dias | 76% | 4 → 19 | 0% |
+| **1%** | 1,00% | R\$ 24.949.761 | +196% | -29% | -37% | 129 dias | 77% | 21 → 2000 | 17% |
+| **2%** | 2,00% | R\$ 29.361.736 | +206% | -58% | -61% | 290 dias | 65% | 43 → 2000 | 56% |
 | **honesto** | **1,12%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,30%** | R\$ 27.955.408 | +203% | -40% (pior ano -37%) | -45% | 161 dias | 73% | 28 → 2000 | 29% |
-| no extremo | 1,76% | R\$ 28.513.459 | +204% | -50% | — | — | — | — | — |
+| **no limite** | **1,30%** | R\$ 28.107.662 | +203% | -40% (pior ano -37%) | -43% | 161 dias | 73% | 28 → 2000 | 29% |
+| no extremo | 1,76% | R\$ 28.665.447 | +205% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -46% em vez dos 40% prometidos (1,16× mais queda).
 
@@ -149,7 +149,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +754% | +128% | +88% | +326% | +85% |
+| Rendeu | +754% | +128% | +88% | +326% | +86% |
 | Pior queda do ano | -25% | -22% | -28% | -28% | -26% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -160,24 +160,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-46%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -46% |
-| Capital no teste | 156× o inicial |
+| Capital no teste | 157× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -37% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>4º · donchian + ifr + pullback + rompe + rompimento — R\$ 27.623.323 aos 40%</b></summary>
+<summary><b>4º · donchian + ifr + pullback + rompe + rompimento — R\$ 27.775.311 aos 40%</b></summary>
 
 **Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 407.613 | +32% | -6% | -9% | 116 dias | 76% | 4 → 19 | 0% |
-| **1%** | 1,00% | R\$ 25.361.129 | +197% | -31% | -37% | 129 dias | 74% | 21 → 2000 | 20% |
-| **2%** | 2,00% | R\$ 28.874.683 | +205% | -60% | -62% | 290 dias | 63% | 43 → 2000 | 61% |
+| **dividido** | 0,20% | R\$ 408.386 | +32% | -6% | -8% | 116 dias | 76% | 4 → 19 | 0% |
+| **1%** | 1,00% | R\$ 25.512.959 | +198% | -31% | -37% | 129 dias | 74% | 21 → 2000 | 20% |
+| **2%** | 2,00% | R\$ 29.026.671 | +205% | -60% | -62% | 290 dias | 63% | 43 → 2000 | 61% |
 | **honesto** | **1,18%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,38%** | R\$ 27.623.323 | +202% | -40% (pior ano -40%) | -45% | 278 dias | 65% | 30 → 2000 | **33%** |
-| no extremo | 1,86% | R\$ 28.010.901 | +203% | -50% | — | — | — | — | — |
+| **no limite** | **1,38%** | R\$ 27.775.311 | +203% | -40% (pior ano -40%) | -45% | 278 dias | 65% | 30 → 2000 | **33%** |
+| no extremo | 1,86% | R\$ 28.162.889 | +203% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -47% em vez dos 40% prometidos (1,17× mais queda).
 
@@ -187,7 +187,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +757% | +160% | +81% | +369% | +64% |
+| Rendeu | +757% | +160% | +81% | +369% | +65% |
 | Pior queda do ano | -24% | -23% | -28% | -31% | -27% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -198,24 +198,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-47%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -49% |
-| Capital no teste | 163× o inicial |
+| Capital no teste | 164× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -38% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>5º · donchian + ifr + pullback + rompimento — R\$ 27.419.499 aos 40%</b></summary>
+<summary><b>5º · donchian + ifr + pullback + rompimento — R\$ 27.571.411 aos 40%</b></summary>
 
 **Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,25% | R\$ 545.037 | +40% | -8% | -11% | 118 dias | 76% | 5 → 31 | 0% |
-| **1%** | 1,00% | R\$ 24.038.101 | +194% | -30% | -37% | 131 dias | 76% | 21 → 2000 | 16% |
-| **2%** | 2,00% | R\$ 27.848.879 | +203% | -58% | -62% | 399 dias | 66% | 43 → 2000 | 47% |
+| **dividido** | 0,25% | R\$ 546.372 | +40% | -8% | -10% | 118 dias | 76% | 5 → 31 | 0% |
+| **1%** | 1,00% | R\$ 24.189.917 | +195% | -30% | -34% | 131 dias | 77% | 21 → 2000 | 16% |
+| **2%** | 2,00% | R\$ 28.000.867 | +203% | -58% | -58% | 399 dias | 68% | 43 → 2000 | 47% |
 | **honesto** | **1,12%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,30%** | R\$ 27.419.499 | +202% | -40% (pior ano -35%) | -45% | 161 dias | 73% | 28 → 2000 | **30%** |
-| no extremo | 1,76% | R\$ 27.994.837 | +203% | -50% | — | — | — | — | — |
+| **no limite** | **1,30%** | R\$ 27.571.411 | +202% | -40% (pior ano -35%) | -44% | 161 dias | 74% | 28 → 2000 | **30%** |
+| no extremo | 1,76% | R\$ 28.146.825 | +203% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -46% em vez dos 40% prometidos (1,16× mais queda).
 
@@ -225,7 +225,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +675% | +133% | +89% | +323% | +95% |
+| Rendeu | +675% | +133% | +89% | +323% | +96% |
 | Pior queda do ano | -22% | -22% | -24% | -28% | -25% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -236,24 +236,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-46%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -44% |
-| Capital no teste | 153× o inicial |
+| Capital no teste | 154× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -37% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>6º · gps + ifr + macd + pullback + rompimento — R\$ 27.207.843 aos 40%</b></summary>
+<summary><b>6º · gps + ifr + macd + pullback + rompimento — R\$ 27.359.615 aos 40%</b></summary>
 
 **Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [MACD na Tendência](../setups/macd-na-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 430.629 | +33% | -9% | -9% | 100 dias | 76% | 4 → 20 | 0% |
-| **1%** | 1,00% | R\$ 26.603.274 | +200% | -35% | -37% | 126 dias | 76% | 21 → 2000 | 20% |
-| **2%** | 2,00% | R\$ 32.308.151 | +212% | -52% | -61% | 161 dias | 71% | 43 → 2000 | 67% |
+| **dividido** | 0,20% | R\$ 431.473 | +33% | -9% | -9% | 100 dias | 76% | 4 → 20 | 0% |
+| **1%** | 1,00% | R\$ 26.755.109 | +200% | -35% | -38% | 126 dias | 76% | 21 → 2000 | 20% |
+| **2%** | 2,00% | R\$ 32.460.139 | +212% | -52% | -62% | 161 dias | 71% | 43 → 2000 | 67% |
 | **honesto** | **0,85%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,06%** | R\$ 27.207.843 | +201% | -40% (pior ano -40%) | -39% | 129 dias | 76% | 23 → 2000 | 24% |
-| no extremo | 1,43% | R\$ 29.264.120 | +206% | -50% | — | — | — | — | — |
+| **no limite** | **1,06%** | R\$ 27.359.615 | +202% | -40% (pior ano -40%) | -43% | 129 dias | 76% | 23 → 2000 | 23% |
+| no extremo | 1,43% | R\$ 29.416.108 | +206% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -50% em vez dos 40% prometidos (1,26× mais queda).
 
@@ -263,7 +263,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +444% | +282% | +152% | +195% | +88% |
+| Rendeu | +444% | +282% | +152% | +195% | +89% |
 | Pior queda do ano | -29% | -24% | -35% | -34% | -28% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -274,24 +274,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-50%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -50% |
-| Capital no teste | 150× o inicial |
+| Capital no teste | 151× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -29% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>7º · donchian + ifr + por + pullback + rompimento — R\$ 27.203.985 aos 40%</b></summary>
+<summary><b>7º · donchian + ifr + por + pullback + rompimento — R\$ 27.355.834 aos 40%</b></summary>
 
 **Setups:** [Donchian com Médias](../setups/donchian-com-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 402.714 | +32% | -7% | -8% | 131 dias | 77% | 4 → 19 | 0% |
-| **1%** | 1,00% | R\$ 24.640.208 | +196% | -30% | -35% | 133 dias | 76% | 21 → 2000 | 17% |
-| **2%** | 2,00% | R\$ 27.099.366 | +201% | -59% | -59% | 616 dias | 69% | 43 → 2000 | 51% |
+| **dividido** | 0,20% | R\$ 403.487 | +32% | -7% | -8% | 131 dias | 79% | 4 → 19 | 0% |
+| **1%** | 1,00% | R\$ 24.791.979 | +196% | -30% | -35% | 133 dias | 76% | 21 → 2000 | 17% |
+| **2%** | 2,00% | R\$ 27.251.354 | +201% | -59% | -59% | 616 dias | 69% | 43 → 2000 | 51% |
 | **honesto** | **1,13%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,32%** | R\$ 27.203.985 | +201% | -40% (pior ano -35%) | -41% | 133 dias | 74% | 28 → 2000 | **32%** |
-| no extremo | 1,78% | R\$ 27.185.536 | +201% | -50% | — | — | — | — | — |
+| **no limite** | **1,32%** | R\$ 27.355.834 | +202% | -40% (pior ano -35%) | -44% | 133 dias | 74% | 28 → 2000 | **32%** |
+| no extremo | 1,78% | R\$ 27.337.524 | +202% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -47% em vez dos 40% prometidos (1,17× mais queda).
 
@@ -301,7 +301,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +740% | +125% | +115% | +275% | +83% |
+| Rendeu | +740% | +125% | +115% | +275% | +84% |
 | Pior queda do ano | -22% | -22% | -23% | -29% | -25% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -312,24 +312,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-47%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -43% |
-| Capital no teste | 166× o inicial |
+| Capital no teste | 168× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -38% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>8º · ifr + por + pullback + rompimento + tendencia — R\$ 25.671.100 aos 40%</b></summary>
+<summary><b>8º · ifr + por + pullback + rompimento + tendencia — R\$ 25.822.936 aos 40%</b></summary>
 
 **Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 365.153 | +29% | -8% | -8% | 115 dias | 74% | 4 → 17 | 0% |
-| **1%** | 1,00% | R\$ 24.330.860 | +195% | -37% | -34% | 136 dias | 69% | 21 → 2000 | 8% |
-| **2%** | 2,00% | R\$ 25.741.375 | +198% | -59% | -58% | 313 dias | 65% | 43 → 2000 | 54% |
+| **dividido** | 0,20% | R\$ 365.856 | +29% | -8% | -7% | 115 dias | 74% | 4 → 17 | 0% |
+| **1%** | 1,00% | R\$ 24.482.269 | +195% | -37% | -33% | 136 dias | 69% | 21 → 2000 | 8% |
+| **2%** | 2,00% | R\$ 25.893.363 | +198% | -59% | -56% | 313 dias | 65% | 43 → 2000 | 54% |
 | **honesto** | **0,99%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,21%** | R\$ 25.671.100 | +198% | -40% (pior ano -40%) | -37% | 183 dias | 69% | 26 → 2000 | 24% |
-| no extremo | 1,62% | R\$ 26.139.498 | +199% | -50% | — | — | — | — | — |
+| **no limite** | **1,21%** | R\$ 25.822.936 | +198% | -40% (pior ano -40%) | -37% | 183 dias | 69% | 26 → 2000 | 24% |
+| no extremo | 1,62% | R\$ 26.291.459 | +199% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -49% em vez dos 40% prometidos (1,22× mais queda).
 
@@ -339,7 +339,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +501% | +167% | +132% | +208% | +112% |
+| Rendeu | +501% | +167% | +132% | +208% | +113% |
 | Pior queda do ano | -19% | -26% | -25% | -23% | -37% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -350,24 +350,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-49%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -49% |
-| Capital no teste | 152× o inicial |
+| Capital no teste | 153× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -27% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>9º · fibo + ifr + pullback + rompimento + tendencia — R\$ 25.628.298 aos 40%</b></summary>
+<summary><b>9º · fibo + ifr + pullback + rompimento + tendencia — R\$ 25.780.074 aos 40%</b></summary>
 
 **Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 359.672 | +29% | -8% | -8% | 136 dias | 73% | 4 → 17 | 0% |
-| **1%** | 1,00% | R\$ 24.428.717 | +195% | -38% | -34% | 157 dias | 69% | 21 → 2000 | 9% |
-| **2%** | 2,00% | R\$ 27.932.570 | +203% | -59% | -57% | 305 dias | 63% | 43 → 2000 | 59% |
+| **dividido** | 0,20% | R\$ 360.375 | +29% | -8% | -7% | 136 dias | 73% | 4 → 17 | 0% |
+| **1%** | 1,00% | R\$ 24.580.616 | +195% | -38% | -33% | 157 dias | 69% | 21 → 2000 | 9% |
+| **2%** | 2,00% | R\$ 28.084.558 | +203% | -59% | -56% | 305 dias | 63% | 43 → 2000 | 59% |
 | **honesto** | **0,93%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,13%** | R\$ 25.628.298 | +198% | -40% (pior ano -40%) | -37% | 158 dias | 66% | 24 → 2000 | 19% |
-| no extremo | 1,52% | R\$ 27.481.190 | +202% | -50% | — | — | — | — | — |
+| **no limite** | **1,13%** | R\$ 25.780.074 | +198% | -40% (pior ano -40%) | -35% | 158 dias | 66% | 24 → 2000 | 19% |
+| no extremo | 1,52% | R\$ 27.633.390 | +202% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -49% em vez dos 40% prometidos (1,22× mais queda).
 
@@ -377,7 +377,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +515% | +171% | +102% | +247% | +114% |
+| Rendeu | +515% | +171% | +102% | +247% | +115% |
 | Pior queda do ano | -20% | -28% | -31% | -23% | -38% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -388,24 +388,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-49%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -49% |
-| Capital no teste | 113× o inicial |
+| Capital no teste | 115× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -26% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>10º · ifr + pullback + rompe + rompimento + tendencia — R\$ 25.151.187 aos 40%</b></summary>
+<summary><b>10º · ifr + pullback + rompe + rompimento + tendencia — R\$ 25.303.010 aos 40%</b></summary>
 
 **Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 368.656 | +29% | -8% | -8% | 144 dias | 74% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 24.758.408 | +196% | -39% | -35% | 157 dias | 71% | 21 → 2000 | 11% |
-| **2%** | 2,00% | R\$ 27.370.512 | +202% | -62% | -59% | 305 dias | 63% | 43 → 2000 | 64% |
+| **dividido** | 0,20% | R\$ 369.359 | +29% | -8% | -8% | 144 dias | 74% | 4 → 18 | 0% |
+| **1%** | 1,00% | R\$ 24.910.216 | +196% | -39% | -35% | 157 dias | 71% | 21 → 2000 | 11% |
+| **2%** | 2,00% | R\$ 27.522.500 | +202% | -62% | -59% | 305 dias | 63% | 43 → 2000 | 64% |
 | **honesto** | **0,86%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,07%** | R\$ 25.151.187 | +197% | -40% (pior ano -40%) | -35% | 157 dias | 71% | 23 → 2000 | 17% |
-| no extremo | 1,44% | R\$ 26.924.865 | +201% | -50% | — | — | — | — | — |
+| **no limite** | **1,07%** | R\$ 25.303.010 | +197% | -40% (pior ano -40%) | -38% | 157 dias | 71% | 23 → 2000 | 17% |
+| no extremo | 1,44% | R\$ 27.076.853 | +201% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -50% em vez dos 40% prometidos (1,24× mais queda).
 
@@ -415,7 +415,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +511% | +209% | +96% | +279% | +91% |
+| Rendeu | +511% | +209% | +96% | +279% | +92% |
 | Pior queda do ano | -22% | -29% | -31% | -26% | -39% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -426,7 +426,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-50%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -50% |
-| Capital no teste | 109× o inicial |
+| Capital no teste | 111× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -24% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
@@ -471,17 +471,17 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 </details>
 
 <details>
-<summary><b>12º · fibo + gps + ifr + pullback + rompimento — R\$ 23.014.281 aos 40%</b></summary>
+<summary><b>12º · fibo + gps + ifr + pullback + rompimento — R\$ 23.165.945 aos 40%</b></summary>
 
 **Setups:** [Pullback no 50% do dia](../setups/fibo-50-do-dia) · [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 361.402 | +29% | -7% | -8% | 117 dias | 77% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 20.073.314 | +184% | -34% | -36% | 129 dias | 74% | 21 → 2000 | 14% |
-| **2%** | 2,00% | R\$ 26.183.147 | +199% | -51% | -61% | 332 dias | 69% | 43 → 2000 | 64% |
+| **dividido** | 0,20% | R\$ 362.105 | +29% | -7% | -9% | 117 dias | 77% | 4 → 18 | 0% |
+| **1%** | 1,00% | R\$ 20.225.446 | +184% | -34% | -38% | 129 dias | 74% | 21 → 2000 | 14% |
+| **2%** | 2,00% | R\$ 26.335.135 | +199% | -51% | -64% | 332 dias | 69% | 43 → 2000 | 64% |
 | **honesto** | **1,25%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,33%** | R\$ 23.014.281 | +192% | -40% (pior ano -40%) | -47% | 174 dias | 73% | 28 → 2000 | 28% |
-| no extremo | 1,79% | R\$ 25.248.094 | +197% | -50% | — | — | — | — | — |
+| **no limite** | **1,33%** | R\$ 23.165.945 | +192% | -40% (pior ano -40%) | -46% | 174 dias | 73% | 28 → 2000 | 28% |
+| no extremo | 1,79% | R\$ 25.400.027 | +197% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -43% em vez dos 40% prometidos (1,07× mais queda).
 
@@ -491,7 +491,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +432% | +228% | +105% | +180% | +108% |
+| Rendeu | +432% | +228% | +105% | +180% | +110% |
 | Pior queda do ano | -29% | -23% | -34% | -26% | -28% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -502,24 +502,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-43%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -43% |
-| Capital no teste | 76× o inicial |
+| Capital no teste | 77× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -26% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>13º · gps + ifr + pullback + rompe + rompimento — R\$ 22.812.298 aos 40%</b></summary>
+<summary><b>13º · gps + ifr + pullback + rompe + rompimento — R\$ 22.964.219 aos 40%</b></summary>
 
 **Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 370.466 | +29% | -7% | -9% | 129 dias | 76% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 20.576.893 | +185% | -33% | -38% | 147 dias | 76% | 21 → 2000 | 15% |
-| **2%** | 2,00% | R\$ 25.676.960 | +198% | -50% | -64% | 158 dias | 68% | 43 → 2000 | 69% |
+| **dividido** | 0,20% | R\$ 371.169 | +29% | -7% | -9% | 129 dias | 76% | 4 → 18 | 0% |
+| **1%** | 1,00% | R\$ 20.728.330 | +186% | -33% | -39% | 147 dias | 76% | 21 → 2000 | 15% |
+| **2%** | 2,00% | R\$ 25.828.948 | +198% | -50% | -64% | 158 dias | 68% | 43 → 2000 | 69% |
 | **honesto** | **1,11%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,27%** | R\$ 22.812.298 | +191% | -40% (pior ano -40%) | -46% | 161 dias | 71% | 27 → 2000 | 28% |
-| no extremo | 1,72% | R\$ 24.044.841 | +194% | -50% | — | — | — | — | — |
+| **no limite** | **1,27%** | R\$ 22.964.219 | +192% | -40% (pior ano -40%) | -46% | 161 dias | 71% | 27 → 2000 | 28% |
+| no extremo | 1,72% | R\$ 24.196.829 | +195% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -46% em vez dos 40% prometidos (1,14× mais queda).
 
@@ -529,7 +529,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +427% | +274% | +97% | +216% | +85% |
+| Rendeu | +427% | +274% | +97% | +216% | +86% |
 | Pior queda do ano | -28% | -25% | -33% | -29% | -29% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -540,24 +540,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-46%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -46% |
-| Capital no teste | 92× o inicial |
+| Capital no teste | 94× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -25% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>14º · gps + ifr + pullback + rompimento — R\$ 22.778.753 aos 40%</b></summary>
+<summary><b>14º · gps + ifr + pullback + rompimento — R\$ 22.930.741 aos 40%</b></summary>
 
 **Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,25% | R\$ 486.258 | +37% | -8% | -11% | 117 dias | 76% | 5 → 28 | 0% |
-| **1%** | 1,00% | R\$ 18.818.676 | +180% | -31% | -36% | 129 dias | 76% | 21 → 2000 | 12% |
-| **2%** | 2,00% | R\$ 25.194.605 | +197% | -49% | -61% | 174 dias | 69% | 43 → 2000 | 65% |
+| **dividido** | 0,25% | R\$ 487.453 | +37% | -8% | -10% | 117 dias | 76% | 5 → 28 | 0% |
+| **1%** | 1,00% | R\$ 18.970.312 | +181% | -31% | -36% | 129 dias | 76% | 21 → 2000 | 12% |
+| **2%** | 2,00% | R\$ 25.346.593 | +197% | -49% | -61% | 174 dias | 69% | 43 → 2000 | 65% |
 | **honesto** | **1,27%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,38%** | R\$ 22.778.753 | +191% | -40% (pior ano -40%) | -49% | 174 dias | 73% | 29 → 2000 | **31%** |
-| no extremo | 1,86% | R\$ 24.683.203 | +196% | -50% | — | — | — | — | — |
+| **no limite** | **1,38%** | R\$ 22.930.741 | +191% | -40% (pior ano -40%) | -49% | 174 dias | 73% | 29 → 2000 | **31%** |
+| no extremo | 1,86% | R\$ 24.835.191 | +196% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -44% em vez dos 40% prometidos (1,09× mais queda).
 
@@ -567,7 +567,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +380% | +235% | +107% | +171% | +119% |
+| Rendeu | +380% | +235% | +107% | +171% | +120% |
 | Pior queda do ano | -27% | -22% | -31% | -26% | -28% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -578,24 +578,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-44%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -44% |
-| Capital no teste | 80× o inicial |
+| Capital no teste | 81× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -27% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>15º · gps + ifr + por + pullback + tendencia — R\$ 22.587.016 aos 40%</b></summary>
+<summary><b>15º · gps + ifr + por + pullback + tendencia — R\$ 22.738.774 aos 40%</b></summary>
 
 **Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 426.552 | +33% | -9% | -10% | 136 dias | 76% | 4 → 16 | 0% |
-| **1%** | 1,00% | R\$ 24.374.007 | +195% | -48% | -42% | 158 dias | 73% | 21 → 2000 | 6% |
-| **2%** | 2,00% | R\$ 24.322.367 | +195% | -65% | -68% | 648 dias | 65% | 43 → 2000 | 71% |
+| **dividido** | 0,20% | R\$ 427.395 | +33% | -9% | -10% | 136 dias | 76% | 4 → 16 | 0% |
+| **1%** | 1,00% | R\$ 24.525.797 | +195% | -48% | -41% | 158 dias | 73% | 21 → 2000 | 6% |
+| **2%** | 2,00% | R\$ 24.474.288 | +195% | -65% | -67% | 648 dias | 65% | 43 → 2000 | 71% |
 | **honesto** | **0,59%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **0,90%** | R\$ 22.587.016 | +191% | -40% (pior ano -40%) | -38% | 158 dias | 73% | 19 → 2000 | 3% |
-| no extremo | 1,20% | R\$ 24.731.396 | +196% | -50% | — | — | — | — | — |
+| **no limite** | **0,90%** | R\$ 22.738.774 | +191% | -40% (pior ano -40%) | -39% | 158 dias | 73% | 19 → 2000 | 3% |
+| no extremo | 1,20% | R\$ 24.883.150 | +196% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -61% em vez dos 40% prometidos (1,52× mais queda).
 
@@ -605,7 +605,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +683% | +284% | +56% | +83% | +214% |
+| Rendeu | +683% | +284% | +56% | +83% | +216% |
 | Pior queda do ano | -26% | -26% | -48% | -36% | -39% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -616,24 +616,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-61%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -61% |
-| Capital no teste | 139× o inicial |
+| Capital no teste | 141× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -35% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>16º · gps + ifr + por + pullback + rompimento — R\$ 22.275.557 aos 40%</b></summary>
+<summary><b>16º · gps + ifr + por + pullback + rompimento — R\$ 22.427.598 aos 40%</b></summary>
 
 **Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pôr do Sol (17h45)](../setups/por-do-sol) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 367.510 | +29% | -7% | -8% | 117 dias | 76% | 4 → 18 | 0% |
-| **1%** | 1,00% | R\$ 20.118.116 | +184% | -29% | -35% | 129 dias | 76% | 21 → 2000 | 12% |
-| **2%** | 2,00% | R\$ 24.248.244 | +195% | -47% | -60% | 176 dias | 69% | 43 → 2000 | 67% |
+| **dividido** | 0,20% | R\$ 368.213 | +29% | -7% | -8% | 117 dias | 76% | 4 → 18 | 0% |
+| **1%** | 1,00% | R\$ 20.269.966 | +184% | -29% | -35% | 129 dias | 76% | 21 → 2000 | 12% |
+| **2%** | 2,00% | R\$ 24.400.232 | +195% | -47% | -60% | 176 dias | 69% | 43 → 2000 | 67% |
 | **honesto** | **1,21%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,38%** | R\$ 22.275.557 | +190% | -40% (pior ano -40%) | -48% | 174 dias | 71% | 29 → 2000 | **33%** |
-| no extremo | 1,85% | R\$ 23.618.104 | +193% | -50% | — | — | — | — | — |
+| **no limite** | **1,38%** | R\$ 22.427.598 | +190% | -40% (pior ano -40%) | -46% | 174 dias | 71% | 29 → 2000 | **33%** |
+| no extremo | 1,85% | R\$ 23.770.092 | +193% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -46% em vez dos 40% prometidos (1,14× mais queda).
 
@@ -643,7 +643,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +422% | +224% | +132% | +153% | +105% |
+| Rendeu | +422% | +224% | +132% | +153% | +107% |
 | Pior queda do ano | -26% | -23% | -29% | -27% | -27% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -654,24 +654,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-46%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -46% |
-| Capital no teste | 123× o inicial |
+| Capital no teste | 125× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -29% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>17º · gps + ifr + macd + pullback + rompe — R\$ 19.481.286 aos 40%</b></summary>
+<summary><b>17º · gps + ifr + macd + pullback + rompe — R\$ 19.631.315 aos 40%</b></summary>
 
 **Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [MACD na Tendência](../setups/macd-na-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 334.277 | +27% | -8% | -10% | 132 dias | 71% | 4 → 14 | 0% |
-| **1%** | 1,00% | R\$ 17.951.405 | +178% | -39% | -40% | 145 dias | 71% | 21 → 2000 | 6% |
-| **2%** | 2,00% | R\$ 24.621.621 | +196% | -62% | -66% | 308 dias | 68% | 43 → 2000 | 59% |
+| **dividido** | 0,20% | R\$ 334.909 | +27% | -8% | -9% | 132 dias | 71% | 4 → 14 | 0% |
+| **1%** | 1,00% | R\$ 18.101.505 | +178% | -39% | -39% | 145 dias | 71% | 21 → 2000 | 6% |
+| **2%** | 2,00% | R\$ 24.773.609 | +196% | -62% | -66% | 308 dias | 68% | 43 → 2000 | 59% |
 | **honesto** | **0,77%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **1,07%** | R\$ 19.481.286 | +182% | -40% (pior ano -40%) | -40% | 147 dias | 68% | 23 → 2000 | 10% |
-| no extremo | 1,43% | R\$ 22.334.770 | +190% | -50% | — | — | — | — | — |
+| **no limite** | **1,07%** | R\$ 19.631.315 | +183% | -40% (pior ano -40%) | -42% | 147 dias | 68% | 23 → 2000 | 10% |
+| no extremo | 1,43% | R\$ 22.486.571 | +190% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -55% em vez dos 40% prometidos (1,38× mais queda).
 
@@ -681,7 +681,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +413% | +252% | +105% | +171% | +114% |
+| Rendeu | +413% | +252% | +105% | +171% | +116% |
 | Pior queda do ano | -23% | -25% | -39% | -35% | -34% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -692,24 +692,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-55%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -55% |
-| Capital no teste | 92× o inicial |
+| Capital no teste | 93× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -29% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>18º · gps + ifr + pullback + tendencia — R\$ 17.699.864 aos 40%</b></summary>
+<summary><b>18º · gps + ifr + pullback + tendencia — R\$ 17.851.123 aos 40%</b></summary>
 
 **Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,25% | R\$ 573.787 | +41% | -13% | -12% | 144 dias | 73% | 5 → 25 | 0% |
-| **1%** | 1,00% | R\$ 23.710.905 | +193% | -50% | -42% | 158 dias | 73% | 21 → 2000 | 6% |
-| **2%** | 2,00% | R\$ 25.518.526 | +198% | -67% | -69% | 647 dias | 65% | 43 → 2000 | 71% |
+| **dividido** | 0,25% | R\$ 575.193 | +41% | -13% | -12% | 144 dias | 73% | 5 → 25 | 0% |
+| **1%** | 1,00% | R\$ 23.862.667 | +194% | -50% | -41% | 158 dias | 73% | 21 → 2000 | 6% |
+| **2%** | 2,00% | R\$ 25.670.514 | +198% | -67% | -67% | 647 dias | 65% | 43 → 2000 | 71% |
 | **honesto** | **0,53%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **0,83%** | R\$ 17.699.864 | +177% | -40% (pior ano -40%) | -39% | 158 dias | 74% | 18 → 2000 | 1% |
-| no extremo | 1,12% | R\$ 24.640.281 | +196% | -50% | — | — | — | — | — |
+| **no limite** | **0,83%** | R\$ 17.851.123 | +177% | -40% (pior ano -40%) | -37% | 158 dias | 74% | 18 → 2000 | 1% |
+| no extremo | 1,12% | R\$ 24.792.101 | +196% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -63% em vez dos 40% prometidos (1,58× mais queda).
 
@@ -719,7 +719,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +623% | +304% | +44% | +96% | +229% |
+| Rendeu | +623% | +304% | +44% | +96% | +231% |
 | Pior queda do ano | -26% | -25% | -50% | -35% | -39% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -730,24 +730,24 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-63%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -63% |
-| Capital no teste | 106× o inicial |
+| Capital no teste | 108× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -35% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
 </details>
 
 <details>
-<summary><b>19º · gps + ifr + pullback + rompe + tendencia — R\$ 17.685.695 aos 40%</b></summary>
+<summary><b>19º · gps + ifr + pullback + rompe + tendencia — R\$ 17.836.582 aos 40%</b></summary>
 
 **Setups:** [GPS de Médias](../setups/gps-de-medias) · [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Média de 200](../setups/rompe-media-200) · [Tendência Forte do Dia](../setups/tendencia-forte-do-dia)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,20% | R\$ 432.225 | +33% | -11% | -10% | 144 dias | 71% | 4 → 16 | 0% |
-| **1%** | 1,00% | R\$ 24.647.068 | +196% | -53% | -44% | 305 dias | 69% | 21 → 2000 | 8% |
-| **2%** | 2,00% | R\$ 27.245.612 | +201% | -66% | -70% | 338 dias | 61% | 43 → 2000 | 75% |
+| **dividido** | 0,20% | R\$ 433.068 | +33% | -11% | -11% | 144 dias | 71% | 4 → 16 | 0% |
+| **1%** | 1,00% | R\$ 24.795.172 | +196% | -53% | -45% | 305 dias | 69% | 21 → 2000 | 8% |
+| **2%** | 2,00% | R\$ 27.397.600 | +202% | -66% | -71% | 338 dias | 61% | 43 → 2000 | 75% |
 | **honesto** | **0,51%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **0,79%** | R\$ 17.685.695 | +177% | -40% (pior ano -40%) | -36% | 158 dias | 69% | 17 → 2000 | 1% |
-| no extremo | 1,06% | R\$ 24.964.655 | +196% | -50% | — | — | — | — | — |
+| **no limite** | **0,79%** | R\$ 17.836.582 | +177% | -40% (pior ano -40%) | -34% | 158 dias | 69% | 17 → 2000 | 1% |
+| no extremo | 1,06% | R\$ 25.116.485 | +197% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -62% em vez dos 40% prometidos (1,55× mais queda).
 
@@ -757,7 +757,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +695% | +343% | +33% | +124% | +182% |
+| Rendeu | +695% | +343% | +33% | +124% | +184% |
 | Pior queda do ano | -28% | -28% | -53% | -39% | -42% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -768,7 +768,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-62%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -62% |
-| Capital no teste | 93× o inicial |
+| Capital no teste | 95× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | -31% |
 | Operações no teto de contratos, no primeiro ano | 0% |
 
@@ -813,17 +813,17 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 </details>
 
 <details>
-<summary><b>21º · ifr + pullback + rompimento — R\$ 20.345.272 aos 40%</b></summary>
+<summary><b>21º · ifr + pullback + rompimento — R\$ 20.497.260 aos 40%</b></summary>
 
 **Setups:** [IFR de Tendência](../setups/ifr-de-tendencia) · [Pullback na Média](../setups/pullback-na-media) · [Rompimento da Bollinger](../setups/rompimento-da-bollinger)
 | Modo | Risco/op | Virou | Por ano | Pior queda | Cauda | Tempo s/ novo topo | Meses + | Contratos | No teto |
 |---|---|---|---|---|---|---|---|---|---|
-| **dividido** | 0,33% | R\$ 403.774 | +32% | -6% | -10% | 89 dias | 79% | 7 → 34 | 0% |
-| **1%** | 1,00% | R\$ 5.896.621 | +123% | -20% | -28% | 89 dias | 79% | 21 → 1097 | 0% |
-| **2%** | 2,00% | R\$ 19.885.314 | +183% | -26% | -48% | 115 dias | 76% | 43 → 2000 | 37% |
+| **dividido** | 0,33% | R\$ 405.166 | +32% | -6% | -9% | 89 dias | 79% | 7 → 34 | 0% |
+| **1%** | 1,00% | R\$ 5.957.812 | +124% | -20% | -26% | 89 dias | 79% | 21 → 1097 | 0% |
+| **2%** | 2,00% | R\$ 20.037.302 | +184% | -26% | -46% | 115 dias | 76% | 43 → 2000 | 37% |
 | **honesto** | **1,71%** | — | — | 40% à frente | — | — | — | — | — |
-| **no limite** | **2,23%** | R\$ 20.345.272 | +185% | -40% (pior ano -40%) | -49% | 142 dias | 77% | 48 → 2000 | **42%** |
-| no extremo | 2,99% | R\$ 21.976.921 | +189% | -50% | — | — | — | — | — |
+| **no limite** | **2,23%** | R\$ 20.497.260 | +185% | -40% (pior ano -40%) | -47% | 142 dias | 77% | 48 → 2000 | **42%** |
+| no extremo | 2,99% | R\$ 22.128.909 | +189% | -50% | — | — | — | — | — |
 
 A linha **no limite** é calibrada com o período inteiro — ela conhece o teste, e ninguém operando em tempo real chegaria nela. Aplicada adiante, entregou -52% em vez dos 40% prometidos (1,31× mais queda).
 
@@ -833,7 +833,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 
 | Ano | 2022 | 2023 | 2024 | 2025 | 2026 |
 |---|---|---|---|---|---|
-| Rendeu | +222% | +76% | +87% | +236% | +64% |
+| Rendeu | +222% | +76% | +87% | +236% | +66% |
 | Pior queda do ano | -11% | -14% | -11% | -12% | -20% |
 
 **O teste honesto** — risco calibrado só no treino, aplicado ao teste sem retoque:
@@ -844,7 +844,7 @@ A linha **honesto** é esse mesmo risco dividido pela degradação desta carteir
 | Queda que ele prometia | -40% |
 | Queda que ele entregou no teste | **-52%** |
 | Pela régua do pior ano, só para comparar | prometia -40% · entregou -52% |
-| Capital no teste | 138× o inicial |
+| Capital no teste | 139× o inicial |
 | Queda no primeiro ano, saindo de R\$ 100.000 | — |
 | Operações no teto de contratos, no primeiro ano | — |
 

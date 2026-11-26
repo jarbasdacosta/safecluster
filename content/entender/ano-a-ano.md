@@ -15,27 +15,27 @@ A tabela do ranking responde quanto cada carteira rendeu **no período inteiro**
 ## As 20 carteiras, ano a ano
 | # | Carteira | 2022 | 2023 | 2024 | 2025 | 2026 | No teto |
 |---|---|---|---|---|---|---|---|
-| **1º** | [donchian + ifr + macd + pullback + rompimento](o-ranking) | +1036% | +176% | +119% | +248% | +69% | **30%** |
-| **2º** | [extremos + ifr + pullback + rompimento + tendencia](o-ranking) | +1198% | +150% | +81% | +169% | +101% | **34%** |
-| **3º** | [donchian + fibo + ifr + pullback + rompimento](o-ranking) | +1437% | +132% | +56% | +264% | +69% | 29% |
-| **4º** | [donchian + ifr + pullback + rompe + rompimento](o-ranking) | +1703% | +160% | +34% | +299% | +49% | **33%** |
-| **5º** | [donchian + ifr + pullback + rompimento](o-ranking) | +1269% | +144% | +60% | +257% | +78% | **30%** |
-| **6º** | [gps + ifr + macd + pullback + rompimento](o-ranking) | +502% | +302% | +140% | +178% | +84% | 24% |
-| **7º** | [donchian + ifr + por + pullback + rompimento](o-ranking) | +1468% | +121% | +74% | +214% | +70% | **32%** |
-| **8º** | [ifr + por + pullback + rompimento + tendencia](o-ranking) | +749% | +193% | +109% | +148% | +99% | 24% |
-| **9º** | [fibo + ifr + pullback + rompimento + tendencia](o-ranking) | +667% | +193% | +94% | +198% | +102% | 19% |
-| **10º** | [ifr + pullback + rompe + rompimento + tendencia](o-ranking) | +588% | +224% | +91% | +252% | +83% | 17% |
+| **1º** | [donchian + ifr + macd + pullback + rompimento](o-ranking) | +1036% | +176% | +119% | +248% | +70% | **30%** |
+| **2º** | [extremos + ifr + pullback + rompimento + tendencia](o-ranking) | +1198% | +150% | +81% | +169% | +102% | **34%** |
+| **3º** | [donchian + fibo + ifr + pullback + rompimento](o-ranking) | +1437% | +132% | +56% | +264% | +70% | 29% |
+| **4º** | [donchian + ifr + pullback + rompe + rompimento](o-ranking) | +1703% | +160% | +34% | +299% | +50% | **33%** |
+| **5º** | [donchian + ifr + pullback + rompimento](o-ranking) | +1269% | +144% | +60% | +257% | +79% | **30%** |
+| **6º** | [gps + ifr + macd + pullback + rompimento](o-ranking) | +502% | +302% | +140% | +178% | +85% | 23% |
+| **7º** | [donchian + ifr + por + pullback + rompimento](o-ranking) | +1468% | +121% | +74% | +214% | +71% | **32%** |
+| **8º** | [ifr + por + pullback + rompimento + tendencia](o-ranking) | +749% | +193% | +109% | +148% | +100% | 24% |
+| **9º** | [fibo + ifr + pullback + rompimento + tendencia](o-ranking) | +667% | +193% | +94% | +198% | +104% | 19% |
+| **10º** | [ifr + pullback + rompe + rompimento + tendencia](o-ranking) | +588% | +224% | +91% | +252% | +84% | 17% |
 | **11º** | [donchian + por + pullback + rompimento + tendencia](o-ranking) | +587% | +159% | +83% | +223% | +145% | 6% |
-| **12º** | [fibo + gps + ifr + pullback + rompimento](o-ranking) | +769% | +275% | +52% | +163% | +87% | 28% |
-| **13º** | [gps + ifr + pullback + rompe + rompimento](o-ranking) | +700% | +334% | +49% | +207% | +64% | 28% |
-| **14º** | [gps + ifr + pullback + rompimento](o-ranking) | +722% | +296% | +49% | +153% | +98% | **31%** |
-| **15º** | [gps + ifr + por + pullback + tendencia](o-ranking) | +540% | +259% | +77% | +96% | +210% | 3% |
-| **16º** | [gps + ifr + por + pullback + rompimento](o-ranking) | +805% | +256% | +65% | +124% | +91% | **33%** |
-| **17º** | [gps + ifr + macd + pullback + rompe](o-ranking) | +481% | +276% | +97% | +170% | +104% | 10% |
-| **18º** | [gps + ifr + pullback + tendencia](o-ranking) | +428% | +243% | +67% | +114% | +205% | 1% |
-| **19º** | [gps + ifr + pullback + rompe + tendencia](o-ranking) | +425% | +256% | +66% | +143% | +171% | 1% |
+| **12º** | [fibo + gps + ifr + pullback + rompimento](o-ranking) | +769% | +275% | +52% | +163% | +89% | 28% |
+| **13º** | [gps + ifr + pullback + rompe + rompimento](o-ranking) | +700% | +334% | +49% | +207% | +65% | 28% |
+| **14º** | [gps + ifr + pullback + rompimento](o-ranking) | +722% | +296% | +49% | +153% | +99% | **31%** |
+| **15º** | [gps + ifr + por + pullback + tendencia](o-ranking) | +540% | +259% | +77% | +96% | +212% | 3% |
+| **16º** | [gps + ifr + por + pullback + rompimento](o-ranking) | +805% | +256% | +65% | +124% | +92% | **33%** |
+| **17º** | [gps + ifr + macd + pullback + rompe](o-ranking) | +481% | +276% | +97% | +170% | +105% | 10% |
+| **18º** | [gps + ifr + pullback + tendencia](o-ranking) | +428% | +243% | +67% | +114% | +208% | 1% |
+| **19º** | [gps + ifr + pullback + rompe + tendencia](o-ranking) | +425% | +256% | +66% | +143% | +174% | 1% |
 | **20º** | [gps + macd + por + pullback + tendencia](o-ranking) | +317% | +237% | +106% | +93% | +190% | 0% |
-| **21º** | [ifr + pullback + rompimento](o-ranking) | +1047% | +133% | +84% | +182% | +46% | **42%** |
+| **21º** | [ifr + pullback + rompimento](o-ranking) | +1047% | +133% | +84% | +182% | +47% | **42%** |
 | — | *CDI (sem operar nada)* | *+12%* | *+13%* | *+11%* | *+14%* | *+13%* | — |
 | — | *Ibovespa comprado e parado (BOVA11)* | *+5%* | *+23%* | *-10%* | *+35%* | *+28%* | — |
 
@@ -64,9 +64,9 @@ Cada bloco abre o calendário completo de uma carteira. A coluna **Ano** é o en
 | **2023** | +26,2% | +2,1% | +8,0% | -11,8% | +24,4% | +20,8% | +8,9% | -4,7% | +1,0% | +7,9% | +27,3% | +3,9% | **+176%** |
 | **2024** | -1,5% | +35,3% | -1,6% | -6,9% | -13,0% | +11,5% | -4,3% | +20,6% | +9,8% | -0,6% | +9,0% | +34,4% | **+119%** |
 | **2025** | +47,0% | +25,0% | +9,8% | -25,9% | +38,0% | +1,2% | +1,5% | +48,6% | -13,5% | +2,4% | +17,3% | +6,4% | **+248%** |
-| **2026** | +18,2% | -2,1% | +8,9% | +12,4% | +3,3% | -7,7% | +14,2% | +9,9% | -2,5% | +5,5% | -3,3% | — | **+69%** |
+| **2026** | +18,2% | -2,1% | +8,9% | +12,4% | +3,3% | -7,7% | +14,2% | +9,9% | -2,5% | +5,5% | -2,8% | — | **+70%** |
 
-Risco por operação: **1,12%** · capital final R\$ 32.495.060 · meses positivos 73% · operações no teto de contratos: **30%**
+Risco por operação: **1,12%** · capital final R\$ 32.647.037 · meses positivos 73% · operações no teto de contratos: **30%**
 
 > [!warning] 30% das operações batem no teto de 2.000 contratos
 > Nos anos em que isso acontece a posição **parou de crescer com o capital**: o resultado do ano fica achatado para baixo e a queda do ano também. Compare com os primeiros anos, em que o capital ainda é pequeno e o teto não prende — é lá que esta carteira mostra o que ela é.
@@ -83,9 +83,9 @@ Risco por operação: **1,12%** · capital final R\$ 32.495.060 · meses positiv
 | **2023** | +51,4% | +0,4% | -2,0% | -3,7% | -0,1% | +39,1% | +16,9% | +6,9% | +1,5% | -5,6% | +21,3% | -13,9% | **+150%** |
 | **2024** | +18,3% | +45,0% | -3,7% | -10,3% | -7,2% | -1,4% | -4,9% | +26,4% | +27,7% | -18,5% | -11,5% | +20,3% | **+81%** |
 | **2025** | +22,7% | +35,1% | +42,8% | -29,7% | +26,8% | -6,7% | -15,7% | +55,8% | -23,2% | -0,7% | +22,4% | +11,2% | **+169%** |
-| **2026** | +29,1% | -11,8% | +19,6% | +25,8% | -0,7% | -1,9% | +11,0% | +13,1% | -5,7% | +6,3% | -4,4% | — | **+101%** |
+| **2026** | +29,1% | -11,8% | +19,6% | +25,8% | -0,7% | -1,9% | +11,0% | +13,1% | -5,7% | +6,3% | -3,9% | — | **+102%** |
 
-Risco por operação: **1,34%** · capital final R\$ 31.645.598 · meses positivos 71% · operações no teto de contratos: **34%**
+Risco por operação: **1,34%** · capital final R\$ 31.797.662 · meses positivos 71% · operações no teto de contratos: **34%**
 
 > [!warning] 34% das operações batem no teto de 2.000 contratos
 > Nos anos em que isso acontece a posição **parou de crescer com o capital**: o resultado do ano fica achatado para baixo e a queda do ano também. Compare com os primeiros anos, em que o capital ainda é pequeno e o teto não prende — é lá que esta carteira mostra o que ela é.
@@ -102,9 +102,9 @@ Risco por operação: **1,34%** · capital final R\$ 31.645.598 · meses positiv
 | **2023** | +24,4% | +3,7% | +2,0% | -8,4% | +20,6% | +22,1% | +5,3% | -3,5% | -0,3% | +2,4% | +27,0% | -0,9% | **+132%** |
 | **2024** | -1,3% | +22,8% | +1,4% | -5,3% | -14,0% | +5,0% | -4,2% | +11,9% | +8,0% | -6,9% | +7,3% | +28,7% | **+56%** |
 | **2025** | +38,4% | +26,0% | +14,9% | -23,2% | +41,0% | 0,0% | +2,9% | +39,6% | -10,5% | +3,8% | +16,4% | +8,0% | **+264%** |
-| **2026** | +12,7% | -4,3% | +5,8% | +16,5% | +1,1% | -4,8% | +12,0% | +7,2% | +1,7% | +10,0% | -1,9% | — | **+69%** |
+| **2026** | +12,7% | -4,3% | +5,8% | +16,5% | +1,1% | -4,8% | +12,0% | +7,2% | +1,7% | +10,0% | -1,4% | — | **+70%** |
 
-Risco por operação: **1,30%** · capital final R\$ 27.955.408 · meses positivos 73% · operações no teto de contratos: **29%**
+Risco por operação: **1,30%** · capital final R\$ 28.107.662 · meses positivos 73% · operações no teto de contratos: **29%**
 
 </details>
 
@@ -117,10 +117,10 @@ Risco por operação: **1,30%** · capital final R\$ 27.955.408 · meses positiv
 | **2022** | +60,6% | -23,4% | +64,5% | +27,8% | -5,4% | +14,1% | -5,7% | +169,8% | +17,8% | +40,9% | +24,1% | +23,1% | **+1703%** |
 | **2023** | +29,3% | +10,9% | -1,9% | -7,6% | +28,3% | +21,2% | +7,8% | -4,5% | -4,6% | +5,7% | +33,6% | -7,2% | **+160%** |
 | **2024** | -3,9% | +14,8% | +12,7% | -8,3% | -15,8% | +3,2% | -4,9% | +10,8% | +13,8% | -16,8% | +3,4% | +31,2% | **+34%** |
-| **2025** | +47,6% | +36,6% | +2,6% | -23,4% | +39,3% | +1,9% | +1,6% | +36,1% | -5,4% | +4,1% | +10,6% | +17,7% | **+299%** |
-| **2026** | +14,5% | -5,8% | -0,6% | +13,6% | -1,3% | -7,3% | +17,1% | +9,4% | -2,8% | +8,8% | -1,6% | — | **+49%** |
+| **2025** | +47,6% | +36,6% | +2,6% | -23,4% | +39,3% | +1,9% | +1,7% | +36,1% | -5,4% | +4,1% | +10,6% | +17,7% | **+299%** |
+| **2026** | +14,5% | -5,8% | -0,6% | +13,6% | -1,3% | -7,3% | +17,1% | +9,4% | -2,8% | +8,8% | -1,0% | — | **+50%** |
 
-Risco por operação: **1,38%** · capital final R\$ 27.623.323 · meses positivos 65% · operações no teto de contratos: **33%**
+Risco por operação: **1,38%** · capital final R\$ 27.775.311 · meses positivos 65% · operações no teto de contratos: **33%**
 
 > [!warning] 33% das operações batem no teto de 2.000 contratos
 > Nos anos em que isso acontece a posição **parou de crescer com o capital**: o resultado do ano fica achatado para baixo e a queda do ano também. Compare com os primeiros anos, em que o capital ainda é pequeno e o teto não prende — é lá que esta carteira mostra o que ela é.
@@ -137,9 +137,9 @@ Risco por operação: **1,38%** · capital final R\$ 27.623.323 · meses positiv
 | **2023** | +25,0% | +3,9% | +0,9% | -6,9% | +24,5% | +21,4% | +2,6% | -4,5% | +0,9% | +4,9% | +25,4% | +1,7% | **+144%** |
 | **2024** | -1,8% | +20,4% | +1,2% | -5,8% | -12,1% | +5,9% | -3,0% | +13,0% | +8,3% | -5,4% | +5,3% | +28,7% | **+60%** |
 | **2025** | +38,1% | +27,2% | +11,5% | -23,3% | +41,5% | +2,3% | +1,8% | +40,3% | -9,0% | +3,6% | +11,9% | +9,1% | **+257%** |
-| **2026** | +12,0% | -3,8% | +5,0% | +17,1% | +2,7% | -5,3% | +14,9% | +10,0% | -0,2% | +10,0% | -0,6% | — | **+78%** |
+| **2026** | +12,0% | -3,8% | +5,0% | +17,1% | +2,7% | -5,3% | +14,9% | +10,0% | -0,2% | +10,0% | -0,1% | — | **+79%** |
 
-Risco por operação: **1,30%** · capital final R\$ 27.419.499 · meses positivos 73% · operações no teto de contratos: **30%**
+Risco por operação: **1,30%** · capital final R\$ 27.571.411 · meses positivos 74% · operações no teto de contratos: **30%**
 
 > [!warning] 30% das operações batem no teto de 2.000 contratos
 > Nos anos em que isso acontece a posição **parou de crescer com o capital**: o resultado do ano fica achatado para baixo e a queda do ano também. Compare com os primeiros anos, em que o capital ainda é pequeno e o teto não prende — é lá que esta carteira mostra o que ela é.
@@ -156,9 +156,9 @@ Risco por operação: **1,30%** · capital final R\$ 27.419.499 · meses positiv
 | **2023** | +37,3% | +16,1% | +15,9% | -2,5% | +17,1% | +5,0% | +28,3% | +15,9% | -6,4% | +16,9% | +16,7% | -4,4% | **+302%** |
 | **2024** | +1,8% | +45,0% | +2,1% | +21,9% | -22,1% | +9,2% | -5,1% | +29,1% | +25,3% | -7,6% | +2,1% | +5,8% | **+140%** |
 | **2025** | +29,4% | +9,1% | +17,0% | -26,7% | +38,4% | +3,8% | +7,0% | +55,3% | -19,2% | +1,9% | +16,4% | +0,4% | **+178%** |
-| **2026** | +31,2% | -3,5% | +2,4% | +23,1% | +4,3% | -9,8% | +16,0% | +8,4% | -1,2% | +4,4% | -5,3% | — | **+84%** |
+| **2026** | +31,2% | -3,5% | +2,4% | +23,1% | +4,3% | -9,8% | +16,0% | +8,4% | -1,2% | +4,4% | -4,8% | — | **+85%** |
 
-Risco por operação: **1,06%** · capital final R\$ 27.207.843 · meses positivos 76% · operações no teto de contratos: **24%**
+Risco por operação: **1,06%** · capital final R\$ 27.359.615 · meses positivos 76% · operações no teto de contratos: **23%**
 
 </details>
 
@@ -172,9 +172,9 @@ Risco por operação: **1,06%** · capital final R\$ 27.207.843 · meses positiv
 | **2023** | +26,4% | +8,2% | +2,3% | -10,2% | +21,4% | +20,9% | +0,2% | -6,7% | -0,4% | +3,8% | +23,1% | +0,5% | **+121%** |
 | **2024** | 0,0% | +23,3% | +1,2% | -6,0% | -10,6% | +7,3% | -1,2% | +13,7% | +6,2% | -4,8% | +4,8% | +30,1% | **+74%** |
 | **2025** | +39,8% | +25,3% | +5,4% | -23,0% | +41,5% | +1,2% | +0,5% | +36,2% | -9,5% | +4,0% | +9,2% | +9,7% | **+214%** |
-| **2026** | +8,2% | -4,2% | +4,1% | +18,0% | +1,4% | -5,4% | +14,8% | +10,1% | -1,6% | +11,6% | +0,3% | — | **+70%** |
+| **2026** | +8,2% | -4,2% | +4,1% | +18,0% | +1,4% | -5,4% | +14,8% | +10,1% | -1,6% | +11,6% | +0,9% | — | **+71%** |
 
-Risco por operação: **1,32%** · capital final R\$ 27.203.985 · meses positivos 74% · operações no teto de contratos: **32%**
+Risco por operação: **1,32%** · capital final R\$ 27.355.834 · meses positivos 74% · operações no teto de contratos: **32%**
 
 > [!warning] 32% das operações batem no teto de 2.000 contratos
 > Nos anos em que isso acontece a posição **parou de crescer com o capital**: o resultado do ano fica achatado para baixo e a queda do ano também. Compare com os primeiros anos, em que o capital ainda é pequeno e o teto não prende — é lá que esta carteira mostra o que ela é.
@@ -191,9 +191,9 @@ Risco por operação: **1,32%** · capital final R\$ 27.203.985 · meses positiv
 | **2023** | +45,6% | +15,0% | +3,7% | -10,5% | -5,1% | +35,3% | +18,9% | +7,9% | +5,1% | +5,8% | +10,5% | -6,6% | **+193%** |
 | **2024** | +17,9% | +36,1% | +0,8% | -9,3% | -10,4% | +3,1% | +0,8% | +14,2% | +25,9% | -10,8% | +0,1% | +19,2% | **+109%** |
 | **2025** | +43,8% | +21,6% | +10,4% | -20,7% | +29,6% | -8,6% | -7,2% | +47,8% | -17,2% | -3,2% | +14,4% | +8,6% | **+148%** |
-| **2026** | +17,2% | -13,0% | +14,3% | +24,0% | -7,1% | -9,6% | +18,0% | +17,0% | +1,9% | +21,5% | -4,0% | — | **+99%** |
+| **2026** | +17,2% | -13,0% | +14,3% | +24,0% | -7,1% | -9,6% | +18,0% | +17,0% | +1,9% | +21,5% | -3,5% | — | **+100%** |
 
-Risco por operação: **1,21%** · capital final R\$ 25.671.100 · meses positivos 69% · operações no teto de contratos: **24%**
+Risco por operação: **1,21%** · capital final R\$ 25.822.936 · meses positivos 69% · operações no teto de contratos: **24%**
 
 </details>
 
@@ -207,9 +207,9 @@ Risco por operação: **1,21%** · capital final R\$ 25.671.100 · meses positiv
 | **2023** | +40,6% | +9,9% | +3,2% | -8,4% | -5,3% | +34,1% | +23,0% | +10,7% | +5,2% | +4,6% | +13,3% | -7,0% | **+193%** |
 | **2024** | +15,7% | +34,1% | +1,7% | -7,4% | -12,5% | +1,6% | -1,6% | +12,3% | +26,6% | -11,2% | +2,7% | +17,4% | **+94%** |
 | **2025** | +40,4% | +22,0% | +20,3% | -20,0% | +28,9% | -8,2% | -3,5% | +53,6% | -18,5% | -4,0% | +22,0% | +7,8% | **+198%** |
-| **2026** | +23,0% | -12,5% | +15,3% | +22,9% | -6,7% | -9,0% | +15,8% | +14,4% | +5,1% | +19,6% | -6,0% | — | **+102%** |
+| **2026** | +23,0% | -12,5% | +15,3% | +22,9% | -6,7% | -9,0% | +15,8% | +14,4% | +5,1% | +19,6% | -5,4% | — | **+104%** |
 
-Risco por operação: **1,13%** · capital final R\$ 25.628.298 · meses positivos 66% · operações no teto de contratos: **19%**
+Risco por operação: **1,13%** · capital final R\$ 25.780.074 · meses positivos 66% · operações no teto de contratos: **19%**
 
 </details>
 
@@ -223,9 +223,9 @@ Risco por operação: **1,13%** · capital final R\$ 25.628.298 · meses positiv
 | **2023** | +40,8% | +15,2% | +0,4% | -6,5% | -0,3% | +31,1% | +24,7% | +10,8% | +2,7% | +8,1% | +17,3% | -9,7% | **+224%** |
 | **2024** | +14,2% | +25,6% | +11,7% | -7,0% | -11,3% | +1,2% | -0,5% | +11,6% | +31,4% | -16,8% | +0,4% | +17,4% | **+91%** |
 | **2025** | +44,0% | +31,2% | +12,0% | -18,7% | +28,1% | -5,9% | -3,5% | +51,4% | -14,4% | -3,0% | +17,1% | +19,5% | **+252%** |
-| **2026** | +25,0% | -13,0% | +9,3% | +20,2% | -9,0% | -11,6% | +21,6% | +16,4% | +0,7% | +18,7% | -6,0% | — | **+83%** |
+| **2026** | +25,0% | -13,0% | +9,3% | +20,2% | -9,0% | -11,6% | +21,6% | +16,4% | +0,7% | +18,7% | -5,4% | — | **+84%** |
 
-Risco por operação: **1,07%** · capital final R\$ 25.151.187 · meses positivos 71% · operações no teto de contratos: **17%**
+Risco por operação: **1,07%** · capital final R\$ 25.303.010 · meses positivos 71% · operações no teto de contratos: **17%**
 
 </details>
 
@@ -255,9 +255,9 @@ Risco por operação: **0,93%** · capital final R\$ 24.762.571 · meses positiv
 | **2023** | +41,5% | +22,4% | +11,9% | +2,3% | +13,0% | +3,7% | +29,7% | +21,7% | -10,7% | +12,8% | +14,4% | -11,3% | **+275%** |
 | **2024** | +1,8% | +35,3% | +4,5% | +28,5% | -28,0% | +1,0% | -7,3% | +20,5% | +26,0% | -16,4% | -1,3% | -2,9% | **+52%** |
 | **2025** | +20,1% | +6,4% | +23,3% | -26,1% | +42,9% | +2,2% | +8,9% | +46,2% | -16,7% | +3,1% | +13,5% | -0,5% | **+163%** |
-| **2026** | +27,2% | -6,6% | -2,2% | +30,4% | +2,0% | -7,0% | +13,6% | +5,1% | +3,9% | +8,8% | -3,5% | — | **+87%** |
+| **2026** | +27,2% | -6,6% | -2,2% | +30,4% | +2,0% | -7,0% | +13,6% | +5,1% | +3,9% | +8,8% | -2,8% | — | **+89%** |
 
-Risco por operação: **1,33%** · capital final R\$ 23.014.281 · meses positivos 73% · operações no teto de contratos: **28%**
+Risco por operação: **1,33%** · capital final R\$ 23.165.945 · meses positivos 73% · operações no teto de contratos: **28%**
 
 </details>
 
@@ -271,9 +271,9 @@ Risco por operação: **1,33%** · capital final R\$ 23.014.281 · meses positiv
 | **2023** | +43,1% | +29,4% | +8,3% | +4,4% | +19,4% | +3,1% | +32,4% | +21,6% | -12,4% | +17,0% | +19,6% | -14,5% | **+334%** |
 | **2024** | +1,2% | +26,1% | +16,3% | +26,6% | -26,6% | +0,3% | -6,0% | +19,5% | +32,0% | -23,1% | -4,0% | -1,7% | **+49%** |
 | **2025** | +25,7% | +16,4% | +11,4% | -24,9% | +40,6% | +4,2% | +7,4% | +44,8% | -11,4% | +3,5% | +8,1% | +11,0% | **+207%** |
-| **2026** | +28,1% | -7,6% | -7,0% | +25,9% | -0,9% | -9,7% | +19,4% | +7,3% | -1,2% | +7,7% | -3,3% | — | **+64%** |
+| **2026** | +28,1% | -7,6% | -7,0% | +25,9% | -0,9% | -9,7% | +19,4% | +7,3% | -1,2% | +7,7% | -2,7% | — | **+65%** |
 
-Risco por operação: **1,27%** · capital final R\$ 22.812.298 · meses positivos 71% · operações no teto de contratos: **28%**
+Risco por operação: **1,27%** · capital final R\$ 22.964.219 · meses positivos 71% · operações no teto de contratos: **28%**
 
 </details>
 
@@ -287,9 +287,9 @@ Risco por operação: **1,27%** · capital final R\$ 22.812.298 · meses positiv
 | **2023** | +43,5% | +23,3% | +10,7% | +4,0% | +16,9% | +2,8% | +26,8% | +20,7% | -10,2% | +15,8% | +12,8% | -9,8% | **+296%** |
 | **2024** | +0,7% | +33,2% | +3,7% | +28,0% | -27,4% | +1,5% | -6,7% | +21,7% | +26,9% | -15,6% | -3,6% | -3,2% | **+49%** |
 | **2025** | +19,9% | +6,6% | +19,7% | -26,6% | +43,6% | +5,1% | +7,9% | +46,2% | -15,4% | +2,8% | +8,9% | -0,1% | **+153%** |
-| **2026** | +27,0% | -6,2% | -3,8% | +32,0% | +3,8% | -7,6% | +16,5% | +7,7% | +2,1% | +8,8% | -2,2% | — | **+98%** |
+| **2026** | +27,0% | -6,2% | -3,8% | +32,0% | +3,8% | -7,6% | +16,5% | +7,7% | +2,1% | +8,8% | -1,6% | — | **+99%** |
 
-Risco por operação: **1,38%** · capital final R\$ 22.778.753 · meses positivos 73% · operações no teto de contratos: **31%**
+Risco por operação: **1,38%** · capital final R\$ 22.930.741 · meses positivos 73% · operações no teto de contratos: **31%**
 
 > [!warning] 31% das operações batem no teto de 2.000 contratos
 > Nos anos em que isso acontece a posição **parou de crescer com o capital**: o resultado do ano fica achatado para baixo e a queda do ano também. Compare com os primeiros anos, em que o capital ainda é pequeno e o teto não prende — é lá que esta carteira mostra o que ela é.
@@ -306,9 +306,9 @@ Risco por operação: **1,38%** · capital final R\$ 22.778.753 · meses positiv
 | **2023** | +34,3% | +27,3% | +14,2% | +1,5% | +7,4% | +7,9% | +20,8% | +19,4% | -12,6% | +11,6% | +11,0% | +0,1% | **+259%** |
 | **2024** | +4,6% | +43,5% | +10,7% | +3,4% | -16,5% | +2,9% | -3,1% | +15,8% | +24,2% | -16,6% | -3,8% | +7,3% | **+77%** |
 | **2025** | +33,0% | +10,0% | +12,8% | -21,9% | +32,9% | -3,4% | +1,2% | +32,0% | -20,6% | -7,8% | +13,9% | +6,6% | **+96%** |
-| **2026** | +35,3% | -9,0% | +7,9% | +23,0% | +1,1% | -7,9% | +39,0% | +14,9% | +2,7% | +27,5% | -2,7% | — | **+210%** |
+| **2026** | +35,3% | -9,0% | +7,9% | +23,0% | +1,1% | -7,9% | +39,0% | +14,9% | +2,7% | +27,5% | -2,1% | — | **+212%** |
 
-Risco por operação: **0,90%** · capital final R\$ 22.587.016 · meses positivos 73% · operações no teto de contratos: **3%**
+Risco por operação: **0,90%** · capital final R\$ 22.738.774 · meses positivos 73% · operações no teto de contratos: **3%**
 
 </details>
 
@@ -322,9 +322,9 @@ Risco por operação: **0,90%** · capital final R\$ 22.587.016 · meses positiv
 | **2023** | +45,0% | +28,7% | +12,4% | +0,3% | +13,6% | +2,3% | +24,0% | +17,9% | -11,5% | +14,2% | +10,3% | -10,7% | **+256%** |
 | **2024** | +3,0% | +35,7% | +4,2% | +28,0% | -25,9% | +2,7% | -4,9% | +21,6% | +24,1% | -13,8% | -3,8% | -2,6% | **+65%** |
 | **2025** | +22,1% | +6,1% | +12,4% | -26,3% | +44,3% | +3,2% | +5,7% | +42,7% | -15,9% | +3,4% | +6,1% | +0,9% | **+124%** |
-| **2026** | +22,0% | -6,6% | -4,8% | +34,3% | +2,4% | -7,9% | +16,8% | +8,0% | +0,5% | +10,8% | -1,2% | — | **+91%** |
+| **2026** | +22,0% | -6,6% | -4,8% | +34,3% | +2,4% | -7,9% | +16,8% | +8,0% | +0,5% | +10,8% | -0,5% | — | **+92%** |
 
-Risco por operação: **1,38%** · capital final R\$ 22.275.557 · meses positivos 71% · operações no teto de contratos: **33%**
+Risco por operação: **1,38%** · capital final R\$ 22.427.598 · meses positivos 71% · operações no teto de contratos: **33%**
 
 > [!warning] 33% das operações batem no teto de 2.000 contratos
 > Nos anos em que isso acontece a posição **parou de crescer com o capital**: o resultado do ano fica achatado para baixo e a queda do ano também. Compare com os primeiros anos, em que o capital ainda é pequeno e o teto não prende — é lá que esta carteira mostra o que ela é.
@@ -341,9 +341,9 @@ Risco por operação: **1,38%** · capital final R\$ 22.275.557 · meses positiv
 | **2023** | +25,6% | +20,3% | +15,7% | +2,1% | +22,6% | -6,0% | +31,0% | +20,7% | -16,9% | +20,7% | +21,1% | -4,8% | **+276%** |
 | **2024** | -6,0% | +38,9% | +17,9% | +20,0% | -22,7% | +8,4% | -4,5% | +19,8% | +29,3% | -17,6% | -0,4% | +5,0% | **+97%** |
 | **2025** | +31,3% | +17,8% | +2,5% | -22,4% | +31,4% | +5,5% | +7,3% | +45,1% | -19,9% | -1,3% | +14,7% | +12,2% | **+170%** |
-| **2026** | +40,5% | -5,2% | -1,9% | +18,9% | +5,2% | -12,5% | +30,9% | +9,6% | -2,5% | +10,2% | -7,5% | — | **+104%** |
+| **2026** | +40,5% | -5,2% | -1,9% | +18,9% | +5,2% | -12,5% | +30,9% | +9,6% | -2,5% | +10,2% | -6,8% | — | **+105%** |
 
-Risco por operação: **1,07%** · capital final R\$ 19.481.286 · meses positivos 68% · operações no teto de contratos: **10%**
+Risco por operação: **1,07%** · capital final R\$ 19.631.315 · meses positivos 68% · operações no teto de contratos: **10%**
 
 </details>
 
@@ -357,9 +357,9 @@ Risco por operação: **1,07%** · capital final R\$ 19.481.286 · meses positiv
 | **2023** | +30,5% | +21,7% | +11,8% | +3,4% | +8,3% | +7,2% | +20,5% | +19,2% | -11,0% | +11,5% | +11,8% | +1,0% | **+243%** |
 | **2024** | +3,0% | +38,0% | +10,3% | +3,9% | -16,0% | +2,3% | -3,7% | +14,4% | +24,3% | -15,4% | -3,1% | +6,3% | **+67%** |
 | **2025** | +29,3% | +9,8% | +15,3% | -20,1% | +29,9% | -1,4% | +3,1% | +31,0% | -17,6% | -6,8% | +15,9% | +6,0% | **+114%** |
-| **2026** | +36,6% | -8,1% | +8,2% | +21,0% | +3,2% | -6,5% | +37,7% | +13,3% | +4,3% | +24,6% | -5,2% | — | **+205%** |
+| **2026** | +36,6% | -8,1% | +8,2% | +21,0% | +3,2% | -6,5% | +37,7% | +13,3% | +4,3% | +24,6% | -4,3% | — | **+208%** |
 
-Risco por operação: **0,83%** · capital final R\$ 17.699.864 · meses positivos 74% · operações no teto de contratos: **1%**
+Risco por operação: **0,83%** · capital final R\$ 17.851.123 · meses positivos 74% · operações no teto de contratos: **1%**
 
 </details>
 
@@ -373,9 +373,9 @@ Risco por operação: **0,83%** · capital final R\$ 17.699.864 · meses positiv
 | **2023** | +30,4% | +25,1% | +9,9% | +3,5% | +9,8% | +6,9% | +23,7% | +19,4% | -12,4% | +12,2% | +15,7% | -2,9% | **+256%** |
 | **2024** | +3,0% | +32,6% | +18,2% | +4,3% | -15,9% | +1,5% | -3,3% | +13,2% | +27,4% | -19,7% | -3,3% | +6,6% | **+66%** |
 | **2025** | +32,0% | +16,0% | +11,3% | -19,0% | +28,6% | -1,6% | +3,1% | +29,1% | -14,5% | -5,7% | +15,0% | +12,8% | **+143%** |
-| **2026** | +39,9% | -8,8% | +5,1% | +18,8% | +0,4% | -7,6% | +38,4% | +12,6% | +2,4% | +22,5% | -6,1% | — | **+171%** |
+| **2026** | +39,9% | -8,8% | +5,1% | +18,8% | +0,4% | -7,6% | +38,4% | +12,6% | +2,4% | +22,5% | -5,3% | — | **+174%** |
 
-Risco por operação: **0,79%** · capital final R\$ 17.685.695 · meses positivos 69% · operações no teto de contratos: **1%**
+Risco por operação: **0,79%** · capital final R\$ 17.836.582 · meses positivos 69% · operações no teto de contratos: **1%**
 
 </details>
 
@@ -405,9 +405,9 @@ Risco por operação: **0,91%** · capital final R\$ 16.009.996 · meses positiv
 | **2023** | +36,1% | -4,0% | -6,1% | -7,6% | +4,0% | +21,3% | +21,4% | +8,2% | +10,8% | +14,1% | +14,2% | -14,0% | **+133%** |
 | **2024** | +7,5% | +14,0% | -0,8% | +17,0% | -18,7% | +7,2% | +5,4% | +7,4% | +29,5% | -7,3% | +2,0% | +7,0% | **+84%** |
 | **2025** | +20,5% | +22,8% | +2,2% | -11,7% | +26,2% | +6,8% | +2,3% | +36,6% | -8,4% | +6,8% | +6,4% | +7,4% | **+182%** |
-| **2026** | +8,0% | -5,5% | +3,2% | +19,0% | 0,0% | -5,5% | +5,1% | +9,9% | +2,3% | +8,3% | -3,9% | — | **+46%** |
+| **2026** | +8,0% | -5,5% | +3,2% | +19,0% | 0,0% | -5,5% | +5,1% | +9,9% | +2,3% | +8,3% | -3,2% | — | **+47%** |
 
-Risco por operação: **2,23%** · capital final R\$ 20.345.272 · meses positivos 77% · operações no teto de contratos: **42%**
+Risco por operação: **2,23%** · capital final R\$ 20.497.260 · meses positivos 77% · operações no teto de contratos: **42%**
 
 > [!warning] 42% das operações batem no teto de 2.000 contratos
 > Nos anos em que isso acontece a posição **parou de crescer com o capital**: o resultado do ano fica achatado para baixo e a queda do ano também. Compare com os primeiros anos, em que o capital ainda é pequeno e o teto não prende — é lá que esta carteira mostra o que ela é.

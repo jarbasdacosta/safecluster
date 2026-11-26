@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · 10h–11h e 14h–16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "criei um GPS BRUTAL de médias"](https://youtu.be/g0FJNSNubW8) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 25/11/2026 21:12 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "criei um GPS BRUTAL de médias"](https://youtu.be/g0FJNSNubW8) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 25/11/2026 21:48 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 684.372** arriscando **1% do capital** por operação (+46% ao ano · pior queda −25% · cauda −42%)
@@ -56,7 +56,7 @@ tags: [setup, win]
 | **alvo 1.000** | stop 300 · alvo 1.000 pts | 31% · 2,33 | +15,8 → +9,3 | +18,2% | −12,0% |
 | **alvo 2.500, stop 200** | stop 200 · alvo 2.500 pts | 22% · 4,19 | +44,2 → +15,5 | +27,9% | −14,1% |
 | **com break even a 300 pts** | stop 300 · alvo 1.800 pts | 24% · 3,78 | +26,9 → +31,9 | +27,9% | −8,7% |
-| **o dia todo (9h–17h)** | stop 300 · alvo 1.800 pts | 27% · 2,85 | +12,7 → +3,0 | +16,0% | −20,8% |
+| **o dia todo (9h–17h)** | stop 300 · alvo 1.800 pts | 27% · 2,85 | +12,7 → +2,7 | +15,8% | −20,8% |
 
 ## Estatísticas da operação (1 contrato, em pontos)
 
@@ -161,7 +161,7 @@ Cada operação já desconta **15 pontos de custo** (corretagem, emolumentos e e
 
 | | Treino | Teste | Total |
 |---|---|---|---|
-| Operações | 930 | 1.334 | 2.264 |
+| Operações | 930 | 1.335 | 2.265 |
 | Operações por mês | 34,4 | 38,1 | 36,5 |
 | Taxa de acerto | 28,3% | 25,4% | 26,6% |
 | Bateram o alvo / o stop / zeraram no fim do dia | 5% / 68% / 27% | 6% / 71% / 22% | 6% / 70% / 24% |
@@ -169,12 +169,12 @@ Cada operação já desconta **15 pontos de custo** (corretagem, emolumentos e e
 | Ganho médio · perda média | +822 · −307 pts | +909 · −306 pts | +871 · −306 pts |
 | Payoff (ganho médio ÷ perda média) | 2,68 | 2,97 | 2,85 |
 | Fator de lucro (total ganho ÷ total perdido) | 1,06 | 1,01 | 1,03 |
-| Resultado médio por operação | +12,7 pts (+27,7 sem custo) | +3,0 pts (+18,0 sem custo) | +6,9 pts (+21,9 sem custo) |
-| **Lucro líquido** | **+11.785 pts · R\$ 2.357** | **+3.940 pts · R\$ 788** | **+15.725 pts · R\$ 3.145** |
-| Pior queda (drawdown) | −12.130 pts · −R\$ 2.426 | −13.885 pts · −R\$ 2.777 | −13.885 pts · −R\$ 2.777 |
+| Resultado médio por operação | +12,7 pts (+27,7 sem custo) | +2,7 pts (+17,7 sem custo) | +6,8 pts (+21,8 sem custo) |
+| **Lucro líquido** | **+11.785 pts · R\$ 2.357** | **+3.555 pts · R\$ 711** | **+15.340 pts · R\$ 3.068** |
+| Pior queda (drawdown) | −12.130 pts · −R\$ 2.426 | −13.955 pts · −R\$ 2.791 | −13.955 pts · −R\$ 2.791 |
 | Maior sequência de perdas | 17 seguidas | 19 seguidas | 19 seguidas |
 | Compras: acerto · lucro | 30% · +12.590 pts | 28% · +20.835 pts | 29% · +33.425 pts |
-| Vendas: acerto · lucro | 26% · −805 pts | 23% · −16.895 pts | 24% · −17.700 pts |
+| Vendas: acerto · lucro | 26% · −805 pts | 23% · −17.280 pts | 24% · −18.085 pts |
 
 ![Pontos acumulados com 1 contrato](setups/img/gps-de-medias_pontos.png)
 
@@ -200,7 +200,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 | **alvo 1.000** | **R\$ 23.140** · +18,2% | −12,0% | 16,4% · 0,37 | 51% · 48% | −4,1% · +12,0% |
 | **alvo 2.500, stop 200** | **R\$ 34.319** · +27,9% | −14,1% | 17,8% · 0,79 | 54% · 52% | −4,8% · +10,8% |
 | **com break even a 300 pts** | **R\$ 34.373** · +27,9% | −8,7% | 18,0% · 0,79 | 59% · 61% | −3,8% · +10,4% |
-| **o dia todo (9h–17h)** | **R\$ 21.014** · +16,0% | −20,8% | 26,7% · 0,23 | 49% · 44% | −9,4% · +17,3% |
+| **o dia todo (9h–17h)** | **R\$ 20.855** · +15,8% | −20,8% | 26,7% · 0,23 | 49% · 44% | −9,4% · +17,3% |
 | **risco 1%** | **R\$ 128.676** · +66,4% | −23,3% | 40,9% · 1,15 | 66% · 64% | −11,4% · +26,2% |
 | **pura** | **R\$ 26.047** · +21,0% | −16,5% | 19,5% · 0,46 | 57% · 51% | −7,9% · +11,3% |
 | **CDI** | **R\$ 18.304** · +12,8% | 0,0% | 0,1% · — | — · 46% | +0,6% · +1,3% |
@@ -217,7 +217,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 | **alvo 1.000** | +0,3% | +7,3% | +36,8% | +15,2% | +29,6% | +5,4% | **+131,4%** (+18,2% · R\$ 23.140) |
 | **alvo 2.500, stop 200** | −5,0% | +33,7% | +56,5% | +16,5% | +16,2% | +27,6% | **+243,2%** (+27,9% · R\$ 34.319) |
 | **com break even a 300 pts** | −1,3% | +29,9% | +26,4% | +24,5% | +32,3% | +28,8% | **+243,7%** (+27,9% · R\$ 34.373) |
-| **o dia todo (9h–17h)** | −12,1% | +17,0% | +48,0% | +14,2% | +2,3% | +18,1% | **+110,1%** (+16,0% · R\$ 21.014) |
+| **o dia todo (9h–17h)** | −12,1% | +17,0% | +48,0% | +14,2% | +2,2% | +17,4% | **+108,5%** (+15,8% · R\$ 20.855) |
 | **risco 1%** | −4,2% | +68,9% | +118,4% | +46,2% | +29,3% | +92,6% | **+1186,8%** (+66,4% · R\$ 128.676) |
 | **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,5% | **+83,0%** (+12,8% · R\$ 18.304) |
 | **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +3,5% | **+57,9%** (+9,5% · R\$ 15.792) |

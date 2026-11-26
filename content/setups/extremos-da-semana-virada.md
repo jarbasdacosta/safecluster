@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · ordens válidas até as 15h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "STOP?! Virada de mão! payoff alto no mini índice"](https://youtu.be/p20GbzQCJlc) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 25/11/2026 21:12 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "STOP?! Virada de mão! payoff alto no mini índice"](https://youtu.be/p20GbzQCJlc) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 25/11/2026 21:48 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 206.631** arriscando **1% do capital** por operação (+15% ao ano · pior queda −23% · cauda −26%)

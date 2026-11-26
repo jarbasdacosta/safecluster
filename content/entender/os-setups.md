@@ -43,8 +43,8 @@ Arriscando **1% do capital por operação**, partindo de R\$ 100.000. Clique no 
 | [Donchian com Médias](../setups/donchian-com-medias) | 262 | 20% | 5,35 | 0,21 | R\$ 1.101.824 | +60% | -26% | -39% |
 | [Tendência Forte do Dia](../setups/tendencia-forte-do-dia) | 348 | 35% | 2,30 | 0,13 | R\$ 772.629 | +50% | -26% | -35% |
 | [GPS de Médias](../setups/gps-de-medias) | 245 | 23% | 4,18 | 0,19 | R\$ 684.372 | +46% | -25% | -42% |
-| [IFR de Tendência](../setups/ifr-de-tendencia) | 155 | 32% | 2,93 | 0,26 | R\$ 640.919 | +44% | -12% | -25% |
-| [ADX da Manhã](../setups/adx-da-manha) | 358 | 18% | 5,20 | 0,13 | R\$ 561.403 | +40% | -35% | -53% |
+| [IFR de Tendência](../setups/ifr-de-tendencia) | 154 | 32% | 2,93 | 0,26 | R\$ 647.305 | +44% | -12% | -24% |
+| [ADX da Manhã](../setups/adx-da-manha) | 357 | 18% | 5,20 | 0,13 | R\$ 567.605 | +41% | -35% | -53% |
 | [Rompimento da Bollinger](../setups/rompimento-da-bollinger) | 51 | 37% | 3,40 | 0,59 | R\$ 423.208 | +33% | -9% | -15% |
 | [Primeira Vela de 80 Minutos](../setups/primeira-vela-80-min) ⚠️ | 94 | 21% | 5,46 | 0,29 | R\$ 356.298 | +28% | -18% | -26% |
 | [Explosão da Bollinger](../setups/explosao-da-bollinger) | 239 | 26% | 3,29 | 0,12 | R\$ 301.611 | +24% | -37% | -42% |
@@ -92,7 +92,7 @@ Esta tabela não é sobre quanto cada setup rende. É sobre **se a promessa de r
 | [Rompimento da Média de 200](../setups/rompe-media-200) | -31% | -29% | **-2 pontos** | neutro |
 | [IFR de Tendência](../setups/ifr-de-tendencia) | -31% | -30% | **-1 pontos** | neutro |
 | [Pullback na Média](../setups/pullback-na-media) | -30% | -30% | **-1 pontos** | neutro |
-| [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) | -31% | -30% | **-1 pontos** | neutro |
+| [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) | -30% | -30% | **-0 pontos** | neutro |
 | [Rompimento da Bollinger](../setups/rompimento-da-bollinger) | -30% | -30% | **+0 pontos** | neutro |
 | [Pullback no 50% do dia](../setups/fibo-50-do-dia) | -29% | -31% | **+1 pontos** | neutro |
 | [Vai na Onda](../setups/vai-na-onda) | -27% | -31% | **+3 pontos** | entrega |

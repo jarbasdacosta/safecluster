@@ -53,7 +53,7 @@ Isto está medido, e o número é feio:
 A correção é direta: **calibre para 34% se quer viver 40%.** Mas note que esse fator de 1,19× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
 
 ## 6. Os números grandes não são expectativa
-A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 32.495.060 em 5,1 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
+A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 32.647.037 em 5,1 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
 
 O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,19× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
 

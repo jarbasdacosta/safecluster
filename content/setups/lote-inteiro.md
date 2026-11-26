@@ -4,7 +4,7 @@ date: 2026-11-25
 description: "A curva de capital com contratos inteiros e teto de liquidez, ao lado da fracionária que os outros gráficos usam"
 ---
 
-*Carteira operada (ifr, pullback, rompimento) · 1351 operações de 26/10/2021 a 25/11/2026 · risco de 2,23% por operação · capital inicial R\$ 100.000*
+*Carteira operada (ifr, pullback, rompimento) · 1350 operações de 26/10/2021 a 25/11/2026 · risco de 2,23% por operação · capital inicial R\$ 100.000*
 
 Os gráficos de capital deste site usam **contratos fracionários**. É a régua certa para calibrar risco, e tem uma propriedade que convém saber: **ela nunca zera**. Sempre sobra uma fração de contrato para arriscar. A conta que você executaria não tem essa saída — ou são 3 contratos, ou são 4, e abaixo de 1 não existe.
 
@@ -16,10 +16,10 @@ Esta página mostra as duas no mesmo eixo.
 
 | | lote inteiro | fracionário |
 |---|---:|---:|
-| Capital final | **R\$ 20.344.948** | R\$ 507.858.679 |
-| Quantas vezes maior | — | **25,0x** |
+| Capital final | **R\$ 20.496.988** | R\$ 519.442.810 |
+| Quantas vezes maior | — | **25,3x** |
 | Chegou a zerar | não | impossível por construção |
-| Operações no teto de 2.000 contratos | **574 de 1.351 (42%)** | sem teto |
+| Operações no teto de 2.000 contratos | **573 de 1.350 (42%)** | sem teto |
 
 ## O que isso quer dizer na prática
 

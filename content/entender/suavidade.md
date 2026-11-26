@@ -17,7 +17,7 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 32.495.060 | +212% |
+| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 32.647.037 | +212% |
 | gps + macd + por + pullback + tendencia | **0,91%** | R\$ 16.009.996 | +172% |
 
 Mesma dor exata — as duas caem 40% — e a primeira termina com **2,0 vezes mais dinheiro**.
@@ -38,14 +38,14 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 30.896.414 | 1º | R\$ 32.495.060 |
-| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 27.821.220 | 2º | R\$ 31.645.598 |
-| 3º | gps + ifr + macd + pullback + rompimento | R\$ 26.603.274 | 6º | R\$ 27.207.843 |
-| 4º | donchian + por + pullback + rompimento + tendencia | R\$ 25.502.895 | 11º | R\$ 24.762.571 |
-| 5º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.361.129 | 4º | R\$ 27.623.323 |
-| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 24.797.951 | 3º | R\$ 27.955.408 |
+| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 31.048.402 | 1º | R\$ 32.647.037 |
+| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 27.973.043 | 2º | R\$ 31.797.662 |
+| 3º | gps + ifr + macd + pullback + rompimento | R\$ 26.755.109 | 6º | R\$ 27.359.615 |
+| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.512.959 | 4º | R\$ 27.775.311 |
+| 5º | donchian + por + pullback + rompimento + tendencia | R\$ 25.502.895 | 11º | R\$ 24.762.571 |
+| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 24.949.761 | 3º | R\$ 28.107.662 |
 
-4 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
+3 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 
 ## Como você usa isso na prática
 Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 40%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.
