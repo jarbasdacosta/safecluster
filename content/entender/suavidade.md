@@ -1,6 +1,6 @@
 ---
 title: 4 · Por que a carteira mais lisa rende mais
-date: 2026-11-25
+date: 2026-11-26
 description: "A ideia central do método, em um exemplo"
 tags: [entender]
 ---
@@ -17,12 +17,12 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 32.647.037 | +212% |
-| gps + macd + por + pullback + tendencia | **0,91%** | R\$ 16.009.996 | +172% |
+| extremos + ifr + pullback + rompimento + tendencia | **1,34%** | R\$ 33.483.996 | +214% |
+| fibo + ifr + pullback + rompe + tendencia | **1,15%** | R\$ 20.573.372 | +185% |
 
-Mesma dor exata — as duas caem 40% — e a primeira termina com **2,0 vezes mais dinheiro**.
+Mesma dor exata — as duas caem 40% — e a primeira termina com **1,6 vezes mais dinheiro**.
 
-A explicação está na coluna do meio: a primeira **suporta 1,2 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
+Nesta rodada as duas suportam risco parecido (1,34% e 1,15%), então a diferença de resultado vem mais da qualidade das operações que da suavidade. O mecanismo descrito abaixo continua valendo, mas neste conjunto de carteiras ele está menos visível.
 
 > [!note] Por que uma suporta mais que a outra
 > Porque a pior queda não vem do tamanho da aposta sozinho — vem do tamanho da aposta **multiplicado pelo quanto a carteira tropeça**. Uma carteira cujos erros vêm espalhados pode apostar alto e ainda assim nunca acumular uma sequência funda. Uma cujos erros vêm agrupados chega na mesma queda apostando muito menos.
@@ -38,19 +38,19 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 31.048.402 | 1º | R\$ 32.647.037 |
-| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 27.973.043 | 2º | R\$ 31.797.662 |
-| 3º | gps + ifr + macd + pullback + rompimento | R\$ 26.755.109 | 6º | R\$ 27.359.615 |
-| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.512.959 | 4º | R\$ 27.775.311 |
-| 5º | donchian + por + pullback + rompimento + tendencia | R\$ 25.502.895 | 11º | R\$ 24.762.571 |
-| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 24.949.761 | 3º | R\$ 28.107.662 |
+| 1º | extremos + ifr + pullback + rompimento + tendencia | R\$ 29.659.377 | 1º | R\$ 33.483.996 |
+| 2º | fibo + ifr + macd + rompimento + tendencia | R\$ 28.768.372 | 9º | R\$ 26.641.518 |
+| 3º | ifr + macd + rompe + rompimento + tendencia | R\$ 28.599.910 | 10º | R\$ 25.535.402 |
+| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 28.120.784 | 2º | R\$ 30.383.136 |
+| 5º | gps + ifr + pullback + rompe + tendencia | R\$ 27.906.403 | 19º | R\$ 20.803.605 |
+| 6º | ifr + pullback + rompe + rompimento + tendencia | R\$ 27.116.406 | 7º | R\$ 27.509.201 |
 
-3 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
+5 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 
 ## Como você usa isso na prática
 Cada carteira do [ranking](o-ranking) traz a linha **no limite**: o risco por operação que põe aquela carteira na sua tolerância de 40%, e quanto ela rende assim. Em vez de escolher 1% ou 2% no escuro e descobrir depois quanto dói, você parte da dor que aceita e lê o risco que corresponde.
 
-Com um aviso importante, que a etapa [10 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 40% entregou 48% quando testado de verdade — então **calibra-se para 34% para viver 40%**.
+Com um aviso importante, que a etapa [10 · O que pode dar errado](limites) detalha: esse número foi calibrado no passado, e o passado foi mais gentil que o futuro. Calibrar para 40% entregou 49% quando testado de verdade — então **calibra-se para 33% para viver 40%**.
 
 ---
 

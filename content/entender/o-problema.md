@@ -1,6 +1,6 @@
 ---
 title: 1 · O problema
-date: 2026-11-25
+date: 2026-11-26
 description: "O que incomoda em operar um setup sozinho"
 tags: [entender]
 ---
@@ -14,15 +14,15 @@ Vamos supor que você encontrou um que funciona. Ele ganha dinheiro ao longo de 
 
 | Setup | Virou | Por ano |
 |---|---|---|
-| [Donchian com Médias](../setups/donchian-com-medias) | R\$ 1.101.824 | +60% |
-| [Pullback no 50% do dia](../setups/fibo-50-do-dia) | R\$ 116.895 | +3% |
+| [Donchian com Médias](../setups/donchian-com-medias) | R\$ 1.232.422 | +64% |
+| [Pullback no 50% do dia](../setups/fibo-50-do-dia) | R\$ 118.089 | +3% |
 
 Mas esse número sozinho não responde à pergunta que importa. **Rendeu mais do que não fazer nada?** Com o mesmo dinheiro, no mesmo período:
 
 | Onde o dinheiro estava | Virou | Por ano | Pior queda |
 |---|---|---|---|
-| [Donchian com Médias](../setups/donchian-com-medias), arriscando 1% por operação | R\$ 1.101.824 | +60% | -26% |
-| CDI (sem operar nada) | R\$ 182.758 | +13% | praticamente nenhuma |
+| [Donchian com Médias](../setups/donchian-com-medias), arriscando 1% por operação | R\$ 1.232.422 | +64% | -26% |
+| CDI (sem operar nada) | R\$ 182.850 | +13% | praticamente nenhuma |
 | Ibovespa comprado e parado (BOVA11) | R\$ 197.252 | +14% | -21% |
 
 O **CDI** é o que o dinheiro rende parado na renda fixa, sem nenhum risco e sem nenhum trabalho. É a régua mínima: uma estratégia que rende menos que ele não vale o esforço, por mais bonitos que sejam os percentuais de acerto. O que o operar bem paga, aqui, é a diferença entre as duas primeiras linhas — e ela é grande.
@@ -30,11 +30,11 @@ O **CDI** é o que o dinheiro rende parado na renda fixa, sem nenhum risco e sem
 O **índice comprado e parado** é a alternativa de quem aceita risco mas não quer operar. Repare na coluna da direita: ele também cai, e cai 21%. Risco não é algo que só o day trade tem.
 
 > [!note] Retorno e rentabilidade não são a mesma coisa
-> **Retorno** é quanto você ganhou: R\$ 1.001.824 de lucro.
+> **Retorno** é quanto você ganhou: R\$ 1.132.422 de lucro.
 >
-> **Rentabilidade** é esse ganho em relação ao que você tinha e ao tempo que levou: +60% por ano. É ela que permite comparar duas coisas de tamanhos e durações diferentes — ganhar mil reais em um mês com cem reais é melhor do que ganhar mil reais em dez anos com um milhão.
+> **Rentabilidade** é esse ganho em relação ao que você tinha e ao tempo que levou: +64% por ano. É ela que permite comparar duas coisas de tamanhos e durações diferentes — ganhar mil reais em um mês com cem reais é melhor do que ganhar mil reais em dez anos com um milhão.
 >
-> Quando você vê *+60% por ano* aqui, não significa que todo ano foi assim. Significa que, se o crescimento tivesse sido igual todos os anos, teria sido esse. Os anos de verdade foram muito diferentes entre si, e a etapa [7 · O ranking](o-ranking) mostra ano por ano.
+> Quando você vê *+64% por ano* aqui, não significa que todo ano foi assim. Significa que, se o crescimento tivesse sido igual todos os anos, teria sido esse. Os anos de verdade foram muito diferentes entre si, e a etapa [7 · O ranking](o-ranking) mostra ano por ano.
 
 ## Agora o número que ninguém mostra
 O **[pior queda](glossario#pior-queda)** — em inglês *drawdown*. Não é quanto você perdeu. É **quanto você devolveu depois de já ter ganhado**.

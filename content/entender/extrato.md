@@ -1,6 +1,6 @@
 ---
 title: 9 · Operação a operação
-date: 2026-11-25
+date: 2026-11-26
 description: "O extrato inteiro, sem resumo: dá para refazer a conta linha por linha"
 tags: [entender]
 ---
@@ -10,9 +10,9 @@ Todo número deste site sai de uma simulação. Esta página mostra a simulaçã
 A carteira em exibição é **ifr + pullback + rompimento** — a que está sendo operada ao vivo, com 2,23% de risco por operação, que é o risco que a põe em 40% de queda.
 
 > [!success] A conta fecha
-> Capital inicial R\$ 100.000 · soma dos 1.350 resultados R\$ 20.397.260 · capital final **R\$ 20.497.260**.
+> Capital inicial R\$ 100.000 · soma dos 1.353 resultados R\$ 21.506.683 · capital final **R\$ 21.606.683**.
 >
-> O ranking mostra R\$ 20.497.260 para esta carteira. Os dois números são o mesmo: a tabela do ranking é a soma desta lista.
+> O ranking mostra R\$ 21.606.683 para esta carteira. Os dois números são o mesmo: a tabela do ranking é a soma desta lista.
 
 ## Ano a ano, somado do extrato
 | Ano | Operações | Contratos somados | Resultado | Capital no fim do ano |
@@ -22,12 +22,12 @@ A carteira em exibição é **ifr + pullback + rompimento** — a que está send
 | 2023 | 273 | 249.926 | R\$ 1.539.723 | R\$ 2.695.730 |
 | 2024 | 256 | 418.697 | R\$ 2.259.954 | R\$ 4.955.684 |
 | 2025 | 256 | 511.340 | R\$ 8.995.990 | R\$ 13.951.674 |
-| 2026 | 247 | 494.000 | R\$ 6.545.587 | R\$ 20.497.260 |
+| 2026 | 250 | 500.000 | R\$ 7.655.009 | R\$ 21.606.683 |
 
 ## Os últimos meses
 | Mês | Operações | Resultado | Capital no fim do mês |
 |---|---|---|---|
-| 2026-11 | 16 | R\$ -668.646 | R\$ 20.497.260 |
+| 2026-11 | 19 | R\$ 440.776 | R\$ 21.606.683 |
 | 2026-10 | 23 | R\$ 1.621.448 | R\$ 21.165.906 |
 | 2026-09 | 26 | R\$ 437.446 | R\$ 19.544.458 |
 | 2026-08 | 20 | R\$ 1.720.104 | R\$ 19.107.012 |
@@ -49,6 +49,7 @@ A carteira em exibição é **ifr + pullback + rompimento** — a que está send
 ## Os últimos dias operados
 | Dia | Operações | Contratos | Resultado | Capital no fim do dia |
 |---|---|---|---|---|
+| 26/11/2026 | 3 | 6.000 | R\$ 1.109.423 | R\$ 21.606.683 |
 | 25/11/2026 | 1 | 2.000 | R\$ -151.752 | R\$ 20.497.260 |
 | 23/11/2026 | 1 | 2.000 | R\$ -150.208 | R\$ 20.649.012 |
 | 19/11/2026 | 2 | 4.000 | R\$ 465.308 | R\$ 20.799.220 |
@@ -78,13 +79,15 @@ A carteira em exibição é **ifr + pullback + rompimento** — a que está send
 | 02/10/2026 | 1 | 2.000 | R\$ 747.100 | R\$ 20.291.558 |
 | 29/09/2026 | 1 | 2.000 | R\$ -126.228 | R\$ 19.544.458 |
 | 28/09/2026 | 1 | 2.000 | R\$ -163.860 | R\$ 19.670.686 |
-| 25/09/2026 | 2 | 4.000 | R\$ -295.203 | R\$ 19.834.546 |
 
 ## As últimas 100 operações
-Da mais recente para a mais antiga. O extrato completo das 1.350 operações está no arquivo abaixo.
+Da mais recente para a mais antiga. O extrato completo das 1.353 operações está no arquivo abaixo.
 
 | Data | Setup | Contratos | Pontos | Derrapagem (pts) | Resultado | Capital |
 |---|---|---|---|---|---|---|
+| 26/11/2026 | [Rompimento da Bollinger](../setups/rompimento-da-bollinger) | 2.000 | +1512 | 28,5 | R\$ 593.363 | R\$ 21.606.683 |
+| 26/11/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | -365 | 28,5 | R\$ -157.280 | R\$ 21.013.320 |
+| 26/11/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | +1712 | 28,5 | R\$ 673.340 | R\$ 21.170.600 |
 | 25/11/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | -351 | 28,5 | R\$ -151.752 | R\$ 20.497.260 |
 | 23/11/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | -347 | 28,5 | R\$ -150.208 | R\$ 20.649.012 |
 | 19/11/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | -350 | 28,5 | R\$ -151.292 | R\$ 20.799.220 |
@@ -182,9 +185,6 @@ Da mais recente para a mais antiga. O extrato completo das 1.350 operações est
 | 20/07/2026 | [Pullback na Média](../setups/pullback-na-media) | 2.000 | -420 | 28,5 | R\$ -179.271 | R\$ 16.303.668 |
 | 16/07/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | +1360 | 28,5 | R\$ 532.600 | R\$ 16.482.939 |
 | 14/07/2026 | [Pullback na Média](../setups/pullback-na-media) | 2.000 | -436 | 28,5 | R\$ -185.871 | R\$ 15.950.339 |
-| 13/07/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | +350 | 28,5 | R\$ 128.600 | R\$ 16.136.210 |
-| 10/07/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | +1180 | 28,5 | R\$ 460.600 | R\$ 16.007.610 |
-| 10/07/2026 | [IFR de Tendência](../setups/ifr-de-tendencia) | 2.000 | -372 | 28,5 | R\$ -160.204 | R\$ 15.547.010 |
 
 > [!note] Como ler a coluna Contratos
 > Ela cresce com a conta: o lote é recalculado a cada operação como 2,23% do capital do momento dividido pelo risco em pontos daquele sinal, arredondado para baixo, com mínimo de 1 e **teto de 2.000 contratos**.
@@ -194,7 +194,7 @@ Da mais recente para a mais antiga. O extrato completo das 1.350 operações est
 > A derrapagem é o preço de varrer o livro com uma ordem grande, estimada a partir da profundidade observada no book. Em lotes pequenos ela é zero.
 
 > [!abstract] Confira a conta você mesmo
-> <a href="extrato.csv" target="_blank" download type="text/csv">⬇ Baixar extrato.csv</a> — as 1.350 operações desta carteira, uma por linha, no mesmo formato desta página
+> <a href="extrato.csv" target="_blank" download type="text/csv">⬇ Baixar extrato.csv</a> — as 1.353 operações desta carteira, uma por linha, no mesmo formato desta página
 >
 > É o arquivo que o motor gravou, separado por ponto e vírgula, com ponto decimal. Abre direto no LibreOffice e no Excel.
 

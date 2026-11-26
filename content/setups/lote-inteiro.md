@@ -1,10 +1,10 @@
 ---
 title: "Lote inteiro: a curva que você viveria"
-date: 2026-11-25
+date: 2026-11-26
 description: "A curva de capital com contratos inteiros e teto de liquidez, ao lado da fracionária que os outros gráficos usam"
 ---
 
-*Carteira operada (ifr, pullback, rompimento) · 1350 operações de 26/10/2021 a 25/11/2026 · risco de 2,23% por operação · capital inicial R\$ 100.000*
+*Carteira operada (ifr, pullback, rompimento) · 1353 operações de 26/10/2021 a 26/11/2026 · risco de 2,23% por operação · capital inicial R\$ 100.000*
 
 Os gráficos de capital deste site usam **contratos fracionários**. É a régua certa para calibrar risco, e tem uma propriedade que convém saber: **ela nunca zera**. Sempre sobra uma fração de contrato para arriscar. A conta que você executaria não tem essa saída — ou são 3 contratos, ou são 4, e abaixo de 1 não existe.
 
@@ -16,14 +16,14 @@ Esta página mostra as duas no mesmo eixo.
 
 | | lote inteiro | fracionário |
 |---|---:|---:|
-| Capital final | **R\$ 20.496.988** | R\$ 519.442.810 |
-| Quantas vezes maior | — | **25,3x** |
+| Capital final | **R\$ 21.606.428** | R\$ 631.924.676 |
+| Quantas vezes maior | — | **29,2x** |
 | Chegou a zerar | não | impossível por construção |
-| Operações no teto de 2.000 contratos | **573 de 1.350 (42%)** | sem teto |
+| Operações no teto de 2.000 contratos | **576 de 1.353 (43%)** | sem teto |
 
 ## O que isso quer dizer na prática
 
-**O teto de contratos é o que separa as duas curvas.** Em 42% das operações a posição travou em 2.000 contratos: ali o risco de 2,23% por operação **não foi aplicado**, porque a conta pedia mais contratos do que o teto permite. Dali em diante o capital cresce e a posição não, então o retorno percentual encolhe conforme a conta engorda.
+**O teto de contratos é o que separa as duas curvas.** Em 43% das operações a posição travou em 2.000 contratos: ali o risco de 2,23% por operação **não foi aplicado**, porque a conta pedia mais contratos do que o teto permite. Dali em diante o capital cresce e a posição não, então o retorno percentual encolhe conforme a conta engorda.
 
 **Por isso o múltiplo da curva fracionária não é uma meta.** Ele descreve uma carteira sem limite de tamanho, que não existe no mini índice. O número que vale para planejar é o da coluna da esquerda.
 
