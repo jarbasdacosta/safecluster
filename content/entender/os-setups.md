@@ -20,11 +20,11 @@ São **17 setups** testados. As regras de cada um vêm prontas de um vídeo ou l
 Cada medida responde a uma pergunta diferente. Nenhuma delas sozinha diz se o setup presta.
 | Medida | A pergunta que ela responde | No Donchian com Médias |
 |---|---|---|
-| **[Operações](glossario#operações)** | Com que frequência a regra dispara | 1.328 em 5,1 anos (261 por ano) |
+| **[Operações](glossario#operações)** | Com que frequência a regra dispara | 1.329 em 5,1 anos (262 por ano) |
 | **[Taxa de acerto](glossario#taxa-de-acerto)** | De cada 100 operações, quantas dão certo | 20% |
 | **[Payoff](glossario#payoff)** | Quando dá certo, ganha quantas vezes o que perde quando dá errado | 5,35× |
 | **[Expectativa](glossario#expectativa)** | Juntando as duas: ganha ou perde, por operação | 0,21 do valor arriscado |
-| **[Fator de lucro](glossario#fator-de-lucro)** | Para cada real perdido, quantos foram ganhos | 1,32× |
+| **[Fator de lucro](glossario#fator-de-lucro)** | Para cada real perdido, quantos foram ganhos | 1,31× |
 | **[Pior queda](glossario#pior-queda)** | Quanto devolveu do melhor momento | -26% |
 | **[Cauda](glossario#cauda)** | O azar que não aconteceu mas podia | -39% |
 | **[Tempo abaixo do topo](glossario#tempo-abaixo-do-topo)** | Quanto tempo esperando voltar ao melhor momento | 272 dias |
@@ -40,20 +40,20 @@ Arriscando **1% do capital por operação**, partindo de R\$ 100.000. Clique no 
 
 | Setup | Ops/ano | Acerto | Payoff | Expect. | Virou | Por ano | Pior queda | Cauda |
 |---|---|---|---|---|---|---|---|---|
-| [Donchian com Médias](../setups/donchian-com-medias) | 261 | 20% | 5,35 | 0,21 | R\$ 1.112.907 | +61% | -26% | -39% |
-| [Tendência Forte do Dia](../setups/tendencia-forte-do-dia) | 348 | 35% | 2,29 | 0,13 | R\$ 775.121 | +50% | -26% | -35% |
-| [GPS de Médias](../setups/gps-de-medias) | 245 | 23% | 4,19 | 0,19 | R\$ 670.292 | +45% | -25% | -43% |
-| [IFR de Tendência](../setups/ifr-de-tendencia) | 155 | 32% | 2,93 | 0,26 | R\$ 647.376 | +44% | -12% | -26% |
+| [Donchian com Médias](../setups/donchian-com-medias) | 262 | 20% | 5,35 | 0,21 | R\$ 1.101.824 | +60% | -26% | -39% |
+| [Tendência Forte do Dia](../setups/tendencia-forte-do-dia) | 348 | 35% | 2,30 | 0,13 | R\$ 772.629 | +50% | -26% | -35% |
+| [GPS de Médias](../setups/gps-de-medias) | 245 | 23% | 4,18 | 0,19 | R\$ 684.372 | +46% | -25% | -42% |
+| [IFR de Tendência](../setups/ifr-de-tendencia) | 155 | 32% | 2,93 | 0,26 | R\$ 640.919 | +44% | -12% | -25% |
 | [ADX da Manhã](../setups/adx-da-manha) | 358 | 18% | 5,20 | 0,13 | R\$ 561.403 | +40% | -35% | -53% |
 | [Rompimento da Bollinger](../setups/rompimento-da-bollinger) | 51 | 37% | 3,40 | 0,59 | R\$ 423.208 | +33% | -9% | -15% |
-| [Primeira Vela de 80 Minutos](../setups/primeira-vela-80-min) ⚠️ | 95 | 21% | 5,46 | 0,29 | R\$ 356.298 | +28% | -18% | -24% |
-| [Explosão da Bollinger](../setups/explosao-da-bollinger) | 239 | 26% | 3,29 | 0,12 | R\$ 304.639 | +25% | -37% | -44% |
-| [Vai na Onda](../setups/vai-na-onda) | 235 | 35% | 2,14 | 0,10 | R\$ 287.477 | +23% | -27% | -30% |
-| [MACD na Tendência](../setups/macd-na-tendencia) | 180 | 22% | 4,74 | 0,12 | R\$ 276.836 | +22% | -12% | -22% |
+| [Primeira Vela de 80 Minutos](../setups/primeira-vela-80-min) ⚠️ | 94 | 21% | 5,46 | 0,29 | R\$ 356.298 | +28% | -18% | -26% |
+| [Explosão da Bollinger](../setups/explosao-da-bollinger) | 239 | 26% | 3,29 | 0,12 | R\$ 301.611 | +24% | -37% | -42% |
+| [Vai na Onda](../setups/vai-na-onda) | 236 | 35% | 2,13 | 0,10 | R\$ 290.549 | +23% | -27% | -31% |
+| [MACD na Tendência](../setups/macd-na-tendencia) | 179 | 22% | 4,74 | 0,12 | R\$ 276.836 | +22% | -12% | -21% |
 | [Pullback na Média](../setups/pullback-na-media) | 60 | 38% | 2,39 | 0,29 | R\$ 223.176 | +17% | -12% | -15% |
 | [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) | 117 | 36% | 2,21 | 0,14 | R\$ 206.631 | +15% | -23% | -26% |
-| [Bandas de VWAP](../setups/bandas-de-vwap) | 310 | 25% | 3,29 | 0,04 | R\$ 165.591 | +10% | -27% | -29% |
-| [Pôr do Sol (17h45)](../setups/por-do-sol) | 99 | 53% | 1,27 | 0,06 | R\$ 135.889 | +6% | -10% | -5% |
+| [Bandas de VWAP](../setups/bandas-de-vwap) | 310 | 25% | 3,29 | 0,04 | R\$ 165.549 | +10% | -27% | -28% |
+| [Pôr do Sol (17h45)](../setups/por-do-sol) | 99 | 53% | 1,28 | 0,06 | R\$ 135.619 | +6% | -10% | -5% |
 | [Rompimento da Média de 200](../setups/rompe-media-200) | 41 | 39% | 2,02 | 0,16 | R\$ 134.329 | +6% | -11% | -15% |
 | [Primeira Vela de Quinta](../setups/primeira-vela-de-quinta) ⚠️ | 22 | 63% | 0,93 | 0,21 | R\$ 124.210 | +4% | -6% | -7% |
 | [Pullback no 50% do dia](../setups/fibo-50-do-dia) | 45 | 42% | 1,87 | 0,08 | R\$ 116.895 | +3% | -4% | -7% |
@@ -79,7 +79,7 @@ A mesma carteira, com o mesmo acerto e o mesmo payoff, dá resultados muito dife
 > Escolher o modo é uma decisão maior do que escolher a carteira. A etapa [4 · Por que a carteira mais lisa rende mais](suavidade) mostra como traduzir isso para o limite de perda que *você* aguenta.
 
 ## Quais setups entregam o que prometem
-Esta tabela não é sobre quanto cada setup rende. É sobre **se a promessa de risco dele se cumpre**. Para cada setup, comparamos a pior queda das combinações que o incluem com a das que não o incluem, no período de teste — cada linha medida em 160 combinações.
+Esta tabela não é sobre quanto cada setup rende. É sobre **se a promessa de risco dele se cumpre**. Para cada setup, comparamos a pior queda das combinações que o incluem com a das que não o incluem, no período de teste — cada linha medida em 158 combinações.
 
 | Setup | Queda com ele | Sem ele | Diferença |  |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ Esta tabela não é sobre quanto cada setup rende. É sobre **se a promessa de r
 | [Donchian com Médias](../setups/donchian-com-medias) | -32% | -30% | **-2 pontos** | neutro |
 | [Rompimento da Média de 200](../setups/rompe-media-200) | -31% | -29% | **-2 pontos** | neutro |
 | [IFR de Tendência](../setups/ifr-de-tendencia) | -31% | -30% | **-1 pontos** | neutro |
-| [Pullback na Média](../setups/pullback-na-media) | -30% | -30% | **-0 pontos** | neutro |
-| [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) | -30% | -30% | **-0 pontos** | neutro |
+| [Pullback na Média](../setups/pullback-na-media) | -30% | -30% | **-1 pontos** | neutro |
+| [Extremos da Semana (virada de mão)](../setups/extremos-da-semana-virada) | -31% | -30% | **-1 pontos** | neutro |
 | [Rompimento da Bollinger](../setups/rompimento-da-bollinger) | -30% | -30% | **+0 pontos** | neutro |
 | [Pullback no 50% do dia](../setups/fibo-50-do-dia) | -29% | -31% | **+1 pontos** | neutro |
 | [Vai na Onda](../setups/vai-na-onda) | -27% | -31% | **+3 pontos** | entrega |
@@ -101,7 +101,7 @@ Esta tabela não é sobre quanto cada setup rende. É sobre **se a promessa de r
 O extremo de cima é claro: as combinações que incluem **explosao-da-bollinger** caem 9 pontos a mais do que as que não o incluem.
 
 > [!example] E o que fizemos com essa informação: nada
-> **Tentamos usar essa tabela e não funcionou.** Tirar os piores do universo foi testado com 3 cortes diferentes e os cortes discordaram entre si — 1,55× de espalhamento no retorno e 1,08× no erro de risco.
+> **Tentamos usar essa tabela e não funcionou.** Tirar os piores do universo foi testado com 3 cortes diferentes e os cortes discordaram entre si — 1,56× de espalhamento no retorno e 1,08× no erro de risco.
 >
 > Uma família cujos membros discordam não é uma regra, é um ajuste ao período. Então ela sai da disputa inteira. A medida é real; transformá-la em filtro, nesta rodada, não deu certo.
 >

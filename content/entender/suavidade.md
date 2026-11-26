@@ -17,10 +17,10 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 32.779.332 | +213% |
-| gps + macd + por + pullback + tendencia | **0,91%** | R\$ 15.857.178 | +171% |
+| donchian + ifr + macd + pullback + rompimento | **1,12%** | R\$ 32.495.060 | +212% |
+| gps + macd + por + pullback + tendencia | **0,91%** | R\$ 16.009.996 | +172% |
 
-Mesma dor exata — as duas caem 40% — e a primeira termina com **2,1 vezes mais dinheiro**.
+Mesma dor exata — as duas caem 40% — e a primeira termina com **2,0 vezes mais dinheiro**.
 
 A explicação está na coluna do meio: a primeira **suporta 1,2 vezes mais risco por operação** antes de chegar na mesma queda. Ela é mais lisa, e ser mais lisa é uma licença para apostar mais alto.
 
@@ -38,12 +38,12 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 31.180.685 | 1º | R\$ 32.779.332 |
-| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 28.040.372 | 2º | R\$ 31.864.750 |
-| 3º | gps + ifr + macd + pullback + rompimento | R\$ 26.510.426 | 7º | R\$ 27.114.995 |
-| 4º | donchian + por + pullback + rompimento + tendencia | R\$ 25.750.214 | 11º | R\$ 25.009.890 |
-| 5º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.645.401 | 4º | R\$ 27.907.594 |
-| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 25.082.223 | 3º | R\$ 28.239.679 |
+| 1º | donchian + ifr + macd + pullback + rompimento | R\$ 30.896.414 | 1º | R\$ 32.495.060 |
+| 2º | extremos + ifr + pullback + rompimento + tendencia | R\$ 27.821.220 | 2º | R\$ 31.645.598 |
+| 3º | gps + ifr + macd + pullback + rompimento | R\$ 26.603.274 | 6º | R\$ 27.207.843 |
+| 4º | donchian + por + pullback + rompimento + tendencia | R\$ 25.502.895 | 11º | R\$ 24.762.571 |
+| 5º | donchian + ifr + pullback + rompe + rompimento | R\$ 25.361.129 | 4º | R\$ 27.623.323 |
+| 6º | donchian + fibo + ifr + pullback + rompimento | R\$ 24.797.951 | 3º | R\$ 27.955.408 |
 
 4 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 

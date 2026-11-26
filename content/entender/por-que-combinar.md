@@ -30,7 +30,7 @@ Nos nossos dados, a 1% por operação:
 > Dois setups que entram nas mesmas horas, na mesma direção, pelo mesmo motivo, vão errar juntos — e aí a queda **soma** em vez de compensar. Juntar dois nomes diferentes da mesma ideia não diversifica nada.
 
 ## A combinação não compra retorno
-Vale ser explícito, porque é contraintuitivo: o melhor setup sozinho (Donchian com Médias, +61% por ano) **rende mais, em percentual, do que a maioria das carteiras combinadas no mesmo modo de risco**. Se o único objetivo fosse rentabilidade medida assim, você operaria só ele.
+Vale ser explícito, porque é contraintuitivo: o melhor setup sozinho (Donchian com Médias, +60% por ano) **rende mais, em percentual, do que a maioria das carteiras combinadas no mesmo modo de risco**. Se o único objetivo fosse rentabilidade medida assim, você operaria só ele.
 
 O que a combinação compra é **suavidade**. E a etapa seguinte mostra por que suavidade, no fim, vira mais dinheiro do que retorno bruto — o que faz toda a diferença e é a ideia menos óbvia deste site.
 

@@ -28,7 +28,7 @@ Isso não é hipótese de laboratório. Em **26 de outubro de 2026** a B3 aciono
 ## 3. O teto de contratos distorce o que você vê
 O modelo limita cada ordem a 2.000 contratos, porque é o que o livro de ofertas absorve. Essa trava é realista, mas ela **muda o que os números significam** — e isso precisa estar dito.
 
-Hoje, 7 das 21 carteiras passam mais de um terço das operações com o lote travado no teto. Quando o lote trava, a posição para de crescer com o capital: o ano rende menos em % e cai menos em % não porque a carteira melhorou, mas porque a aposta encolheu em relação ao patrimônio.
+Hoje, 8 das 21 carteiras passam mais de um terço das operações com o lote travado no teto. Quando o lote trava, a posição para de crescer com o capital: o ano rende menos em % e cai menos em % não porque a carteira melhorou, mas porque a aposta encolheu em relação ao patrimônio.
 
 **Duas consequências práticas.** A primeira: os primeiros anos de cada carteira, na [etapa 8](ano-a-ano), são muito maiores que os últimos — é o período em que o capital ainda é pequeno e nada freia a composição. A segunda, mais séria: o capital final de cada carteira pressupõe que você atravesse toda essa escalada, de R\$ 100.000 até milhões, com o mesmo teto. É um caminho, não uma previsão.
 
@@ -53,12 +53,12 @@ Isto está medido, e o número é feio:
 A correção é direta: **calibre para 34% se quer viver 40%.** Mas note que esse fator de 1,19× também foi medido no mesmo período que tudo o mais — ele próprio pode estar otimista.
 
 ## 6. Os números grandes não são expectativa
-A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 32.779.332 em 5,1 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
+A primeira carteira do ranking mostra R\$ 100.000 virando R\$ 32.495.060 em 5,1 anos. **Esse número não é uma previsão.** É o que este período específico produziu sob estas regras, com as três ressalvas acima todas valendo ao mesmo tempo.
 
 O número que viaja bem do passado para o futuro, neste estudo, é **a queda** — e ela viaja com 1,19× de piora. O lucro não tem nada parecido com isso: a etapa [5 · O que o passado consegue prever](o-que-o-passado-preve) mostra que o retorno quase não se mantém de um período para o outro.
 
 ## 7. Cinco anos é pouco
-Todo este estudo cabe em 5,1 anos e 1.261 dias de bolsa. Nesse intervalo o mini índice não passou por tudo que ele pode passar. Um regime de mercado que não apareceu aqui pode quebrar setups que neste período pareceram sólidos — e nenhuma conta feita sobre estes dados consegue avisar sobre isso.
+Todo este estudo cabe em 5,1 anos e 1.262 dias de bolsa. Nesse intervalo o mini índice não passou por tudo que ele pode passar. Um regime de mercado que não apareceu aqui pode quebrar setups que neste período pareceram sólidos — e nenhuma conta feita sobre estes dados consegue avisar sobre isso.
 
 ## 8. A cauda é uma estimativa, não um histórico
 A **pior queda** é o que aconteceu de fato. A **cauda** é diferente: embaralhamos as mesmas operações em 300 ordens diferentes e olhamos o pior ano entre vinte. Serve para enxergar o azar que não aconteceu.

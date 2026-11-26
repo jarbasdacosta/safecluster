@@ -6,14 +6,14 @@ tags: [setup, carteira]
 
 **O que acontece quando os setups aprovados são operados juntos? A carteira divide o capital igualmente entre eles e testa todas as combinações, sempre comparando com o CDI e com o Ibovespa comprado.**
 
-*Página gerada em 25/11/2026 19:48 BRT · dados de 01/11/2021 a 24/11/2026 · [voltar para todos os setups](./)*
+*Página gerada em 25/11/2026 21:12 BRT · dados de 01/11/2021 a 25/11/2026 · [voltar para todos os setups](./)*
 
 > [!success] Em resumo: com R\$ 10.000, operando os 17 setups juntos (capital dividido igualmente, capital no CDI)
-> - **R\$ 39.541** (+32% ao ano · pior queda −12% · Sharpe 1,20)
-> - CDI: **R\$ 18.304** (+13% ao ano) · Ibovespa: **R\$ 15.546** (+9% ao ano · pior queda −22%)
-> - **Combinação recomendada (melhor equilíbrio entre retorno, queda e estabilidade): IFR de Tendência + Pullback na Média + Rompimento da Bollinger** — R\$ 38.883, +31% ao ano, pior queda −3%. **Arriscando 1% por operação: R\$ 1.105.770, +156% ao ano, pior queda −17%** (veja o tamanho de posição).
-> - **Dobrando o risco (2% dividido em vez de 1%): R\$ 305.944, +98% ao ano, pior queda −11%** — contra +51% ao ano e queda −5% com 1%. O site continua recomendando 1%; o 2% está aí só para você ver os números.
-> - **Ao vivo desde 27/10/2026** (dias que nenhum vídeo viu), a recomendada com 1% dividido: **−0,0%** em 19 pregões.
+> - **R\$ 39.442** (+31% ao ano · pior queda −12% · Sharpe 1,20)
+> - CDI: **R\$ 18.304** (+13% ao ano) · Ibovespa: **R\$ 15.792** (+10% ao ano · pior queda −22%)
+> - **Combinação recomendada (melhor equilíbrio entre retorno, queda e estabilidade): IFR de Tendência + Pullback na Média + Rompimento da Bollinger** — R\$ 38.792, +31% ao ano, pior queda −3%. **Arriscando 1% por operação: R\$ 1.094.712, +155% ao ano, pior queda −17%** (veja o tamanho de posição).
+> - **Dobrando o risco (2% dividido em vez de 1%): R\$ 303.904, +98% ao ano, pior queda −11%** — contra +51% ao ano e queda −5% com 1%. O site continua recomendando 1%; o 2% está aí só para você ver os números.
+> - **Ao vivo desde 27/10/2026** (dias que nenhum vídeo viu), a recomendada com 1% dividido: **−0,3%** em 20 pregões.
 
 > [!warning] Leia antes
 > Resultado passado, em backtest, não garante resultado futuro. É um estudo educacional, **não é recomendação de investimento**. Day trade com mini índice é alavancado: dá para perder mais do que o capital da conta.
@@ -33,42 +33,42 @@ Cada setup sozinho, na versão principal, com o capital no CDI.
 
 | Setup | Sharpe | Retorno ÷ queda | Dias no vermelho | Teste ÷ treino · meses > CDI | Correlação · op./mês |
 |---|---|---|---|---|---|
-| **1º** [IFR](ifr-de-tendencia) ·TEN | 1,52 | 2,9 | 69 d | 150% · 70% | 0,27 · 12,7 |
+| **1º** [IFR](ifr-de-tendencia) ·TEN | 1,51 | 2,9 | 69 d | 150% · 70% | 0,27 · 12,7 |
 | **2º** [Bollinger](rompimento-da-bollinger) ·TEN | 1,58 | 2,0 | 84 d | 150% · 64% | 0,25 · 4,2 |
-| **3º** [Donchian](donchian-com-medias) ·TEN | 1,32 | 2,1 | 188 d | 107% · 67% | 0,29 · 21,4 |
-| **4º** [Pôr do sol](por-do-sol) ·POR | 1,20 | 0,6 | 328 d | 150% · 66% | −0,09 · 8,1 |
+| **3º** [Donchian](donchian-com-medias) ·TEN | 1,32 | 2,1 | 188 d | 106% · 67% | 0,29 · 21,4 |
+| **4º** [Pôr do sol](por-do-sol) ·POR | 1,19 | 0,6 | 328 d | 150% · 66% | −0,08 · 8,1 |
 | **5º** [1ª vela 80](primeira-vela-80-min) ·VEL | 1,06 | 1,0 | 298 d | 150% · 62% | 0,17 · 7,7 |
 | **6º** [ADX](adx-da-manha) ·ADX | 0,99 | 1,2 | 198 d | 150% · 62% | 0,22 · 29,3 |
-| **7º** [GPS médias](gps-de-medias) ·TEN | 1,06 | 1,3 | 205 d | 62% · 66% | 0,26 · 20,0 |
+| **7º** [GPS médias](gps-de-medias) ·TEN | 1,08 | 1,3 | 205 d | 64% · 66% | 0,26 · 20,0 |
 | **8º** [MACD](macd-na-tendencia) ·TEN | 0,89 | 0,8 | 256 d | 150% · 62% | 0,28 · 14,7 |
 | **9º** [Tendência](tendencia-forte-do-dia) ·TEN | 1,30 | 1,7 | 206 d | 87% · 59% | 0,32 · 28,5 |
-| **10º** [Pullback](pullback-na-media) ·PUL | 1,25 | 1,9 | 204 d | 34% · 61% | −0,03 · 4,9 |
+| **10º** [Pullback](pullback-na-media) ·PUL | 1,25 | 1,9 | 204 d | 34% · 61% | −0,04 · 4,9 |
 | **11º** [BB explosão](explosao-da-bollinger) ·TEN | 0,84 | 0,7 | 273 d | 150% · 59% | 0,27 · 19,6 |
 | **12º** [Extremos sem](extremos-da-semana-virada) ·EXT | 0,69 | 0,4 | 545 d | 150% · 62% | 0,19 · 9,5 |
-| **13º** [Onda](vai-na-onda) ·OND | 0,70 | 0,6 | 471 d | 150% · 56% | 0,16 · 19,3 |
+| **13º** [Onda](vai-na-onda) ·OND | 0,71 | 0,6 | 471 d | 150% · 56% | 0,16 · 19,3 |
 | **14º** [VWAP](bandas-de-vwap) ·TEN | 0,47 | 0,2 | 511 d | 150% · 57% | 0,34 · 25,4 |
-| **15º** [Quinta](primeira-vela-de-quinta) ·QUI | 0,72 | 0,4 | 194 d | 39% · 49% | −0,05 · 1,8 |
+| **15º** [Quinta](primeira-vela-de-quinta) ·QUI | 0,72 | 0,4 | 195 d | 39% · 49% | −0,05 · 1,8 |
 | **16º** [Fibo 50%](fibo-50-do-dia) ·FIB | 0,65 | 0,4 | 223 d | 30% · 54% | 0,20 · 3,7 |
-| **17º** [Rompe 200](rompe-media-200) ·ROM | 0,40 | 0,2 | 202 d | 17% · 44% | 0,15 · 3,3 |
+| **17º** [Rompe 200](rompe-media-200) ·ROM | 0,40 | 0,2 | 203 d | 17% · 44% | 0,15 · 3,3 |
 
 **Resultado: 1 contrato por R\$ 10 mil × arriscando 1% por operação**
 
 | Setup | Ao ano (1 contrato) | Ao ano (risco 1%) | Pior queda (1 contrato) | Pior queda (risco 1%) | Ao vivo desde 27/10 |
 |---|---|---|---|---|---|
-| **1º** [IFR](ifr-de-tendencia) | +41% | **+64%** | −9% | **−11%** | 17 op · −0,35R |
+| **1º** [IFR](ifr-de-tendencia) | +41% | **+64%** | −9% | **−11%** | 18 op · −0,39R |
 | **2º** [Bollinger](rompimento-da-bollinger) | +25% | **+51%** | −6% | **−7%** | 1 op · −1,06R |
-| **3º** [Donchian](donchian-com-medias) | +42% | **+83%** | −12% | **−24%** | 18 op · +0,56R |
-| **4º** [Pôr do sol](por-do-sol) | +17% | **+20%** | −6% | **−3%** | 6 op · +0,29R |
+| **3º** [Donchian](donchian-com-medias) | +42% | **+83%** | −12% | **−24%** | 19 op · +0,48R |
+| **4º** [Pôr do sol](por-do-sol) | +17% | **+20%** | −6% | **−3%** | 7 op · +0,22R |
 | **5º** [1ª vela 80](primeira-vela-80-min) | +31% | **+46%** | −16% | **−14%** | 8 op · −0,05R |
 | **6º** [ADX](adx-da-manha) | +36% | **+62%** | −17% | **−31%** | 31 op · −0,17R |
-| **7º** [GPS médias](gps-de-medias) | +36% | **+66%** | −17% | **−23%** | 20 op · +0,46R |
+| **7º** [GPS médias](gps-de-medias) | +37% | **+66%** | −17% | **−23%** | 21 op · +0,54R |
 | **8º** [MACD](macd-na-tendencia) | +30% | **+39%** | −18% | **−11%** | 18 op · −0,12R |
-| **9º** [Tendência](tendencia-forte-do-dia) | +47% | **+70%** | −18% | **−24%** | 16 op · +0,31R |
+| **9º** [Tendência](tendencia-forte-do-dia) | +47% | **+70%** | −18% | **−24%** | 17 op · +0,27R |
 | **10º** [Pullback](pullback-na-media) | +26% | **+33%** | −6% | **−9%** | 2 op · +2,00R |
-| **11º** [BB explosão](explosao-da-bollinger) | +28% | **+42%** | −20% | **−33%** | 13 op · +1,53R |
+| **11º** [BB explosão](explosao-da-bollinger) | +28% | **+41%** | −20% | **−33%** | 14 op · +1,34R |
 | **12º** [Extremos sem](extremos-da-semana-virada) | +26% | **+31%** | −28% | **−18%** | 7 op · −0,10R |
-| **13º** [Onda](vai-na-onda) | +29% | **+40%** | −26% | **−20%** | 14 op · −0,07R |
-| **14º** [VWAP](bandas-de-vwap) | +21% | **+25%** | −31% | **−20%** | 23 op · −0,22R |
+| **13º** [Onda](vai-na-onda) | +30% | **+40%** | −26% | **−20%** | 15 op · +0,01R |
+| **14º** [VWAP](bandas-de-vwap) | +21% | **+25%** | −31% | **−20%** | 24 op · −0,21R |
 | **15º** [Quinta](primeira-vela-de-quinta) | +16% | **+18%** | −8% | **−3%** | 2 op · −1,02R |
 | **16º** [Fibo 50%](fibo-50-do-dia) | +21% | **+17%** | −17% | **−3%** | 2 op · +0,20R |
 | **17º** [Rompe 200](rompe-media-200) | +17% | **+20%** | −17% | **−10%** | 1 op · −1,02R |
@@ -99,29 +99,29 @@ As 5 melhores combinações e cada setup, vistos por operação em vez de por an
 
 | | Operações · acerto | Ganho · perda média | Payoff | Expectativa (pts · R) | Lucro total (pts · R\$) |
 |---|---|---|---|---|---|
-| ⭐ **Recomendada** (IFR + Pullback + Bollinger) | 1350 · 34,4% | +754 · 266 pts | 2,83 | **85,0 pts** · +0,33 R | 114.754 pts · R\$ 22.951 |
+| ⭐ **Recomendada** (IFR + Pullback + Bollinger) | 1351 · 34,4% | +754 · 267 pts | 2,83 | **84,7 pts** · +0,33 R | 114.403 pts · R\$ 22.881 |
 | **2ª** (Pullback + Bollinger) | 565 · 37,5% | +682 · 251 pts | 2,72 | **99,1 pts** · +0,43 R | 55.985 pts · R\$ 11.197 |
-| **3ª** (IFR + Pullback + Rompe 200 + Bollinger) | 1556 · 35,0% | +760 · 287 pts | 2,65 | **79,7 pts** · +0,31 R | 123.962 pts · R\$ 24.792 |
-| **4ª** (Fibo 50% + IFR + Pullback + Bollinger) | 1577 · 35,5% | +773 · 293 pts | 2,64 | **85,4 pts** · +0,29 R | 134.647 pts · R\$ 26.929 |
+| **3ª** (IFR + Pullback + Rompe 200 + Bollinger) | 1557 · 35,0% | +760 · 287 pts | 2,65 | **79,4 pts** · +0,31 R | 123.612 pts · R\$ 24.722 |
+| **4ª** (Fibo 50% + IFR + Pullback + Bollinger) | 1578 · 35,5% | +773 · 293 pts | 2,64 | **85,1 pts** · +0,29 R | 134.296 pts · R\$ 26.859 |
 | **5ª** (Fibo 50% + Pullback + Bollinger) | 792 · 38,8% | +739 · 311 pts | 2,37 | **95,8 pts** · +0,33 R | 75.878 pts · R\$ 15.176 |
 | [ADX](adx-da-manha) | 1817 · 18,2% | +1.119 · 214 pts | 5,22 | **28,7 pts** · +0,13 R | 52.086 pts · R\$ 10.417 |
-| [VWAP](bandas-de-vwap) | 1574 · 25,2% | +716 · 223 pts | 3,22 | **13,5 pts** · +0,04 R | 21.215 pts · R\$ 4.243 |
-| [Donchian](donchian-com-medias) | 1328 · 19,7% | +1.031 · 194 pts | 5,30 | **47,4 pts** · +0,21 R | 62.949 pts · R\$ 12.590 |
-| [BB explosão](explosao-da-bollinger) | 1214 · 26,1% | +747 · 224 pts | 3,33 | **29,3 pts** · +0,12 R | 35.618 pts · R\$ 7.124 |
+| [VWAP](bandas-de-vwap) | 1575 · 25,1% | +716 · 222 pts | 3,22 | **13,5 pts** · +0,04 R | 21.200 pts · R\$ 4.240 |
+| [Donchian](donchian-com-medias) | 1329 · 19,7% | +1.031 · 195 pts | 5,30 | **47,1 pts** · +0,21 R | 62.646 pts · R\$ 12.529 |
+| [BB explosão](explosao-da-bollinger) | 1215 · 26,1% | +747 · 225 pts | 3,33 | **29,1 pts** · +0,12 R | 35.316 pts · R\$ 7.063 |
 | [Extremos sem](extremos-da-semana-virada) | 592 · 35,6% | +948 · 443 pts | 2,14 | **52,6 pts** · +0,14 R | 31.153 pts · R\$ 6.231 |
 | [Fibo 50%](fibo-50-do-dia) | 227 · 41,9% | +865 · 472 pts | 1,83 | **87,6 pts** · +0,08 R | 19.893 pts · R\$ 3.979 |
-| [GPS médias](gps-de-medias) | 1242 · 22,9% | +947 · 228 pts | 4,16 | **41,8 pts** · +0,19 R | 51.892 pts · R\$ 10.378 |
-| [IFR](ifr-de-tendencia) | 785 · 32,2% | +814 · 277 pts | 2,94 | **74,9 pts** · +0,26 R | 58.769 pts · R\$ 11.754 |
+| [GPS médias](gps-de-medias) | 1243 · 23,0% | +946 · 228 pts | 4,15 | **42,3 pts** · +0,19 R | 52.532 pts · R\$ 10.506 |
+| [IFR](ifr-de-tendencia) | 786 · 32,2% | +814 · 277 pts | 2,94 | **74,3 pts** · +0,26 R | 58.418 pts · R\$ 11.684 |
 | [MACD](macd-na-tendencia) | 912 · 21,9% | +998 · 226 pts | 4,41 | **42,3 pts** · +0,12 R | 38.573 pts · R\$ 7.715 |
-| [Pôr do sol](por-do-sol) | 503 · 53,5% | +122 · 101 pts | 1,21 | **18,2 pts** · +0,06 R | 9.134 pts · R\$ 1.827 |
+| [Pôr do sol](por-do-sol) | 504 · 53,4% | +122 · 101 pts | 1,21 | **17,9 pts** · +0,06 R | 9.044 pts · R\$ 1.809 |
 | [1ª vela 80](primeira-vela-80-min) | 480 · 21,5% | +1.357 · 264 pts | 5,14 | **83,9 pts** · +0,29 R | 40.251 pts · R\$ 8.050 |
 | [Quinta](primeira-vela-de-quinta) | 110 · 62,7% | +396 · 481 pts | 0,82 | **68,8 pts** · +0,21 R | 7.570 pts · R\$ 1.514 |
 | [Pullback](pullback-na-media) | 305 · 38,4% | +731 · 300 pts | 2,44 | **95,7 pts** · +0,29 R | 29.202 pts · R\$ 5.840 |
 | [Rompe 200](rompe-media-200) | 206 · 38,8% | +793 · 431 pts | 1,84 | **44,7 pts** · +0,16 R | 9.208 pts · R\$ 1.842 |
 | [Bollinger](rompimento-da-bollinger) | 260 · 36,5% | +622 · 196 pts | 3,18 | **103,0 pts** · +0,59 R | 26.783 pts · R\$ 5.357 |
-| [Tendência](tendencia-forte-do-dia) | 1767 · 34,5% | +723 · 318 pts | 2,27 | **41,2 pts** · +0,13 R | 72.820 pts · R\$ 14.564 |
-| [Onda](vai-na-onda) | 1196 · 35,4% | +885 · 431 pts | 2,05 | **34,2 pts** · +0,10 R | 40.898 pts · R\$ 8.180 |
-| Todos os 17 juntos | 14518 · 28,4% | +812 · 263 pts | 3,09 | **41,9 pts** · +0,15 R | 608.014 pts · R\$ 121.603 |
+| [Tendência](tendencia-forte-do-dia) | 1768 · 34,5% | +723 · 318 pts | 2,27 | **41,1 pts** · +0,13 R | 72.680 pts · R\$ 14.536 |
+| [Onda](vai-na-onda) | 1197 · 35,4% | +885 · 431 pts | 2,05 | **34,7 pts** · +0,10 R | 41.538 pts · R\$ 8.308 |
+| Todos os 17 juntos | 14526 · 28,3% | +812 · 263 pts | 3,09 | **41,9 pts** · +0,15 R | 608.093 pts · R\$ 121.619 |
 
 *Taxa de acerto = operações no lucro ÷ total. Payoff = ganho médio ÷ perda média. **Expectativa matemática** = quanto a operação rende em média (acerto × ganho médio − erro × perda média); em **R** é o mesmo em múltiplos do risco (stop + custo), que é o que o tamanho de 1% usa. Lucro total em pontos, já com o custo de 15 pontos por operação.*
 
@@ -131,11 +131,11 @@ Não existe uma única "melhor": depende de quanto de queda você aguenta. As tr
 
 | Perfil | Combinação | **⭐ 1% por setup: ao ano · queda** | ⭐ 1% dividido: ao ano · queda | 1 contrato: ao ano · queda | Sharpe treino → teste |
 |---|---|---|---|---|---|
-| ⭐ **Equilíbrio** (recomendada) | IFR + Pullback + Bollinger | **+156% · −17,1%** | +51% · −5,1% | +31% · −2,6% | 2,34 → 2,05 |
-| 📈 Maior retorno | Tendência | **+70% · −23,6%** | +70% · −23,6% | +47% · −16,1% | 1,58 → 1,16 |
+| ⭐ **Equilíbrio** (recomendada) | IFR + Pullback + Bollinger | **+155% · −17,1%** | +51% · −5,1% | +31% · −2,6% | 2,34 → 2,04 |
+| 📈 Maior retorno | Tendência | **+70% · −23,6%** | +70% · −23,6% | +47% · −16,1% | 1,58 → 1,15 |
 | 🛡️ Menor queda | Pôr do sol + Pullback + Bollinger | **+89% · −9,1%** | +35% · −2,5% | +23% · −1,6% | 2,30 → 1,97 |
 
-*R\$ 10 mil viraram, na recomendada: R\$ 38.883 com 1 contrato por R\$ 10 mil · R\$ 78.060 com 1% dividido entre os setups · **R\$ 1.105.770 arriscando 1% por setup**. Nomes: Tendência = Tendência Forte do Dia · ADX = ADX da Manhã · IFR = IFR de Tendência · Pullback = Pullback na Média · VWAP = Bandas de VWAP · Donchian = Donchian com Médias · BB explosão = Explosão da Bollinger · Extremos sem = Extremos da Semana (virada de mão) · Fibo 50% = Pullback no 50% do dia · GPS médias = GPS de Médias · MACD = MACD na Tendência · Pôr do sol = Pôr do Sol (17h45) · 1ª vela 80 = Primeira Vela de 80 Minutos · Quinta = Primeira Vela de Quinta · Rompe 200 = Rompimento da Média de 200 · Bollinger = Rompimento da Bollinger · Onda = Vai na Onda.*
+*R\$ 10 mil viraram, na recomendada: R\$ 38.792 com 1 contrato por R\$ 10 mil · R\$ 77.799 com 1% dividido entre os setups · **R\$ 1.094.712 arriscando 1% por setup**. Nomes: Tendência = Tendência Forte do Dia · ADX = ADX da Manhã · IFR = IFR de Tendência · Pullback = Pullback na Média · VWAP = Bandas de VWAP · Donchian = Donchian com Médias · BB explosão = Explosão da Bollinger · Extremos sem = Extremos da Semana (virada de mão) · Fibo 50% = Pullback no 50% do dia · GPS médias = GPS de Médias · MACD = MACD na Tendência · Pôr do sol = Pôr do Sol (17h45) · 1ª vela 80 = Primeira Vela de 80 Minutos · Quinta = Primeira Vela de Quinta · Rompe 200 = Rompimento da Média de 200 · Bollinger = Rompimento da Bollinger · Onda = Vai na Onda.*
 
 ### As 5 melhores combinações, lado a lado
 
@@ -149,26 +149,26 @@ A recomendada é a 1ª, mas a diferença para as outras quatro costuma ser peque
 | ├ expectativa por operação (treino) · peso 2 | +0,32 R · nota 6,4 | +0,44 R · nota 8,9 | +0,31 R · nota 6,2 | +0,29 R · nota 5,8 | +0,35 R · nota 7,0 |
 | ├ dias no vermelho (treino) · peso 1 | 34 d · nota 8,6 | 57 d · nota 6,3 | 34 d · nota 8,6 | 37 d · nota 8,3 | 38 d · nota 8,2 |
 | └ pior 60 dias (treino) · peso 1 | −1,4% · nota 8,6 | −3,1% · nota 6,9 | −0,9% · nota 9,1 | −1,4% · nota 8,6 | −2,1% · nota 7,9 |
-| **Queda de 1 em 20** · 1% dividido (o tamanho recomendado) | **−12%** | **−13%** | **−10%** | **−9%** | **−9%** |
-| **Queda de 1 em 20** · 1% por operação (o corte) | **−32%** | **−25%** | **−34%** | **−32%** | **−24%** |
-| Operações · acerto | 1.350 · 34,4% | 565 · 37,5% | 1.556 · 35,0% | 1.577 · 35,5% | 792 · 38,8% |
-| Ganho médio · perda média | +754 · −266 pts | +682 · −251 pts | +760 · −287 pts | +773 · −293 pts | +739 · −311 pts |
-| Payoff · fator de lucro | 2,83 · 1,49 | 2,72 · 1,63 | 2,65 · 1,43 | 2,64 · 1,45 | 2,37 · 1,50 |
-| **Expectativa** (pts · R) | **85,0 pts · +0,33 R** | **99,1 pts · +0,43 R** | **79,7 pts · +0,31 R** | **85,4 pts · +0,29 R** | **95,8 pts · +0,33 R** |
+| **Queda de 1 em 20** · 1% dividido (o tamanho recomendado) | **−12%** | **−13%** | **−9%** | **−9%** | **−9%** |
+| **Queda de 1 em 20** · 1% por operação (o corte) | **−33%** | **−25%** | **−33%** | **−33%** | **−24%** |
+| Operações · acerto | 1.351 · 34,4% | 565 · 37,5% | 1.557 · 35,0% | 1.578 · 35,5% | 792 · 38,8% |
+| Ganho médio · perda média | +754 · −267 pts | +682 · −251 pts | +760 · −287 pts | +773 · −293 pts | +739 · −311 pts |
+| Payoff · fator de lucro | 2,83 · 1,48 | 2,72 · 1,63 | 2,65 · 1,43 | 2,64 · 1,45 | 2,37 · 1,50 |
+| **Expectativa** (pts · R) | **84,7 pts · +0,33 R** | **99,1 pts · +0,43 R** | **79,4 pts · +0,31 R** | **85,1 pts · +0,29 R** | **95,8 pts · +0,33 R** |
 | Maior sequência de perdas | 15 seguidas | 10 seguidas | 13 seguidas | 19 seguidas | 12 seguidas |
-| **Lucro** (pts · R\$, 1 contrato) | **114.754 · R\$ 22.951** | **55.985 · R\$ 11.197** | **123.962 · R\$ 24.792** | **134.647 · R\$ 26.929** | **75.878 · R\$ 15.176** |
+| **Lucro** (pts · R\$, 1 contrato) | **114.403 · R\$ 22.881** | **55.985 · R\$ 11.197** | **123.612 · R\$ 24.722** | **134.296 · R\$ 26.859** | **75.878 · R\$ 15.176** |
 | Pior queda em pontos (1 contrato) | −7.326 pts · −R\$ 1.465 | −3.439 pts · −R\$ 688 | −10.610 pts · −R\$ 2.122 | −11.493 pts · −R\$ 2.299 | −9.021 pts · −R\$ 1.804 |
-| **1% dividido:** ao ano · queda | **+51% · −5,1%** | **+43% · −4,0%** | **+43% · −4,5%** | **+42% · −3,7%** | **+34% · −3,1%** |
-| 1% por setup: ao ano · queda | +156% · −17,1% | +78% · −8,6% | +169% · −21,4% | +163% · −19,4% | +84% · −10,4% |
+| **1% dividido:** ao ano · queda | **+51% · −5,1%** | **+43% · −4,0%** | **+43% · −4,5%** | **+41% · −3,7%** | **+34% · −3,1%** |
+| 1% por setup: ao ano · queda | +155% · −17,1% | +78% · −8,6% | +169% · −21,4% | +162% · −19,4% | +84% · −10,4% |
 | 1 contrato: ao ano · queda | +31% · −2,6% | +26% · −2,1% | +27% · −3,1% | +29% · −3,7% | +25% · −3,0% |
 | Tempo abaixo do topo (1% dividido) | 43 pregões | 68 pregões | 45 pregões | 47 pregões | 60 pregões |
 | Pior 60 dias (período todo) | +0,7% | −1,1% | +0,5% | +0,4% | −0,7% |
-| Sharpe: treino → teste | 2,34 → 2,05 | 2,24 → 1,69 | 2,29 → 1,78 | 2,43 → 1,73 | 2,40 → 1,24 |
-| Sharpe · risco/retorno (período todo) | 2,15 · 7,0 | 1,93 · 6,2 | 1,97 · 4,7 | 1,98 · 4,3 | 1,68 · 3,9 |
+| Sharpe: treino → teste | 2,34 → 2,04 | 2,24 → 1,69 | 2,29 → 1,77 | 2,43 → 1,72 | 2,40 → 1,24 |
+| Sharpe · risco/retorno (período todo) | 2,15 · 6,9 | 1,93 · 6,2 | 1,96 · 4,7 | 1,98 · 4,3 | 1,68 · 3,9 |
 | Pior ano · correlação média | +22% · 0,00 | +17% · −0,15 | +19% · 0,12 | +20% · 0,09 | +16% · 0,02 |
-| **R\$ 10.000 viraram** (1% dividido) | **R\$ 78.060** | **R\$ 59.332** | **R\$ 59.249** | **R\$ 57.033** | **R\$ 42.660** |
+| **R\$ 10.000 viraram** (1% dividido) | **R\$ 77.799** | **R\$ 59.332** | **R\$ 59.100** | **R\$ 56.890** | **R\$ 42.660** |
 
-*Referência no mesmo período: CDI +13% ao ano · Ibovespa comprado +9% ao ano com pior queda −22%. **Expectativa** = quanto cada operação rende em média (acerto × ganho médio − erro × perda média); em **R** é o mesmo em múltiplos do risco (stop + custo). **Risco/retorno** = retorno acima do CDI ÷ pior queda, no período todo. **Tempo abaixo do topo** = o maior número de pregões seguidos sem recuperar o valor mais alto já atingido — é o que de fato cansa quem opera. Operações, payoff, expectativa e lucro são das operações dos setups da combinação, com 15 pts de custo; as linhas de ao ano e queda usam o capital no CDI.*
+*Referência no mesmo período: CDI +13% ao ano · Ibovespa comprado +10% ao ano com pior queda −22%. **Expectativa** = quanto cada operação rende em média (acerto × ganho médio − erro × perda média); em **R** é o mesmo em múltiplos do risco (stop + custo). **Risco/retorno** = retorno acima do CDI ÷ pior queda, no período todo. **Tempo abaixo do topo** = o maior número de pregões seguidos sem recuperar o valor mais alto já atingido — é o que de fato cansa quem opera. Operações, payoff, expectativa e lucro são das operações dos setups da combinação, com 15 pts de custo; as linhas de ao ano e queda usam o capital no CDI.*
 
 > [!info]- Quando a carteira recomendada mudou (clique para abrir)
 > | Desde | Combinação | Setups | Nota | Medida pelo critério |
@@ -187,26 +187,26 @@ A tabela acima mostra cada combinação no tamanho de posição dela. Esta aqui 
 
 | # | Combinação | Ao ano · R\$ 10.000 viram | Pior queda real · dias no vermelho | Sorteio: típica · 1 em 20 | Pior sequência |
 |---|---|---|---|---|---|
-| 1 | IFR ·TEN + Pullback ·PUL + Bollinger ·TEN ⭐ | +156% · R\$ 1.105.770 | −17,1% · 59 d | −22% · **−32%** | 15 seguidas |
+| 1 | IFR ·TEN + Pullback ·PUL + Bollinger ·TEN ⭐ | +155% · R\$ 1.094.712 | −17,1% · 59 d | −22% · **−33%** | 15 seguidas |
 | 2 | Pullback ·PUL + Bollinger ·TEN | +78% · R\$ 180.761 | −8,6% · 68 d | −16% · **−25%** | 10 seguidas |
-| 3 | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +169% · R\$ 1.432.162 | −21,4% · 68 d | −23% · **−34%** | 13 seguidas |
-| 4 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Bollinger ·TEN | +163% · R\$ 1.274.021 | −19,4% · 61 d | −22% · **−32%** | 19 seguidas |
+| 3 | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +169% · R\$ 1.417.841 | −21,4% · 68 d | −23% · **−33%** | 13 seguidas |
+| 4 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Bollinger ·TEN | +162% · R\$ 1.261.281 | −19,4% · 61 d | −22% · **−33%** | 19 seguidas |
 | 5 | Fibo 50% ·FIB + Pullback ·PUL + Bollinger ·TEN | +84% · R\$ 211.237 | −10,4% · 70 d | −16% · **−24%** | 12 seguidas |
 | 6 | Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +89% · R\$ 240.555 | −16,3% · 78 d | −18% · **−27%** | 13 seguidas |
-| 7 | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | +172% · R\$ 1.495.086 | −17,2% · 59 d | −22% · **−31%** | 14 seguidas |
-| 8 | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM | +104% · R\$ 355.452 | −15,3% · 102 d | −24% · **−36%** | 15 seguidas |
-| 9 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +177% · R\$ 1.645.027 | −23,7% · 68 d | −23% · **−34%** | 15 seguidas |
-| 10 | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +186% · R\$ 1.932.268 | −21,5% · 61 d | −22% · **−33%** | 14 seguidas |
-| 11 | Extremos sem ·EXT + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +206% · R\$ 2.717.307 | −25,1% · 55 d | −26% · **−37%** | 19 seguidas |
+| 7 | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | +171% · R\$ 1.477.123 | −17,2% · 59 d | −22% · **−31%** | 14 seguidas |
+| 8 | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM | +103% · R\$ 351.898 | −15,3% · 102 d | −24% · **−35%** | 15 seguidas |
+| 9 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +176% · R\$ 1.628.577 | −23,7% · 68 d | −23% · **−34%** | 15 seguidas |
+| 10 | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +185% · R\$ 1.909.052 | −21,5% · 61 d | −22% · **−32%** | 14 seguidas |
+| 11 | Extremos sem ·EXT + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +205% · R\$ 2.690.134 | −25,1% · 56 d | −26% · **−36%** | 19 seguidas |
 | 12 | Pullback ·PUL + Rompe 200 ·ROM | +41% · R\$ 55.980 | −19,7% · 108 d | −18% · **−28%** | 17 seguidas |
-| 13 | IFR ·TEN + MACD ·TEN + Pullback ·PUL + Bollinger ·TEN | +202% · R\$ 2.549.945 | −25,7% · 61 d | −24% · **−35%** | 20 seguidas |
-| 14 | IFR ·TEN + Bollinger ·TEN | +117% · R\$ 490.858 | −16,6% · 61 d | −21% · **−33%** | 20 seguidas |
-| 15 | IFR ·TEN + MACD ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +217% · R\$ 3.244.492 | −29,7% · 68 d | −25% · **−36%** | 20 seguidas |
-| 16 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM | +110% · R\$ 410.626 | −17,4% · 110 d | −23% · **−35%** | 20 seguidas |
-| 17 | Fibo 50% ·FIB + IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | +179% · R\$ 1.722.514 | −19,5% · 61 d | −21% · **−32%** | 15 seguidas |
-| 18 | IFR ·TEN + Pullback ·PUL | +93% · R\$ 272.855 | −12,9% · 72 d | −23% · **−34%** | 11 seguidas |
+| 13 | IFR ·TEN + MACD ·TEN + Pullback ·PUL + Bollinger ·TEN | +201% · R\$ 2.524.446 | −25,7% · 61 d | −25% · **−36%** | 20 seguidas |
+| 14 | IFR ·TEN + Bollinger ·TEN | +117% · R\$ 485.949 | −16,6% · 61 d | −22% · **−32%** | 20 seguidas |
+| 15 | IFR ·TEN + MACD ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +216% · R\$ 3.212.047 | −29,7% · 68 d | −25% · **−36%** | 20 seguidas |
+| 16 | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM | +109% · R\$ 406.520 | −17,4% · 110 d | −24% · **−35%** | 20 seguidas |
+| 17 | Fibo 50% ·FIB + IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | +178% · R\$ 1.701.818 | −19,5% · 61 d | −21% · **−31%** | 15 seguidas |
+| 18 | IFR ·TEN + Pullback ·PUL | +93% · R\$ 270.126 | −12,9% · 72 d | −23% · **−35%** | 11 seguidas |
 | 19 | Fibo 50% ·FIB + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | +94% · R\$ 280.225 | −16,3% · 84 d | −18% · **−27%** | 13 seguidas |
-| 20 | Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | +89% · R\$ 246.115 | −9,1% · 68 d | −15% · **−23%** | 10 seguidas |
+| 20 | Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | +89% · R\$ 245.619 | −9,1% · 68 d | −15% · **−22%** | 10 seguidas |
 
 *Todas as linhas arriscam **1% do capital em cada operação**. em cada setup — não é o tamanho recomendado (que é 1% dividido entre os setups da carteira). e sim o nivelamento que torna o risco comparável: com o mesmo risco por operação. carteira com mais setups fica com mais risco aberto ao mesmo tempo. e é isso que a coluna de queda mostra. **Pior queda real** = o que de fato aconteceu. que foi um sorteio só. **Sorteio** = as mesmas operações em outra ordem. 1.000 vezes: a típica é a mediana e a de 1 em 20 é o percentil 5 — de cada 20 histórias. uma foi pior que aquilo. **Dimensione pela coluna de 1 em 20**. não pela queda real. **Pior sequência** = o maior número de operações perdedoras seguidas.*
 
@@ -215,8 +215,8 @@ A tabela acima mostra cada combinação no tamanho de posição dela. Esta aqui 
 
 | Risco total | Por operação | Ao ano | Pior queda | Dias no vermelho | Pior 60 dias | R\$ 10.000 viraram |
 |---|---|---|---|---|---|---|
-| **1% (recomendado)** | 0,33% | +51% | −5% | 43 d | +1% | R\$ 78.060 |
-| 2% (o dobro) | 0,67% | +98% | −11% | 55 d | −2% | R\$ 305.944 |
+| **1% (recomendado)** | 0,33% | +51% | −5% | 43 d | +1% | R\$ 77.799 |
+| 2% (o dobro) | 0,67% | +98% | −11% | 55 d | −2% | R\$ 303.904 |
 
 *Dobrar o risco quase dobra o retorno e quase dobra a queda, mas **não encurta o tempo no vermelho** — esse depende da sequência de acertos e erros, não do tamanho. A validação andando para frente (recalibrando de 6 em 6 meses só com o passado) indicou que esta carteira suporta algo perto de 2%, mas com apenas 7 semestres fora da amostra e nenhum estouro observado a amostra é pequena: zero estouros em 3,5 anos é compatível com uma chance real bem maior que zero. Por isso a recomendação segue 1%.*
 ### Por que a recomendada é IFR + Pullback + Bollinger
@@ -226,8 +226,8 @@ Ela tirou a maior **nota de sobrevivência**: 7,34 de 10, contra 7,04 da segunda
 - **Eficiência:** rende 7,0 vezes ao ano o tamanho da sua pior queda. É a medida que impede uma carteira de ganhar a disputa rendendo um pouco mais e arriscando muito mais — diferença de retorno se resolve com o tamanho da posição, diferença de queda não.
 - **Margem:** cada operação rende em média +0,32 R, ou seja, 32% do que arrisca. É a gordura entre o setup e o zero: com margem curta, um custo um pouco maior ou um ano mais fraco já viram prejuízo.
 - **Sequência:** passou no máximo 34 pregões seguidos abaixo do topo anterior, e o pior trimestre de toda a série custou −1,4%.
-- **Má sorte normal:** em 1.000 histórias alternativas — as mesmas operações em outra ordem — a queda que aparece em 1 de cada 20 é de −12% no tamanho recomendado. e de −32% se cada operação arriscar 1% sozinha. É por esses números que se dimensiona a posição. não pela queda que de fato aconteceu.
-- **Fora do treino**, em dados que não participaram de escolha nenhuma, ela entregou +51% ao ano com 1% dividido (Sharpe 2,05).
+- **Má sorte normal:** em 1.000 histórias alternativas — as mesmas operações em outra ordem — a queda que aparece em 1 de cada 20 é de −12% no tamanho recomendado. e de −33% se cada operação arriscar 1% sozinha. É por esses números que se dimensiona a posição. não pela queda que de fato aconteceu.
+- **Fora do treino**, em dados que não participaram de escolha nenhuma, ela entregou +51% ao ano com 1% dividido (Sharpe 2,04).
 
 A correlação média entre os setups dela é 0,00: eles ganham e perdem em momentos diferentes, e é isso que segura a queda. Acrescentar qualquer um dos outros 14 setups aprovados piora a nota dela — a tabela das combinações mostra onde cada mistura fica. A recomendação considera só combinações de **2 ou mais setups**: diversificar protege contra um setup que pare de funcionar, coisa que o backtest não consegue prever. Setups que dependem de um **dia da semana escolhido pelo autor do vídeo** (1ª vela 80, Quinta) ficam fora dos três perfis até os dados novos confirmarem — eles aparecem na tabela abaixo, com ⚠️, mas não são recomendados.
 
@@ -265,37 +265,37 @@ Das **9.401** combinações possíveis. a tabela mostra as **30 melhores**.
 | # · nota | Combinação | **⭐ 1% por setup: ao ano · queda** | ⭐ 1% dividido: ao ano · queda | Sobrevivência no treino: ret÷queda · dias no vermelho · pior 60 d | Pior ano · correlação |
 |---|---|---|---|---|---|
 | 1 · **7,50** | Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+86% · −8,2%** | +34% · −2,4% | 7,0 · 57 d · −1,8% | +17% · −0,05 |
-| 2 · **7,47** | IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+167% · −17,1%** | +42% · −3,5% | 7,2 · 34 d · −0,8% | +20% · −0,00 |
-| 3 · **7,34** | IFR ·TEN + Pullback ·PUL + Bollinger ·TEN ⭐ | **+156% · −17,1%** | +51% · −5,1% | 7,0 · 34 d · −1,4% | +22% · 0,00 |
+| 2 · **7,47** | IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+166% · −17,1%** | +42% · −3,5% | 7,2 · 34 d · −0,8% | +20% · −0,00 |
+| 3 · **7,34** | IFR ·TEN + Pullback ·PUL + Bollinger ·TEN ⭐ | **+155% · −17,1%** | +51% · −5,1% | 7,0 · 34 d · −1,4% | +22% · 0,00 |
 | 4 · **7,08** | Quinta ·QUI + Pullback ·PUL + Rompe 200 ·ROM ⚠️ | **+47% · −19,8%** | +24% · −6,2% | 5,0 · 36 d · −0,5% | +13% · 0,09 |
 | 5 · **7,04** | Pullback ·PUL + Bollinger ·TEN | **+78% · −8,6%** | +43% · −4,0% | 5,7 · 57 d · −3,1% | +17% · −0,15 |
-| 6 · **7,01** | IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN ⚠️ | **+181% · −21,4%** | +37% · −3,0% | 6,1 · 34 d · −0,9% | +18% · 0,07 |
+| 6 · **7,01** | IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN ⚠️ | **+180% · −21,4%** | +37% · −3,0% | 6,1 · 34 d · −0,9% | +18% · 0,07 |
 | 7 · **6,97** | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | **+169% · −21,4%** | +43% · −4,5% | 5,9 · 34 d · −0,9% | +19% · 0,12 |
-| 8 · **6,88** | Fibo 50% ·FIB + IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+175% · −19,4%** | +37% · −2,8% | 6,2 · 37 d · −1,0% | +19% · 0,06 |
+| 8 · **6,88** | Fibo 50% ·FIB + IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+174% · −19,4%** | +37% · −2,8% | 6,2 · 37 d · −1,0% | +19% · 0,06 |
 | 9 · **6,87** | Fibo 50% ·FIB + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+92% · −10,5%** | +30% · −2,2% | 5,5 · 38 d · −1,6% | +16% · 0,03 |
-| 10 · **6,87** | IFR ·TEN + 1ª vela 80 ·VEL + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+237% · −20,5%** | +43% · −3,3% | 6,7 · 40 d · −1,0% | +23% · 0,01 |
-| 11 · **6,83** | IFR ·TEN + Pôr do sol ·POR + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+184% · −17,3%** | +37% · −2,5% | 7,0 · 39 d · −0,9% | +20% · −0,01 |
-| 12 · **6,81** | GPS médias ·TEN + IFR ·TEN + Quinta ·QUI + Pullback ·PUL ⚠️ | **+177% · −28,0%** | +47% · −5,6% | 6,9 · 39 d · −1,8% | +20% · 0,01 |
+| 10 · **6,87** | IFR ·TEN + 1ª vela 80 ·VEL + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+236% · −20,5%** | +43% · −3,3% | 6,7 · 40 d · −1,0% | +23% · 0,01 |
+| 11 · **6,83** | IFR ·TEN + Pôr do sol ·POR + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+183% · −17,3%** | +37% · −2,5% | 7,0 · 39 d · −0,9% | +20% · −0,01 |
+| 12 · **6,81** | GPS médias ·TEN + IFR ·TEN + Quinta ·QUI + Pullback ·PUL ⚠️ | **+178% · −28,0%** | +47% · −5,6% | 6,9 · 39 d · −1,8% | +20% · 0,01 |
 | 13 · **6,80** | Quinta ·QUI + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN ⚠️ | **+97% · −16,5%** | +31% · −3,3% | 5,4 · 53 d · −1,6% | +15% · 0,04 |
-| 14 · **6,74** | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Bollinger ·TEN | **+163% · −19,4%** | +42% · −3,7% | 6,0 · 37 d · −1,4% | +20% · 0,09 |
+| 14 · **6,74** | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Bollinger ·TEN | **+162% · −19,4%** | +41% · −3,7% | 6,0 · 37 d · −1,4% | +20% · 0,09 |
 | 15 · **6,71** | Fibo 50% ·FIB + Pullback ·PUL + Bollinger ·TEN | **+84% · −10,4%** | +34% · −3,1% | 5,1 · 38 d · −2,1% | +16% · 0,02 |
 | 16 · **6,69** | Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | **+89% · −16,3%** | +35% · −4,8% | 5,1 · 57 d · −1,8% | +15% · 0,06 |
-| 17 · **6,69** | IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Rompe 200 ·ROM ⚠️ | **+113% · −15,6%** | +34% · −3,3% | 6,0 · 54 d · +0,1% | +17% · 0,08 |
-| 18 · **6,67** | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | **+172% · −17,2%** | +43% · −3,5% | 6,7 · 39 d · −1,3% | +21% · −0,04 |
-| 19 · **6,67** | IFR ·TEN + Quinta ·QUI + Pullback ·PUL ⚠️ | **+102% · −12,8%** | +39% · −3,5% | 6,9 · 60 d · −1,7% | +19% · −0,07 |
-| 20 · **6,59** | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM | **+104% · −15,3%** | +39% · −4,4% | 5,7 · 54 d · −0,2% | +17% · 0,18 |
-| 21 · **6,59** | IFR ·TEN + Quinta ·QUI + Bollinger ·TEN ⚠️ | **+127% · −17,4%** | +44% · −4,8% | 6,3 · 37 d · −2,2% | +22% · 0,10 |
+| 17 · **6,69** | IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Rompe 200 ·ROM ⚠️ | **+112% · −15,6%** | +34% · −3,3% | 6,0 · 54 d · +0,1% | +17% · 0,08 |
+| 18 · **6,67** | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Bollinger ·TEN | **+171% · −17,2%** | +42% · −3,5% | 6,7 · 39 d · −1,3% | +21% · −0,04 |
+| 19 · **6,67** | IFR ·TEN + Quinta ·QUI + Pullback ·PUL ⚠️ | **+102% · −12,8%** | +38% · −3,5% | 6,9 · 60 d · −1,7% | +19% · −0,06 |
+| 20 · **6,59** | IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM | **+103% · −15,3%** | +39% · −4,4% | 5,7 · 54 d · −0,2% | +17% · 0,18 |
+| 21 · **6,59** | IFR ·TEN + Quinta ·QUI + Bollinger ·TEN ⚠️ | **+126% · −17,4%** | +44% · −4,8% | 6,3 · 37 d · −2,2% | +22% · 0,10 |
 | 22 · **6,56** | GPS médias ·TEN + IFR ·TEN + Quinta ·QUI + Pullback ·PUL + Rompe 200 ·ROM ⚠️ | **+190% · −30,6%** | +41% · −5,2% | 6,1 · 39 d · −1,5% | +18% · 0,10 |
-| 23 · **6,54** | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | **+177% · −23,7%** | +37% · −3,6% | 5,2 · 34 d · −1,2% | +18% · 0,13 |
-| 24 · **6,50** | IFR ·TEN + 1ª vela 80 ·VEL + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+223% · −20,4%** | +50% · −4,4% | 6,5 · 54 d · −1,5% | +25% · 0,05 |
-| 25 · **6,45** | IFR ·TEN + MACD ·TEN + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+215% · −25,8%** | +42% · −4,1% | 6,1 · 37 d · −1,1% | +23% · 0,08 |
+| 23 · **6,54** | Fibo 50% ·FIB + IFR ·TEN + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | **+176% · −23,7%** | +37% · −3,6% | 5,2 · 34 d · −1,2% | +18% · 0,13 |
+| 24 · **6,50** | IFR ·TEN + 1ª vela 80 ·VEL + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+222% · −20,4%** | +50% · −4,4% | 6,5 · 54 d · −1,5% | +25% · 0,05 |
+| 25 · **6,45** | IFR ·TEN + MACD ·TEN + Quinta ·QUI + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+214% · −25,8%** | +42% · −4,1% | 6,1 · 37 d · −1,1% | +23% · 0,08 |
 | 26 · **6,45** | Quinta ·QUI + Pullback ·PUL ⚠️ | **+39% · −9,3%** | +26% · −4,2% | 6,2 · 105 d · −2,4% | +14% · −0,06 |
-| 27 · **6,44** | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | **+186% · −21,5%** | +38% · −3,2% | 5,7 · 34 d · −1,1% | +19% · 0,04 |
+| 27 · **6,44** | IFR ·TEN + Pôr do sol ·POR + Pullback ·PUL + Rompe 200 ·ROM + Bollinger ·TEN | **+185% · −21,5%** | +38% · −3,2% | 5,7 · 34 d · −1,1% | +19% · 0,04 |
 | 28 · **6,42** | GPS médias ·TEN + IFR ·TEN + Pôr do sol ·POR + Quinta ·QUI + Pullback ·PUL ⚠️ | **+194% · −24,7%** | +41% · −4,0% | 6,5 · 39 d · −1,8% | +20% · −0,02 |
-| 29 · **6,41** | IFR ·TEN + Pôr do sol ·POR + 1ª vela 80 ·VEL + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+242% · −20,5%** | +44% · −3,2% | 6,3 · 40 d · −1,0% | +22% · 0,01 |
+| 29 · **6,41** | IFR ·TEN + Pôr do sol ·POR + 1ª vela 80 ·VEL + Pullback ·PUL + Bollinger ·TEN ⚠️ | **+241% · −20,5%** | +44% · −3,2% | 6,3 · 40 d · −1,0% | +22% · 0,01 |
 | 30 · **6,41** | GPS médias ·TEN + IFR ·TEN + MACD ·TEN + Quinta ·QUI + Pullback ·PUL ⚠️ | **+219% · −32,6%** | +45% · −6,1% | 6,5 · 37 d · −1,5% | +23% · 0,07 |
 | | *CDI* | *+13% · 0%* | — | — | — |
-| | *Ibovespa comprado* | *+9% · −21,5%* | — | — | — |
+| | *Ibovespa comprado* | *+10% · −21,5%* | — | — | — |
 
 **A melhor de cada tamanho** — quanto muda acrescentar mais um setup à carteira:
 
@@ -361,7 +361,7 @@ Setups que ganham e perdem em **momentos diferentes** se completam: um segura a 
 > - **VWAP** e **IFR**: 48% dos dias em que pelo menos um deles operou
 > - **VWAP** e **MACD**: 62% dos dias em que pelo menos um deles operou
 > - **VWAP** e **Pôr do sol**: 47% dos dias em que pelo menos um deles operou
-> - **VWAP** e **1ª vela 80**: 35% dos dias em que pelo menos um deles operou
+> - **VWAP** e **1ª vela 80**: 34% dos dias em que pelo menos um deles operou
 > - **VWAP** e **Quinta**: 9% dos dias em que pelo menos um deles operou
 > - **VWAP** e **Pullback**: 26% dos dias em que pelo menos um deles operou
 > - **VWAP** e **Rompe 200**: 18% dos dias em que pelo menos um deles operou
@@ -372,9 +372,9 @@ Setups que ganham e perdem em **momentos diferentes** se completam: um segura a 
 > - **Donchian** e **Extremos sem**: 32% dos dias em que pelo menos um deles operou
 > - **Donchian** e **Fibo 50%**: 22% dos dias em que pelo menos um deles operou
 > - **Donchian** e **GPS médias**: 68% dos dias em que pelo menos um deles operou
-> - **Donchian** e **IFR**: 50% dos dias em que pelo menos um deles operou
+> - **Donchian** e **IFR**: 51% dos dias em que pelo menos um deles operou
 > - **Donchian** e **MACD**: 61% dos dias em que pelo menos um deles operou
-> - **Donchian** e **Pôr do sol**: 44% dos dias em que pelo menos um deles operou
+> - **Donchian** e **Pôr do sol**: 45% dos dias em que pelo menos um deles operou
 > - **Donchian** e **1ª vela 80**: 36% dos dias em que pelo menos um deles operou
 > - **Donchian** e **Quinta**: 9% dos dias em que pelo menos um deles operou
 > - **Donchian** e **Pullback**: 24% dos dias em que pelo menos um deles operou
@@ -436,7 +436,7 @@ Setups que ganham e perdem em **momentos diferentes** se completam: um segura a 
 > - **IFR** e **Rompe 200**: 12% dos dias em que pelo menos um deles operou
 > - **IFR** e **Bollinger**: 22% dos dias em que pelo menos um deles operou
 > - **IFR** e **Tendência**: 50% dos dias em que pelo menos um deles operou
-> - **IFR** e **Onda**: 44% dos dias em que pelo menos um deles operou
+> - **IFR** e **Onda**: 45% dos dias em que pelo menos um deles operou
 > - **MACD** e **Pôr do sol**: 46% dos dias em que pelo menos um deles operou
 > - **MACD** e **1ª vela 80**: 30% dos dias em que pelo menos um deles operou
 > - **MACD** e **Quinta**: 8% dos dias em que pelo menos um deles operou
@@ -482,35 +482,35 @@ Setups que ganham e perdem em **momentos diferentes** se completam: um segura a 
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **⭐ Rec. 1%** | +3,6% | +258,9% | +97,7% | +105,5% | +279,5% | +92,9% | **+10957,7%** (+155,7% · R\$ 1.105.770) |
-| **⭐ 1ª · IFR + Pullback + Bollinger** | +2,6% | +38,6% | +23,8% | +21,5% | +38,7% | +31,0% | **+288,8%** (+31,1% · R\$ 38.883) |
+| **⭐ Rec. 1%** | +3,6% | +258,9% | +97,7% | +105,5% | +279,5% | +91,0% | **+10847,1%** (+155,0% · R\$ 1.094.712) |
+| **⭐ 1ª · IFR + Pullback + Bollinger** | +2,6% | +38,6% | +23,8% | +21,5% | +38,7% | +30,7% | **+287,9%** (+31,0% · R\$ 38.792) |
 | **2ª · Pullback + Bollinger** | +5,7% | +32,1% | +21,4% | +16,9% | +30,6% | +22,7% | **+217,6%** (+25,9% · R\$ 31.762) |
-| **3ª · IFR + Pullback + Rompe 200 + Bollinger** | +0,8% | +34,4% | +24,6% | +18,7% | +37,8% | +22,1% | **+237,1%** (+27,4% · R\$ 33.709) |
-| **4ª · Fibo 50% + IFR + Pullback + Bollinger** | +2,8% | +40,7% | +20,3% | +19,7% | +36,3% | +25,0% | **+255,0%** (+28,8% · R\$ 35.501) |
-| **5ª · Fibo 50% + Pullback + Bollinger** | +5,0% | +36,9% | +17,6% | +16,1% | +30,1% | +17,8% | **+200,7%** (+24,6% · R\$ 30.074) |
+| **3ª · IFR + Pullback + Rompe 200 + Bollinger** | +0,8% | +34,4% | +24,6% | +18,7% | +37,8% | +21,9% | **+236,5%** (+27,4% · R\$ 33.650) |
+| **4ª · Fibo 50% + IFR + Pullback + Bollinger** | +2,8% | +40,7% | +20,3% | +19,7% | +36,3% | +24,8% | **+254,4%** (+28,7% · R\$ 35.438) |
+| **5ª · Fibo 50% + Pullback + Bollinger** | +5,0% | +36,9% | +17,6% | +16,1% | +30,1% | +17,8% | **+200,7%** (+24,5% · R\$ 30.074) |
 | **ADX** | +2,1% | +29,8% | +12,0% | +36,5% | +65,9% | +40,5% | **+372,5%** (+36,3% · R\$ 47.247) |
-| **VWAP** | +0,6% | +37,6% | +4,1% | +10,4% | +42,4% | +13,9% | **+158,1%** (+20,8% · R\$ 25.807) |
-| **Donchian** | −6,9% | +74,2% | +29,5% | +17,2% | +46,7% | +63,2% | **+489,4%** (+42,5% · R\$ 58.945) |
-| **BB explosão** | −5,6% | +20,6% | +36,6% | +3,3% | +41,4% | +53,1% | **+247,8%** (+28,2% · R\$ 34.784) |
+| **VWAP** | +0,6% | +37,6% | +4,1% | +10,4% | +42,4% | +13,9% | **+158,0%** (+20,8% · R\$ 25.799) |
+| **Donchian** | −6,9% | +74,2% | +29,5% | +17,2% | +46,7% | +62,2% | **+485,9%** (+42,3% · R\$ 58.588) |
+| **BB explosão** | −5,6% | +20,6% | +36,6% | +3,3% | +41,4% | +52,2% | **+245,7%** (+28,1% · R\$ 34.573) |
 | **Extremos sem** | +6,1% | +28,5% | +5,7% | +29,5% | +26,8% | +33,2% | **+215,1%** (+25,7% · R\$ 31.513) |
 | **Fibo 50%** | +3,5% | +46,3% | +10,2% | +14,2% | +28,7% | +7,1% | **+162,6%** (+21,2% · R\$ 26.260) |
-| **GPS médias** | −0,6% | +40,1% | +54,4% | +22,4% | +15,5% | +54,8% | **+370,5%** (+36,2% · R\$ 47.055) |
-| **IFR** | −3,6% | +51,5% | +28,3% | +30,7% | +55,3% | +47,4% | **+461,0%** (+41,1% · R\$ 56.104) |
-| **MACD** | −2,9% | +20,7% | +25,7% | +36,6% | +40,1% | +30,4% | **+267,5%** (+29,7% · R\$ 36.749) |
-| **Pôr do sol** | +3,9% | +16,5% | +11,6% | +21,5% | +17,1% | +14,1% | **+119,2%** (+17,0% · R\$ 21.921) |
+| **GPS médias** | −0,6% | +40,1% | +54,4% | +22,4% | +15,5% | +56,8% | **+376,6%** (+36,5% · R\$ 47.657) |
+| **IFR** | −3,6% | +51,5% | +28,3% | +30,7% | +55,3% | +46,4% | **+457,1%** (+40,8% · R\$ 55.711) |
+| **MACD** | −2,9% | +20,7% | +25,7% | +36,6% | +40,1% | +30,4% | **+267,5%** (+29,6% · R\$ 36.749) |
+| **Pôr do sol** | +3,9% | +16,5% | +11,6% | +21,5% | +17,1% | +13,9% | **+118,8%** (+16,9% · R\$ 21.881) |
 | **1ª vela 80** | +7,7% | +9,1% | +27,7% | +37,8% | +46,7% | +27,6% | **+286,9%** (+31,0% · R\$ 38.694) |
 | **Quinta** | +4,0% | +18,1% | +15,3% | +16,4% | +21,9% | +5,4% | **+112,0%** (+16,2% · R\$ 21.200) |
 | **Pullback** | +7,5% | +47,1% | +19,7% | +10,8% | +21,2% | +26,3% | **+221,2%** (+26,2% · R\$ 32.119) |
-| **Rompe 200** | −4,6% | +22,0% | +26,7% | +10,6% | +34,6% | −1,8% | **+115,5%** (+16,6% · R\$ 21.554) |
-| **Bollinger** | +4,0% | +18,2% | +22,8% | +23,1% | +40,2% | +18,7% | **+209,1%** (+25,3% · R\$ 30.912) |
-| **Tendência** | −1,7% | +58,4% | +50,3% | +21,6% | +32,2% | +84,4% | **+593,5%** (+47,2% · R\$ 69.348) |
-| **Onda** | −3,9% | +5,0% | +26,9% | +62,1% | +22,7% | +42,1% | **+262,0%** (+29,3% · R\$ 36.205) |
-| **Todos** | −0,7% | +38,0% | +17,5% | +19,2% | +45,1% | +42,0% | **+295,4%** (+31,6% · R\$ 39.541) |
+| **Rompe 200** | −4,6% | +22,0% | +26,7% | +10,6% | +34,6% | −1,8% | **+115,5%** (+16,5% · R\$ 21.554) |
+| **Bollinger** | +4,0% | +18,2% | +22,8% | +23,1% | +40,2% | +18,7% | **+209,1%** (+25,2% · R\$ 30.912) |
+| **Tendência** | −1,7% | +58,4% | +50,3% | +21,6% | +32,2% | +83,8% | **+591,5%** (+47,0% · R\$ 69.154) |
+| **Onda** | −3,9% | +5,0% | +26,9% | +62,1% | +22,7% | +43,9% | **+266,7%** (+29,6% · R\$ 36.668) |
+| **Todos** | −0,7% | +38,0% | +17,5% | +19,2% | +45,1% | +41,6% | **+294,4%** (+31,5% · R\$ 39.442) |
 | **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,5% | **+83,0%** (+12,8% · R\$ 18.304) |
-| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +1,8% | **+55,5%** (+9,2% · R\$ 15.546) |
+| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +3,5% | **+57,9%** (+9,5% · R\$ 15.792) |
 | *Quem ganhou* | *1ª vela 80* | *⭐ Rec. 1%* | *⭐ Rec. 1%* | *⭐ Rec. 1%* | *⭐ Rec. 1%* | *⭐ Rec. 1%* | *⭐ Rec. 1%* |
 
-\* ano parcial: os dados vão de 01/11/2021 a 24/11/2026.
+\* ano parcial: os dados vão de 01/11/2021 a 25/11/2026.
 
 ![Retorno por ano da carteira](setups/img/carteira_anos.png)
 
@@ -577,8 +577,8 @@ Setups que ganham e perdem em **momentos diferentes** se completam: um segura a 
 > | ago/2026 | +4,4% | +3,6% | +3,6% | +2,0% | +0,8% | +1,1% |
 > | set/2026 | +2,2% | +3,6% | +1,2% | +3,1% | +4,3% | +1,1% |
 > | out/2026 | +4,3% | −0,4% | +3,2% | +3,9% | +0,6% | +1,1% |
-> | nov/2026 | −0,1% | +2,2% | −0,2% | −0,6% | +0,7% | +0,8% |
-> | **Acumulado** | **+288,8%** | **+217,6%** | **+237,1%** | **+255,0%** | **+200,7%** | **+83,0%** |
+> | nov/2026 | −0,3% | +2,2% | −0,4% | −0,8% | +0,7% | +0,8% |
+> | **Acumulado** | **+287,9%** | **+217,6%** | **+236,5%** | **+254,4%** | **+200,7%** | **+83,0%** |
 >
 > *As 5 melhores combinações com 1 contrato por R\$ 10 mil. Cada setup tem o mês a mês dele na própria página.*
 
@@ -590,36 +590,36 @@ Os mesmos setups e carteiras, mas com o tamanho sugerido: cada operação usa os
 
 | | 2021* | 2022 | 2023 | 2024 | 2025 | 2026* | **No período** (média/ano · R\$ 10.000 viraram) |
 |---|---|---|---|---|---|---|---|
-| **⭐ 1ª · IFR + Pullback + Bollinger** | +3,6% | +258,9% | +97,7% | +105,5% | +279,5% | +92,9% | **+10957,7%** (+155,7% · R\$ 1.105.770) |
-| **⭐ 1ª · IFR + Pullback + Bollinger ÷** | +2,2% | +68,9% | +37,8% | +37,8% | +74,2% | +36,7% | **+680,6%** (+50,7% · R\$ 78.060) |
-| **2ª · Pullback + Bollinger ÷** | +8,3% | +49,8% | +33,2% | +32,0% | +65,5% | +25,8% | **+493,3%** (+42,7% · R\$ 59.332) |
-| **3ª · IFR + Pullback + Rompe 200 + Bollinger ÷** | +0,6% | +56,6% | +35,4% | +30,9% | +65,4% | +28,3% | **+492,5%** (+42,6% · R\$ 59.249) |
-| **4ª · Fibo 50% + IFR + Pullback + Bollinger ÷** | +2,2% | +56,5% | +30,8% | +31,3% | +59,6% | +30,1% | **+470,3%** (+41,5% · R\$ 57.033) |
-| **5ª · Fibo 50% + Pullback + Bollinger ÷** | +6,2% | +40,7% | +25,6% | +25,5% | +49,7% | +20,9% | **+326,6%** (+33,6% · R\$ 42.660) |
-| **ADX** | +2,0% | +51,0% | +7,4% | +71,5% | +161,6% | +53,0% | **+1036,5%** (+62,4% · R\$ 113.653) |
-| **VWAP** | +0,3% | +41,5% | +1,5% | +10,3% | +61,5% | +20,0% | **+208,0%** (+25,2% · R\$ 30.803) |
-| **Donchian** | −14,9% | +173,6% | +51,8% | +25,9% | +129,6% | +103,6% | **+1980,4%** (+83,2% · R\$ 208.036) |
-| **BB explosão** | −12,2% | +24,2% | +66,0% | −10,9% | +100,5% | +77,4% | **+473,2%** (+41,7% · R\$ 57.320) |
-| **Extremos sem** | +5,5% | +42,6% | +0,9% | +39,3% | +35,4% | +34,0% | **+283,6%** (+30,8% · R\$ 38.356) |
+| **⭐ 1ª · IFR + Pullback + Bollinger** | +3,6% | +258,9% | +97,7% | +105,5% | +279,5% | +91,0% | **+10847,1%** (+155,0% · R\$ 1.094.712) |
+| **⭐ 1ª · IFR + Pullback + Bollinger ÷** | +2,2% | +68,9% | +37,8% | +37,8% | +74,2% | +36,2% | **+678,0%** (+50,5% · R\$ 77.799) |
+| **2ª · Pullback + Bollinger ÷** | +8,3% | +49,8% | +33,2% | +32,0% | +65,5% | +25,8% | **+493,3%** (+42,6% · R\$ 59.332) |
+| **3ª · IFR + Pullback + Rompe 200 + Bollinger ÷** | +0,6% | +56,6% | +35,4% | +30,9% | +65,4% | +28,0% | **+491,0%** (+42,5% · R\$ 59.100) |
+| **4ª · Fibo 50% + IFR + Pullback + Bollinger ÷** | +2,2% | +56,5% | +30,8% | +31,3% | +59,6% | +29,7% | **+468,9%** (+41,4% · R\$ 56.890) |
+| **5ª · Fibo 50% + Pullback + Bollinger ÷** | +6,2% | +40,7% | +25,6% | +25,5% | +49,7% | +20,9% | **+326,6%** (+33,5% · R\$ 42.660) |
+| **ADX** | +2,0% | +51,0% | +7,4% | +71,5% | +161,6% | +53,0% | **+1036,5%** (+62,3% · R\$ 113.653) |
+| **VWAP** | +0,3% | +41,5% | +1,5% | +10,3% | +61,5% | +20,0% | **+207,9%** (+25,1% · R\$ 30.795) |
+| **Donchian** | −14,9% | +173,6% | +51,8% | +25,9% | +129,6% | +101,5% | **+1959,6%** (+82,8% · R\$ 205.956) |
+| **BB explosão** | −12,2% | +24,2% | +66,0% | −10,9% | +100,5% | +75,6% | **+467,5%** (+41,4% · R\$ 56.746) |
+| **Extremos sem** | +5,5% | +42,6% | +0,9% | +39,3% | +35,4% | +34,0% | **+283,6%** (+30,7% · R\$ 38.356) |
 | **Fibo 50%** | +2,0% | +23,6% | +11,4% | +13,0% | +21,9% | +11,5% | **+115,9%** (+16,6% · R\$ 21.591) |
-| **GPS médias** | −4,2% | +68,9% | +118,4% | +46,2% | +29,3% | +88,6% | **+1160,1%** (+65,8% · R\$ 126.013) |
-| **IFR** | −9,3% | +108,3% | +45,0% | +48,1% | +88,9% | +58,0% | **+1110,1%** (+64,5% · R\$ 121.006) |
+| **GPS médias** | −4,2% | +68,9% | +118,4% | +46,2% | +29,3% | +92,6% | **+1186,8%** (+66,4% · R\$ 128.676) |
+| **IFR** | −9,3% | +108,3% | +45,0% | +48,1% | +88,9% | +56,4% | **+1098,0%** (+64,1% · R\$ 119.796) |
 | **MACD** | −2,8% | +27,8% | +30,3% | +51,6% | +60,7% | +32,1% | **+420,9%** (+39,0% · R\$ 52.087) |
-| **Pôr do sol** | +4,7% | +21,1% | +10,0% | +33,5% | +18,5% | +13,8% | **+150,9%** (+20,1% · R\$ 25.087) |
+| **Pôr do sol** | +4,7% | +21,1% | +10,0% | +33,5% | +18,5% | +13,5% | **+150,4%** (+20,1% · R\$ 25.036) |
 | **1ª vela 80** | +10,2% | +7,2% | +36,6% | +73,1% | +77,3% | +34,2% | **+564,5%** (+45,9% · R\$ 66.454) |
-| **Quinta** | +4,2% | +19,1% | +16,4% | +19,2% | +23,5% | +7,7% | **+128,8%** (+18,0% · R\$ 22.883) |
+| **Quinta** | +4,2% | +19,1% | +16,4% | +19,2% | +23,5% | +7,7% | **+128,8%** (+17,9% · R\$ 22.883) |
 | **Pullback** | +10,2% | +70,5% | +24,7% | +9,6% | +29,0% | +26,2% | **+318,0%** (+33,0% · R\$ 41.802) |
-| **Rompe 200** | −4,1% | +23,6% | +27,6% | +11,5% | +40,2% | +5,3% | **+148,9%** (+20,0% · R\$ 24.894) |
+| **Rompe 200** | −4,1% | +23,6% | +27,6% | +11,5% | +40,2% | +5,3% | **+148,9%** (+19,9% · R\$ 24.894) |
 | **Bollinger** | +6,4% | +30,1% | +40,6% | +56,8% | +108,7% | +24,3% | **+692,3%** (+51,1% · R\$ 79.227) |
-| **Tendência** | −2,9% | +94,7% | +78,7% | +31,5% | +62,2% | +100,3% | **+1343,7%** (+70,4% · R\$ 144.366) |
-| **Onda** | −3,7% | +8,2% | +36,6% | +97,1% | +36,3% | +38,8% | **+430,6%** (+39,5% · R\$ 53.060) |
-| **Todos ÷** | −3,7% | +65,2% | +26,1% | +26,8% | +97,4% | +59,3% | **+699,7%** (+51,4% · R\$ 79.970) |
-| **Todos ⚠️** | −24,4% | +330,4% | +23,0% | +29,2% | +866,8% | +276,9% | **+18750,9%** (+184,4% · R\$ 1.885.093) |
+| **Tendência** | −2,9% | +94,7% | +78,7% | +31,5% | +62,2% | +99,7% | **+1339,0%** (+70,2% · R\$ 143.901) |
+| **Onda** | −3,7% | +8,2% | +36,6% | +97,1% | +36,3% | +40,3% | **+436,3%** (+39,8% · R\$ 53.635) |
+| **Todos ÷** | −3,7% | +65,2% | +26,1% | +26,8% | +97,4% | +58,7% | **+696,5%** (+51,2% · R\$ 79.646) |
+| **Todos ⚠️** | −24,4% | +330,4% | +23,0% | +29,2% | +866,8% | +269,3% | **+18369,1%** (+183,0% · R\$ 1.846.912) |
 | **CDI** | +1,3% | +12,3% | +13,0% | +10,8% | +14,2% | +12,5% | **+83,0%** (+12,8% · R\$ 18.304) |
-| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +1,8% | **+55,5%** (+9,2% · R\$ 15.546) |
+| **Ibovespa** | −0,7% | +4,7% | +22,3% | −10,4% | +34,0% | +3,5% | **+57,9%** (+9,5% · R\$ 15.792) |
 | *Quem ganhou* | *Pullback* | *Todos ⚠️* | *GPS médias* | *⭐ 1ª · IFR + Pullback + Bollinger* | *Todos ⚠️* | *Todos ⚠️* | *Todos ⚠️* |
 
-\* ano parcial: os dados vão de 01/11/2021 a 24/11/2026.
+\* ano parcial: os dados vão de 01/11/2021 a 25/11/2026.
 
 > [!example]- Mês a mês arriscando 1% por operação (clique para abrir)
 > | Mês | ⭐ IFR + Pullback + Bollinger ÷ | Pullback + Bollinger ÷ | IFR + Pullback + Rompe 200 + Bollinger ÷ | Fibo 50% + IFR + Pullback + Bollinger ÷ | Fibo 50% + Pullback + Bollinger ÷ | CDI |
@@ -684,8 +684,8 @@ Os mesmos setups e carteiras, mas com o tamanho sugerido: cada operação usa os
 > | ago/2026 | +5,5% | +4,4% | +4,4% | +4,0% | +2,7% | +1,1% |
 > | set/2026 | +2,1% | +3,7% | +1,4% | +2,3% | +3,3% | +1,1% |
 > | out/2026 | +5,1% | −0,8% | +3,9% | +4,1% | −0,1% | +1,1% |
-> | nov/2026 | −0,8% | +2,2% | −0,6% | −0,6% | +1,4% | +0,8% |
-> | **Acumulado** | **+680,6%** | **+493,3%** | **+492,5%** | **+470,3%** | **+326,6%** | **+83,0%** |
+> | nov/2026 | −1,1% | +2,2% | −0,9% | −0,9% | +1,4% | +0,8% |
+> | **Acumulado** | **+678,0%** | **+493,3%** | **+491,0%** | **+468,9%** | **+326,6%** | **+83,0%** |
 >
 > *As 5 melhores combinações com 1% dividido entre os setups de cada uma.*
 
@@ -697,14 +697,14 @@ Quanto colocar em cada operação da combinação recomendada (**IFR de Tendênc
 |---|---|---|---|---|---|
 | Atual: 1 contrato por R\$ 10 mil (capital dividido) | 0,18% | +31% | −3% | −5% | −7% |
 | Risco fixo de 0,5% por operação | 0,50% | +73% | −8% | −12% | −18% |
-| **Risco fixo de 1% por operação ⭐ sugerido** | 1,00% | **+156%** | **−17%** | −22% | −33% |
-| Risco fixo de 2% por operação | 2,00% | +404% | −33% | −40% | −56% |
-| Kelly ¼ | 2,95% | +888% | −44% | −56% | −74% |
-| Kelly ½ | 5,89% | +2792% | −72% | −84% | −95% |
-| Kelly cheio | 11,78% | +1663% | −96% | −99% | −100% |
-| Larry Williams 2,5% | 1,66% | +296% | −30% | −36% | −51% |
-| Larry Williams 5% | 3,32% | +851% | −53% | −61% | −79% |
-| Larry Williams 10% | 6,64% | +2061% | −81% | −88% | −97% |
+| **Risco fixo de 1% por operação ⭐ sugerido** | 1,00% | **+155%** | **−17%** | −22% | −33% |
+| Risco fixo de 2% por operação | 2,00% | +401% | −33% | −40% | −57% |
+| Kelly ¼ | 2,94% | +883% | −44% | −55% | −73% |
+| Kelly ½ | 5,89% | +2762% | −72% | −84% | −95% |
+| Kelly cheio | 11,78% | +1631% | −96% | −99% | −100% |
+| Larry Williams 2,5% | 1,66% | +294% | −30% | −36% | −51% |
+| Larry Williams 5% | 3,32% | +843% | −53% | −62% | −78% |
+| Larry Williams 10% | 6,64% | +2025% | −81% | −88% | −97% |
 
 *Capital no CDI, 15 pts de custo, sem imposto, contratos fracionários (com mais capital eles viram inteiros).*
 
@@ -732,25 +732,25 @@ Quanto colocar em cada operação da combinação recomendada (**IFR de Tendênc
 
 | Setup | Stop hoje · risco por contrato | R\$ 10.000 | R\$ 50.000 | R\$ 100.000 | R\$ 200.000 |
 |---|---|---|---|---|---|
-| ADX da Manhã | 248 pts · R\$ 53 | 1,9 | 9,5 | 19,0 | 38,0 |
-| Bandas de VWAP | 563 pts · R\$ 116 | 0,9 | 4,3 | 8,7 | 17,3 |
-| Donchian com Médias | 281 pts · R\$ 59 | 1,7 | 8,4 | 16,9 | 33,7 |
-| Explosão da Bollinger | 281 pts · R\$ 59 | 1,7 | 8,4 | 16,9 | 33,7 |
-| Extremos da Semana (virada de mão) | 563 pts · R\$ 116 | 0,9 | 4,3 | 8,7 | 17,3 |
-| Pullback no 50% do dia | 1.548 pts · R\$ 313 | 0,3 | 1,6 | 3,2 | 6,4 |
-| GPS de Médias | 281 pts · R\$ 59 | 1,7 | 8,4 | 16,9 | 33,7 |
-| IFR de Tendência ⭐ | 331 pts · R\$ 69 | 1,4 | 7,2 | 14,5 | 28,9 |
-| MACD na Tendência | 563 pts · R\$ 116 | 0,9 | 4,3 | 8,7 | 17,3 |
-| Pôr do Sol (17h45) | 422 pts · R\$ 87 | 1,1 | 5,7 | 11,4 | 22,9 |
-| Primeira Vela de 80 Minutos | 422 pts · R\$ 87 | 1,1 | 5,7 | 11,5 | 22,9 |
-| Primeira Vela de Quinta | 563 pts · R\$ 116 | 0,9 | 4,3 | 8,7 | 17,3 |
-| Pullback na Média ⭐ | 410 pts · R\$ 85 | 1,2 | 5,9 | 11,8 | 23,5 |
-| Rompimento da Média de 200 | 563 pts · R\$ 116 | 0,9 | 4,3 | 8,7 | 17,3 |
-| Rompimento da Bollinger ⭐ | 236 pts · R\$ 50 | 2,0 | 10,0 | 19,9 | 39,8 |
-| Tendência Forte do Dia | 410 pts · R\$ 85 | 1,2 | 5,9 | 11,8 | 23,5 |
-| Vai na Onda | 563 pts · R\$ 116 | 0,9 | 4,3 | 8,7 | 17,3 |
+| ADX da Manhã | 252 pts · R\$ 53 | 1,9 | 9,4 | 18,8 | 37,5 |
+| Bandas de VWAP | 576 pts · R\$ 118 | 0,8 | 4,2 | 8,5 | 16,9 |
+| Donchian com Médias | 288 pts · R\$ 61 | 1,7 | 8,3 | 16,5 | 33,0 |
+| Explosão da Bollinger | 288 pts · R\$ 61 | 1,7 | 8,3 | 16,5 | 33,0 |
+| Extremos da Semana (virada de mão) | 576 pts · R\$ 118 | 0,8 | 4,2 | 8,5 | 16,9 |
+| Pullback no 50% do dia | 1.583 pts · R\$ 320 | 0,3 | 1,6 | 3,1 | 6,3 |
+| GPS de Médias | 288 pts · R\$ 61 | 1,7 | 8,3 | 16,5 | 33,0 |
+| IFR de Tendência ⭐ | 335 pts · R\$ 70 | 1,4 | 7,1 | 14,3 | 28,5 |
+| MACD na Tendência | 576 pts · R\$ 118 | 0,8 | 4,2 | 8,5 | 16,9 |
+| Pôr do Sol (17h45) | 432 pts · R\$ 89 | 1,1 | 5,6 | 11,2 | 22,4 |
+| Primeira Vela de 80 Minutos | 431 pts · R\$ 89 | 1,1 | 5,6 | 11,2 | 22,4 |
+| Primeira Vela de Quinta | 576 pts · R\$ 118 | 0,8 | 4,2 | 8,5 | 16,9 |
+| Pullback na Média ⭐ | 420 pts · R\$ 87 | 1,2 | 5,8 | 11,5 | 23,0 |
+| Rompimento da Média de 200 | 576 pts · R\$ 118 | 0,8 | 4,2 | 8,5 | 16,9 |
+| Rompimento da Bollinger ⭐ | 242 pts · R\$ 51 | 1,9 | 9,7 | 19,5 | 39,0 |
+| Tendência Forte do Dia | 420 pts · R\$ 87 | 1,2 | 5,8 | 11,5 | 23,0 |
+| Vai na Onda | 576 pts · R\$ 118 | 0,8 | 4,2 | 8,5 | 16,9 |
 
-*Stops calculados com o ATR (2.735 pts) e o preço (165.285) de hoje — mudam todo dia. ⭐ = setups da combinação recomendada. Com risco de 0,5%, use a metade. Confira a margem de day trade da sua corretora para o número de contratos.*
+*Stops calculados com o ATR (2.797 pts) e o preço (167.725) de hoje — mudam todo dia. ⭐ = setups da combinação recomendada. Com risco de 0,5%, use a metade. Confira a margem de day trade da sua corretora para o número de contratos.*
 
 ## Como a carteira é montada
 
