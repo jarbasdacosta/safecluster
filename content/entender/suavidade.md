@@ -1,6 +1,6 @@
 ---
 title: 4 · Por que a carteira mais lisa rende mais
-date: 2026-11-26
+date: 2026-11-27
 description: "A ideia central do método, em um exemplo"
 tags: [entender]
 ---
@@ -17,8 +17,8 @@ Duas carteiras das nossas 20. Vamos ajustar o risco por operação de cada uma a
 
 | Carteira | Risco por operação para cair 40% | Virou | Por ano |
 |---|---|---|---|
-| extremos + ifr + pullback + rompimento + tendencia | **1,34%** | R\$ 33.483.996 | +214% |
-| fibo + ifr + pullback + rompe + tendencia | **1,15%** | R\$ 20.573.372 | +185% |
+| extremos + ifr + pullback + rompimento + tendencia | **1,34%** | R\$ 33.965.566 | +214% |
+| fibo + ifr + pullback + rompe + tendencia | **1,15%** | R\$ 20.801.376 | +186% |
 
 Mesma dor exata — as duas caem 40% — e a primeira termina com **1,6 vezes mais dinheiro**.
 
@@ -38,12 +38,12 @@ As seis melhores quando se compara a 1% fixo, e onde elas ficam quando todas sã
 
 | A 1% fixo | Carteira | Virou a 1% | Ordenando por 40% | Virou a 40% |
 |---|---|---|---|---|
-| 1º | extremos + ifr + pullback + rompimento + tendencia | R\$ 29.659.377 | 1º | R\$ 33.483.996 |
-| 2º | fibo + ifr + macd + rompimento + tendencia | R\$ 28.768.372 | 9º | R\$ 26.641.518 |
-| 3º | ifr + macd + rompe + rompimento + tendencia | R\$ 28.599.910 | 10º | R\$ 25.535.402 |
-| 4º | donchian + ifr + pullback + rompe + rompimento | R\$ 28.120.784 | 2º | R\$ 30.383.136 |
-| 5º | gps + ifr + pullback + rompe + tendencia | R\$ 27.906.403 | 19º | R\$ 20.803.605 |
-| 6º | ifr + pullback + rompe + rompimento + tendencia | R\$ 27.116.406 | 7º | R\$ 27.509.201 |
+| 1º | extremos + ifr + pullback + rompimento + tendencia | R\$ 30.140.947 | 1º | R\$ 33.965.566 |
+| 2º | ifr + macd + rompe + rompimento + tendencia | R\$ 29.064.080 | 10º | R\$ 25.974.119 |
+| 3º | fibo + ifr + macd + rompimento + tendencia | R\$ 28.937.212 | 9º | R\$ 26.814.662 |
+| 4º | gps + ifr + pullback + rompe + tendencia | R\$ 28.387.973 | 19º | R\$ 21.161.063 |
+| 5º | donchian + ifr + pullback + rompe + rompimento | R\$ 27.956.888 | 2º | R\$ 30.219.240 |
+| 6º | ifr + pullback + rompe + rompimento + tendencia | R\$ 27.597.977 | 7º | R\$ 27.990.771 |
 
 5 das 6 mudam de posição. A ordem a 1% fixo **não é a ordem que importa** para quem tem um limite de perda em mente.
 

@@ -1,6 +1,6 @@
 ---
 title: 1 · O problema
-date: 2026-11-26
+date: 2026-11-27
 description: "O que incomoda em operar um setup sozinho"
 tags: [entender]
 ---
@@ -15,14 +15,14 @@ Vamos supor que você encontrou um que funciona. Ele ganha dinheiro ao longo de 
 | Setup | Virou | Por ano |
 |---|---|---|
 | [Donchian com Médias](../setups/donchian-com-medias) | R\$ 1.232.422 | +64% |
-| [Pullback no 50% do dia](../setups/fibo-50-do-dia) | R\$ 118.089 | +3% |
+| [Pullback no 50% do dia](../setups/fibo-50-do-dia) | R\$ 116.895 | +3% |
 
 Mas esse número sozinho não responde à pergunta que importa. **Rendeu mais do que não fazer nada?** Com o mesmo dinheiro, no mesmo período:
 
 | Onde o dinheiro estava | Virou | Por ano | Pior queda |
 |---|---|---|---|
 | [Donchian com Médias](../setups/donchian-com-medias), arriscando 1% por operação | R\$ 1.232.422 | +64% | -26% |
-| CDI (sem operar nada) | R\$ 182.850 | +13% | praticamente nenhuma |
+| CDI (sem operar nada) | R\$ 182.943 | +13% | praticamente nenhuma |
 | Ibovespa comprado e parado (BOVA11) | R\$ 197.252 | +14% | -21% |
 
 O **CDI** é o que o dinheiro rende parado na renda fixa, sem nenhum risco e sem nenhum trabalho. É a régua mínima: uma estratégia que rende menos que ele não vale o esforço, por mais bonitos que sejam os percentuais de acerto. O que o operar bem paga, aqui, é a diferença entre as duas primeiras linhas — e ela é grande.

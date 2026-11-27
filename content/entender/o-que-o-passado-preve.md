@@ -1,6 +1,6 @@
 ---
 title: 5 · O que o passado consegue prever
-date: 2026-11-26
+date: 2026-11-27
 description: "O que se repete do primeiro período para o segundo, e o que não"
 tags: [entender]
 ---
@@ -15,8 +15,8 @@ No primeiro pedaço (2,2 anos), fazemos uma lista das combinações em ordem. No
 | Característica | As listas se parecem? | Quanto |
 |---|---|---|
 | A pior queda | **muito** | 0,79 de 1,00 |
-| A cauda | **muito** | 0,77 de 1,00 |
-| O retorno | em parte | 0,62 de 1,00 |
+| A cauda | **muito** | 0,76 de 1,00 |
+| O retorno | em parte | 0,60 de 1,00 |
 
 > [!note] Como ler esse número
 > **1,00** seria as duas listas idênticas: quem era primeiro continuou primeiro. **0,00** seria embaralhamento total — a lista do primeiro período não diz nada sobre a do segundo.
@@ -34,7 +34,7 @@ Em vez do número abstrato, a mesma coisa de outro jeito: pegamos as melhores do
 As que menos caíram no primeiro período caíram 24 pontos menos que as outras no segundo. **Risco se escolhe.**
 
 ## E o retorno?
-Se mantém muito menos (0,62), e de um jeito específico que vale entender: **a separação grosseira entre boas e ruins se mantém; a ordem fina dentro do grupo de cima, não.** Saber que uma combinação está entre as melhores em retorno é informação. Saber que ela é a 3ª e não a 40ª não é — essa diferença é sorte do período.
+Se mantém muito menos (0,60), e de um jeito específico que vale entender: **a separação grosseira entre boas e ruins se mantém; a ordem fina dentro do grupo de cima, não.** Saber que uma combinação está entre as melhores em retorno é informação. Saber que ela é a 3ª e não a 40ª não é — essa diferença é sorte do período.
 
 Daí a forma do método: usar o retorno para **delimitar um grupo** e depois escolher dentro dele pela característica que se mantém. É exatamente o que a etapa seguinte faz.
 
