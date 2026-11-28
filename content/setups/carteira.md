@@ -1,12 +1,12 @@
 ---
 title: Carteira de setups
-date: 2026-11-27
+date: 2026-11-28
 tags: [setup, carteira]
 ---
 
 **O que acontece quando os setups aprovados são operados juntos? A carteira divide o capital igualmente entre eles e testa todas as combinações, sempre comparando com o CDI e com o Ibovespa comprado.**
 
-*Página gerada em 27/11/2026 20:22 BRT · dados de 01/11/2021 a 27/11/2026 · [voltar para todos os setups](./)*
+*Página gerada em 28/11/2026 08:18 BRT · dados de 01/11/2021 a 27/11/2026 · [voltar para todos os setups](./)*
 
 > [!success] Em resumo: com R\$ 10.000, operando os 17 setups juntos (capital dividido igualmente, capital no CDI)
 > - **R\$ 41.175** (+33% ao ano · pior queda −12% · Sharpe 1,25)

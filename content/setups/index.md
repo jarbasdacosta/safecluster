@@ -1,24 +1,24 @@
 ---
 title: Setups
-date: 2026-11-27
+date: 2026-11-28
 tags: [setup]
 ---
 
 **Setups de day trade no mini índice que passaram nos nossos testes, cada um com as estatísticas completas e comparado com o CDI e com o Ibovespa comprado.**
 
-*Atualizado em 27/11/2026 20:22 BRT · dados de 01/11/2021 a 27/11/2026 · resultados com 15 pts de custo por operação e R\$ 10.000 por contrato, capital no CDI.*
+*Atualizado em 28/11/2026 08:18 BRT · dados de 01/11/2021 a 27/11/2026 · resultados com 15 pts de custo por operação e R\$ 10.000 por contrato, capital no CDI.*
 
 | Setup | Em uma frase | 1 contrato: ao ano · queda | Risco 1%: ao ano · queda | Treino → teste (pts/op) | Vídeo |
 |---|---|---|---|---|---|
 | 🟡 promissor [**ADX da Manhã**](adx-da-manha) | Aposta curta e barata no começo da tendência das 10h às 11h: vela a favor com o ADX subindo, stop pequeno e alvo bem longo. | +39% · −15% | **+67% · −31%** | +10 → +49 | [assistir](https://youtu.be/D9mwdxexECE) |
 | ✅ aprovado [**Bandas de VWAP**](bandas-de-vwap) | Quando o preço se afasta da VWAP do dia a favor da média de 200, entra atrás de um alvo longo e protege a operação no primeiro lucro. | +21% · −30% | **+26% · −20%** | +10 → +17 | [assistir](https://youtu.be/50zdea2qbsM) |
-| ✅ aprovado [**Donchian com Médias**](donchian-com-medias) | Quando o preço faz máxima de 20 velas com as três médias alinhadas abaixo, entra atrás da tendência: perde pouco muitas vezes e ganha muito de vez em quando. | +44% · −10% | **+87% · −24%** | +46 → +53 | [assistir](https://youtu.be/11F3W1gsnGM) |
+| 🟡 promissor [**Donchian com Médias**](donchian-com-medias) | Quando o preço faz máxima de 20 velas com as três médias alinhadas abaixo, entra atrás da tendência: perde pouco muitas vezes e ganha muito de vez em quando. | +44% · −10% | **+87% · −24%** | +46 → +53 | [assistir](https://youtu.be/11F3W1gsnGM) |
 | ✅ aprovado [**Explosão da Bollinger**](explosao-da-bollinger) | Preço acima das médias de 50 e 200 e uma vela estourando a banda de Bollinger: entra a favor com stop curto e alvo três vezes maior. | +29% · −14% | **+43% · −33%** | +21 → +38 | [assistir](https://youtu.be/V9EbJHI9wDw) |
 | 🟡 promissor [**Extremos da Semana (virada de mão)**](extremos-da-semana-virada) | Abre dentro da faixa da semana anterior, põe ordem nos dois extremos e, se o rompimento falhar e bater o stop, vira a mão na hora apostando na reversão. | +25% · −26% | **+30% · −18%** | +29 → +66 | [assistir](https://youtu.be/p20GbzQCJlc) |
 | ✅ aprovado [**Pullback no 50% do dia**](fibo-50-do-dia) | Na primeira hora e meia, se o dia já subiu bem e a vela corrige até a metade do range do dia e fecha positiva acima das médias, entra a favor da tendência com stop móvel. | +21% · −13% | **+17% · −3%** | +154 → +46 | [assistir](https://youtu.be/krHN5ziozlA) |
 | ✅ aprovado [**GPS de Médias**](gps-de-medias) | Quando as oito médias curtas estão enfileiradas e o preço rompe a banda de Bollinger, entra a favor com stop curto e alvo seis vezes maior. | +38% · −15% | **+70% · −23%** | +54 → +39 | [assistir](https://youtu.be/g0FJNSNubW8) |
 | ✅ aprovado [**IFR de Tendência**](ifr-de-tendencia) | Entra quando o IFR mostra força nos horários de tendência do dia (10h–11h e 14h–16h): vela a favor com o IFR acima de 70 ou abaixo de 30, stop curto e alvo longo. | +42% · −7% | **+65% · −11%** | +56 → +92 | [assistir](https://youtu.be/sswleA6JTvY) |
-| ✅ aprovado [**MACD na Tendência**](macd-na-tendencia) | Dia já forte (longe da abertura e além do extremo de ontem) com o MACD subindo a favor: entra com break even. | +31% · −17% | **+40% · −11%** | +22 → +60 | [assistir](https://youtu.be/eHvY4bvS95c) |
+| 🟡 promissor [**MACD na Tendência**](macd-na-tendencia) | Dia já forte (longe da abertura e além do extremo de ontem) com o MACD subindo a favor: entra com break even. | +31% · −17% | **+40% · −11%** | +22 → +60 | [assistir](https://youtu.be/eHvY4bvS95c) |
 | 🟡 promissor [**Pôr do Sol (17h45)**](por-do-sol) | Se às 17h50 o dia inteiro andou forte para um lado, entra a favor desse movimento e sai em poucos minutos, no máximo às 18h10. | +17% · −3% | **+20% · −3%** | +12 → +24 | [assistir](https://youtu.be/HswLyQd9rm8) |
 | 🟡 promissor · dia escolhido pelo autor [**Primeira Vela de 80 Minutos**](primeira-vela-80-min) | Se a primeira vela de 80 minutos do dia fecha forte (quase sem sombra contra), entra a favor às 10h20 com alvo longo, break even e stop móvel. | +31% · −13% | **+46% · −14%** | +42 → +115 | [assistir](https://youtu.be/UFLCVkzcghU) |
 | 🟡 promissor · dia escolhido pelo autor [**Primeira Vela de Quinta**](primeira-vela-de-quinta) | Na quinta-feira, entra no rompimento da primeira vela de 15 minutos do dia, na direção da cor dela, com stop e alvo iguais. | +16% · −4% | **+18% · −3%** | +107 → +50 | [assistir](https://youtu.be/5pmW0UMnXwE) |

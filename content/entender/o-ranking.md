@@ -1,6 +1,6 @@
 ---
 title: 7 · O ranking
-date: 2026-11-27
+date: 2026-11-28
 description: "As carteiras escolhidas e o risco de cada uma"
 tags: [entender]
 ---

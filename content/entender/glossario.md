@@ -1,6 +1,6 @@
 ---
 title: Glossário
-date: 2026-11-27
+date: 2026-11-28
 description: "Todos os termos usados no site, em português claro"
 tags: [entender]
 ---

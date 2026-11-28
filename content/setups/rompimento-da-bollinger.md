@@ -1,6 +1,6 @@
 ---
 title: Rompimento da Bollinger
-date: 2026-11-27
+date: 2026-11-28
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 ✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · velas das 10h15 às 11h00 e das 14h00 às 17h30
 
-🎬 **Vídeo de origem:** [Arthur 777 – "isso apareceu nos meus testes no mini índice"](https://youtu.be/2l5k3OyC7eQ) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 27/11/2026 20:22 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "isso apareceu nos meus testes no mini índice"](https://youtu.be/2l5k3OyC7eQ) · testado de forma independente nos nossos dados em 28/11/2026 · página gerada em 28/11/2026 08:18 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 446.794** arriscando **1% do capital** por operação (+34% ao ano · pior queda −9% · cauda −14%)
@@ -263,16 +263,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 21/11/2026.*
+*Testes de robustez rodados em 28/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 259 operações, 37% de acerto e fator de lucro 2,00. O vídeo mostra: 197 operações · 36% de acerto · fator de lucro 4,19 (desde 2022, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,43R por operação no treino (p 0,016) e +0,82R no teste (p 0,000). |
-| **É sorte de parâmetro?** | 16 de 16 combinações de stop × alvo deram lucro no treino **e** no teste (+0,09 a +0,83R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,43 → +0,82R · acompanhando o horário de verão dos EUA (janela segue Nova York): +0,37 → +0,60R · sem o padrão de 3 velas (só a última a favor): +0,23 → +0,16R · sem a Bollinger: +0,11 → +0,13R · sem a média de 50: +0,43 → +0,79R · sem a média de 200: +0,29 → +0,70R · sem as duas médias: +0,25 → +0,60R · sem o horário (velas das 9h15 às 17h30): +0,33 → +0,22R · Bollinger desvio 1,5: +0,21 → +0,54R · Bollinger desvio 2,5: +0,29 → +1,50R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 260 operações, 37% de acerto e fator de lucro 2,05. O vídeo mostra: 197 operações · 36% de acerto · fator de lucro 4,19 (desde 2022, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,43R por operação no treino (p 0,012) e +0,85R no teste (p 0,000). |
+| **É sorte de parâmetro?** | 16 de 16 combinações de stop × alvo deram lucro no treino **e** no teste (+0,09 a +0,87R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,43 → +0,85R · acompanhando o horário de verão dos EUA (janela segue Nova York): +0,37 → +0,63R · sem o padrão de 3 velas (só a última a favor): +0,23 → +0,18R · sem a Bollinger: +0,11 → +0,13R · sem a média de 50: +0,43 → +0,83R · sem a média de 200: +0,29 → +0,73R · sem as duas médias: +0,25 → +0,63R · sem o horário (velas das 9h15 às 17h30): +0,33 → +0,24R · Bollinger desvio 1,5: +0,21 → +0,55R · Bollinger desvio 2,5: +0,29 → +1,61R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,43 → +0,82R · 25 pts: +0,37 → +0,76R · 30 pts: +0,34 → +0,73R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,43 → +0,85R · 25 pts: +0,37 → +0,80R · 30 pts: +0,34 → +0,77R (treino → teste). |
 
 ## Riscos e cuidados
 

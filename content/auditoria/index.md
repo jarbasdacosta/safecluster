@@ -1,12 +1,12 @@
 ---
 title: "Auditoria dos dados"
-date: 2026-11-27
+date: 2026-11-28
 description: "A série do pregão chegou inteira? O que já foi publicado continua valendo? Medido todo dia, depois do fechamento."
 ---
 
-# ⚠ 7 ponto(s) de atenção
+# ⚠ 2 ponto(s) de atenção
 
-*Medido em 27/11/2026 às 20:25 · último pregão no acervo: 27/11/2026*
+*Medido em 28/11/2026 às 08:21 · último pregão no acervo: 27/11/2026*
 
 Esta página responde três perguntas sobre os dados que alimentam os setups, todo dia, depois do fechamento. Ela não conserta nada — mede e avisa.
 
@@ -14,10 +14,10 @@ Esta página responde três perguntas sobre os dados que alimentam os setups, to
 
 | Ativo | Candles M1 | Mediana | Primeiro | Último | Maior vão | D1 bate com M1 |
 |---|---:|---:|---|---|---:|---|
-| WINSN | 563 | 565 | 09:03 ⚠ | 18:31 | 7 min ⚠ | **não** ⚠ |
-| WDOSN | 567 | 570 | 09:03 ⚠ | 18:29 | 1 min | **não** ⚠ |
-| DI1SN | 534 | 528 | 09:03 ⚠ | 17:59 | 2 min | **não** ⚠ |
-| IBOV | 492 | 493 | 10:02 ⚠ | 18:18 | 6 min ⚠ | **não** ⚠ |
+| WINSN | 563 | 565 | 09:03 ⚠ | 18:31 | 7 min ⚠ | sim |
+| WDOSN | 567 | 570 | 09:03 ⚠ | 18:29 | 1 min | sim |
+| DI1SN | 534 | 528 | 09:03 ⚠ | 17:59 | 2 min | sim |
+| IBOV | 492 | 493 | 10:02 ⚠ | 18:18 | 6 min ⚠ | sim |
 
 > [!info]- O que cada coluna mede
 > - **Candles M1**: quantos minutos o pregão trouxe. A **mediana** é a dos 10 pregões anteriores do mesmo ativo — abaixo de 99% dela, o pregão está curto.
@@ -32,53 +32,21 @@ Esta página responde três perguntas sobre os dados que alimentam os setups, to
 
 ## O que já foi publicado mudou?
 
-**Mudança em pregão anterior é o alarme desta página:** o site vai publicar hoje um número diferente do que publicou antes, e quem leu antes leu outra coisa.
-
-### Série do DI1SN, pregão de 2026.11.27
-
-- Candles: **141 → 534**
-- Abertura do dia: **13,7 → 13,7**
-- Máxima: 13,95 → 13,97 · Mínima: **13,65 → 13,65** · Fechamento: 13,89 → 13,93
-
-### Série do IBOV, pregão de 2026.11.27
-
-- Candles: **82 → 492**
-- Abertura do dia: **176.814 → 176.814**
-- Máxima: 183.626 → 183.626 · Mínima: **176.814 → 175.899** · Fechamento: 180.825 → 176.573
-
-### Série do WDOSN, pregão de 2026.11.27
-
-- Candles: **141 → 567**
-- Abertura do dia: **5.536,5 → 5.536,5**
-- Máxima: 5.562,5 → 5.591,5 · Mínima: **5.480 → 5.480** · Fechamento: 5.536 → 5.576,5
-
-### Série do WINSN, pregão de 2026.11.27
-
-- Candles: **141 → 563**
-- Abertura do dia: **184.000 → 184.000**
-- Máxima: 185.655 → 185.655 · Mínima: **181.910 → 177.050** · Fechamento: 181.950 → 177.600
-
-### Operações do pregão de 27/11/2026
-
-| Setup | Antes | Agora | Diferença |
-|---|---|---|---:|
-| adx-da-manha | 1 op · 2.200 pts líq | 1 op · 2.379,14 pts líq | +179,14 pts |
-| por-do-sol | não havia | 1 op · 15 pts líq | +15 pts |
-| vai-na-onda | 1 op · -723,27 pts líq | 2 op · 1.776,73 pts líq | +2.500 pts |
-
-**Por que uma operação aparece ou some quando a série muda:** as regras de cada setup estão na página dele. As que dependem da **abertura do dia**, dos **extremos do dia**, da **VWAP acumulada** ou da **primeira vela** mudam de resposta quando esses números mudam — e são exatamente os números que a tabela da série acima mostra.
+Nenhum pregão anterior mudou nesta rodada. Os números publicados ontem continuam sendo os de hoje.
 
 ## Conta real × sinal
 
-Pregão de 27/11/2026 · **1** sinal(is) da regra · **0** posição(ões) na conta.
+Pregão de 27/11/2026 · **1** sinal(is) da regra · **1** posição(ões) na conta.
 
-### Sinal sem negócio — a regra mandou e a conta não operou
+### Operações que bateram
 
-Perda silenciosa: não aparece em nenhum outro lugar do site.
+| Horário | Setup | Sinal (pts líq) | Conta (pts) | Contratos | Saída | Resultado |
+|---|---|---:|---:|---:|---|---:|
+| 11:00 | IFR de Tendência | -381,18 | -365 | 2 | stop | R$ -146,00 |
 
-| Horário | Setup | Lado | Resultado que a regra previa |
-|---|---|---|---:|
-| 11:00 | IFR de Tendência | compra | -381,18 pts |
+A coluna do sinal é a simulação do site, com 2.000 contratos e preenchimento ideal; a da conta é o que aconteceu. Comparar reais seria comparar coisas diferentes — o que vale conferir é existência, horário e pontos por contrato.
+
+**Tudo que a regra mandou foi feito, e o robô não operou nada além disso.**
 
 ## Incidentes registrados
 
@@ -108,6 +76,7 @@ Os 15 mais recentes. A lista completa está em [incidentes.csv](auditoria/incide
 
 | Medido em | Pregão | Problemas | Pregões alterados |
 |---|---|---:|---:|
+| 27/11/2026 20:25 | 2026.11.27 | 2 | 5 |
 | 27/11/2026 13:32 | 2026.11.26 | 1 | 0 |
 | 27/11/2026 13:09 | 2026.11.26 | 1 | 0 |
 | 27/11/2026 12:24 | 2026.11.26 | 1 | 5 |

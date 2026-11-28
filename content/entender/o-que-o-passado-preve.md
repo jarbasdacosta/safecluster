@@ -1,6 +1,6 @@
 ---
 title: 5 · O que o passado consegue prever
-date: 2026-11-27
+date: 2026-11-28
 description: "O que se repete do primeiro período para o segundo, e o que não"
 tags: [entender]
 ---

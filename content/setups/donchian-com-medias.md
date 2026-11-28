@@ -1,14 +1,14 @@
 ---
 title: Donchian com Médias
-date: 2026-11-27
+date: 2026-11-28
 tags: [setup, win]
 ---
 
 **Quando o preço faz máxima de 20 velas com as três médias alinhadas abaixo, entra atrás da tendência: perde pouco muitas vezes e ganha muito de vez em quando.**
 
-✅ aprovado · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
+🟡 promissor · Mini índice (WIN) · gráfico de 15 minutos · das 10h às 16h
 
-🎬 **Vídeo de origem:** [Arthur 777 – "perde quase sempre, mas quando acerta paga tudo"](https://youtu.be/11F3W1gsnGM) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 27/11/2026 20:22 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "perde quase sempre, mas quando acerta paga tudo"](https://youtu.be/11F3W1gsnGM) · testado de forma independente nos nossos dados em 28/11/2026 · página gerada em 28/11/2026 08:18 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 1.232.422** arriscando **1% do capital** por operação (+64% ao ano · pior queda −26% · cauda −38%)
@@ -310,16 +310,16 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 21/11/2026.*
+*Testes de robustez rodados em 28/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
-| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 2694 operações, 77% de acerto e fator de lucro 1,15. O vídeo mostra: 2.908 operações · 24% de acerto · payoff 3,46 (desde 2015, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,22R por operação no treino (p 0,006) e +0,24R no teste (p 0,001). |
-| **É sorte de parâmetro?** | 9 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,06 a +0,24R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,22 → +0,24R · sem as três médias: +0,12 → +0,11R · canal de 10 períodos: +0,22 → +0,15R · sem break even: +0,20 → +0,24R · o dia todo (9h–17h): +0,16 → +0,17R (treino → teste). |
+| **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 2700 operações, 77% de acerto e fator de lucro 1,15. O vídeo mostra: 2.908 operações · 24% de acerto · payoff 3,46 (desde 2015, sem custo). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,22R por operação no treino (p 0,194) e +0,25R no teste (p 0,001). |
+| **É sorte de parâmetro?** | 9 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,06 a +0,25R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,22 → +0,25R · sem as três médias: +0,12 → +0,13R · canal de 10 períodos: +0,22 → +0,17R · sem break even: +0,20 → +0,25R · o dia todo (9h–17h): +0,16 → +0,18R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
-| **E se o custo for maior?** | 15 pts: +0,22 → +0,24R · 25 pts: +0,17 → +0,19R · 30 pts: +0,15 → +0,16R (treino → teste). |
+| **E se o custo for maior?** | 15 pts: +0,22 → +0,25R · 25 pts: +0,17 → +0,20R · 30 pts: +0,15 → +0,18R (treino → teste). |
 
 ## Riscos e cuidados
 
@@ -327,7 +327,7 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 - **Mês a mês é quase cara ou coroa:** a versão ATR 0,10 / 1,29 + CDI ficou abaixo do CDI em 33% dos meses. O resultado aparece no ano.
 - **Stop curto** (~194 pts): o custo e o escorregão pesam mais — veja "E se o custo for maior?".
 - **Anos negativos:** 2021.
-- **As compras carregam o setup:** compras +0,36R × vendas +0,11R por operação.
+- **As compras carregam o setup:** compras +0,38R × vendas +0,11R por operação.
 - **Acerto de ~20%:** a maioria das operações dá stop; sequências de stops são normais.
 - **Poucos anos de dados** (desde out/2021) e **sem imposto** (day trade paga 20% sobre o lucro).
 

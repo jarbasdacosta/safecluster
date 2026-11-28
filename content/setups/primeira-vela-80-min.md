@@ -1,6 +1,6 @@
 ---
 title: Primeira Vela de 80 Minutos
-date: 2026-11-27
+date: 2026-11-28
 tags: [setup, win]
 ---
 
@@ -8,7 +8,7 @@ tags: [setup, win]
 
 🟡 promissor · dia escolhido pelo autor · Mini índice (WIN) · gráfico de 80 minutos · só a primeira vela do dia (9h00–10h20)
 
-🎬 **Vídeo de origem:** [Arthur 777 – "encontrei algo muito estranho no mini índice"](https://youtu.be/UFLCVkzcghU) · testado de forma independente nos nossos dados em 21/11/2026 · página gerada em 27/11/2026 20:22 BRT · [voltar para todos os setups](./)
+🎬 **Vídeo de origem:** [Arthur 777 – "encontrei algo muito estranho no mini índice"](https://youtu.be/UFLCVkzcghU) · testado de forma independente nos nossos dados em 28/11/2026 · página gerada em 28/11/2026 08:18 BRT · [voltar para todos os setups](./)
 
 > [!success] Em resumo: R\$ 100.000 aplicados em nov/2021 viraram
 > - **R\$ 356.187** arriscando **1% do capital** por operação (+28% ao ano · pior queda −18% · cauda −22%)
@@ -287,14 +287,14 @@ A conta usa **R\$ 10.000 de capital para cada contrato** (o número de contrato
 
 ## O que os testes mostraram
 
-*Testes de robustez rodados em 21/11/2026.*
+*Testes de robustez rodados em 28/11/2026.*
 
 | Pergunta | Resposta |
 |---|---|
 | **Bate com o vídeo?** | Na versão do vídeo, sem custo, nossos dados deram 465 operações, 35% de acerto e fator de lucro 1,28. O vídeo mostra: stop 300: 677 operações, 21% de acerto, payoff 5,65; stop 600: fator de lucro 1,61, 27% de acerto (2018–2026, só terça a quinta, sem custo). |
-| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,14R por operação no treino (p 0,391) e +0,44R no teste (p 0,003). |
-| **É sorte de parâmetro?** | 7 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,04 a +0,45R por operação). |
-| **Cada condição importa?** | COMPLETO (versão principal): +0,14 → +0,44R · sem o filtro da sombra: +0,03 → +0,30R · sombra máxima de 150: +0,56 → +0,40R · sombra máxima de 500: +0,07 → +0,32R · todos os dias da semana: +0,09 → +0,20R · sem break even: +0,14 → +0,41R · sem stop móvel: +0,15 → +0,42R · sem break even e sem stop móvel: +0,15 → +0,39R (treino → teste). |
+| **Ganha do acaso?** | Entradas quaisquer nos mesmos horários ficam perto de zero; o setup faz +0,14R por operação no treino (p 0,387) e +0,44R no teste (p 0,003). |
+| **É sorte de parâmetro?** | 7 de 12 combinações de stop × alvo deram lucro no treino **e** no teste (−0,04 a +0,44R por operação). |
+| **Cada condição importa?** | COMPLETO (versão principal): +0,14 → +0,44R · sem o filtro da sombra: +0,03 → +0,31R · sombra máxima de 150: +0,56 → +0,40R · sombra máxima de 500: +0,07 → +0,33R · todos os dias da semana: +0,09 → +0,20R · sem break even: +0,14 → +0,44R · sem stop móvel: +0,15 → +0,42R · sem break even e sem stop móvel: +0,15 → +0,42R (treino → teste). |
 | **Pontos, % ou ATR?** | O treino escolheu **ATR**. |
 | **E se o custo for maior?** | 15 pts: +0,14 → +0,44R · 25 pts: +0,10 → +0,41R · 30 pts: +0,09 → +0,39R (treino → teste). |
 
